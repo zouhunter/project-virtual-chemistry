@@ -1,0 +1,13 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Lawn/Lawn" label="var01" >
+  <presetinput identifier="$outputsize" uid="552958193" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="618027135" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Lawn/Lawn" label="var02" >
+  <presetinput identifier="$outputsize" uid="552958193" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="612563944" type="0" value="10" />
+  <presetinput identifier="Age" uid="618027135" type="0" value="1" />
+  <presetinput identifier="Relief_Balance" uid="622886207" type="0" value="29.156" />
+  <presetinput identifier="$randomseed" uid="2005364387" type="4" value="1940550645" />
+ </sbspreset>
+</sbspresets>

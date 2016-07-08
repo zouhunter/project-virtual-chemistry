@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Poured_Concrete/Poured_Concrete" label="var01" >
+  <presetinput identifier="Streak_Density" uid="2473994016" type="4" value="11" />
+  <presetinput identifier="Details" uid="2474003679" type="0" value="0.28" />
+  <presetinput identifier="$outputsize" uid="2539800445" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="3988288462" type="2" value="0.812,0.757,0.725" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Poured_Concrete/Poured_Concrete" label="var02" >
+  <presetinput identifier="Streak_Density" uid="2473994016" type="4" value="9" />
+  <presetinput identifier="Details" uid="2474003679" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2539800445" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="3988288462" type="2" value="0.953,0.953,0.953" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Poured_Concrete/Poured_Concrete" label="var03" >
+  <presetinput identifier="Normal" uid="2467613501" type="0" value="0.759" />
+  <presetinput identifier="Emboss" uid="2467677284" type="0" value="6.895" />
+  <presetinput identifier="Streak_Density" uid="2473994016" type="4" value="25" />
+  <presetinput identifier="Details" uid="2474003679" type="0" value="0.586" />
+  <presetinput identifier="$outputsize" uid="2539800445" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="3988288462" type="2" value="0.886,0.796,0.773" />
+ </sbspreset>
+</sbspresets>

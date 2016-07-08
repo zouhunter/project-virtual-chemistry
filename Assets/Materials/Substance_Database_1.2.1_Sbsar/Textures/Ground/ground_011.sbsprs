@@ -1,0 +1,39 @@
+<sbspresets formatversion="1.0" count="5" >
+ <sbspreset pkgurl="pkg://ground_011/ground_011" label="var01" >
+  <presetinput identifier="$outputsize" uid="601315047" type="8" value="9,9" />
+  <presetinput identifier="Plants" uid="647445036" type="4" value="0" />
+  <presetinput identifier="Grass" uid="647453382" type="0" value="0.514" />
+  <presetinput identifier="Dirt_Amount" uid="647556062" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_011/ground_011" label="var02" >
+  <presetinput identifier="$outputsize" uid="601315047" type="8" value="9,9" />
+  <presetinput identifier="Grass" uid="647453382" type="0" value="0.08" />
+  <presetinput identifier="Dirt_Amount" uid="647556062" type="0" value="0.699" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_011/ground_011" label="var03" >
+  <presetinput identifier="$outputsize" uid="601315047" type="8" value="9,9" />
+  <presetinput identifier="Grass" uid="647453382" type="0" value="0.08" />
+  <presetinput identifier="Dirt_Amount" uid="647556062" type="0" value="0.699" />
+  <presetinput identifier="Water_Flow" uid="1494363283" type="0" value="0.28" />
+  <presetinput identifier="Water_Level" uid="1494373822" type="0" value="0.375" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_011/ground_011" label="var04" >
+  <presetinput identifier="$outputsize" uid="601315047" type="8" value="9,9" />
+  <presetinput identifier="Grass" uid="647453382" type="0" value="0.08" />
+  <presetinput identifier="Dirt_Amount" uid="647556062" type="0" value="0.699" />
+  <presetinput identifier="Water_Flow" uid="1494363283" type="0" value="0.28" />
+  <presetinput identifier="Ice_Details" uid="1494363348" type="0" value="0.989" />
+  <presetinput identifier="Water_To_Ice" uid="1494363351" type="0" value="0.353" />
+  <presetinput identifier="Water_Level" uid="1494373822" type="0" value="0.375" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_011/ground_011" label="var05" >
+  <presetinput identifier="$outputsize" uid="601315047" type="8" value="9,9" />
+  <presetinput identifier="Grass" uid="647453382" type="0" value="0.08" />
+  <presetinput identifier="Dirt_Amount" uid="647556062" type="0" value="0.699" />
+  <presetinput identifier="Water_Flow" uid="1494363283" type="0" value="0.28" />
+  <presetinput identifier="Ice_Details" uid="1494363348" type="0" value="0.989" />
+  <presetinput identifier="Snow" uid="1494363349" type="0" value="0.666" />
+  <presetinput identifier="Water_To_Ice" uid="1494363351" type="0" value="0.221" />
+  <presetinput identifier="Water_Level" uid="1494373822" type="0" value="0.18" />
+ </sbspreset>
+</sbspresets>

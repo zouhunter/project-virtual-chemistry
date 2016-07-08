@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://fabric_010/fabric_010" label="var01" >
+  <presetinput identifier="$outputsize" uid="2678489975" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3369375013" type="4" value="1828356644" />
+  <presetinput identifier="Base_Color" uid="3847491711" type="2" value="0.671,0.62,0.592" />
+  <presetinput identifier="Color_3" uid="3847494452" type="2" value="0.059,0.212,0.039" />
+  <presetinput identifier="Color_4" uid="3847494453" type="2" value="0.278,0.369,0.278" />
+  <presetinput identifier="Color_2" uid="3847494454" type="2" value="0.365,0.035,0" />
+  <presetinput identifier="Color_1" uid="3847494601" type="2" value="0.031,0,0.376" />
+  <presetinput identifier="Colored_Pattern_Scale" uid="3847496313" type="0" value="0" />
+  <presetinput identifier="Stains" uid="3847497051" type="0" value="0.797" />
+  <presetinput identifier="Dirtiness" uid="3847501234" type="0" value="0.333" />
+  <presetinput identifier="Creases" uid="3847502981" type="0" value="0.387" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_010/fabric_010" label="var02" >
+  <presetinput identifier="Hue_Shift" uid="2600090302" type="0" value="0.823" />
+  <presetinput identifier="Luminosity" uid="2600090316" type="0" value="0.551" />
+  <presetinput identifier="$outputsize" uid="2678489975" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3369375013" type="4" value="1828356644" />
+  <presetinput identifier="Base_Color" uid="3847491711" type="2" value="0.671,0.62,0.592" />
+  <presetinput identifier="Color_3" uid="3847494452" type="2" value="0.059,0.212,0.039" />
+  <presetinput identifier="Color_4" uid="3847494453" type="2" value="0.278,0.369,0.278" />
+  <presetinput identifier="Color_2" uid="3847494454" type="2" value="0.365,0.035,0" />
+  <presetinput identifier="Color_1" uid="3847494601" type="2" value="0.031,0,0.376" />
+  <presetinput identifier="Colored_Pattern_Scale" uid="3847496313" type="0" value="0.989" />
+  <presetinput identifier="Dirtiness" uid="3847501234" type="0" value="0.827" />
+  <presetinput identifier="Creases" uid="3847502981" type="0" value="0.993" />
+  <presetinput identifier="Contrast" uid="3847606888" type="0" value="0.076" />
+ </sbspreset>
+</sbspresets>

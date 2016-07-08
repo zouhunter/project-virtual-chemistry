@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood023/wood023" label="var01">
+  <presetinput identifier="$randomseed" uid="402224788" type="4" value="661000632"/>
+  <presetinput identifier="$outputsize" uid="1082876102" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="1171662403" type="0" value="1"/>
+  <presetinput identifier="Saturation" uid="1171773800" type="0" value="0.4"/>
+  <presetinput identifier="Luminosity" uid="1171773821" type="0" value="0.479"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood023/wood023" label="var03">
+  <presetinput identifier="$randomseed" uid="402224788" type="4" value="1734129808"/>
+  <presetinput identifier="Dirtiness" uid="978001732" type="0" value="1"/>
+  <presetinput identifier="Lines_Intensity" uid="978001734" type="0" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="978439168" type="4" value="13"/>
+  <presetinput identifier="Battens" uid="978439607" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="978439642" type="4" value="3"/>
+  <presetinput identifier="$outputsize" uid="1082876102" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="1171662403" type="0" value="1"/>
+  <presetinput identifier="Saturation" uid="1171773800" type="0" value="0.274"/>
+  <presetinput identifier="Luminosity" uid="1171773821" type="0" value="0.444"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood023/wood023" label="var02">
+  <presetinput identifier="Battens_Amount_X" uid="338657430" type="4" value="3"/>
+  <presetinput identifier="Battens_Amount_Y" uid="338657612" type="4" value="13"/>
+  <presetinput identifier="Dirtiness" uid="339038728" type="0" value="1"/>
+  <presetinput identifier="Lines_Intensity" uid="339038730" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="965163992" type="4" value="1962414428"/>
+  <presetinput identifier="Emboss" uid="1806199567" type="0" value="1"/>
+  <presetinput identifier="Saturation" uid="1806275620" type="0" value="0.431"/>
+  <presetinput identifier="Luminosity" uid="1806275633" type="0" value="0.444"/>
+  <presetinput identifier="$outputsize" uid="1861561738" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

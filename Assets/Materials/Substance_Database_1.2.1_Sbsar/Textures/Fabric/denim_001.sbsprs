@@ -1,0 +1,26 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://denim_001/denim_001" label="var02" >
+  <presetinput identifier="Stains" uid="991991409" type="0" value="0.19" />
+  <presetinput identifier="Creases" uid="992178877" type="0" value="0.545" />
+  <presetinput identifier="Dirtiness" uid="992786249" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1106034958" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://denim_001/denim_001" label="var03" >
+  <presetinput identifier="Stains" uid="991991409" type="0" value="0.041" />
+  <presetinput identifier="Pattern_Scale" uid="992173620" type="4" value="4" />
+  <presetinput identifier="Creases" uid="992178877" type="0" value="0.236" />
+  <presetinput identifier="Color" uid="992786247" type="2" value="0.431,0.435,0.431" />
+  <presetinput identifier="Dirtiness" uid="992786249" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1106034958" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://denim_001/denim_001" label="var01" >
+  <presetinput identifier="$randomseed" uid="379508572" type="4" value="-1645292389" />
+  <presetinput identifier="Pattern_Scale" uid="992173620" type="4" value="3" />
+  <presetinput identifier="Creases" uid="992178877" type="0" value="0.152" />
+  <presetinput identifier="Color_Variation" uid="992187698" type="0" value="0.653" />
+  <presetinput identifier="Color" uid="992786247" type="2" value="0.173,0.208,0.275" />
+  <presetinput identifier="Dirtiness" uid="992786249" type="0" value="0.313" />
+  <presetinput identifier="Contrast" uid="992786301" type="0" value="0.17" />
+  <presetinput identifier="$outputsize" uid="1106034958" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

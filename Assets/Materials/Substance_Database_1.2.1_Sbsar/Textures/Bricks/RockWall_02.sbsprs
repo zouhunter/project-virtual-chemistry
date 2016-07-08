@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://RockWall_02/RockWall_02" label="var01" >
+  <presetinput identifier="$randomseed" uid="147626315" type="4" value="201685758" />
+  <presetinput identifier="Hue_Shift" uid="1531736619" type="0" value="0.072" />
+  <presetinput identifier="Saturation" uid="1531736621" type="0" value="0.512" />
+  <presetinput identifier="Luminosity" uid="1531736622" type="0" value="0.438" />
+  <presetinput identifier="Age" uid="1539837403" type="0" value="0.89" />
+  <presetinput identifier="$outputsize" uid="1606323993" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://RockWall_02/RockWall_02" label="var02" >
+  <presetinput identifier="$randomseed" uid="147626315" type="4" value="317047264" />
+  <presetinput identifier="Hue_Shift" uid="1531736619" type="0" value="0.276" />
+  <presetinput identifier="Saturation" uid="1531736621" type="0" value="0.47" />
+  <presetinput identifier="Luminosity" uid="1531736622" type="0" value="0.526" />
+  <presetinput identifier="Brick_X" uid="1537380108" type="4" value="5" />
+  <presetinput identifier="Brick_Y" uid="1537380138" type="4" value="9" />
+  <presetinput identifier="Depth" uid="1539387587" type="0" value="1" />
+  <presetinput identifier="Age" uid="1539837403" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1606323993" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

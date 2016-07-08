@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Canvas_01/Canvas_01" label="var01" >
+  <presetinput identifier="$outputsize" uid="957472205" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="1030119124" type="0" value="6.035" />
+  <presetinput identifier="Light_Angle" uid="1030119144" type="0" value="0.622" />
+  <presetinput identifier="Saturation" uid="1038295289" type="0" value="0.514" />
+  <presetinput identifier="Luminosity" uid="1038295290" type="0" value="0.482" />
+  <presetinput identifier="Hue_Shift" uid="1038295295" type="0" value="0.082" />
+  <presetinput identifier="$randomseed" uid="1852033951" type="4" value="970085409" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Canvas_01/Canvas_01" label="var02" >
+  <presetinput identifier="$outputsize" uid="957472205" type="8" value="10,10" />
+  <presetinput identifier="Age" uid="1015399413" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="1030119124" type="0" value="6.035" />
+  <presetinput identifier="Light_Angle" uid="1030119144" type="0" value="0.233" />
+  <presetinput identifier="Contrast" uid="1030181103" type="0" value="0.07" />
+  <presetinput identifier="Depth" uid="1030644247" type="0" value="0.318" />
+  <presetinput identifier="Saturation" uid="1038295289" type="0" value="0.547" />
+  <presetinput identifier="Luminosity" uid="1038295290" type="0" value="0.482" />
+  <presetinput identifier="Hue_Shift" uid="1038295295" type="0" value="0.144" />
+  <presetinput identifier="$randomseed" uid="1852033951" type="4" value="1769207432" />
+ </sbspreset>
+</sbspresets>

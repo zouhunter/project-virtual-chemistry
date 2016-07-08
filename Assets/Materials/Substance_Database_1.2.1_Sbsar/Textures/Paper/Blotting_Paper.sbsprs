@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Blotting_Paper/Blotting_Paper" label="var03" >
+  <presetinput identifier="$outputsize" uid="853275342" type="8" value="10,10" />
+  <presetinput identifier="Hue_Shift" uid="908660732" type="0" value="0.125" />
+  <presetinput identifier="Emboss" uid="917270999" type="0" value="5.41" />
+  <presetinput identifier="Light_Angle" uid="917271019" type="0" value="0.094" />
+  <presetinput identifier="Normal" uid="917339790" type="0" value="0.505" />
+  <presetinput identifier="$randomseed" uid="1705632924" type="4" value="996387778" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Blotting_Paper/Blotting_Paper" label="var02" >
+  <presetinput identifier="$outputsize" uid="853275342" type="8" value="10,10" />
+  <presetinput identifier="Hue_Shift" uid="908660732" type="0" value="0.222" />
+  <presetinput identifier="Emboss" uid="917270999" type="0" value="5.41" />
+  <presetinput identifier="Light_Angle" uid="917271019" type="0" value="0.147" />
+  <presetinput identifier="Normal" uid="917339790" type="0" value="0.491" />
+  <presetinput identifier="Contrast" uid="917340140" type="0" value="0.148" />
+  <presetinput identifier="Border" uid="932512175" type="4" value="0" />
+  <presetinput identifier="Ink" uid="932543192" type="0" value="0.522" />
+  <presetinput identifier="$randomseed" uid="1705632924" type="4" value="996387778" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Blotting_Paper/Blotting_Paper" label="var01" >
+  <presetinput identifier="$outputsize" uid="853275342" type="8" value="10,10" />
+  <presetinput identifier="Hue_Shift" uid="908660732" type="0" value="0.002" />
+  <presetinput identifier="Emboss" uid="917270999" type="0" value="5.41" />
+  <presetinput identifier="Light_Angle" uid="917271019" type="0" value="0.094" />
+  <presetinput identifier="Normal" uid="917339790" type="0" value="0.505" />
+  <presetinput identifier="Relief_Balance" uid="922134851" type="0" value="14.562" />
+  <presetinput identifier="Border" uid="932512175" type="4" value="0" />
+  <presetinput identifier="Paper_Color" uid="932541993" type="2" value="0.639,0.655,0.569" />
+  <presetinput identifier="Ink" uid="932543192" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="1705632924" type="4" value="-76126600" />
+ </sbspreset>
+</sbspresets>

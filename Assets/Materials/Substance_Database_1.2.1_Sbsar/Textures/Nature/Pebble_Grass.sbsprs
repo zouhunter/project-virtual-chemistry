@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Pebble_Grass/Pebble_Grass" label="var01" >
+  <presetinput identifier="$outputsize" uid="681192765" type="8" value="9,9" />
+  <presetinput identifier="Pebble_Quantity" uid="741634724" type="0" value="0.463" />
+  <presetinput identifier="Color_Variation" uid="751045382" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="753338432" type="0" value="8.828" />
+  <presetinput identifier="$randomseed" uid="2145925999" type="4" value="1837154832" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Pebble_Grass/Pebble_Grass" label="var02" >
+  <presetinput identifier="$outputsize" uid="681192765" type="8" value="9,9" />
+  <presetinput identifier="Pebble_Quantity" uid="741634724" type="0" value="0.653" />
+  <presetinput identifier="Age" uid="741637834" type="0" value="0.789" />
+  <presetinput identifier="Flatten" uid="741838272" type="0" value="1" />
+  <presetinput identifier="Color_Variation" uid="751045382" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="753338432" type="0" value="8.828" />
+  <presetinput identifier="$randomseed" uid="2145925999" type="4" value="203532788" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Pebble_Grass/Pebble_Grass" label="var03" >
+  <presetinput identifier="$outputsize" uid="681192765" type="8" value="9,9" />
+  <presetinput identifier="Shape_Roundness" uid="741626510" type="0" value="1" />
+  <presetinput identifier="Age" uid="741637834" type="0" value="1" />
+  <presetinput identifier="Flatten" uid="741838272" type="0" value="1" />
+  <presetinput identifier="Color_Variation" uid="751045382" type="0" value="0" />
+  <presetinput identifier="Emboss" uid="753338432" type="0" value="10" />
+  <presetinput identifier="Normal" uid="753664179" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="2145925999" type="4" value="-2052605456" />
+ </sbspreset>
+</sbspresets>

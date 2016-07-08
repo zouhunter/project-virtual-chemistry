@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Grey_Sand/Grey_Sand" label="var01" >
+  <presetinput identifier="$outputsize" uid="299290603" type="8" value="9,9" />
+  <presetinput identifier="Rocks" uid="368577789" type="0" value="1" />
+  <presetinput identifier="Roundness" uid="368637886" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Grey_Sand/Grey_Sand" label="var02" >
+  <presetinput identifier="$outputsize" uid="299290603" type="8" value="9,9" />
+  <presetinput identifier="Rocks" uid="368577789" type="0" value="0.764" />
+  <presetinput identifier="Roundness" uid="368637886" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

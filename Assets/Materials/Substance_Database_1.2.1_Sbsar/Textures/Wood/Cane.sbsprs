@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Cane/Cane" label="var01" >
+  <presetinput identifier="$outputsize" uid="863829560" type="8" value="10,10" />
+  <presetinput identifier="Depth" uid="922960354" type="0" value="-0.342" />
+  <presetinput identifier="Contrast" uid="923431706" type="0" value="-0.062" />
+  <presetinput identifier="Angle" uid="923499805" type="0" value="0.192" />
+  <presetinput identifier="Emboss" uid="923499809" type="0" value="4.355" />
+  <presetinput identifier="Hue_Shift" uid="932053770" type="0" value="0.022" />
+  <presetinput identifier="Saturation" uid="932053772" type="0" value="0.521" />
+  <presetinput identifier="Luminosity" uid="932053775" type="0" value="0.482" />
+  <presetinput identifier="$randomseed" uid="1678698602" type="4" value="1547319608" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cane/Cane" label="var02" >
+  <presetinput identifier="$outputsize" uid="863829560" type="8" value="10,10" />
+  <presetinput identifier="Depth" uid="922960354" type="0" value="0.143" />
+  <presetinput identifier="Contrast" uid="923431706" type="0" value="-0.014" />
+  <presetinput identifier="Angle" uid="923499805" type="0" value="0.192" />
+  <presetinput identifier="Emboss" uid="923499809" type="0" value="4.355" />
+  <presetinput identifier="Planks" uid="928247797" type="4" value="16" />
+  <presetinput identifier="Hue_Shift" uid="932053770" type="0" value="0.022" />
+  <presetinput identifier="Saturation" uid="932053772" type="0" value="0.481" />
+  <presetinput identifier="Luminosity" uid="932053775" type="0" value="0.476" />
+  <presetinput identifier="$randomseed" uid="1678698602" type="4" value="403109460" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cane/Cane" label="var03" >
+  <presetinput identifier="$outputsize" uid="863829560" type="8" value="10,10" />
+  <presetinput identifier="Interspace" uid="917428861" type="0" value="0.668" />
+  <presetinput identifier="Wood_Sat" uid="917431502" type="0" value="0.481" />
+  <presetinput identifier="Wood_Lum" uid="917431503" type="0" value="0.45" />
+  <presetinput identifier="Depth" uid="922960354" type="0" value="0.143" />
+  <presetinput identifier="Contrast" uid="923431706" type="0" value="-0.014" />
+  <presetinput identifier="Angle" uid="923499805" type="0" value="0.219" />
+  <presetinput identifier="Emboss" uid="923499809" type="0" value="5.02" />
+  <presetinput identifier="Variation" uid="928244428" type="0" value="0.969" />
+  <presetinput identifier="Planks" uid="928247797" type="4" value="16" />
+  <presetinput identifier="Hue_Shift" uid="932053770" type="0" value="0.022" />
+  <presetinput identifier="Saturation" uid="932053772" type="0" value="0.481" />
+  <presetinput identifier="Luminosity" uid="932053775" type="0" value="0.476" />
+  <presetinput identifier="$randomseed" uid="1678698602" type="4" value="1250547138" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Tree_Bark_02/Tree_Bark_02" label="var01" >
+  <presetinput identifier="Bark_Decay" uid="3008316514" type="0" value="0" />
+  <presetinput identifier="Cracks_Amount" uid="3008316643" type="4" value="0" />
+  <presetinput identifier="$outputsize" uid="3382943342" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="3427683662" type="0" value="0.045" />
+  <presetinput identifier="Emboss" uid="3453230455" type="0" value="6.543" />
+  <presetinput identifier="Normal" uid="3453293102" type="0" value="0.829" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark_02/Tree_Bark_02" label="var02" >
+  <presetinput identifier="Bark_Decay" uid="3008316514" type="0" value="0.707" />
+  <presetinput identifier="Cracks_Amount" uid="3008316643" type="4" value="10" />
+  <presetinput identifier="$outputsize" uid="3382943342" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3453230455" type="0" value="6.543" />
+  <presetinput identifier="Normal" uid="3453293102" type="0" value="0.829" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark_02/Tree_Bark_02" label="var03" >
+  <presetinput identifier="Bark_Decay" uid="3008316514" type="0" value="0.707" />
+  <presetinput identifier="Cracks_Amount" uid="3008316643" type="4" value="3" />
+  <presetinput identifier="$outputsize" uid="3382943342" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="3427683662" type="0" value="0.748" />
+  <presetinput identifier="Emboss" uid="3453230455" type="0" value="6.543" />
+  <presetinput identifier="Normal" uid="3453293102" type="0" value="0.829" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark_02/Tree_Bark_02" label="var04" >
+  <presetinput identifier="Bark_Decay" uid="3008316514" type="0" value="1" />
+  <presetinput identifier="Cracks_Amount" uid="3008316643" type="4" value="0" />
+  <presetinput identifier="$outputsize" uid="3382943342" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="3427683662" type="0" value="0.964" />
+  <presetinput identifier="Emboss" uid="3453230455" type="0" value="-0.059" />
+  <presetinput identifier="Normal" uid="3453293102" type="0" value="0.829" />
+ </sbspreset>
+</sbspresets>

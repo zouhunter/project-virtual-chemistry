@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://bricks_027/bricks_027" label="var01" >
+  <presetinput identifier="$randomseed" uid="2634647735" type="4" value="31397947" />
+  <presetinput identifier="Stones_Color" uid="2962008879" type="2" value="0.498,0.302,0.212" />
+  <presetinput identifier="$outputsize" uid="3397099237" type="8" value="9,9" />
+  <presetinput identifier="Stones_Depth" uid="3473254619" type="0" value="0.438" />
+  <presetinput identifier="Dirtiness" uid="3473265088" type="0" value="0" />
+  <presetinput identifier="Interstices_Size" uid="3477010439" type="0" value="0.203" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_027/bricks_027" label="var02" >
+  <presetinput identifier="$randomseed" uid="2634647735" type="4" value="-804702558" />
+  <presetinput identifier="Concrete_Color" uid="2961986007" type="2" value="0.569,0.569,0.596" />
+  <presetinput identifier="Stones_Color" uid="2962008879" type="2" value="0.259,0.263,0.275" />
+  <presetinput identifier="Contrast" uid="2962087090" type="0" value="0.035" />
+  <presetinput identifier="$outputsize" uid="3397099237" type="8" value="9,9" />
+  <presetinput identifier="Stones_Depth" uid="3473254619" type="0" value="0.438" />
+  <presetinput identifier="Dirtiness" uid="3473265088" type="0" value="0.617" />
+  <presetinput identifier="Luminosity" uid="3475449694" type="0" value="0.538" />
+  <presetinput identifier="Interstices_Size" uid="3477010439" type="0" value="0.991" />
+ </sbspreset>
+</sbspresets>

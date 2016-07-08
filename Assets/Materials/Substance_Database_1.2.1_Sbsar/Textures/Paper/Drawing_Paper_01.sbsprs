@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Drawing_Paper_01/Drawing_Paper_01" label="var01" >
+  <presetinput identifier="Paper_Color" uid="395294451" type="2" value="0.922,0.922,0.82" />
+  <presetinput identifier="$randomseed" uid="974405491" type="4" value="-912301580" />
+  <presetinput identifier="Crumple" uid="1760704281" type="0" value="0.325" />
+  <presetinput identifier="$outputsize" uid="1835411745" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Drawing_Paper_01/Drawing_Paper_01" label="var02" >
+  <presetinput identifier="Paper_Color" uid="395294451" type="2" value="0.059,0.059,0.059" />
+  <presetinput identifier="$randomseed" uid="974405491" type="4" value="563823372" />
+  <presetinput identifier="Crumple" uid="1760704281" type="0" value="1" />
+  <presetinput identifier="Saturation" uid="1771361301" type="0" value="0.033" />
+  <presetinput identifier="$outputsize" uid="1835411745" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

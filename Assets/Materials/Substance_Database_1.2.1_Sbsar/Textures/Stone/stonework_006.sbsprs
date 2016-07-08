@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stonework_006/stonework_006" label="var01" >
+  <presetinput identifier="$outputsize" uid="2731246332" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="2811678420" type="0" value="-0.342" />
+  <presetinput identifier="Stones_Color" uid="3624804022" type="2" value="0.506,0.486,0.38" />
+  <presetinput identifier="Mortar_Color" uid="3624804023" type="2" value="0.851,0.851,0.851" />
+  <presetinput identifier="Frame" uid="3624810585" type="4" value="0" />
+  <presetinput identifier="Frame_Size" uid="3624810586" type="0" value="0.166" />
+  <presetinput identifier="Interstices_Size" uid="3624810587" type="0" value="0.156" />
+  <presetinput identifier="$randomseed" uid="4122580142" type="4" value="-1189267207" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_006/stonework_006" label="var02" >
+  <presetinput identifier="$outputsize" uid="2731246332" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="2811678420" type="0" value="-0.342" />
+  <presetinput identifier="Stones_Color" uid="3624804022" type="2" value="0.235,0.29,0.247" />
+  <presetinput identifier="Mortar_Color" uid="3624804023" type="2" value="0.765,0.765,0.765" />
+  <presetinput identifier="Frame_Size" uid="3624810586" type="0" value="0.562" />
+  <presetinput identifier="Interstices_Size" uid="3624810587" type="0" value="0.062" />
+  <presetinput identifier="$randomseed" uid="4122580142" type="4" value="510746111" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_006/stonework_006" label="var03" >
+  <presetinput identifier="$outputsize" uid="2731246332" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="2811678420" type="0" value="-0.342" />
+  <presetinput identifier="Stones_Color" uid="3624804022" type="2" value="0.392,0.431,0.435" />
+  <presetinput identifier="Mortar_Color" uid="3624804023" type="2" value="0.765,0.765,0.678" />
+  <presetinput identifier="Frame_Size" uid="3624810586" type="0" value="1" />
+  <presetinput identifier="Interstices_Size" uid="3624810587" type="0" value="0.354" />
+  <presetinput identifier="$randomseed" uid="4122580142" type="4" value="-1506289568" />
+ </sbspreset>
+</sbspresets>

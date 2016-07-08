@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Strawberry/Strawberry" label="var01" >
+  <presetinput identifier="$outputsize" uid="4060973617" type="8" value="9,9" />
+  <presetinput identifier="Disorder" uid="4129461957" type="0" value="0.967" />
+  <presetinput identifier="Ripe" uid="4157211774" type="0" value="0.829" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Strawberry/Strawberry" label="var02" >
+  <presetinput identifier="$randomseed" uid="2776603747" type="4" value="1504403093" />
+  <presetinput identifier="$outputsize" uid="4060973617" type="8" value="9,9" />
+  <presetinput identifier="Disorder" uid="4129461957" type="0" value="0.851" />
+  <presetinput identifier="Depth" uid="4134680043" type="0" value="-0.006" />
+  <presetinput identifier="Emboss" uid="4135192872" type="0" value="-0.059" />
+  <presetinput identifier="Hue_Shift" uid="4143937283" type="0" value="0.033" />
+  <presetinput identifier="Ripe" uid="4157211774" type="0" value="0.652" />
+ </sbspreset>
+</sbspresets>

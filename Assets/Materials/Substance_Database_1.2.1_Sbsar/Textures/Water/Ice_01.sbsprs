@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Ice_01/Ice_01" label="var01" >
+  <presetinput identifier="$randomseed" uid="2242940767" type="4" value="-246096375" />
+  <presetinput identifier="$outputsize" uid="3535968525" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3602192916" type="0" value="-5.996" />
+  <presetinput identifier="Angle" uid="3602192936" type="0" value="0.325" />
+  <presetinput identifier="Cracks" uid="3607170687" type="0" value="0.204" />
+  <presetinput identifier="Aspertities" uid="3617516727" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ice_01/Ice_01" label="var02" >
+  <presetinput identifier="$randomseed" uid="2242940767" type="4" value="-246096375" />
+  <presetinput identifier="$outputsize" uid="3535968525" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3602192916" type="0" value="-5.996" />
+  <presetinput identifier="Angle" uid="3602192936" type="0" value="0.325" />
+  <presetinput identifier="Cracks" uid="3607170687" type="0" value="0.204" />
+  <presetinput identifier="Aspertities" uid="3617516727" type="0" value="0.264" />
+  <presetinput identifier="Smoothing" uid="3617516856" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ice_01/Ice_01" label="var03" >
+  <presetinput identifier="$randomseed" uid="2242940767" type="4" value="-246096375" />
+  <presetinput identifier="$outputsize" uid="3535968525" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3602192916" type="0" value="-5.996" />
+  <presetinput identifier="Angle" uid="3602192936" type="0" value="0.325" />
+  <presetinput identifier="Cracks" uid="3607170687" type="0" value="0.938" />
+  <presetinput identifier="Aspertities" uid="3617516727" type="0" value="0.647" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ice_01/Ice_01" label="var04" >
+  <presetinput identifier="$randomseed" uid="2242940767" type="4" value="-246096375" />
+  <presetinput identifier="$outputsize" uid="3535968525" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="3602125871" type="0" value="0.283" />
+  <presetinput identifier="Normal" uid="3602126157" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3602192916" type="0" value="-5.996" />
+  <presetinput identifier="Angle" uid="3602192936" type="0" value="0.325" />
+  <presetinput identifier="Cracks" uid="3607170687" type="0" value="1" />
+  <presetinput identifier="Aspertities" uid="3617516727" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

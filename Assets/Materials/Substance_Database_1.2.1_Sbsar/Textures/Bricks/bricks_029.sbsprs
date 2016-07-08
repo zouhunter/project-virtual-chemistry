@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://bricks_029/bricks_029" label="var01">
+  <presetinput identifier="$randomseed" uid="2474669742" type="4" value="1583842242"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="3188237941" type="4" value="1"/>
+  <presetinput identifier="Bricks_Amount_X" uid="3188237947" type="4" value="8"/>
+  <presetinput identifier="Moss" uid="3248173667" type="0" value="0"/>
+  <presetinput identifier="Age" uid="3248205687" type="0" value="0.22"/>
+  <presetinput identifier="$outputsize" uid="3304218876" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_029/bricks_029" label="var02">
+  <presetinput identifier="$randomseed" uid="2474669742" type="4" value="317602200"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="3188237941" type="4" value="14"/>
+  <presetinput identifier="Bricks_Color" uid="3188237942" type="2" value="0.439,0.435,0.451"/>
+  <presetinput identifier="Color_Variation" uid="3188237943" type="0" value="0.297"/>
+  <presetinput identifier="Bricks_Amount_X" uid="3188237947" type="4" value="14"/>
+  <presetinput identifier="Moss_Color" uid="3188399076" type="2" value="0.376,0.337,0.22"/>
+  <presetinput identifier="Interstices_Scale" uid="3248017954" type="0" value="1"/>
+  <presetinput identifier="Moss" uid="3248173667" type="0" value="0.089"/>
+  <presetinput identifier="Age" uid="3248205687" type="0" value="0.22"/>
+  <presetinput identifier="$outputsize" uid="3304218876" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

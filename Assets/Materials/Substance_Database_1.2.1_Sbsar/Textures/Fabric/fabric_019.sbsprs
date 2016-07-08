@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://fabric_019/fabric_019" label="var01">
+  <presetinput identifier="$randomseed" uid="748754704" type="4" value="1291472483"/>
+  <presetinput identifier="$outputsize" uid="2077425986" type="8" value="9,9"/>
+  <presetinput identifier="Hue_Shift" uid="2123348107" type="0" value="0.271"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_019/fabric_019" label="var02">
+  <presetinput identifier="Contrast" uid="20095570" type="0" value="0.049"/>
+  <presetinput identifier="Pattern_Tiling" uid="21811786" type="4" value="4"/>
+  <presetinput identifier="$randomseed" uid="748754704" type="4" value="-904944757"/>
+  <presetinput identifier="$outputsize" uid="2077425986" type="8" value="9,9"/>
+  <presetinput identifier="Hue_Shift" uid="2123348107" type="0" value="0.474"/>
+  <presetinput identifier="Saturation" uid="2123348204" type="0" value="0.57"/>
+  <presetinput identifier="Luminosity" uid="2123348217" type="0" value="0.528"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_019/fabric_019" label="var03">
+  <presetinput identifier="Contrast" uid="20095570" type="0" value="0.092"/>
+  <presetinput identifier="Creases_Orientation" uid="20165716" type="0" value="0.93"/>
+  <presetinput identifier="Creases" uid="20165723" type="0" value="0.867"/>
+  <presetinput identifier="Dirtiness" uid="20168661" type="0" value="0.982"/>
+  <presetinput identifier="Pattern_Tiling" uid="21811786" type="4" value="7"/>
+  <presetinput identifier="$randomseed" uid="748754704" type="4" value="-904944757"/>
+  <presetinput identifier="$outputsize" uid="2077425986" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="2123253599" type="0" value="0.656"/>
+  <presetinput identifier="Emboss" uid="2123253703" type="0" value="0.624"/>
+  <presetinput identifier="Hue_Shift" uid="2123348107" type="0" value="0.956"/>
+  <presetinput identifier="Saturation" uid="2123348204" type="0" value="0.504"/>
+  <presetinput identifier="Luminosity" uid="2123348217" type="0" value="0.575"/>
+ </sbspreset>
+</sbspresets>

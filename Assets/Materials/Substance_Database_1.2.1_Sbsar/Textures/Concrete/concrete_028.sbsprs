@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_028/concrete_028" label="var01" >
+  <presetinput identifier="$outputsize" uid="2258384726" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3522044164" type="4" value="1045843677" />
+  <presetinput identifier="Concrete_Color" uid="4234163150" type="2" value="0.455,0.431,0.42" />
+  <presetinput identifier="Dirtiness" uid="4234717390" type="0" value="0.953" />
+  <presetinput identifier="Flaw" uid="4234717402" type="0" value="0" />
+  <presetinput identifier="Weathering" uid="4234717427" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_028/concrete_028" label="var02" >
+  <presetinput identifier="$outputsize" uid="2258384726" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3522044164" type="4" value="1409968922" />
+  <presetinput identifier="Contrast" uid="4232315167" type="0" value="0.139" />
+  <presetinput identifier="Concrete_Color" uid="4234163150" type="2" value="0.455,0.451,0.439" />
+  <presetinput identifier="Dirtiness" uid="4234717390" type="0" value="0.004" />
+  <presetinput identifier="Flaw" uid="4234717402" type="0" value="0.681" />
+  <presetinput identifier="Weathering" uid="4234717427" type="0" value="0.683" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_028/concrete_028" label="var03" >
+  <presetinput identifier="$outputsize" uid="2258384726" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3522044164" type="4" value="-1056497834" />
+  <presetinput identifier="Contrast" uid="4232315167" type="0" value="0.139" />
+  <presetinput identifier="Concrete_Color" uid="4234163150" type="2" value="0.455,0.443,0.424" />
+  <presetinput identifier="Dirtiness" uid="4234717390" type="0" value="0.004" />
+  <presetinput identifier="Flaw" uid="4234717402" type="0" value="0" />
+  <presetinput identifier="Weathering" uid="4234717427" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

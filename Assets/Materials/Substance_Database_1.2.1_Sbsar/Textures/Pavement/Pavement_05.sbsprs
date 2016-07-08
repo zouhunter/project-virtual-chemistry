@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Pavement_05/Pavement_05" label="var01" >
+  <presetinput identifier="$outputsize" uid="2320946491" type="8" value="9,9" />
+  <presetinput identifier="Pavement_Y" uid="2388959961" type="4" value="6" />
+  <presetinput identifier="Pavement_X" uid="2388959963" type="4" value="3" />
+  <presetinput identifier="Colour_Variation" uid="2389399913" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="3710174057" type="4" value="1873356393" />
+  <presetinput identifier="Pavement_Color" uid="4035768822" type="2" value="0.451,0.471,0.502" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Pavement_05/Pavement_05" label="var02" >
+  <presetinput identifier="$outputsize" uid="2320946491" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="2384484377" type="0" value="0.377" />
+  <presetinput identifier="Depth" uid="2385079009" type="0" value="0.223" />
+  <presetinput identifier="Pavement_Y" uid="2388959961" type="4" value="11" />
+  <presetinput identifier="Pavement_X" uid="2388959963" type="4" value="9" />
+  <presetinput identifier="Colour_Variation" uid="2389399913" type="0" value="0.467" />
+  <presetinput identifier="Luminosity" uid="2393122828" type="0" value="0.536" />
+  <presetinput identifier="$randomseed" uid="3710174057" type="4" value="1873356393" />
+  <presetinput identifier="Pavement_Color" uid="4035768822" type="2" value="0.502,0.494,0.455" />
+ </sbspreset>
+</sbspresets>

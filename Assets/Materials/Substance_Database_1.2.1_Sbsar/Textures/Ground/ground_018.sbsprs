@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://ground_018/ground_018" label="var01">
+  <presetinput identifier="$randomseed" uid="2429600384" type="4" value="949540037"/>
+  <presetinput identifier="Contrast" uid="3178947227" type="0" value="0.176"/>
+  <presetinput identifier="Hue_Shift" uid="3271453979" type="0" value="0.785"/>
+  <presetinput identifier="Emboss" uid="3271529047" type="0" value="0.666"/>
+  <presetinput identifier="Light_Angle" uid="3271529167" type="0" value="0.736"/>
+  <presetinput identifier="$outputsize" uid="3349337298" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_018/ground_018" label="var02">
+  <presetinput identifier="$randomseed" uid="2429600384" type="4" value="-1317940552"/>
+  <presetinput identifier="Tiles_Size_Variation" uid="3175586028" type="0" value="0.444"/>
+  <presetinput identifier="Tiles_Number_Y" uid="3176878397" type="4" value="7"/>
+  <presetinput identifier="Tiles_Number_X" uid="3176878398" type="4" value="7"/>
+  <presetinput identifier="Contrast" uid="3178947227" type="0" value="0.176"/>
+  <presetinput identifier="Hue_Shift" uid="3271453979" type="0" value="0.907"/>
+  <presetinput identifier="Emboss" uid="3271529047" type="0" value="0.876"/>
+  <presetinput identifier="Light_Angle" uid="3271529167" type="0" value="0.278"/>
+  <presetinput identifier="$outputsize" uid="3349337298" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_018/ground_018" label="var03">
+  <presetinput identifier="$randomseed" uid="2429600384" type="4" value="-466260116"/>
+  <presetinput identifier="Tiles_Size_Variation" uid="3175586028" type="0" value="0.329"/>
+  <presetinput identifier="Moss" uid="3176819915" type="0" value="0.226"/>
+  <presetinput identifier="Tiles_Number_Y" uid="3176878397" type="4" value="7"/>
+  <presetinput identifier="Tiles_Number_X" uid="3176878398" type="4" value="7"/>
+  <presetinput identifier="Tiles_Size" uid="3176878399" type="0" value="0.801"/>
+  <presetinput identifier="Contrast" uid="3178947227" type="0" value="0.176"/>
+  <presetinput identifier="Hue_Shift" uid="3271453979" type="0" value="0.907"/>
+  <presetinput identifier="Emboss" uid="3271529047" type="0" value="0.876"/>
+  <presetinput identifier="Light_Angle" uid="3271529167" type="0" value="0.278"/>
+  <presetinput identifier="$outputsize" uid="3349337298" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

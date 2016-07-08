@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://Lava_Rocks/Lava_Rocks" label="var01">
+  <presetinput identifier="$randomseed" uid="201076472" type="4" value="-1717338647"/>
+  <presetinput identifier="Depth" uid="1492223856" type="0" value="-0.031"/>
+  <presetinput identifier="Contrast" uid="1492694408" type="0" value="0.049"/>
+  <presetinput identifier="Angle" uid="1492761487" type="0" value="0.1"/>
+  <presetinput identifier="Emboss" uid="1492761523" type="0" value="5.273"/>
+  <presetinput identifier="Cracks" uid="1494413663" type="0" value="0.804"/>
+  <presetinput identifier="Details" uid="1499552596" type="0" value="1"/>
+  <presetinput identifier="Lava" uid="1499556820" type="0" value="0.833"/>
+  <presetinput identifier="$outputsize" uid="1552824490" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Lava_Rocks/Lava_Rocks" label="var02">
+  <presetinput identifier="$randomseed" uid="201076472" type="4" value="362829053"/>
+  <presetinput identifier="Hue_Shift" uid="1484572056" type="0" value="0.557"/>
+  <presetinput identifier="Normal" uid="1492694250" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="1492694408" type="0" value="0.049"/>
+  <presetinput identifier="Angle" uid="1492761487" type="0" value="0.108"/>
+  <presetinput identifier="Emboss" uid="1492761523" type="0" value="1.055"/>
+  <presetinput identifier="Cracks" uid="1494413663" type="0" value="1"/>
+  <presetinput identifier="Lava_Brightness" uid="1495148816" type="0" value="0.964"/>
+  <presetinput identifier="Lava" uid="1499556820" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1552824490" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

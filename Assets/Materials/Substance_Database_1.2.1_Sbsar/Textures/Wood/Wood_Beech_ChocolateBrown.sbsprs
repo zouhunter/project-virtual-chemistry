@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wood_Beech_ChocolateBrown/Wood_Beech_ChocolateBrown" label="var01" >
+  <presetinput identifier="$outputsize" uid="9146121" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="75067965" type="0" value="0.428" />
+  <presetinput identifier="Luminosity" uid="75067966" type="0" value="0.572" />
+  <presetinput identifier="Emboss" uid="83627024" type="0" value="-6.172" />
+  <presetinput identifier="Angle" uid="83627052" type="0" value="0.783" />
+  <presetinput identifier="$randomseed" uid="1475975515" type="4" value="-465740969" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Beech_ChocolateBrown/Wood_Beech_ChocolateBrown" label="var02" >
+  <presetinput identifier="$outputsize" uid="9146121" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="75067965" type="0" value="0.428" />
+  <presetinput identifier="Luminosity" uid="75067966" type="0" value="0.572" />
+  <presetinput identifier="Depth" uid="83112147" type="0" value="0.889" />
+  <presetinput identifier="Emboss" uid="83627024" type="0" value="-6.172" />
+  <presetinput identifier="Angle" uid="83627052" type="0" value="0.783" />
+  <presetinput identifier="Contrast" uid="83690027" type="0" value="0.363" />
+  <presetinput identifier="Normal" uid="83690313" type="0" value="0.591" />
+  <presetinput identifier="Knots" uid="92102874" type="0" value="0.849" />
+  <presetinput identifier="$randomseed" uid="1475975515" type="4" value="-465740969" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Beech_ChocolateBrown/Wood_Beech_ChocolateBrown" label="var03" >
+  <presetinput identifier="$outputsize" uid="9146121" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="75067965" type="0" value="0.478" />
+  <presetinput identifier="Luminosity" uid="75067966" type="0" value="0.511" />
+  <presetinput identifier="Depth" uid="83112147" type="0" value="0.889" />
+  <presetinput identifier="Emboss" uid="83627024" type="0" value="-6.172" />
+  <presetinput identifier="Angle" uid="83627052" type="0" value="0.783" />
+  <presetinput identifier="Contrast" uid="83690027" type="0" value="0.363" />
+  <presetinput identifier="Normal" uid="83690313" type="0" value="0.591" />
+  <presetinput identifier="Fibers" uid="91664732" type="0" value="0.919" />
+  <presetinput identifier="Knots" uid="92102874" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="1475975515" type="4" value="457972171" />
+ </sbspreset>
+</sbspresets>

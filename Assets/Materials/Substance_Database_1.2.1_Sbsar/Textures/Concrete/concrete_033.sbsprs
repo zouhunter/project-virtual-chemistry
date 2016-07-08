@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_033/concrete_033" label="var01" >
+  <presetinput identifier="$randomseed" uid="2850302408" type="4" value="1178385" />
+  <presetinput identifier="Pebbles" uid="4221895420" type="0" value="0" />
+  <presetinput identifier="Weathering" uid="4221907894" type="0" value="0.618" />
+  <presetinput identifier="Rust_Drips" uid="4221951453" type="0" value="0" />
+  <presetinput identifier="Hue_Shift" uid="4224353875" type="0" value="0.579" />
+  <presetinput identifier="$outputsize" uid="4271259546" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_033/concrete_033" label="var02" >
+  <presetinput identifier="Contrast" uid="2221641542" type="0" value="0.439" />
+  <presetinput identifier="$randomseed" uid="2850302408" type="4" value="-346166253" />
+  <presetinput identifier="Pebbles" uid="4221895420" type="0" value="0.933" />
+  <presetinput identifier="Rust_Drips" uid="4221951453" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="4271259546" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_033/concrete_033" label="var03" >
+  <presetinput identifier="Rust_Color" uid="2220912026" type="2" value="0.224,0.094,0.024" />
+  <presetinput identifier="Contrast" uid="2221641542" type="0" value="0.219" />
+  <presetinput identifier="$randomseed" uid="2850302408" type="4" value="839828882" />
+  <presetinput identifier="Pebbles" uid="4221895420" type="0" value="0.933" />
+  <presetinput identifier="Weathering" uid="4221907894" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4271259546" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

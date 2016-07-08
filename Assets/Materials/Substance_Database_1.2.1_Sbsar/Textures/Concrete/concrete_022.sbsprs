@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_022/concrete_022" label="var01" >
+  <presetinput identifier="$outputsize" uid="3028157651" type="8" value="9,9" />
+  <presetinput identifier="Plaster_Color" uid="3465209743" type="2" value="0.639,0.647,0.671" />
+  <presetinput identifier="Paint_Stains" uid="3466595241" type="0" value="0" />
+  <presetinput identifier="Dirtiness" uid="3466662243" type="0" value="0" />
+  <presetinput identifier="Weathering" uid="3467535379" type="0" value="1" />
+  <presetinput identifier="Paint_Drips" uid="3467542871" type="0" value="0" />
+  <presetinput identifier="Holes" uid="3467625908" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="3809219201" type="4" value="1692494754" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_022/concrete_022" label="var02" >
+  <presetinput identifier="$outputsize" uid="3028157651" type="8" value="9,9" />
+  <presetinput identifier="Plaster_Color" uid="3465209743" type="2" value="0.282,0.282,0.325" />
+  <presetinput identifier="Paint_Stains" uid="3466595241" type="0" value="0.948" />
+  <presetinput identifier="Paint_Stains_Color" uid="3466662219" type="2" value="0.051,0.051,0.059" />
+  <presetinput identifier="Dirtiness" uid="3466662243" type="0" value="0.276" />
+  <presetinput identifier="Paint_Drips" uid="3467542871" type="0" value="0.866" />
+  <presetinput identifier="Holes" uid="3467625908" type="0" value="0.299" />
+  <presetinput identifier="$randomseed" uid="3809219201" type="4" value="542712255" />
+ </sbspreset>
+</sbspresets>

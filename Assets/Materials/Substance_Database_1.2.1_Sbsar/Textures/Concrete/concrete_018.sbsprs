@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_018/concrete_018" label="var01" >
+  <presetinput identifier="$outputsize" uid="3167489772" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="3323169608" type="2" value="0.365,0.275,0.224" />
+  <presetinput identifier="Pebbles_1_Color" uid="3323192164" type="2" value="0.278,0.278,0.278" />
+  <presetinput identifier="Pebbles_2_Color" uid="3323194713" type="2" value="0.839,0.592,0.424" />
+  <presetinput identifier="Scale" uid="3323755922" type="0" value="0.098" />
+  <presetinput identifier="$randomseed" uid="3955103934" type="4" value="-1746125332" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_018/concrete_018" label="var02" >
+  <presetinput identifier="$outputsize" uid="3167489772" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="3323169608" type="2" value="0.365,0.349,0.341" />
+  <presetinput identifier="Moss" uid="3323178211" type="0" value="0.654" />
+  <presetinput identifier="Dirtiness" uid="3323181949" type="0" value="0.33" />
+  <presetinput identifier="Pebbles_1_Color" uid="3323192164" type="2" value="0.278,0.278,0.278" />
+  <presetinput identifier="Pebbles_2_Color" uid="3323194713" type="2" value="0.58,0.659,0.839" />
+  <presetinput identifier="Cracks" uid="3323735238" type="0" value="0.972" />
+  <presetinput identifier="Scale" uid="3323755922" type="0" value="0.233" />
+  <presetinput identifier="$randomseed" uid="3955103934" type="4" value="-1746125332" />
+ </sbspreset>
+</sbspresets>

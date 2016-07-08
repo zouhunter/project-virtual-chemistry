@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://concrete_047/concrete_047" label="var01">
+  <presetinput identifier="Calcareousness" uid="824405448" type="0" value="0.69"/>
+  <presetinput identifier="Luminosity" uid="827020542" type="0" value="0.531"/>
+  <presetinput identifier="$outputsize" uid="873983301" type="8" value="9,9"/>
+  <presetinput identifier="Nicks_Color" uid="1323410623" type="2" value="0.404,0.404,0.404"/>
+  <presetinput identifier="Contrast" uid="1323437192" type="0" value="0.035"/>
+  <presetinput identifier="Nail_Rust" uid="1323501399" type="0" value="0.014"/>
+  <presetinput identifier="Nicks" uid="1323519388" type="0" value="0"/>
+  <presetinput identifier="Nail_Offset" uid="1323577726" type="1" value="0.516,0.676"/>
+  <presetinput identifier="Dirtiness" uid="1323902652" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="1667627799" type="4" value="-728668211"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_047/concrete_047" label="var02">
+  <presetinput identifier="Weathering" uid="824295107" type="0" value="0.824"/>
+  <presetinput identifier="Calcareousness" uid="824405448" type="0" value="0.69"/>
+  <presetinput identifier="Luminosity" uid="827020542" type="0" value="0.505"/>
+  <presetinput identifier="$outputsize" uid="873983301" type="8" value="9,9"/>
+  <presetinput identifier="Nicks_Color" uid="1323410623" type="2" value="0.404,0.404,0.404"/>
+  <presetinput identifier="Concrete_Color" uid="1323435978" type="2" value="0.369,0.384,0.373"/>
+  <presetinput identifier="Contrast" uid="1323437192" type="0" value="0.121"/>
+  <presetinput identifier="Nail" uid="1323455766" type="4" value="0"/>
+  <presetinput identifier="Nail_Rust" uid="1323501399" type="0" value="0.014"/>
+  <presetinput identifier="Nicks" uid="1323519388" type="0" value="0"/>
+  <presetinput identifier="Nail_Offset" uid="1323577726" type="1" value="0.543,0.676"/>
+  <presetinput identifier="$randomseed" uid="1667627799" type="4" value="-728668211"/>
+ </sbspreset>
+</sbspresets>

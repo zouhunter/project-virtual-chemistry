@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Football_Field/Football_Field" label="var01" >
+  <presetinput identifier="$randomseed" uid="2947263795" type="4" value="-1367828267" />
+  <presetinput identifier="$outputsize" uid="4175018849" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="4230694485" type="0" value="0.572" />
+  <presetinput identifier="Dirt" uid="4249939601" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Football_Field/Football_Field" label="var02" >
+  <presetinput identifier="$randomseed" uid="2947263795" type="4" value="-1367828267" />
+  <presetinput identifier="$outputsize" uid="4175018849" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="4230694485" type="0" value="0.572" />
+  <presetinput identifier="Dirt" uid="4249939601" type="0" value="1" />
+  <presetinput identifier="Field_Type" uid="4251865903" type="4" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Football_Field/Football_Field" label="var03" >
+  <presetinput identifier="$randomseed" uid="2947263795" type="4" value="-1367828267" />
+  <presetinput identifier="$outputsize" uid="4175018849" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="4230694485" type="0" value="0.572" />
+  <presetinput identifier="Dirt" uid="4249939601" type="0" value="1" />
+  <presetinput identifier="Field_Type" uid="4251865903" type="4" value="3" />
+ </sbspreset>
+</sbspresets>

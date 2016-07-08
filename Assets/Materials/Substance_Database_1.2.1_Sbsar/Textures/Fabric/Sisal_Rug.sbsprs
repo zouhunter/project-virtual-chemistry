@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Sisal_Rug/Sisal_Rug" label="var01" >
+  <presetinput identifier="Hue_Shift" uid="824381303" type="0" value="0.576" />
+  <presetinput identifier="Warp" uid="825920920" type="0" value="0" />
+  <presetinput identifier="Age" uid="825969978" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="891160131" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1651249169" type="4" value="1643541626" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Sisal_Rug/Sisal_Rug" label="var02" >
+  <presetinput identifier="Warp" uid="825920920" type="0" value="1" />
+  <presetinput identifier="Age" uid="825969978" type="0" value="0.668" />
+  <presetinput identifier="$outputsize" uid="891160131" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1651249169" type="4" value="1643541626" />
+ </sbspreset>
+</sbspresets>

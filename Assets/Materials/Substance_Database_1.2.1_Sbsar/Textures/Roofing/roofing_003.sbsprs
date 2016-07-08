@@ -1,0 +1,39 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://roofing_003/roofing_003" label="var01" >
+  <presetinput identifier="Tiles_Amount_Y" uid="70013814" type="4" value="8" />
+  <presetinput identifier="Tiles_Color_01" uid="70129727" type="2" value="0.388,0.392,0.4" />
+  <presetinput identifier="Tube" uid="70138733" type="4" value="0" />
+  <presetinput identifier="Tiles_Amount_X" uid="70161016" type="4" value="6" />
+  <presetinput identifier="$randomseed" uid="698877118" type="4" value="646686945" />
+  <presetinput identifier="$outputsize" uid="2128220908" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_003/roofing_003" label="var02" >
+  <presetinput identifier="Tiles_Amount_Y" uid="70013814" type="4" value="1" />
+  <presetinput identifier="Columns_Amount" uid="70015153" type="4" value="24" />
+  <presetinput identifier="Cracks_Disorder" uid="70126618" type="0" value="0.041" />
+  <presetinput identifier="Tube_Color" uid="70127982" type="2" value="0.204,0.204,0.204" />
+  <presetinput identifier="Tiles_Color_01" uid="70129727" type="2" value="0.702,0.702,0.702" />
+  <presetinput identifier="Tube" uid="70138733" type="4" value="0" />
+  <presetinput identifier="Color_Balance" uid="70160464" type="0" value="0.149" />
+  <presetinput identifier="Tiles_Amount_X" uid="70161016" type="4" value="8" />
+  <presetinput identifier="Cracks_Scale" uid="70196090" type="4" value="27" />
+  <presetinput identifier="$randomseed" uid="698877118" type="4" value="-130865189" />
+  <presetinput identifier="$outputsize" uid="2128220908" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_003/roofing_003" label="var03" >
+  <presetinput identifier="Tiles_Amount_Y" uid="70013814" type="4" value="1" />
+  <presetinput identifier="Columns_Amount" uid="70015153" type="4" value="5" />
+  <presetinput identifier="Cracks" uid="70126597" type="0" value="0.988" />
+  <presetinput identifier="Cracks_Disorder" uid="70126618" type="0" value="0.041" />
+  <presetinput identifier="Tube_Color" uid="70127982" type="2" value="0.204,0.204,0.204" />
+  <presetinput identifier="Tiles_Color_02" uid="70129721" type="2" value="0.584,0.58,0.624" />
+  <presetinput identifier="Tiles_Color_01" uid="70129727" type="2" value="0.753,0.757,0.776" />
+  <presetinput identifier="Color_Balance" uid="70160464" type="0" value="0.355" />
+  <presetinput identifier="Tiles_Amount_X" uid="70161016" type="4" value="2" />
+  <presetinput identifier="Moss" uid="70174231" type="0" value="0.896" />
+  <presetinput identifier="Cracks_Scale" uid="70196090" type="4" value="27" />
+  <presetinput identifier="$randomseed" uid="698877118" type="4" value="-1085741308" />
+  <presetinput identifier="Dirtiness" uid="2076775666" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2128220908" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

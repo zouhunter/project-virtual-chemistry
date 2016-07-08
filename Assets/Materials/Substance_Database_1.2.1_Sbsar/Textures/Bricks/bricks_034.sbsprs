@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://bricks_034/bricks_034" label="var01">
+  <presetinput identifier="Bricks_Color_01" uid="2598548932" type="2" value="0.733,0.424,0.318"/>
+  <presetinput identifier="Age" uid="2598585741" type="0" value="0"/>
+  <presetinput identifier="Bricks_Color_02" uid="2598586619" type="2" value="0.459,0.408,0.392"/>
+  <presetinput identifier="Concrete_Color" uid="2598586887" type="2" value="0.651,0.631,0.58"/>
+  <presetinput identifier="Pattern" uid="2598748073" type="4" value="0"/>
+  <presetinput identifier="$randomseed" uid="3071533881" type="4" value="340681409"/>
+  <presetinput identifier="$outputsize" uid="3764516203" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_034/bricks_034" label="var02">
+  <presetinput identifier="Bricks_Color_01" uid="2598548932" type="2" value="0.733,0.733,0.733"/>
+  <presetinput identifier="Age" uid="2598585741" type="0" value="0.461"/>
+  <presetinput identifier="Bricks_Color_02" uid="2598586619" type="2" value="0.459,0.408,0.392"/>
+  <presetinput identifier="Concrete_Color" uid="2598586887" type="2" value="0.278,0.259,0.251"/>
+  <presetinput identifier="Pattern" uid="2598748073" type="4" value="0"/>
+  <presetinput identifier="$randomseed" uid="3071533881" type="4" value="-900287024"/>
+  <presetinput identifier="$outputsize" uid="3764516203" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_034/bricks_034" label="var03">
+  <presetinput identifier="Contrast" uid="2598541358" type="0" value="0.076"/>
+  <presetinput identifier="Bricks_Color_01" uid="2598548932" type="2" value="0.733,0.655,0.545"/>
+  <presetinput identifier="Bricks_Color_02" uid="2598586619" type="2" value="0.373,0.431,0.51"/>
+  <presetinput identifier="Concrete_Color" uid="2598586887" type="2" value="0.651,0.58,0.502"/>
+  <presetinput identifier="$randomseed" uid="3071533881" type="4" value="1275560705"/>
+  <presetinput identifier="$outputsize" uid="3764516203" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

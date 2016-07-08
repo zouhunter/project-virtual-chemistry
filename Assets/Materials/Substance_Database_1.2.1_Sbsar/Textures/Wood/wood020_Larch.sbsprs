@@ -1,0 +1,56 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://wood020/wood020" label="var03">
+  <presetinput identifier="Wood_Veins" uid="2596787022" type="0" value="0.891"/>
+  <presetinput identifier="Battens" uid="2597691592" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="2597691775" type="4" value="12"/>
+  <presetinput identifier="Contrast" uid="2597702020" type="0" value="-0.17"/>
+  <presetinput identifier="Wood_Color" uid="2597707857" type="2" value="0.792,0.725,0.482"/>
+  <presetinput identifier="Battens_Random_Offset" uid="2597713822" type="0" value="1"/>
+  <presetinput identifier="Battens_Offset" uid="2597713841" type="0" value="0.378"/>
+  <presetinput identifier="Battens_Chamfer" uid="2616954864" type="0" value="0.062"/>
+  <presetinput identifier="Battens_Gap" uid="2616954879" type="0" value="0.005"/>
+  <presetinput identifier="$randomseed" uid="3078429675" type="4" value="-588975336"/>
+  <presetinput identifier="$outputsize" uid="3759082937" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="3847373201" type="0" value="0.033"/>
+  <presetinput identifier="Emboss" uid="3847375676" type="0" value="0.738"/>
+  <presetinput identifier="Light_Angle" uid="3847375780" type="0" value="0.069"/>
+  <presetinput identifier="Luminosity" uid="3847468034" type="0" value="0.502"/>
+  <presetinput identifier="Saturation" uid="3847468055" type="0" value="0.438"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood020/wood020" label="var01">
+  <presetinput identifier="Contrast" uid="263887836" type="0" value="0.115"/>
+  <presetinput identifier="Wood_Color" uid="263893513" type="2" value="0.792,0.655,0.502"/>
+  <presetinput identifier="$randomseed" uid="571623859" type="4" value="-1408566784"/>
+  <presetinput identifier="Saturation" uid="1883039311" type="0" value="0.438"/>
+  <presetinput identifier="Luminosity" uid="1883039322" type="0" value="0.502"/>
+  <presetinput identifier="Depth" uid="1883050953" type="0" value="-0.549"/>
+  <presetinput identifier="Emboss" uid="1883052388" type="0" value="0.738"/>
+  <presetinput identifier="Light_Angle" uid="1883052540" type="0" value="0.069"/>
+  <presetinput identifier="$outputsize" uid="1969250273" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood020/wood020" label="var02">
+  <presetinput identifier="Luminosity" uid="41205833" type="0" value="0.502"/>
+  <presetinput identifier="Saturation" uid="41205852" type="0" value="0.438"/>
+  <presetinput identifier="Depth" uid="41235930" type="0" value="0.033"/>
+  <presetinput identifier="Emboss" uid="41238391" type="0" value="0.738"/>
+  <presetinput identifier="Light_Angle" uid="41238511" type="0" value="0.069"/>
+  <presetinput identifier="$outputsize" uid="120093170" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="1348104096" type="4" value="-1234013857"/>
+  <presetinput identifier="Battens_Chamfer" uid="2094857147" type="0" value="0.062"/>
+  <presetinput identifier="Battens_Random_Offset" uid="2113045461" type="0" value="0.016"/>
+  <presetinput identifier="Wood_Color" uid="2113049626" type="2" value="0.149,0.102,0.067"/>
+  <presetinput identifier="Contrast" uid="2113060303" type="0" value="-0.17"/>
+  <presetinput identifier="Battens" uid="2113066115" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="2113066292" type="4" value="12"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood020/wood020" label="var04">
+  <presetinput identifier="$outputsize" uid="781716815" type="8" value="9,9"/>
+  <presetinput identifier="Battens" uid="1413652542" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="1413652563" type="4" value="3"/>
+  <presetinput identifier="Battens_Amount_Y" uid="1413652873" type="4" value="12"/>
+  <presetinput identifier="Battens_Offset" uid="1413674823" type="0" value="0.457"/>
+  <presetinput identifier="Wood_Veins" uid="1414583224" type="0" value="0.116"/>
+  <presetinput identifier="Battens_Chamfer" uid="1433177862" type="0" value="0.126"/>
+  <presetinput identifier="Battens_Gap" uid="1433177865" type="0" value="0.066"/>
+ </sbspreset>
+</sbspresets>

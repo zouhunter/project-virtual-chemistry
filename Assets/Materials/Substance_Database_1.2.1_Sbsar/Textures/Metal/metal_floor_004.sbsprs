@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_floor_004/metal_floor_004" label="var01" >
+  <presetinput identifier="Luminosity" uid="155588108" type="0" value="0.599" />
+  <presetinput identifier="Saturation" uid="155588121" type="0" value="0.521" />
+  <presetinput identifier="Emboss" uid="155707698" type="0" value="0.483" />
+  <presetinput identifier="Normal" uid="155707757" type="0" value="0.608" />
+  <presetinput identifier="Light_Angle" uid="155707818" type="0" value="0.742" />
+  <presetinput identifier="$outputsize" uid="203075511" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1533589989" type="4" value="208448585" />
+  <presetinput identifier="Contrast" uid="1994742312" type="0" value="0.523" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_004/metal_floor_004" label="var02" >
+  <presetinput identifier="Patterns_Scale" uid="151038571" type="4" value="4" />
+  <presetinput identifier="Luminosity" uid="155588108" type="0" value="0.599" />
+  <presetinput identifier="Saturation" uid="155588121" type="0" value="0.526" />
+  <presetinput identifier="Emboss" uid="155707698" type="0" value="0.483" />
+  <presetinput identifier="Normal" uid="155707757" type="0" value="0.608" />
+  <presetinput identifier="Light_Angle" uid="155707818" type="0" value="0.742" />
+  <presetinput identifier="$outputsize" uid="203075511" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1533589989" type="4" value="-502666661" />
+  <presetinput identifier="Contrast" uid="1994742312" type="0" value="0.178" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_004/metal_floor_004" label="var03" >
+  <presetinput identifier="Patterns_Scale" uid="151038571" type="4" value="4" />
+  <presetinput identifier="Luminosity" uid="155588108" type="0" value="0.599" />
+  <presetinput identifier="Saturation" uid="155588121" type="0" value="0.526" />
+  <presetinput identifier="Emboss" uid="155707698" type="0" value="0.483" />
+  <presetinput identifier="Normal" uid="155707757" type="0" value="0.608" />
+  <presetinput identifier="Light_Angle" uid="155707818" type="0" value="0.742" />
+  <presetinput identifier="$outputsize" uid="203075511" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1533589989" type="4" value="-502666661" />
+  <presetinput identifier="Contrast" uid="1994742312" type="0" value="0.178" />
+  <presetinput identifier="Age" uid="1994748385" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

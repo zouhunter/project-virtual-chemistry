@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_040/concrete_040" label="var01">
+  <presetinput identifier="$randomseed" uid="2563556468" type="4" value="-1970546601"/>
+  <presetinput identifier="Line" uid="3041137533" type="4" value="0"/>
+  <presetinput identifier="Balance" uid="3041157425" type="0" value="0"/>
+  <presetinput identifier="Dirtiness" uid="3397619708" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="3485389350" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_040/concrete_040" label="var02">
+  <presetinput identifier="$randomseed" uid="2563556468" type="4" value="1570995955"/>
+  <presetinput identifier="Balance" uid="3041157425" type="0" value="1"/>
+  <presetinput identifier="Dirtiness" uid="3397619708" type="0" value="1"/>
+  <presetinput identifier="Moss" uid="3397647374" type="0" value="0.959"/>
+  <presetinput identifier="Weathering" uid="3398143419" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="3485389350" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_040/concrete_040" label="var03">
+  <presetinput identifier="$randomseed" uid="2563556468" type="4" value="548791822"/>
+  <presetinput identifier="Moss_Color" uid="3040887152" type="2" value="0.333,0.243,0.192"/>
+  <presetinput identifier="Line" uid="3041137533" type="4" value="0"/>
+  <presetinput identifier="Balance" uid="3041157425" type="0" value="1"/>
+  <presetinput identifier="Age" uid="3041162236" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="3041288023" type="0" value="0.098"/>
+  <presetinput identifier="Concrete_01_Color" uid="3041339979" type="2" value="0.659,0.635,0.596"/>
+  <presetinput identifier="Moss" uid="3397647374" type="0" value="0.959"/>
+  <presetinput identifier="$outputsize" uid="3485389350" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

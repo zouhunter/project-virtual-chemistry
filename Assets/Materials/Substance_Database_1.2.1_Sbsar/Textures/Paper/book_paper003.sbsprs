@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://book_paper003/book_paper003" label="var01">
+  <presetinput identifier="Hue_Shift" uid="705311523" type="0" value="0.055"/>
+  <presetinput identifier="Saturation" uid="705311556" type="0" value="0.596"/>
+  <presetinput identifier="Luminosity" uid="705311569" type="0" value="0.536"/>
+  <presetinput identifier="Emboss" uid="705416303" type="0" value="0.995"/>
+  <presetinput identifier="$outputsize" uid="794200810" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1438281928" type="0" value="-0.299"/>
+  <presetinput identifier="$randomseed" uid="2015665336" type="4" value="-179428154"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper003/book_paper003" label="var02">
+  <presetinput identifier="Saturation" uid="705311556" type="0" value="0.587"/>
+  <presetinput identifier="Luminosity" uid="705311569" type="0" value="0.514"/>
+  <presetinput identifier="Emboss" uid="705416303" type="0" value="0.995"/>
+  <presetinput identifier="$outputsize" uid="794200810" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1438281928" type="0" value="-0.516"/>
+  <presetinput identifier="Age" uid="1438318308" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="2015665336" type="4" value="-1567036164"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper003/book_paper003" label="var03">
+  <presetinput identifier="Saturation" uid="705311556" type="0" value="0.587"/>
+  <presetinput identifier="Luminosity" uid="705311569" type="0" value="0.514"/>
+  <presetinput identifier="Emboss" uid="705416303" type="0" value="0.995"/>
+  <presetinput identifier="Creases" uid="711532160" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="794200810" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1438281928" type="0" value="-0.516"/>
+  <presetinput identifier="$randomseed" uid="2015665336" type="4" value="-1567036164"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper003/book_paper003" label="var04">
+  <presetinput identifier="Hue_Shift" uid="705311523" type="0" value="0.06"/>
+  <presetinput identifier="Saturation" uid="705311556" type="0" value="0.587"/>
+  <presetinput identifier="Luminosity" uid="705311569" type="0" value="0.514"/>
+  <presetinput identifier="Emboss" uid="705416303" type="0" value="0.995"/>
+  <presetinput identifier="Creases" uid="711532160" type="0" value="1"/>
+  <presetinput identifier="Wet" uid="711546151" type="0" value="0.689"/>
+  <presetinput identifier="Dirtiness" uid="711589413" type="0" value="0.927"/>
+  <presetinput identifier="$outputsize" uid="794200810" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1438281928" type="0" value="-0.516"/>
+  <presetinput identifier="$randomseed" uid="2015665336" type="4" value="350752205"/>
+ </sbspreset>
+</sbspresets>

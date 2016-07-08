@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Fire/Fire" label="var01" >
+  <presetinput identifier="$randomseed" uid="2193145085" type="4" value="26883637" />
+  <presetinput identifier="Flow" uid="3494004299" type="0" value="0.661" />
+  <presetinput identifier="Warp2" uid="3495321968" type="0" value="1" />
+  <presetinput identifier="Hue_Shift" uid="3510130589" type="0" value="0.964" />
+  <presetinput identifier="Contrast" uid="3518769037" type="0" value="0.123" />
+  <presetinput identifier="$outputsize" uid="3586828975" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Fire/Fire" label="var02" >
+  <presetinput identifier="$randomseed" uid="2193145085" type="4" value="1905278085" />
+  <presetinput identifier="Flow" uid="3494004299" type="0" value="0.361" />
+  <presetinput identifier="Warp2" uid="3495321968" type="0" value="1" />
+  <presetinput identifier="Warp1" uid="3495322280" type="0" value="0" />
+  <presetinput identifier="Luminosity" uid="3510130584" type="0" value="0.502" />
+  <presetinput identifier="Saturation" uid="3510130587" type="0" value="0.502" />
+  <presetinput identifier="Hue_Shift" uid="3510130589" type="0" value="0.692" />
+  <presetinput identifier="Contrast" uid="3518769037" type="0" value="-0.004" />
+  <presetinput identifier="$outputsize" uid="3586828975" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

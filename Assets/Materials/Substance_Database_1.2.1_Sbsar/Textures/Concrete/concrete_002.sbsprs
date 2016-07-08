@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_002/concrete_002" label="var01" >
+  <presetinput identifier="Normal" uid="731091226" type="0" value="0.591" />
+  <presetinput identifier="Emboss" uid="731091269" type="0" value="0.406" />
+  <presetinput identifier="$outputsize" uid="785307584" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="1410059710" type="0" value="0.023" />
+  <presetinput identifier="Shape" uid="1410519953" type="0" value="0.211" />
+  <presetinput identifier="Dirtiness" uid="1410673642" type="0" value="0.326" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_002/concrete_002" label="var02" >
+  <presetinput identifier="Normal" uid="731091226" type="0" value="0.591" />
+  <presetinput identifier="Emboss" uid="731091269" type="0" value="0.406" />
+  <presetinput identifier="$outputsize" uid="785307584" type="8" value="9,9" />
+  <presetinput identifier="Shape" uid="1410519953" type="0" value="0.517" />
+  <presetinput identifier="Columns_Amount" uid="1410589063" type="4" value="7" />
+  <presetinput identifier="Dirtiness" uid="1410673642" type="0" value="0.843" />
+  <presetinput identifier="Concrete_Color" uid="1411254057" type="2" value="0.6,0.604,0.667" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_002/concrete_002" label="var03" >
+  <presetinput identifier="Normal" uid="731091226" type="0" value="0.691" />
+  <presetinput identifier="Emboss" uid="731091269" type="0" value="0.447" />
+  <presetinput identifier="$outputsize" uid="785307584" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="1410059710" type="0" value="0.277" />
+  <presetinput identifier="Shape" uid="1410519953" type="0" value="0.283" />
+  <presetinput identifier="Columns_Amount" uid="1410589063" type="4" value="11" />
+  <presetinput identifier="Dirtiness" uid="1410673642" type="0" value="1" />
+  <presetinput identifier="Concrete_Color" uid="1411254057" type="2" value="0.667,0.6,0.6" />
+ </sbspreset>
+</sbspresets>

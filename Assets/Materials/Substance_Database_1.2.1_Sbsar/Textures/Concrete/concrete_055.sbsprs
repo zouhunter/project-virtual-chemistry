@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_055/concrete_055" label="var01">
+  <presetinput identifier="$outputsize" uid="2610405997" type="8" value="9,9"/>
+  <presetinput identifier="Concrete_Color" uid="2660689475" type="2" value="0.604,0.667,0.518"/>
+  <presetinput identifier="Light_Angle" uid="2664096880" type="0" value="0.739"/>
+  <presetinput identifier="Emboss" uid="2664097000" type="0" value="0.536"/>
+  <presetinput identifier="Luminosity" uid="2664111062" type="0" value="0.452"/>
+  <presetinput identifier="$randomseed" uid="3437605951" type="4" value="1106861696"/>
+  <presetinput identifier="Contrast" uid="3782607155" type="0" value="0.215"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_055/concrete_055" label="var02">
+  <presetinput identifier="$outputsize" uid="2610405997" type="8" value="9,9"/>
+  <presetinput identifier="Concrete_Color" uid="2660689475" type="2" value="0.627,0.667,0.624"/>
+  <presetinput identifier="Light_Angle" uid="2664096880" type="0" value="0.317"/>
+  <presetinput identifier="Emboss" uid="2664097000" type="0" value="0.536"/>
+  <presetinput identifier="Luminosity" uid="2664111062" type="0" value="0.452"/>
+  <presetinput identifier="$randomseed" uid="3437605951" type="4" value="-1113270459"/>
+  <presetinput identifier="Bumps" uid="3782449263" type="0" value="0.586"/>
+  <presetinput identifier="Contrast" uid="3782607155" type="0" value="0.215"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_055/concrete_055" label="var03">
+  <presetinput identifier="$outputsize" uid="2610405997" type="8" value="9,9"/>
+  <presetinput identifier="Concrete_Color" uid="2660689475" type="2" value="0.627,0.667,0.624"/>
+  <presetinput identifier="Light_Angle" uid="2664096880" type="0" value="0.317"/>
+  <presetinput identifier="Emboss" uid="2664097000" type="0" value="0.536"/>
+  <presetinput identifier="Saturation" uid="2664111043" type="0" value="0.505"/>
+  <presetinput identifier="Luminosity" uid="2664111062" type="0" value="0.563"/>
+  <presetinput identifier="$randomseed" uid="3437605951" type="4" value="-1113270459"/>
+  <presetinput identifier="Bumps" uid="3782449263" type="0" value="0.412"/>
+  <presetinput identifier="Dirtiness" uid="3782454465" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="3782607155" type="0" value="0.322"/>
+ </sbspreset>
+</sbspresets>

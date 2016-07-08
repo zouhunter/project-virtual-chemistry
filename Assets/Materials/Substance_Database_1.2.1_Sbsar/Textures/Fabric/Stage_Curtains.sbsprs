@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Stage_Curtains/Stage_Curtains" label="var01" >
+  <presetinput identifier="$randomseed" uid="5511353" type="4" value="754279411" />
+  <presetinput identifier="Add_Folds" uid="1389407635" type="0" value="0.545" />
+  <presetinput identifier="Opening" uid="1389407644" type="0" value="0.43" />
+  <presetinput identifier="Folding" uid="1389407645" type="0" value="1" />
+  <presetinput identifier="Tassels" uid="1389422329" type="0" value="0.224" />
+  <presetinput identifier="Curtains_Color" uid="1389424133" type="2" value="0.494,0.635,0.89" />
+  <presetinput identifier="$outputsize" uid="1462111979" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Stage_Curtains/Stage_Curtains" label="var02" >
+  <presetinput identifier="$randomseed" uid="5511353" type="4" value="754279411" />
+  <presetinput identifier="Folds_Size" uid="1385871491" type="0" value="0.188" />
+  <presetinput identifier="Add_Folds" uid="1389407635" type="0" value="1" />
+  <presetinput identifier="Folding" uid="1389407645" type="0" value="1" />
+  <presetinput identifier="Tassels" uid="1389422329" type="0" value="0.833" />
+  <presetinput identifier="Curtains_Color" uid="1389424133" type="2" value="0.89,0,0" />
+  <presetinput identifier="Normal" uid="1397785259" type="0" value="0.696" />
+  <presetinput identifier="$outputsize" uid="1462111979" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

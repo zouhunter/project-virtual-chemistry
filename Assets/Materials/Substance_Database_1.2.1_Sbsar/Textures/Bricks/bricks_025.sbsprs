@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_025/bricks_025" label="var01" >
+  <presetinput identifier="$randomseed" uid="2671539972" type="4" value="1801190291" />
+  <presetinput identifier="Bricks_Offset" uid="2998464879" type="0" value="0.398" />
+  <presetinput identifier="Bricks_Amount_Y" uid="2998472014" type="4" value="3" />
+  <presetinput identifier="Bricks_Amount_X" uid="2998472015" type="4" value="1" />
+  <presetinput identifier="$outputsize" uid="3360579926" type="8" value="9,9" />
+  <presetinput identifier="Brick_2_Color" uid="3446606663" type="2" value="0.369,0.239,0.212" />
+  <presetinput identifier="Stains" uid="3446607853" type="0" value="0" />
+  <presetinput identifier="Brick_1_Color" uid="3446609524" type="2" value="0.459,0.255,0.188" />
+  <presetinput identifier="Bricks_Balance" uid="3446617484" type="0" value="0.507" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_025/bricks_025" label="var02" >
+  <presetinput identifier="$randomseed" uid="2671539972" type="4" value="7134990" />
+  <presetinput identifier="Bricks_Offset" uid="2998464879" type="0" value="0.478" />
+  <presetinput identifier="Bricks_Amount_Y" uid="2998472014" type="4" value="0" />
+  <presetinput identifier="Bricks_Amount_X" uid="2998472015" type="4" value="0" />
+  <presetinput identifier="Contrast" uid="2998490334" type="0" value="0.135" />
+  <presetinput identifier="$outputsize" uid="3360579926" type="8" value="9,9" />
+  <presetinput identifier="Luminosity" uid="3440564461" type="0" value="0.522" />
+  <presetinput identifier="Brick_2_Color" uid="3446606663" type="2" value="0.357,0.357,0.369" />
+  <presetinput identifier="Cement_Color" uid="3446607233" type="2" value="0.278,0.271,0.255" />
+  <presetinput identifier="Stains" uid="3446607853" type="0" value="0.803" />
+  <presetinput identifier="Brick_1_Color" uid="3446609524" type="2" value="0.427,0.427,0.459" />
+  <presetinput identifier="Bricks_Balance" uid="3446617484" type="0" value="0.622" />
+  <presetinput identifier="Stains_Color" uid="3446661510" type="2" value="0.859,0.878,0.945" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_025/bricks_025" label="var03" >
+  <presetinput identifier="$randomseed" uid="2671539972" type="4" value="-782302355" />
+  <presetinput identifier="Bricks_Offset" uid="2998464879" type="0" value="0.478" />
+  <presetinput identifier="Bricks_Amount_Y" uid="2998472014" type="4" value="4" />
+  <presetinput identifier="Bricks_Amount_X" uid="2998472015" type="4" value="7" />
+  <presetinput identifier="$outputsize" uid="3360579926" type="8" value="9,9" />
+  <presetinput identifier="Brick_2_Color" uid="3446606663" type="2" value="0.353,0.369,0.345" />
+  <presetinput identifier="Cement_Color" uid="3446607233" type="2" value="0.278,0.271,0.255" />
+  <presetinput identifier="Stains" uid="3446607853" type="0" value="0.065" />
+  <presetinput identifier="Brick_1_Color" uid="3446609524" type="2" value="0.408,0.435,0.4" />
+  <presetinput identifier="Bricks_Balance" uid="3446617484" type="0" value="0.622" />
+  <presetinput identifier="Stains_Color" uid="3446661510" type="2" value="0.859,0.878,0.945" />
+ </sbspreset>
+</sbspresets>

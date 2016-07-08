@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stones_010/stones_010" label="var01" >
+  <presetinput identifier="White_Molds_Color" uid="2500914319" type="2" value="0.439,0.486,0.416" />
+  <presetinput identifier="Yellow_Molds_Color" uid="2500915311" type="2" value="0.702,0.616,0.392" />
+  <presetinput identifier="Yellow_Molds_Amount" uid="2500949019" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="3096994100" type="4" value="1967391490" />
+  <presetinput identifier="Normal" uid="3937874364" type="0" value="0.736" />
+  <presetinput identifier="Depth" uid="3937876814" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4025120614" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_010/stones_010" label="var02" >
+  <presetinput identifier="Stone_Color" uid="2500703575" type="2" value="0.667,0.659,0.635" />
+  <presetinput identifier="White_Molds_Color" uid="2500914319" type="2" value="0.486,0.471,0.4" />
+  <presetinput identifier="Yellow_Molds_Color" uid="2500915311" type="2" value="0.702,0.616,0.392" />
+  <presetinput identifier="Yellow_Molds_Amount" uid="2500949019" type="0" value="0" />
+  <presetinput identifier="Moss_Amount" uid="2500951970" type="0" value="0.372" />
+  <presetinput identifier="$randomseed" uid="3096994100" type="4" value="1967391490" />
+  <presetinput identifier="Normal" uid="3937874364" type="0" value="0.736" />
+  <presetinput identifier="Emboss" uid="3937874403" type="0" value="0.252" />
+  <presetinput identifier="Depth" uid="3937876814" type="0" value="0.041" />
+  <presetinput identifier="$outputsize" uid="4025120614" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_010/stones_010" label="var03" >
+  <presetinput identifier="Stone_Color" uid="2500703575" type="2" value="0.667,0.659,0.635" />
+  <presetinput identifier="Moss_Color" uid="2500914317" type="2" value="0.412,0.345,0.263" />
+  <presetinput identifier="White_Molds_Color" uid="2500914319" type="2" value="0.486,0.471,0.4" />
+  <presetinput identifier="Yellow_Molds_Color" uid="2500915311" type="2" value="0.251,0.282,0.165" />
+  <presetinput identifier="Yellow_Molds_Amount" uid="2500949019" type="0" value="1" />
+  <presetinput identifier="White_Molds_Amount" uid="2500949020" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="3096994100" type="4" value="-1157904171" />
+  <presetinput identifier="Normal" uid="3937874364" type="0" value="0.736" />
+  <presetinput identifier="Emboss" uid="3937874403" type="0" value="0.252" />
+  <presetinput identifier="Depth" uid="3937876814" type="0" value="0.041" />
+  <presetinput identifier="$outputsize" uid="4025120614" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

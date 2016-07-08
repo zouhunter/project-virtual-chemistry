@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Glass_Building_01/Glass_Building_01" label="var02" >
+  <presetinput identifier="Windows_X" uid="982190122" type="4" value="11" />
+  <presetinput identifier="Shutters" uid="987790032" type="0" value="0.612" />
+  <presetinput identifier="Windows_Y" uid="988197008" type="4" value="12" />
+  <presetinput identifier="Interspace" uid="988197341" type="0" value="0.354" />
+  <presetinput identifier="Color_Variation" uid="988203609" type="0" value="0.195" />
+  <presetinput identifier="Emboss" uid="990164094" type="0" value="6.953" />
+  <presetinput identifier="Normal" uid="990231335" type="0" value="0.787" />
+  <presetinput identifier="$outputsize" uid="1064515431" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Glass_Building_01/Glass_Building_01" label="var03" >
+  <presetinput identifier="Windows_X" uid="982190122" type="4" value="18" />
+  <presetinput identifier="Lights" uid="987788169" type="0" value="0.45" />
+  <presetinput identifier="Shutters" uid="987790032" type="0" value="0.612" />
+  <presetinput identifier="Windows_Y" uid="988197008" type="4" value="22" />
+  <presetinput identifier="Interspace" uid="988197341" type="0" value="0.062" />
+  <presetinput identifier="Color_Variation" uid="988203609" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="990164094" type="0" value="6.953" />
+  <presetinput identifier="Normal" uid="990231335" type="0" value="0.787" />
+  <presetinput identifier="$outputsize" uid="1064515431" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Glass_Building_01/Glass_Building_01" label="var01" >
+  <presetinput identifier="Lights" uid="987788169" type="0" value="1" />
+  <presetinput identifier="Shutters" uid="987790032" type="0" value="0.804" />
+  <presetinput identifier="Color_Variation" uid="988203609" type="0" value="0.837" />
+ </sbspreset>
+</sbspresets>

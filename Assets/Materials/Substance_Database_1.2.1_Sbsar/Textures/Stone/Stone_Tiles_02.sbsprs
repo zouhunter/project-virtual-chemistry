@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Stone_Tiles_02/Stone_Tiles_02" label="var01" >
+  <presetinput identifier="$outputsize" uid="4091715091" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Stone_Tiles_02/Stone_Tiles_02" label="var02" >
+  <presetinput identifier="Mortar_Color" uid="2302429249" type="2" value="0.851,0.851,0.851" />
+  <presetinput identifier="$randomseed" uid="2760935489" type="4" value="-1677448656" />
+  <presetinput identifier="$outputsize" uid="4091715091" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="4157411950" type="0" value="0.9" />
+  <presetinput identifier="Color_Variation" uid="4157415335" type="0" value="0.612" />
+  <presetinput identifier="Hue_Shift" uid="4158640205" type="0" value="0.58" />
+  <presetinput identifier="Luminosity" uid="4158640240" type="0" value="0.542" />
+  <presetinput identifier="Contrast" uid="4158640241" type="0" value="0.123" />
+  <presetinput identifier="Saturation" uid="4158640242" type="0" value="0.52" />
+ </sbspreset>
+</sbspresets>

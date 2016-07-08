@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://wood_planks_001/wood_planks_001" label="var02" >
+  <presetinput identifier="Planks_Amount" uid="172212164" type="4" value="20" />
+  <presetinput identifier="$randomseed" uid="668085160" type="4" value="983405205" />
+  <presetinput identifier="$outputsize" uid="1889549818" type="8" value="9,9" />
+  <presetinput identifier="Wood_Color" uid="1971571852" type="2" value="0.153,0.157,0.173" />
+  <presetinput identifier="Cracks" uid="1971668114" type="0" value="1" />
+  <presetinput identifier="Age_01" uid="1971725951" type="0" value="1" />
+  <presetinput identifier="Age_01_Color" uid="1972233087" type="2" value="0.345,0.345,0.345" />
+  <presetinput identifier="Age_02_Color" uid="1972239975" type="2" value="0.553,0.533,0.502" />
+  <presetinput identifier="Emboss" uid="1979546495" type="0" value="0.67" />
+  <presetinput identifier="Light_Angle" uid="1979546599" type="0" value="0.431" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood_planks_001/wood_planks_001" label="var01" >
+  <presetinput identifier="Contrast" uid="173242690" type="0" value="-0.006" />
+  <presetinput identifier="$randomseed" uid="668085160" type="4" value="-714283752" />
+  <presetinput identifier="$outputsize" uid="1889549818" type="8" value="9,9" />
+  <presetinput identifier="Wood_Color" uid="1971571852" type="2" value="0.333,0.29,0.259" />
+  <presetinput identifier="Age_01" uid="1971725951" type="0" value="0" />
+  <presetinput identifier="Age_02" uid="1971781290" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood_planks_001/wood_planks_001" label="var03" >
+  <presetinput identifier="Planks_Amount" uid="172212164" type="4" value="7" />
+  <presetinput identifier="Nails" uid="173789209" type="4" value="0" />
+  <presetinput identifier="$randomseed" uid="668085160" type="4" value="983405205" />
+  <presetinput identifier="$outputsize" uid="1889549818" type="8" value="9,9" />
+  <presetinput identifier="Wood_Color" uid="1971571852" type="2" value="0.173,0.125,0.098" />
+  <presetinput identifier="Age_01" uid="1971725951" type="0" value="0" />
+  <presetinput identifier="Dirtiness" uid="1971733029" type="0" value="0" />
+  <presetinput identifier="Age_02" uid="1971781290" type="0" value="0" />
+  <presetinput identifier="Age_01_Color" uid="1972233087" type="2" value="0.345,0.345,0.345" />
+  <presetinput identifier="Age_02_Color" uid="1972239975" type="2" value="0.553,0.533,0.502" />
+  <presetinput identifier="Normal" uid="1979546400" type="0" value="0.568" />
+  <presetinput identifier="Emboss" uid="1979546495" type="0" value="0.67" />
+  <presetinput identifier="Light_Angle" uid="1979546599" type="0" value="0.431" />
+ </sbspreset>
+</sbspresets>

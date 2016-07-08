@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_plate_002/metal_plate_002" label="var01" >
+  <presetinput identifier="$outputsize" uid="2735303623" type="8" value="9,9" />
+  <presetinput identifier="Rivets_Scale" uid="2786195316" type="0" value="0" />
+  <presetinput identifier="Age" uid="2792550635" type="0" value="0.149" />
+  <presetinput identifier="Pattern_Type" uid="3653672089" type="4" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_002/metal_plate_002" label="var02" >
+  <presetinput identifier="$outputsize" uid="2735303623" type="8" value="9,9" />
+  <presetinput identifier="Rivets_Scale" uid="2786195316" type="0" value="0.535" />
+  <presetinput identifier="Frame_Offest" uid="2786196772" type="0" value="0.521" />
+  <presetinput identifier="Age" uid="2792550635" type="0" value="0.743" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_002/metal_plate_002" label="var03" >
+  <presetinput identifier="$outputsize" uid="2735303623" type="8" value="9,9" />
+  <presetinput identifier="Rivets_Scale" uid="2786195316" type="0" value="0.843" />
+  <presetinput identifier="Frame_Offest" uid="2786196772" type="0" value="0.874" />
+  <presetinput identifier="Age" uid="2792550635" type="0" value="1" />
+  <presetinput identifier="Pattern_Type" uid="3653672089" type="4" value="3" />
+ </sbspreset>
+</sbspresets>

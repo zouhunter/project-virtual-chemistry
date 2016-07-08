@@ -1,0 +1,66 @@
+<sbspresets formatversion="1.0" count="5">
+ <sbspreset pkgurl="pkg://concrete_051/concrete_051" label="var01">
+  <presetinput identifier="Depth" uid="2148246855" type="0" value="-0.031"/>
+  <presetinput identifier="Light_Angle" uid="2148249458" type="0" value="0.744"/>
+  <presetinput identifier="Normal" uid="2148249525" type="0" value="0.595"/>
+  <presetinput identifier="Emboss" uid="2148249578" type="0" value="0.254"/>
+  <presetinput identifier="$outputsize" uid="2237065583" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3525639997" type="4" value="-1333982920"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_051/concrete_051" label="var02">
+  <presetinput identifier="Saturation" uid="2148159681" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="2148159700" type="0" value="0.471"/>
+  <presetinput identifier="Depth" uid="2148246855" type="0" value="-0.031"/>
+  <presetinput identifier="Light_Angle" uid="2148249458" type="0" value="0.744"/>
+  <presetinput identifier="Normal" uid="2148249525" type="0" value="0.595"/>
+  <presetinput identifier="Emboss" uid="2148249578" type="0" value="0.254"/>
+  <presetinput identifier="$outputsize" uid="2237065583" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3525639997" type="4" value="1592762409"/>
+  <presetinput identifier="Contrast" uid="4290167175" type="0" value="0.301"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_051/concrete_051" label="var03">
+  <presetinput identifier="Saturation" uid="2148159681" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="2148159700" type="0" value="0.471"/>
+  <presetinput identifier="Depth" uid="2148246855" type="0" value="-0.031"/>
+  <presetinput identifier="Light_Angle" uid="2148249458" type="0" value="0.744"/>
+  <presetinput identifier="Normal" uid="2148249525" type="0" value="0.595"/>
+  <presetinput identifier="Emboss" uid="2148249578" type="0" value="0.254"/>
+  <presetinput identifier="Holes_Scale" uid="2154028159" type="0" value="0"/>
+  <presetinput identifier="Peeling" uid="2154034365" type="0" value="0.024"/>
+  <presetinput identifier="$outputsize" uid="2237065583" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3525639997" type="4" value="1592762409"/>
+  <presetinput identifier="Contrast" uid="4290167175" type="0" value="0.301"/>
+  <presetinput identifier="Concrete_Color" uid="4290169785" type="2" value="0.678,0.714,0.722"/>
+  <presetinput identifier="Dirt_Color" uid="4290169787" type="2" value="0.333,0.337,0.255"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_051/concrete_051" label="var04">
+  <presetinput identifier="Saturation" uid="2148159681" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="2148159700" type="0" value="0.471"/>
+  <presetinput identifier="Depth" uid="2148246855" type="0" value="-0.031"/>
+  <presetinput identifier="Light_Angle" uid="2148249458" type="0" value="0.744"/>
+  <presetinput identifier="Normal" uid="2148249525" type="0" value="0.595"/>
+  <presetinput identifier="Emboss" uid="2148249578" type="0" value="0.254"/>
+  <presetinput identifier="Holes_Scale" uid="2154028159" type="0" value="0"/>
+  <presetinput identifier="Peeling" uid="2154034365" type="0" value="0.375"/>
+  <presetinput identifier="$outputsize" uid="2237065583" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3525639997" type="4" value="202716478"/>
+  <presetinput identifier="Contrast" uid="4290167175" type="0" value="0.301"/>
+  <presetinput identifier="Concrete_Color" uid="4290169785" type="2" value="0.678,0.714,0.722"/>
+  <presetinput identifier="Dirt_Color" uid="4290169787" type="2" value="0.333,0.337,0.255"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_051/concrete_051" label="var05">
+  <presetinput identifier="Saturation" uid="2148159681" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="2148159700" type="0" value="0.471"/>
+  <presetinput identifier="Depth" uid="2148246855" type="0" value="-0.031"/>
+  <presetinput identifier="Light_Angle" uid="2148249458" type="0" value="0.744"/>
+  <presetinput identifier="Normal" uid="2148249525" type="0" value="0.595"/>
+  <presetinput identifier="Emboss" uid="2148249578" type="0" value="0.254"/>
+  <presetinput identifier="Holes_Scale" uid="2154028159" type="0" value="1"/>
+  <presetinput identifier="Peeling" uid="2154034365" type="0" value="0.027"/>
+  <presetinput identifier="$outputsize" uid="2237065583" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3525639997" type="4" value="202716478"/>
+  <presetinput identifier="Contrast" uid="4290167175" type="0" value="0.404"/>
+  <presetinput identifier="Concrete_Color" uid="4290169785" type="2" value="0.678,0.714,0.722"/>
+  <presetinput identifier="Dirt_Color" uid="4290169787" type="2" value="0.333,0.337,0.255"/>
+ </sbspreset>
+</sbspresets>

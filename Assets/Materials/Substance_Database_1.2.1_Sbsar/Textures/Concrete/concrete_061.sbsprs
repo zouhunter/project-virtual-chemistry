@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_061/concrete_061" label="var01">
+  <presetinput identifier="$outputsize" uid="3204894933" type="8" value="9,9"/>
+  <presetinput identifier="Bullets_Holes_Amount" uid="3306471005" type="0" value="0.12"/>
+  <presetinput identifier="Dirt" uid="3306653415" type="0" value="0.611"/>
+  <presetinput identifier="Bullets_Holes_Size" uid="3307097048" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="3899967111" type="4" value="1743834263"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_061/concrete_061" label="var02">
+  <presetinput identifier="Emboss" uid="3126564432" type="0" value="0.22"/>
+  <presetinput identifier="Depth" uid="3126566141" type="0" value="-0.008"/>
+  <presetinput identifier="$outputsize" uid="3204894933" type="8" value="9,9"/>
+  <presetinput identifier="Bullets_Holes_Amount" uid="3306471005" type="0" value="0.729"/>
+  <presetinput identifier="Dirt" uid="3306653415" type="0" value="1"/>
+  <presetinput identifier="Bullets_Holes_Size" uid="3307097048" type="0" value="0.311"/>
+  <presetinput identifier="Bullets_Holes_Darkness" uid="3307101651" type="0" value="0"/>
+  <presetinput identifier="Concrete_Color" uid="3307107108" type="2" value="0.514,0.447,0.4"/>
+  <presetinput identifier="$randomseed" uid="3899967111" type="4" value="1743834263"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_061/concrete_061" label="var03">
+  <presetinput identifier="Normal" uid="3126564367" type="0" value="0.868"/>
+  <presetinput identifier="Emboss" uid="3126564432" type="0" value="0.082"/>
+  <presetinput identifier="Depth" uid="3126566141" type="0" value="-0.008"/>
+  <presetinput identifier="$outputsize" uid="3204894933" type="8" value="9,9"/>
+  <presetinput identifier="Bullets_Holes_Amount" uid="3306471005" type="0" value="1"/>
+  <presetinput identifier="Dirt" uid="3306653415" type="0" value="0.414"/>
+  <presetinput identifier="Bullets_Holes_Size" uid="3307097048" type="0" value="0.17"/>
+  <presetinput identifier="Concrete_Color" uid="3307107108" type="2" value="0.475,0.514,0.514"/>
+  <presetinput identifier="$randomseed" uid="3899967111" type="4" value="-234389290"/>
+ </sbspreset>
+</sbspresets>

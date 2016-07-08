@@ -1,0 +1,70 @@
+<sbspresets formatversion="1.0" count="5" >
+ <sbspreset pkgurl="pkg://mud_002/mud_002" label="var01" >
+  <presetinput identifier="$outputsize" uid="850883431" type="8" value="9,9" />
+  <presetinput identifier="Relief_Balance" uid="938095627" type="0" value="4" />
+  <presetinput identifier="Light_Angle" uid="938095994" type="0" value="0.119" />
+  <presetinput identifier="Normal" uid="938096061" type="0" value="0.708" />
+  <presetinput identifier="Emboss" uid="938096098" type="0" value="0.629" />
+  <presetinput identifier="Hue_Shift" uid="938199726" type="0" value="0.026" />
+  <presetinput identifier="Luminosity" uid="938199772" type="0" value="0.465" />
+  <presetinput identifier="$randomseed" uid="1707435317" type="4" value="-853758892" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://mud_002/mud_002" label="var02" >
+  <presetinput identifier="$outputsize" uid="850883431" type="8" value="9,9" />
+  <presetinput identifier="Relief_Balance" uid="938095627" type="0" value="4" />
+  <presetinput identifier="Light_Angle" uid="938095994" type="0" value="0.65" />
+  <presetinput identifier="Normal" uid="938096061" type="0" value="0.708" />
+  <presetinput identifier="Emboss" uid="938096098" type="0" value="0.629" />
+  <presetinput identifier="Hue_Shift" uid="938199726" type="0" value="0.026" />
+  <presetinput identifier="Luminosity" uid="938199772" type="0" value="0.465" />
+  <presetinput identifier="Water_Level" uid="1213151362" type="0" value="0.122" />
+  <presetinput identifier="Moss" uid="1213246015" type="0" value="0.41" />
+  <presetinput identifier="$randomseed" uid="1707435317" type="4" value="-1874555223" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://mud_002/mud_002" label="var03" >
+  <presetinput identifier="$outputsize" uid="850883431" type="8" value="9,9" />
+  <presetinput identifier="Relief_Balance" uid="938095627" type="0" value="4" />
+  <presetinput identifier="Light_Angle" uid="938095994" type="0" value="0.65" />
+  <presetinput identifier="Normal" uid="938096061" type="0" value="0.708" />
+  <presetinput identifier="Emboss" uid="938096098" type="0" value="0.629" />
+  <presetinput identifier="Luminosity" uid="938199772" type="0" value="0.465" />
+  <presetinput identifier="Water_Level" uid="1213151362" type="0" value="0.535" />
+  <presetinput identifier="Moss" uid="1213246015" type="0" value="0.41" />
+  <presetinput identifier="Water_Refraction" uid="1213309989" type="0" value="0.079" />
+  <presetinput identifier="Water_Flow_Angle" uid="1213312354" type="0" value="0.9" />
+  <presetinput identifier="Water_Flow" uid="1213315921" type="0" value="0.641" />
+  <presetinput identifier="$randomseed" uid="1707435317" type="4" value="-1306463999" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://mud_002/mud_002" label="var04" >
+  <presetinput identifier="$outputsize" uid="850883431" type="8" value="9,9" />
+  <presetinput identifier="Relief_Balance" uid="938095627" type="0" value="4" />
+  <presetinput identifier="Light_Angle" uid="938095994" type="0" value="0.65" />
+  <presetinput identifier="Normal" uid="938096061" type="0" value="0.708" />
+  <presetinput identifier="Emboss" uid="938096098" type="0" value="0.629" />
+  <presetinput identifier="Luminosity" uid="938199772" type="0" value="0.465" />
+  <presetinput identifier="Water_Level" uid="1213151362" type="0" value="0.535" />
+  <presetinput identifier="Water_To_Ice" uid="1213277153" type="0" value="0.582" />
+  <presetinput identifier="Ice_Details" uid="1213277166" type="0" value="0.083" />
+  <presetinput identifier="Snow" uid="1213277167" type="0" value="0.695" />
+  <presetinput identifier="Water_Refraction" uid="1213309989" type="0" value="0.079" />
+  <presetinput identifier="Water_Flow_Angle" uid="1213312354" type="0" value="0.9" />
+  <presetinput identifier="Water_Flow" uid="1213315921" type="0" value="0.641" />
+  <presetinput identifier="$randomseed" uid="1707435317" type="4" value="1303154396" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://mud_002/mud_002" label="var05" >
+  <presetinput identifier="$outputsize" uid="850883431" type="8" value="9,9" />
+  <presetinput identifier="Relief_Balance" uid="938095627" type="0" value="4" />
+  <presetinput identifier="Light_Angle" uid="938095994" type="0" value="0.65" />
+  <presetinput identifier="Normal" uid="938096061" type="0" value="0.708" />
+  <presetinput identifier="Emboss" uid="938096098" type="0" value="0.629" />
+  <presetinput identifier="Luminosity" uid="938199772" type="0" value="0.465" />
+  <presetinput identifier="Water_Level" uid="1213151362" type="0" value="0.535" />
+  <presetinput identifier="Water_To_Ice" uid="1213277153" type="0" value="0.582" />
+  <presetinput identifier="Ice_Details" uid="1213277166" type="0" value="0.083" />
+  <presetinput identifier="Snow" uid="1213277167" type="0" value="1" />
+  <presetinput identifier="Water_Refraction" uid="1213309989" type="0" value="0.079" />
+  <presetinput identifier="Water_Flow_Angle" uid="1213312354" type="0" value="0.9" />
+  <presetinput identifier="Water_Flow" uid="1213315921" type="0" value="0.641" />
+  <presetinput identifier="$randomseed" uid="1707435317" type="4" value="1303154396" />
+ </sbspreset>
+</sbspresets>

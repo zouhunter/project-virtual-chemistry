@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Pinapple_Skin/Pinapple_Skin" label="var01" >
+  <presetinput identifier="$outputsize" uid="675434786" type="8" value="9,9" />
+  <presetinput identifier="Spike_Length" uid="771584171" type="0" value="1" />
+  <presetinput identifier="Ripeness" uid="771586034" type="0" value="0.565" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Pinapple_Skin/Pinapple_Skin" label="var02" >
+  <presetinput identifier="$outputsize" uid="675434786" type="8" value="9,9" />
+  <presetinput identifier="Spike_Length" uid="771584171" type="0" value="0.354" />
+  <presetinput identifier="Ripeness" uid="771586034" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

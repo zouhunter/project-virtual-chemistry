@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wood_American_Cherry/Wood_American_Cherry" label="var01" >
+  <presetinput identifier="Knots" uid="142788851" type="0" value="1" />
+  <presetinput identifier="Fibers" uid="143202677" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="151169538" type="0" value="-0.299" />
+  <presetinput identifier="Normal" uid="151169888" type="0" value="0.638" />
+  <presetinput identifier="Angle" uid="151233541" type="0" value="0.708" />
+  <presetinput identifier="Emboss" uid="151233593" type="0" value="9.434" />
+  <presetinput identifier="Hue_Shift" uid="159832594" type="0" value="0.042" />
+  <presetinput identifier="$outputsize" uid="225716000" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1510355314" type="4" value="-1747260581" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_American_Cherry/Wood_American_Cherry" label="var02" >
+  <presetinput identifier="Knots" uid="142788851" type="0" value="0.127" />
+  <presetinput identifier="Fibers" uid="143202677" type="0" value="0.424" />
+  <presetinput identifier="Contrast" uid="151169538" type="0" value="-0.299" />
+  <presetinput identifier="Normal" uid="151169888" type="0" value="0.638" />
+  <presetinput identifier="Angle" uid="151233541" type="0" value="0.028" />
+  <presetinput identifier="Emboss" uid="151233593" type="0" value="-7.129" />
+  <presetinput identifier="Hue_Shift" uid="159832594" type="0" value="0.042" />
+  <presetinput identifier="$outputsize" uid="225716000" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1510355314" type="4" value="-1150736490" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_American_Cherry/Wood_American_Cherry" label="var03" >
+  <presetinput identifier="Knots" uid="142788851" type="0" value="0.127" />
+  <presetinput identifier="Fibers" uid="143202677" type="0" value="0.424" />
+  <presetinput identifier="Contrast" uid="151169538" type="0" value="-0.299" />
+  <presetinput identifier="Normal" uid="151169888" type="0" value="0.638" />
+  <presetinput identifier="Angle" uid="151233541" type="0" value="0.028" />
+  <presetinput identifier="Emboss" uid="151233593" type="0" value="-7.129" />
+  <presetinput identifier="Hue_Shift" uid="159832594" type="0" value="0.042" />
+  <presetinput identifier="Saturation" uid="159832596" type="0" value="0.658" />
+  <presetinput identifier="Luminosity" uid="159832599" type="0" value="0.42" />
+  <presetinput identifier="$outputsize" uid="225716000" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1510355314" type="4" value="-1468611293" />
+ </sbspreset>
+</sbspresets>

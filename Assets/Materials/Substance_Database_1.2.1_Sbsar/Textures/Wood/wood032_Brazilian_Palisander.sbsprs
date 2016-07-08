@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood032/wood032" label="var02">
+  <presetinput identifier="$randomseed" uid="2170292286" type="4" value="-1806741523"/>
+  <presetinput identifier="Age" uid="2900548771" type="0" value="1"/>
+  <presetinput identifier="Battens" uid="2900548947" type="4" value="1"/>
+  <presetinput identifier="Contrast" uid="2901813285" type="0" value="0.141"/>
+  <presetinput identifier="Saturation" uid="3547506626" type="0" value="0.454"/>
+  <presetinput identifier="Luminosity" uid="3547506647" type="0" value="0.541"/>
+  <presetinput identifier="Emboss" uid="3547551977" type="0" value="0.502"/>
+  <presetinput identifier="$outputsize" uid="3593346668" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood032/wood032" label="var03">
+  <presetinput identifier="$randomseed" uid="2572875572" type="4" value="-1806741523"/>
+  <presetinput identifier="Battens" uid="3034849881" type="4" value="1"/>
+  <presetinput identifier="Battens_Random_Offset" uid="3034850210" type="0" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="3034850215" type="4" value="1"/>
+  <presetinput identifier="Age" uid="3034850217" type="0" value="1"/>
+  <presetinput identifier="Battens_Color_Variation" uid="3034850221" type="0" value="0.672"/>
+  <presetinput identifier="Contrast" uid="3035682607" type="0" value="-0.459"/>
+  <presetinput identifier="Saturation" uid="3413399752" type="0" value="0.426"/>
+  <presetinput identifier="Luminosity" uid="3413399773" type="0" value="0.481"/>
+  <presetinput identifier="Emboss" uid="3413485539" type="0" value="0.502"/>
+  <presetinput identifier="$outputsize" uid="3458785638" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood032/wood032" label="var01">
+  <presetinput identifier="$outputsize" uid="2863320507" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="2952164352" type="0" value="0.622"/>
+  <presetinput identifier="Saturation" uid="2952164373" type="0" value="0.475"/>
+  <presetinput identifier="Emboss" uid="2952235838" type="0" value="0.502"/>
+  <presetinput identifier="Contrast" uid="3497196530" type="0" value="0.141"/>
+  <presetinput identifier="$randomseed" uid="4258847721" type="4" value="-652351681"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_030/concrete_030" label="var01" >
+  <presetinput identifier="$outputsize" uid="469650427" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1284267433" type="4" value="239611916" />
+  <presetinput identifier="Dust" uid="1630685155" type="0" value="0.547" />
+  <presetinput identifier="Color" uid="1630953172" type="2" value="0.514,0.494,0.475" />
+  <presetinput identifier="Cracks" uid="1630953382" type="0" value="0.437" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_030/concrete_030" label="var02" >
+  <presetinput identifier="$outputsize" uid="469650427" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1284267433" type="4" value="-1582614892" />
+  <presetinput identifier="Dust" uid="1630685155" type="0" value="1" />
+  <presetinput identifier="Color" uid="1630953172" type="2" value="0.588,0.596,0.604" />
+  <presetinput identifier="Cracks" uid="1630953382" type="0" value="0.004" />
+ </sbspreset>
+</sbspresets>

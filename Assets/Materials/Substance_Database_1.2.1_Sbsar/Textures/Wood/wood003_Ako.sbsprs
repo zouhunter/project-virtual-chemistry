@@ -1,0 +1,55 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood003/wood003" label="var01">
+  <presetinput identifier="Knots" uid="2272558261" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="2272782183" type="0" value="-0.031"/>
+  <presetinput identifier="$randomseed" uid="2866754824" type="4" value="178950163"/>
+  <presetinput identifier="Light_Angle" uid="4176504135" type="0" value="0.108"/>
+  <presetinput identifier="Normal" uid="4176504192" type="0" value="0.499"/>
+  <presetinput identifier="Emboss" uid="4176504287" type="0" value="0.114"/>
+  <presetinput identifier="Depth" uid="4176506738" type="0" value="-0.002"/>
+  <presetinput identifier="Luminosity" uid="4176583393" type="0" value="0.459"/>
+  <presetinput identifier="Saturation" uid="4176583412" type="0" value="0.404"/>
+  <presetinput identifier="$outputsize" uid="4255982426" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood003/wood003" label="var02">
+  <presetinput identifier="Battens_Chamfer" uid="2253953877" type="0" value="0.104"/>
+  <presetinput identifier="Knots" uid="2272558261" type="0" value="0.538"/>
+  <presetinput identifier="Roughness" uid="2272558296" type="0" value="0.431"/>
+  <presetinput identifier="Knots_Offset" uid="2272558302" type="0" value="0.85"/>
+  <presetinput identifier="Battens" uid="2272759339" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="2272759708" type="4" value="12"/>
+  <presetinput identifier="Wood_Color" uid="2272775858" type="2" value="0.722,0.471,0.306"/>
+  <presetinput identifier="Battens_Offset" uid="2272778578" type="0" value="0.525"/>
+  <presetinput identifier="Battens_Color_Variation" uid="2272779996" type="0" value="0.259"/>
+  <presetinput identifier="Contrast" uid="2272782183" type="0" value="-0.076"/>
+  <presetinput identifier="$randomseed" uid="2866754824" type="4" value="1609528619"/>
+  <presetinput identifier="Light_Angle" uid="4176504135" type="0" value="0.108"/>
+  <presetinput identifier="Normal" uid="4176504192" type="0" value="0.884"/>
+  <presetinput identifier="Emboss" uid="4176504287" type="0" value="0.114"/>
+  <presetinput identifier="Depth" uid="4176506738" type="0" value="-0.002"/>
+  <presetinput identifier="Luminosity" uid="4176583393" type="0" value="0.462"/>
+  <presetinput identifier="Saturation" uid="4176583412" type="0" value="0.466"/>
+  <presetinput identifier="$outputsize" uid="4255982426" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood003/wood003" label="var03">
+  <presetinput identifier="Battens_Chamfer" uid="2253953877" type="0" value="0.065"/>
+  <presetinput identifier="Knots" uid="2272558261" type="0" value="1"/>
+  <presetinput identifier="Roughness" uid="2272558296" type="0" value="0.431"/>
+  <presetinput identifier="Knots_Offset" uid="2272558302" type="0" value="1"/>
+  <presetinput identifier="Battens" uid="2272759339" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="2272759366" type="4" value="5"/>
+  <presetinput identifier="Battens_Amount_Y" uid="2272759708" type="4" value="12"/>
+  <presetinput identifier="Wood_Color" uid="2272775858" type="2" value="0.275,0.216,0.196"/>
+  <presetinput identifier="Battens_Offset" uid="2272778578" type="0" value="0.525"/>
+  <presetinput identifier="Battens_Height_Variation" uid="2272779956" type="0" value="0.01"/>
+  <presetinput identifier="Contrast" uid="2272782183" type="0" value="0.365"/>
+  <presetinput identifier="$randomseed" uid="2866754824" type="4" value="1609528619"/>
+  <presetinput identifier="Light_Angle" uid="4176504135" type="0" value="0.108"/>
+  <presetinput identifier="Normal" uid="4176504192" type="0" value="0.63"/>
+  <presetinput identifier="Emboss" uid="4176504287" type="0" value="0.114"/>
+  <presetinput identifier="Depth" uid="4176506738" type="0" value="-0.002"/>
+  <presetinput identifier="Luminosity" uid="4176583393" type="0" value="0.532"/>
+  <presetinput identifier="Saturation" uid="4176583412" type="0" value="0.466"/>
+  <presetinput identifier="$outputsize" uid="4255982426" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

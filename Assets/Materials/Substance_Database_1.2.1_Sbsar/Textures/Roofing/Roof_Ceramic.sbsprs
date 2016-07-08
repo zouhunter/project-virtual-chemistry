@@ -1,0 +1,43 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Roof_Ceramic/Roof_Ceramic" label="var01" >
+  <presetinput identifier="Slates_Y" uid="459911508" type="4" value="10" />
+  <presetinput identifier="Slates_X" uid="459911593" type="4" value="10" />
+  <presetinput identifier="Offset" uid="459924049" type="0" value="1" />
+  <presetinput identifier="Dirt" uid="460099860" type="0" value="0" />
+  <presetinput identifier="Colour_Variation" uid="460463566" type="0" value="0.77" />
+  <presetinput identifier="$outputsize" uid="525318160" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1212001858" type="4" value="-1541664523" />
+  <presetinput identifier="Slates_Colour" uid="1705365291" type="2" value="0.098,0.114,0.106" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Roof_Ceramic/Roof_Ceramic" label="var02" >
+  <presetinput identifier="Size_Variation" uid="459905249" type="0" value="0.26" />
+  <presetinput identifier="Slate_Type" uid="459905322" type="4" value="2" />
+  <presetinput identifier="Slates_Y" uid="459911508" type="4" value="10" />
+  <presetinput identifier="Slates_X" uid="459911593" type="4" value="10" />
+  <presetinput identifier="Offset" uid="459924049" type="0" value="1" />
+  <presetinput identifier="Shadow_Blur" uid="459993077" type="0" value="10" />
+  <presetinput identifier="Shadow" uid="459995538" type="0" value="0.244" />
+  <presetinput identifier="Dirt_Spread" uid="460099840" type="0" value="0.224" />
+  <presetinput identifier="Dirt" uid="460099860" type="0" value="0.504" />
+  <presetinput identifier="Colour_Variation" uid="460463566" type="0" value="0.27" />
+  <presetinput identifier="$outputsize" uid="525318160" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1212001858" type="4" value="277924019" />
+  <presetinput identifier="Slates_Colour" uid="1705365291" type="2" value="0.706,0.698,0.624" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Roof_Ceramic/Roof_Ceramic" label="var03" >
+  <presetinput identifier="Slate_Overlap" uid="459905225" type="0" value="0" />
+  <presetinput identifier="Size_Variation" uid="459905249" type="0" value="0.26" />
+  <presetinput identifier="Slate_Type" uid="459905322" type="4" value="1" />
+  <presetinput identifier="Slates_Y" uid="459911508" type="4" value="10" />
+  <presetinput identifier="Slates_X" uid="459911593" type="4" value="10" />
+  <presetinput identifier="Offset" uid="459924049" type="0" value="0.958" />
+  <presetinput identifier="Shadow_Blur" uid="459993077" type="0" value="10" />
+  <presetinput identifier="Shadow" uid="459995538" type="0" value="0.244" />
+  <presetinput identifier="Dirt_Spread" uid="460099840" type="0" value="0.224" />
+  <presetinput identifier="Dirt" uid="460099860" type="0" value="1" />
+  <presetinput identifier="Colour_Variation" uid="460463566" type="0" value="0.27" />
+  <presetinput identifier="$outputsize" uid="525318160" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1212001858" type="4" value="797749103" />
+  <presetinput identifier="Slates_Colour" uid="1705365291" type="2" value="0.706,0.624,0.522" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Pavement_02/Pavement_02" label="var01" >
+  <presetinput identifier="$randomseed" uid="1043550354" type="4" value="-439282676" />
+  <presetinput identifier="$outputsize" uid="1765885632" type="8" value="10,10" />
+  <presetinput identifier="Age" uid="1836257963" type="0" value="0" />
+  <presetinput identifier="Paving_X" uid="1836265760" type="4" value="7" />
+  <presetinput identifier="Paving_Y" uid="1836265762" type="4" value="9" />
+  <presetinput identifier="Saturation" uid="1840495604" type="0" value="0.475" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Pavement_02/Pavement_02" label="var02" >
+  <presetinput identifier="$randomseed" uid="1043550354" type="4" value="-439282676" />
+  <presetinput identifier="$outputsize" uid="1765885632" type="8" value="10,10" />
+  <presetinput identifier="Normal" uid="1832372864" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="1832373218" type="0" value="0.191" />
+  <presetinput identifier="Depth" uid="1832843546" type="0" value="0.494" />
+  <presetinput identifier="Age" uid="1836257963" type="0" value="1" />
+  <presetinput identifier="Paving_X" uid="1836265760" type="4" value="11" />
+  <presetinput identifier="Paving_Y" uid="1836265762" type="4" value="11" />
+  <presetinput identifier="Hue_Shift" uid="1840495602" type="0" value="0.062" />
+  <presetinput identifier="Saturation" uid="1840495604" type="0" value="0.478" />
+  <presetinput identifier="Luminosity" uid="1840495607" type="0" value="0.453" />
+ </sbspreset>
+</sbspresets>

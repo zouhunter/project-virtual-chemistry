@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wood_Planks_02/Wood_Planks_02" label="var01" >
+  <presetinput identifier="Age" uid="2616415662" type="0" value="0.851" />
+  <presetinput identifier="$outputsize" uid="2672548980" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Planks_02/Wood_Planks_02" label="var02" >
+  <presetinput identifier="Planks" uid="2587601248" type="4" value="9" />
+  <presetinput identifier="Wood_Grain" uid="2606282891" type="0" value="0.704" />
+  <presetinput identifier="Age" uid="2616415662" type="0" value="0.695" />
+  <presetinput identifier="$outputsize" uid="2672548980" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Planks_02/Wood_Planks_02" label="var03" >
+  <presetinput identifier="Planks" uid="2587601248" type="4" value="4" />
+  <presetinput identifier="Wood_Grain" uid="2606282891" type="0" value="0.451" />
+  <presetinput identifier="Contrast" uid="2606729558" type="0" value="0.371" />
+  <presetinput identifier="Depth" uid="2606729693" type="0" value="1" />
+  <presetinput identifier="Sharpen" uid="2608541810" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2672548980" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3359230502" type="4" value="734386167" />
+ </sbspreset>
+</sbspresets>

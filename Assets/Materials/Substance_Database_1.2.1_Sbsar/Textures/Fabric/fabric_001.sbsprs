@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_001/fabric_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="3079214922" type="8" value="9,9" />
+  <presetinput identifier="Color" uid="3444470568" type="2" value="0.514,0.498,0.475" />
+  <presetinput identifier="Dirtiness" uid="3444471093" type="0" value="0" />
+  <presetinput identifier="Creases" uid="3444471094" type="0" value="0.797" />
+  <presetinput identifier="$randomseed" uid="3774546200" type="4" value="973269682" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_001/fabric_001" label="var02" >
+  <presetinput identifier="Emboss" uid="3000259023" type="0" value="0.887" />
+  <presetinput identifier="$outputsize" uid="3079214922" type="8" value="9,9" />
+  <presetinput identifier="Color" uid="3444470568" type="2" value="0.569,0.659,0.698" />
+  <presetinput identifier="Dirtiness" uid="3444471093" type="0" value="0.45" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_001/fabric_001" label="var03" >
+  <presetinput identifier="Normal" uid="3000258960" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3000259023" type="0" value="1" />
+  <presetinput identifier="Depth" uid="3000261474" type="0" value="0.49" />
+  <presetinput identifier="Luminosity" uid="3000348401" type="0" value="0.493" />
+  <presetinput identifier="$outputsize" uid="3079214922" type="8" value="9,9" />
+  <presetinput identifier="Color" uid="3444470568" type="2" value="0.502,0.698,0.549" />
+  <presetinput identifier="$randomseed" uid="3774546200" type="4" value="994128083" />
+ </sbspreset>
+</sbspresets>

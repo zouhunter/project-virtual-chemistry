@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Eye/Eye" label="var01" >
+  <presetinput identifier="$outputsize" uid="2338242242" type="8" value="9,9" />
+  <presetinput identifier="Detail_Color" uid="2400004533" type="2" value="0.255,0.259,0.471" />
+  <presetinput identifier="Iris_Color" uid="2400004749" type="2" value="0.086,0.816,0.925" />
+  <presetinput identifier="Veins" uid="2400008034" type="0" value="0.486" />
+  <presetinput identifier="Pupil_Size" uid="2400008035" type="0" value="0.646" />
+  <presetinput identifier="$randomseed" uid="3693914256" type="4" value="655203094" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Eye/Eye" label="var02" >
+  <presetinput identifier="$outputsize" uid="2338242242" type="8" value="9,9" />
+  <presetinput identifier="Detail_Color" uid="2400004533" type="2" value="0.439,0.341,0.22" />
+  <presetinput identifier="Iris_Color" uid="2400004749" type="2" value="0.012,0.169,0.192" />
+  <presetinput identifier="Globe_Color" uid="2400007495" type="2" value="1,0.557,0.565" />
+  <presetinput identifier="$randomseed" uid="3693914256" type="4" value="1336144081" />
+ </sbspreset>
+</sbspresets>

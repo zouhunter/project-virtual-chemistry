@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Tennis_Court/Tennis_Court" label="var01" >
+  <presetinput identifier="Dirt" uid="1112224695" type="0" value="1" />
+  <presetinput identifier="Court_Type" uid="1115000329" type="4" value="6" />
+  <presetinput identifier="Background_Scale" uid="1123910525" type="0" value="0.506" />
+  <presetinput identifier="$outputsize" uid="1203922503" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tennis_Court/Tennis_Court" label="var02" >
+  <presetinput identifier="$randomseed" uid="279998485" type="4" value="-1961603575" />
+  <presetinput identifier="Dirt" uid="1112224695" type="0" value="1" />
+  <presetinput identifier="Court_Type" uid="1115000329" type="4" value="4" />
+  <presetinput identifier="Background_Scale" uid="1123910525" type="0" value="0.506" />
+  <presetinput identifier="$outputsize" uid="1203922503" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tennis_Court/Tennis_Court" label="var03" >
+  <presetinput identifier="$randomseed" uid="279998485" type="4" value="-1961603575" />
+  <presetinput identifier="Dirt" uid="1112224695" type="0" value="0" />
+  <presetinput identifier="Court_Type" uid="1115000329" type="4" value="2" />
+  <presetinput identifier="Background_Scale" uid="1123910525" type="0" value="0.506" />
+  <presetinput identifier="Depth" uid="1136515485" type="0" value="0.061" />
+  <presetinput identifier="$outputsize" uid="1203922503" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tennis_Court/Tennis_Court" label="var04" >
+  <presetinput identifier="$randomseed" uid="279998485" type="4" value="-41079189" />
+  <presetinput identifier="Dirt" uid="1112224695" type="0" value="0.512" />
+  <presetinput identifier="Court_Type" uid="1115000329" type="4" value="3" />
+  <presetinput identifier="Background_Scale" uid="1123910525" type="0" value="0.506" />
+  <presetinput identifier="Depth" uid="1136515485" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1203922503" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood039/wood039" label="var01">
+  <presetinput identifier="$randomseed" uid="2497400683" type="4" value="-891772603"/>
+  <presetinput identifier="$outputsize" uid="3282655545" type="8" value="9,9"/>
+  <presetinput identifier="Pattern_Warp" uid="3336157553" type="0" value="0.723"/>
+  <presetinput identifier="Luminosity" uid="3338002562" type="0" value="0.475"/>
+  <presetinput identifier="Saturation" uid="3338002583" type="0" value="0.397"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood039/wood039" label="var02">
+  <presetinput identifier="$outputsize" uid="2445469562" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="2493406913" type="0" value="0.475"/>
+  <presetinput identifier="Saturation" uid="2493406932" type="0" value="0.397"/>
+  <presetinput identifier="Pattern_Warp" uid="2494695218" type="0" value="0.723"/>
+  <presetinput identifier="Stains" uid="2494695372" type="0" value="0.299"/>
+  <presetinput identifier="$randomseed" uid="3333484840" type="4" value="-426080276"/>
+  <presetinput identifier="Wood_Color" uid="3943572912" type="2" value="0.69,0.353,0.055"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood039/wood039" label="var03">
+  <presetinput identifier="$outputsize" uid="2445469562" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="2493406913" type="0" value="0.475"/>
+  <presetinput identifier="Saturation" uid="2493406932" type="0" value="0.397"/>
+  <presetinput identifier="Pattern_Warp" uid="2494695218" type="0" value="1"/>
+  <presetinput identifier="Stains" uid="2494695372" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="3333484840" type="4" value="-1356876057"/>
+  <presetinput identifier="Battens" uid="3943572549" type="4" value="1"/>
+  <presetinput identifier="Wood_Color" uid="3943572912" type="2" value="0.69,0.353,0.055"/>
+ </sbspreset>
+</sbspresets>

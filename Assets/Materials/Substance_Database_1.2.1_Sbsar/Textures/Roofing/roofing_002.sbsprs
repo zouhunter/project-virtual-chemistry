@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="5" >
+ <sbspreset pkgurl="pkg://roofing_002/roofing_002" label="var01" >
+  <presetinput identifier="Cracks" uid="3508641700" type="0" value="0.023" />
+  <presetinput identifier="Dust" uid="3508686965" type="0" value="0.069" />
+  <presetinput identifier="$outputsize" uid="3561749503" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_002/roofing_002" label="var02" >
+  <presetinput identifier="Cracks" uid="3508641700" type="0" value="0.023" />
+  <presetinput identifier="Dust" uid="3508686965" type="0" value="0.069" />
+  <presetinput identifier="Rain" uid="3512789839" type="4" value="1" />
+  <presetinput identifier="$outputsize" uid="3561749503" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_002/roofing_002" label="var03" >
+  <presetinput identifier="Cracks" uid="3508641700" type="0" value="0.023" />
+  <presetinput identifier="Dust" uid="3508686965" type="0" value="0.597" />
+  <presetinput identifier="Moss_Amount" uid="3509221034" type="0" value="0.784" />
+  <presetinput identifier="$outputsize" uid="3561749503" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_002/roofing_002" label="var04" >
+  <presetinput identifier="Cracks" uid="3508641700" type="0" value="1" />
+  <presetinput identifier="Dust" uid="3508686965" type="0" value="1" />
+  <presetinput identifier="Moss_Amount" uid="3509221034" type="0" value="0.892" />
+  <presetinput identifier="$outputsize" uid="3561749503" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_002/roofing_002" label="var05" >
+  <presetinput identifier="Cracks" uid="3508641700" type="0" value="0.365" />
+  <presetinput identifier="Dust" uid="3508686965" type="0" value="0.905" />
+  <presetinput identifier="Moss_Amount" uid="3509221034" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3561749503" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

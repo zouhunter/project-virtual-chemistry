@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://roofing_006/roofing_006" label="var01" >
+  <presetinput identifier="$outputsize" uid="329209200" type="8" value="9,9" />
+  <presetinput identifier="Roof_Color" uid="381514054" type="2" value="0.208,0.145,0.098" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1768534129" type="4" value="5" />
+  <presetinput identifier="Dirtiness" uid="1768605632" type="0" value="0.025" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_006/roofing_006" label="var02" >
+  <presetinput identifier="$outputsize" uid="329209200" type="8" value="9,9" />
+  <presetinput identifier="Moss_Amount" uid="378249938" type="0" value="0.595" />
+  <presetinput identifier="Roof_Color" uid="381514054" type="2" value="0.192,0.208,0.196" />
+  <presetinput identifier="Luminosity" uid="381938891" type="0" value="0.505" />
+  <presetinput identifier="$randomseed" uid="1156399906" type="4" value="-1179899211" />
+  <presetinput identifier="Contrast" uid="1767160371" type="0" value="-0.027" />
+  <presetinput identifier="Tiles_Amount_X" uid="1768534075" type="4" value="10" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1768534129" type="4" value="20" />
+  <presetinput identifier="Dirtiness" uid="1768605632" type="0" value="0.722" />
+ </sbspreset>
+</sbspresets>

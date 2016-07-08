@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_023/concrete_023" label="var01" >
+  <presetinput identifier="$randomseed" uid="151307105" type="4" value="1262741429" />
+  <presetinput identifier="Metal_tube" uid="1532773154" type="4" value="1" />
+  <presetinput identifier="Cracks_Offset" uid="1532786413" type="1" value="0.352,0.773" />
+  <presetinput identifier="Cracks" uid="1532820185" type="4" value="1" />
+  <presetinput identifier="Frame" uid="1532932193" type="4" value="1" />
+  <presetinput identifier="Paint_Color" uid="1532952440" type="2" value="0.282,0.29,0.282" />
+  <presetinput identifier="Age" uid="1532973186" type="0" value="0.439" />
+  <presetinput identifier="Holes" uid="1532998815" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="1584846131" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_023/concrete_023" label="var02" >
+  <presetinput identifier="$randomseed" uid="151307105" type="4" value="-175740897" />
+  <presetinput identifier="Contrast" uid="612549747" type="0" value="0.062" />
+  <presetinput identifier="Cracks_Offset" uid="1532786413" type="1" value="0.352,0.773" />
+  <presetinput identifier="Cracks" uid="1532820185" type="4" value="1" />
+  <presetinput identifier="Frame_Color" uid="1532952425" type="2" value="0.208,0.216,0.263" />
+  <presetinput identifier="Paint_Color" uid="1532952440" type="2" value="0.235,0.235,0.29" />
+  <presetinput identifier="Metal_Tube_Offset" uid="1532968570" type="0" value="0.106" />
+  <presetinput identifier="Age" uid="1532973186" type="0" value="0.459" />
+  <presetinput identifier="Holes" uid="1532998815" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="1584846131" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

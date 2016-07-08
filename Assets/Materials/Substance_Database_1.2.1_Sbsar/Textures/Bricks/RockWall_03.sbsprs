@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.0" count="1" >
+ <sbspreset pkgurl="pkg://RockWall_03/RockWall_03" label="var01" >
+  <presetinput identifier="Wall_Color" uid="2415865045" type="2" value="0.863,0.863,0.863" />
+  <presetinput identifier="$randomseed" uid="2724032600" type="4" value="815838882" />
+  <presetinput identifier="Brick_X" uid="4046677535" type="4" value="4" />
+  <presetinput identifier="Brick_Y" uid="4046677561" type="4" value="10" />
+  <presetinput identifier="Depth" uid="4048607696" type="0" value="1" />
+  <presetinput identifier="Light_Angle" uid="4049134895" type="0" value="0.189" />
+  <presetinput identifier="Age" uid="4049200328" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4113524234" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

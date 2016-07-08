@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_floor_001/metal_floor_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="2296297396" type="8" value="9,9" />
+  <presetinput identifier="Rivets" uid="4061311259" type="4" value="0" />
+  <presetinput identifier="Basepatterns_Amount_Y" uid="4061467258" type="4" value="5" />
+  <presetinput identifier="Basepatterns_Amount_X" uid="4061468037" type="4" value="4" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_001/metal_floor_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="2296297396" type="8" value="9,9" />
+  <presetinput identifier="Scratches" uid="4061294707" type="0" value="1" />
+  <presetinput identifier="Rust" uid="4061295629" type="0" value="0.37" />
+  <presetinput identifier="Rivet_Warping" uid="4061311237" type="0" value="0.378" />
+  <presetinput identifier="Basepatterns_Amount_Y" uid="4061467258" type="4" value="9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_001/metal_floor_001" label="var03" >
+  <presetinput identifier="$outputsize" uid="2296297396" type="8" value="9,9" />
+  <presetinput identifier="Scratches" uid="4061294707" type="0" value="1" />
+  <presetinput identifier="Rust" uid="4061295629" type="0" value="1" />
+  <presetinput identifier="Rivet_Size" uid="4061307333" type="0" value="0.802" />
+  <presetinput identifier="Rivet_Warping" uid="4061311237" type="0" value="0.378" />
+  <presetinput identifier="Basepatterns_Amount_Y" uid="4061467258" type="4" value="9" />
+ </sbspreset>
+</sbspresets>

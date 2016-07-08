@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Bubblewrapped/Bubblewrapped" label="var01" >
+  <presetinput identifier="$outputsize" uid="3150122750" type="8" value="10,10" />
+  <presetinput identifier="Luminosity" uid="3214153304" type="0" value="0.545" />
+  <presetinput identifier="Saturation" uid="3214153323" type="0" value="0.521" />
+  <presetinput identifier="Emboss" uid="3214156557" type="0" value="9.688" />
+  <presetinput identifier="Light_Angle" uid="3214156840" type="0" value="0.147" />
+  <presetinput identifier="Bubble_Size" uid="3214751337" type="0" value="0.141" />
+  <presetinput identifier="$randomseed" uid="3971029164" type="4" value="-1178472126" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bubblewrapped/Bubblewrapped" label="var02" >
+  <presetinput identifier="$outputsize" uid="3150122750" type="8" value="10,10" />
+  <presetinput identifier="Luminosity" uid="3214153304" type="0" value="0.545" />
+  <presetinput identifier="Saturation" uid="3214153323" type="0" value="0.521" />
+  <presetinput identifier="Emboss" uid="3214156557" type="0" value="9.688" />
+  <presetinput identifier="Light_Angle" uid="3214156840" type="0" value="0.764" />
+  <presetinput identifier="Bubble_Size" uid="3214751337" type="0" value="0.926" />
+  <presetinput identifier="Bubble_Y" uid="3215343270" type="4" value="6" />
+  <presetinput identifier="Bubble_X" uid="3215343283" type="4" value="6" />
+  <presetinput identifier="$randomseed" uid="3971029164" type="4" value="-311019957" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bubblewrapped/Bubblewrapped" label="var03" >
+  <presetinput identifier="$outputsize" uid="3150122750" type="8" value="10,10" />
+  <presetinput identifier="Luminosity" uid="3214153304" type="0" value="0.545" />
+  <presetinput identifier="Saturation" uid="3214153323" type="0" value="0.521" />
+  <presetinput identifier="Emboss" uid="3214156557" type="0" value="9.688" />
+  <presetinput identifier="Light_Angle" uid="3214156840" type="0" value="0.239" />
+  <presetinput identifier="Warp" uid="3214160559" type="0" value="1" />
+  <presetinput identifier="Bubble_Size" uid="3214751337" type="0" value="0.926" />
+  <presetinput identifier="Bubble_Y" uid="3215343270" type="4" value="11" />
+  <presetinput identifier="Bubble_X" uid="3215343283" type="4" value="12" />
+  <presetinput identifier="Depth" uid="3216693547" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="3971029164" type="4" value="-311019957" />
+ </sbspreset>
+</sbspresets>

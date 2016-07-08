@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Dry_Ground_01/Dry_Ground_01" label="var01" >
+  <presetinput identifier="$outputsize" uid="3672858637" type="8" value="9,9" />
+  <presetinput identifier="Crack_Size" uid="3733305091" type="0" value="0.439" />
+  <presetinput identifier="Age" uid="3737003049" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Dry_Ground_01/Dry_Ground_01" label="var02" >
+  <presetinput identifier="$outputsize" uid="3672858637" type="8" value="9,9" />
+  <presetinput identifier="Crack_Size" uid="3733305091" type="0" value="0.101" />
+  <presetinput identifier="Age" uid="3737003049" type="0" value="0.789" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Dry_Ground_01/Dry_Ground_01" label="var03" >
+  <presetinput identifier="$outputsize" uid="3672858637" type="8" value="9,9" />
+  <presetinput identifier="Crack_Size" uid="3733305091" type="0" value="0.036" />
+  <presetinput identifier="Emboss" uid="3734203214" type="0" value="10" />
+  <presetinput identifier="Normal" uid="3734203218" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

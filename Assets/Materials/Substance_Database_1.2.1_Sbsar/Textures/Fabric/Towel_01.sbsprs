@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Towel_01/Towel_01" label="var01" >
+  <presetinput identifier="Strands_Chaos" uid="2686536188" type="0" value="0" />
+  <presetinput identifier="Depth" uid="2712771886" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2781750004" type="8" value="9,9" />
+  <presetinput identifier="Input" uid="3743362967" type="2" value="0.475,0.655,0.871" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Towel_01/Towel_01" label="var02" >
+  <presetinput identifier="Strands_Chaos" uid="2686536188" type="0" value="0.254" />
+  <presetinput identifier="Depth" uid="2712771886" type="0" value="-1" />
+  <presetinput identifier="Emboss" uid="2713297389" type="0" value="0.586" />
+  <presetinput identifier="$outputsize" uid="2781750004" type="8" value="9,9" />
+  <presetinput identifier="Input" uid="3743362967" type="2" value="0.541,0.871,0.439" />
+  <presetinput identifier="$randomseed" uid="4072420518" type="4" value="348683510" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Towel_01/Towel_01" label="var03" >
+  <presetinput identifier="Strands_Chaos" uid="2686536188" type="0" value="1" />
+  <presetinput identifier="Depth" uid="2712771886" type="0" value="-0.426" />
+  <presetinput identifier="Emboss" uid="2713297389" type="0" value="10" />
+  <presetinput identifier="$outputsize" uid="2781750004" type="8" value="9,9" />
+  <presetinput identifier="Input" uid="3743362967" type="2" value="0.8,0.235,0.216" />
+  <presetinput identifier="$randomseed" uid="4072420518" type="4" value="348683510" />
+ </sbspreset>
+</sbspresets>

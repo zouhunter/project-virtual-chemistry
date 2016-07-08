@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Corrugated_Tin_Plates/Corrugated_Tin_Plates" label="var01" >
+  <presetinput identifier="Metal_Color" uid="2351938360" type="2" value="0.549,0.612,0.659" />
+  <presetinput identifier="$randomseed" uid="2710415794" type="4" value="-143396279" />
+  <presetinput identifier="Detail" uid="4065600144" type="0" value="0.164" />
+  <presetinput identifier="Normal" uid="4069510362" type="0" value="0.869" />
+  <presetinput identifier="Emboss" uid="4069511901" type="0" value="5.176" />
+  <presetinput identifier="$outputsize" uid="4143955936" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Corrugated_Tin_Plates/Corrugated_Tin_Plates" label="var02" >
+  <presetinput identifier="Metal_Color" uid="2351938360" type="2" value="0.659,0.643,0.431" />
+  <presetinput identifier="$randomseed" uid="2710415794" type="4" value="-143396279" />
+  <presetinput identifier="Detail" uid="4065600144" type="0" value="0.756" />
+  <presetinput identifier="Depth" uid="4068550491" type="0" value="0.352" />
+  <presetinput identifier="Normal" uid="4069510362" type="0" value="0.761" />
+  <presetinput identifier="Luminosity" uid="4069510378" type="0" value="0.473" />
+  <presetinput identifier="Saturation" uid="4069510379" type="0" value="0.465" />
+  <presetinput identifier="Emboss" uid="4069511901" type="0" value="5.332" />
+  <presetinput identifier="$outputsize" uid="4143955936" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

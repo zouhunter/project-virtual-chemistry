@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood043/wood043" label="var01">
+  <presetinput identifier="$outputsize" uid="466597639" type="8" value="9,9"/>
+  <presetinput identifier="Scratches" uid="511834542" type="0" value="0.398"/>
+  <presetinput identifier="Light_Angle" uid="512946458" type="0" value="0.117"/>
+  <presetinput identifier="Dirtiness" uid="515435507" type="0" value="0.842"/>
+  <presetinput identifier="Age" uid="515444611" type="0" value="0.709"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood043/wood043" label="var02">
+  <presetinput identifier="$outputsize" uid="466597639" type="8" value="9,9"/>
+  <presetinput identifier="Scratches" uid="511834542" type="0" value="1"/>
+  <presetinput identifier="Light_Angle" uid="512946458" type="0" value="0.117"/>
+  <presetinput identifier="Saturation" uid="512954025" type="0" value="0.342"/>
+  <presetinput identifier="Dirtiness" uid="515435507" type="0" value="0.842"/>
+  <presetinput identifier="Age" uid="515444611" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="1287496021" type="4" value="1158580045"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood043/wood043" label="var03">
+  <presetinput identifier="Wood_Color" uid="2639801405" type="2" value="0.302,0.165,0.075"/>
+  <presetinput identifier="Battens" uid="2639817892" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="2968573831" type="4" value="1207612246"/>
+  <presetinput identifier="Scratches" uid="3805056892" type="0" value="1"/>
+  <presetinput identifier="Saturation" uid="3806230651" type="0" value="0.342"/>
+  <presetinput identifier="Light_Angle" uid="3806300104" type="0" value="0.117"/>
+  <presetinput identifier="Age" uid="3807672657" type="0" value="1"/>
+  <presetinput identifier="Dirtiness" uid="3807747361" type="0" value="0.99"/>
+  <presetinput identifier="$outputsize" uid="3884106197" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_plate_007/metal_plate_007" label="var01" >
+  <presetinput identifier="$outputsize" uid="667775940" type="8" value="9,9" />
+  <presetinput identifier="Metal_Color" uid="1564045190" type="2" value="0.749,0.678,0.678" />
+  <presetinput identifier="Tiles_Amount_X" uid="1564054564" type="4" value="19" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1564054566" type="4" value="10" />
+  <presetinput identifier="$randomseed" uid="1891591574" type="4" value="-760918724" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_007/metal_plate_007" label="var02" >
+  <presetinput identifier="Dirtiness" uid="581860114" type="0" value="0.366" />
+  <presetinput identifier="$outputsize" uid="667775940" type="8" value="9,9" />
+  <presetinput identifier="Metal_Color" uid="1564045190" type="2" value="0.749,0.678,0.678" />
+  <presetinput identifier="Color_Variation" uid="1564053668" type="0" value="0.854" />
+  <presetinput identifier="Scratches" uid="1564054556" type="0" value="1" />
+  <presetinput identifier="Tiles_Amount_X" uid="1564054564" type="4" value="6" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1564054566" type="4" value="2" />
+  <presetinput identifier="Tiles_Offset" uid="1564054626" type="0" value="0.359" />
+  <presetinput identifier="$randomseed" uid="1891591574" type="4" value="-1277097762" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_007/metal_plate_007" label="var03" >
+  <presetinput identifier="Light_Angle" uid="579876313" type="0" value="0.331" />
+  <presetinput identifier="Rust" uid="581835462" type="0" value="0.885" />
+  <presetinput identifier="Dirtiness" uid="581860114" type="0" value="0.154" />
+  <presetinput identifier="$outputsize" uid="667775940" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="1563483305" type="0" value="0.148" />
+  <presetinput identifier="Rust_Color" uid="1564045184" type="2" value="0.459,0.353,0.333" />
+  <presetinput identifier="Metal_Color" uid="1564045190" type="2" value="0.631,0.624,0.624" />
+  <presetinput identifier="Color_Variation" uid="1564053668" type="0" value="0.854" />
+  <presetinput identifier="Scratches" uid="1564054556" type="0" value="1" />
+  <presetinput identifier="Tiles_Amount_X" uid="1564054564" type="4" value="20" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1564054566" type="4" value="20" />
+  <presetinput identifier="Tiles_Offset" uid="1564054626" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="1891591574" type="4" value="1332312018" />
+ </sbspreset>
+</sbspresets>

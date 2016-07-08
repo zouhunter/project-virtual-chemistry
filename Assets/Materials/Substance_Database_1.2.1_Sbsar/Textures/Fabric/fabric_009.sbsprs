@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_009/fabric_009" label="var02" >
+  <presetinput identifier="$outputsize" uid="3210668422" type="8" value="9,9" />
+  <presetinput identifier="Cloth_Color" uid="3314899226" type="2" value="0.357,0.353,0.243" />
+  <presetinput identifier="Seams_Offset" uid="3314899235" type="0" value="0.442" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_009/fabric_009" label="var03" >
+  <presetinput identifier="$outputsize" uid="3210668422" type="8" value="9,9" />
+  <presetinput identifier="Seams_Color" uid="3314895189" type="2" value="0.91,0.016,0.031" />
+  <presetinput identifier="Cloth_Color" uid="3314899226" type="2" value="0.306,0.357,0.341" />
+  <presetinput identifier="Scale" uid="3314899229" type="0" value="0.438" />
+  <presetinput identifier="Seams_Offset" uid="3314899235" type="0" value="0.766" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_009/fabric_009" label="var01" >
+  <presetinput identifier="$outputsize" uid="3210668422" type="8" value="9,9" />
+  <presetinput identifier="Cloth_Color" uid="3314899226" type="2" value="0.255,0.341,0.357" />
+  <presetinput identifier="Seams" uid="3314899228" type="4" value="1" />
+  <presetinput identifier="Contrast" uid="3315357054" type="0" value="0.084" />
+  <presetinput identifier="$randomseed" uid="3895263188" type="4" value="-1016033554" />
+ </sbspreset>
+</sbspresets>

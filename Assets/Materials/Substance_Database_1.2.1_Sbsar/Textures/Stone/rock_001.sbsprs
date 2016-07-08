@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://rock_001/rock_001" label="var01" >
+  <presetinput identifier="Rock_Color" uid="167976023" type="2" value="0.427,0.412,0.38" />
+  <presetinput identifier="Cracks_Disorder" uid="167990988" type="0" value="0.64" />
+  <presetinput identifier="Age" uid="168030659" type="0" value="0" />
+  <presetinput identifier="Moss" uid="168032504" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="664805903" type="4" value="-586444503" />
+  <presetinput identifier="$outputsize" uid="1892824157" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_001/rock_001" label="var02" >
+  <presetinput identifier="Rock_Color" uid="167976023" type="2" value="0.38,0.388,0.427" />
+  <presetinput identifier="Small_Cracks" uid="167987401" type="0" value="0.914" />
+  <presetinput identifier="Cracks_Disorder" uid="167990988" type="0" value="0.64" />
+  <presetinput identifier="Age" uid="168030659" type="0" value="0.98" />
+  <presetinput identifier="Moss" uid="168032504" type="0" value="0.534" />
+  <presetinput identifier="$randomseed" uid="664805903" type="4" value="-1126042385" />
+  <presetinput identifier="$outputsize" uid="1892824157" type="8" value="9,9" />
+  <presetinput identifier="Luminosity" uid="1972276710" type="0" value="0.466" />
+  <presetinput identifier="Saturation" uid="1972276723" type="0" value="0.52" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_001/rock_001" label="var03" >
+  <presetinput identifier="Aged_Rock_Color" uid="167961615" type="2" value="0.137,0.133,0.133" />
+  <presetinput identifier="Rock_Color" uid="167976023" type="2" value="0.953,0.953,0.953" />
+  <presetinput identifier="Small_Cracks" uid="167987401" type="0" value="0.914" />
+  <presetinput identifier="Cracks_Disorder" uid="167990988" type="0" value="1" />
+  <presetinput identifier="Age" uid="168030659" type="0" value="0.958" />
+  <presetinput identifier="Moss" uid="168032504" type="0" value="0.85" />
+  <presetinput identifier="$randomseed" uid="664805903" type="4" value="1693249315" />
+  <presetinput identifier="$outputsize" uid="1892824157" type="8" value="9,9" />
+  <presetinput identifier="Luminosity" uid="1972276710" type="0" value="0.412" />
+  <presetinput identifier="Saturation" uid="1972276723" type="0" value="0.479" />
+  <presetinput identifier="Normal" uid="1972335239" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

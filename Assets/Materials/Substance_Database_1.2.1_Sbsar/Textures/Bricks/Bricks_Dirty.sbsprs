@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Bricks_Dirty/Bricks_Dirty" label="var01" >
+  <presetinput identifier="$outputsize" uid="4221100051" type="8" value="10,10" />
+  <presetinput identifier="Stains" uid="4227902112" type="0" value="0.658" />
+  <presetinput identifier="Warp" uid="4242222281" type="0" value="89.453" />
+  <presetinput identifier="Emboss" uid="4282334258" type="0" value="-4.941" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bricks_Dirty/Bricks_Dirty" label="var02" >
+  <presetinput identifier="$outputsize" uid="4221100051" type="8" value="10,10" />
+  <presetinput identifier="Stains" uid="4227902112" type="0" value="0.658" />
+  <presetinput identifier="Warp" uid="4242222281" type="0" value="89.453" />
+  <presetinput identifier="Emboss" uid="4282334258" type="0" value="8.203" />
+  <presetinput identifier="Light_Angle" uid="4282335181" type="0" value="0.658" />
+  <presetinput identifier="Hue_Shift" uid="4282371008" type="0" value="0.063" />
+  <presetinput identifier="Saturation" uid="4282371017" type="0" value="0.565" />
+  <presetinput identifier="Depth" uid="4294837116" type="0" value="1" />
+  <presetinput identifier="Bricks_X" uid="4294841657" type="4" value="17" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bricks_Dirty/Bricks_Dirty" label="var03" >
+  <presetinput identifier="Mortar_Color" uid="2168934448" type="2" value="0.596,0.596,0.561" />
+  <presetinput identifier="$outputsize" uid="4221100051" type="8" value="10,10" />
+  <presetinput identifier="Stains" uid="4227902112" type="0" value="0.658" />
+  <presetinput identifier="Warp" uid="4242222281" type="0" value="89.453" />
+  <presetinput identifier="Emboss" uid="4282334258" type="0" value="8.203" />
+  <presetinput identifier="Light_Angle" uid="4282335181" type="0" value="0.658" />
+  <presetinput identifier="Hue_Shift" uid="4282371008" type="0" value="0.1" />
+  <presetinput identifier="Saturation" uid="4282371017" type="0" value="0.502" />
+  <presetinput identifier="Luminosity" uid="4282371060" type="0" value="0.543" />
+  <presetinput identifier="Depth" uid="4294837116" type="0" value="0.023" />
+  <presetinput identifier="Bricks_Y" uid="4294841638" type="4" value="20" />
+  <presetinput identifier="Bricks_X" uid="4294841657" type="4" value="5" />
+  <presetinput identifier="Age" uid="4294850581" type="0" value="0.855" />
+ </sbspreset>
+</sbspresets>

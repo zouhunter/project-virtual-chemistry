@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Woven_Leather/Woven_Leather" label="var01" >
+  <presetinput identifier="$outputsize" uid="2182899024" type="8" value="9,9" />
+  <presetinput identifier="Warp" uid="2252917005" type="0" value="1" />
+  <presetinput identifier="Strips" uid="2252943481" type="4" value="3" />
+  <presetinput identifier="Age" uid="2253009336" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Woven_Leather/Woven_Leather" label="var02" >
+  <presetinput identifier="$outputsize" uid="2182899024" type="8" value="9,9" />
+  <presetinput identifier="Warp" uid="2252917005" type="0" value="1" />
+  <presetinput identifier="Strips" uid="2252943481" type="4" value="1" />
+  <presetinput identifier="Age" uid="2253009336" type="0" value="0.546" />
+  <presetinput identifier="Depth" uid="2254691742" type="0" value="0.523" />
+  <presetinput identifier="Angle" uid="2255306278" type="0" value="0.269" />
+  <presetinput identifier="Emboss" uid="2255306490" type="0" value="10" />
+  <presetinput identifier="$randomseed" uid="3580785410" type="4" value="996861815" />
+  <presetinput identifier="Leather_Color" uid="4173778252" type="2" value="0.514,0.624,0.596" />
+ </sbspreset>
+</sbspresets>

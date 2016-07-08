@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://marble_002/marble_002" label="var01" >
+  <presetinput identifier="$outputsize" uid="2703544302" type="8" value="9,9" />
+  <presetinput identifier="Cracks_Scale" uid="3690463888" type="4" value="4" />
+  <presetinput identifier="Holes" uid="3690521650" type="0" value="1" />
+  <presetinput identifier="Base_Color" uid="3690602999" type="2" value="0.608,0.616,0.659" />
+  <presetinput identifier="$randomseed" uid="4132886972" type="4" value="-1514062222" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://marble_002/marble_002" label="var02" >
+  <presetinput identifier="$outputsize" uid="2703544302" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="2759357991" type="0" value="0.656" />
+  <presetinput identifier="Weathering" uid="3688243972" type="0" value="0.362" />
+  <presetinput identifier="Cracks_Scale" uid="3690463888" type="4" value="12" />
+  <presetinput identifier="Base_Color" uid="3690602999" type="2" value="0.365,0.365,0.357" />
+  <presetinput identifier="$randomseed" uid="4132886972" type="4" value="204993266" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Marble_01/Marble_01" label="var01" >
+  <presetinput identifier="$outputsize" uid="39120111" type="8" value="9,9" />
+  <presetinput identifier="Roughness" uid="107577253" type="0" value="0" />
+  <presetinput identifier="Luminosity" uid="111546840" type="0" value="0.548" />
+  <presetinput identifier="Saturation" uid="111546843" type="0" value="0.35" />
+  <presetinput identifier="Hue_Shift" uid="111546845" type="0" value="0.452" />
+  <presetinput identifier="$randomseed" uid="1428617917" type="4" value="1964227262" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Marble_01/Marble_01" label="var02" >
+  <presetinput identifier="$outputsize" uid="39120111" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="103502645" type="0" value="0.047" />
+  <presetinput identifier="Roughness" uid="107577253" type="0" value="0.428" />
+  <presetinput identifier="Luminosity" uid="111546840" type="0" value="0.418" />
+  <presetinput identifier="Saturation" uid="111546843" type="0" value="0.544" />
+  <presetinput identifier="Hue_Shift" uid="111546845" type="0" value="0.184" />
+  <presetinput identifier="$randomseed" uid="1428617917" type="4" value="1125282890" />
+ </sbspreset>
+</sbspresets>

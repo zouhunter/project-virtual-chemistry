@@ -1,0 +1,48 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Banana_Skin/Banana_Skin" label="var01" >
+  <presetinput identifier="$randomseed" uid="371540575" type="4" value="-582713149" />
+  <presetinput identifier="$outputsize" uid="1096242189" type="8" value="10,10" />
+  <presetinput identifier="Ripeness" uid="1150343746" type="0" value="0" />
+  <presetinput identifier="Emboss" uid="1159780116" type="0" value="7.715" />
+  <presetinput identifier="Light_Angle" uid="1159780136" type="0" value="0.197" />
+  <presetinput identifier="Saturation" uid="1168484665" type="0" value="0.493" />
+  <presetinput identifier="Luminosity" uid="1168484666" type="0" value="0.515" />
+  <presetinput identifier="Hue_Shift" uid="1168484671" type="0" value="0.032" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Banana_Skin/Banana_Skin" label="var02" >
+  <presetinput identifier="$randomseed" uid="371540575" type="4" value="1632621098" />
+  <presetinput identifier="$outputsize" uid="1096242189" type="8" value="10,10" />
+  <presetinput identifier="Ripeness" uid="1150343746" type="0" value="0.274" />
+  <presetinput identifier="Emboss" uid="1159780116" type="0" value="10" />
+  <presetinput identifier="Light_Angle" uid="1159780136" type="0" value="0.2" />
+  <presetinput identifier="Contrast" uid="1159846191" type="0" value="0.041" />
+  <presetinput identifier="Depth" uid="1160309719" type="0" value="0.008" />
+  <presetinput identifier="Saturation" uid="1168484665" type="0" value="0.499" />
+  <presetinput identifier="Luminosity" uid="1168484666" type="0" value="0.488" />
+  <presetinput identifier="Hue_Shift" uid="1168484671" type="0" value="0.002" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Banana_Skin/Banana_Skin" label="var03" >
+  <presetinput identifier="$randomseed" uid="371540575" type="4" value="359212728" />
+  <presetinput identifier="$outputsize" uid="1096242189" type="8" value="10,10" />
+  <presetinput identifier="Ripeness" uid="1150343746" type="0" value="0.565" />
+  <presetinput identifier="Emboss" uid="1159780116" type="0" value="10" />
+  <presetinput identifier="Light_Angle" uid="1159780136" type="0" value="0.2" />
+  <presetinput identifier="Contrast" uid="1159846191" type="0" value="0.041" />
+  <presetinput identifier="Depth" uid="1160309719" type="0" value="0.008" />
+  <presetinput identifier="Saturation" uid="1168484665" type="0" value="0.432" />
+  <presetinput identifier="Luminosity" uid="1168484666" type="0" value="0.512" />
+  <presetinput identifier="Hue_Shift" uid="1168484671" type="0" value="0.002" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Banana_Skin/Banana_Skin" label="var04" >
+  <presetinput identifier="$randomseed" uid="371540575" type="4" value="-202871171" />
+  <presetinput identifier="$outputsize" uid="1096242189" type="8" value="10,10" />
+  <presetinput identifier="Ripeness" uid="1150343746" type="0" value="0.784" />
+  <presetinput identifier="Emboss" uid="1159780116" type="0" value="10" />
+  <presetinput identifier="Light_Angle" uid="1159780136" type="0" value="0.2" />
+  <presetinput identifier="Contrast" uid="1159846191" type="0" value="0.041" />
+  <presetinput identifier="Depth" uid="1160309719" type="0" value="0.008" />
+  <presetinput identifier="Saturation" uid="1168484665" type="0" value="0.307" />
+  <presetinput identifier="Luminosity" uid="1168484666" type="0" value="0.512" />
+  <presetinput identifier="Hue_Shift" uid="1168484671" type="0" value="0.002" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,39 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://wood037/wood037" label="var01">
+  <presetinput identifier="$randomseed" uid="3147938302" type="4" value="-583643451"/>
+  <presetinput identifier="Saturation" uid="3918468610" type="0" value="0.29"/>
+  <presetinput identifier="$outputsize" uid="3973296044" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood037/wood037" label="var04">
+  <presetinput identifier="Battens" uid="2517172957" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="3147938302" type="4" value="510771514"/>
+  <presetinput identifier="Saturation" uid="3918468610" type="0" value="0.517"/>
+  <presetinput identifier="Luminosity" uid="3918468631" type="0" value="0.53"/>
+  <presetinput identifier="Lines_Scale" uid="3919439520" type="0" value="0.581"/>
+  <presetinput identifier="Wood_veins" uid="3920067776" type="0" value="1"/>
+  <presetinput identifier="Knots" uid="3920068661" type="0" value="0.83"/>
+  <presetinput identifier="Age" uid="3920076404" type="0" value="0.702"/>
+  <presetinput identifier="$outputsize" uid="3973296044" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood037/wood037" label="var03">
+  <presetinput identifier="Knots" uid="2195526082" type="0" value="0.83"/>
+  <presetinput identifier="Wood_veins" uid="2195582263" type="0" value="1"/>
+  <presetinput identifier="Lines_Scale" uid="2196207447" type="0" value="0.581"/>
+  <presetinput identifier="Luminosity" uid="2197129184" type="0" value="0.53"/>
+  <presetinput identifier="Saturation" uid="2197129205" type="0" value="0.468"/>
+  <presetinput identifier="$outputsize" uid="2276015707" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3504023561" type="4" value="510771514"/>
+  <presetinput identifier="Wood_Color" uid="4252226483" type="2" value="0.49,0.369,0.157"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood037/wood037" label="var02">
+  <presetinput identifier="Age" uid="2195525507" type="0" value="0.143"/>
+  <presetinput identifier="Wood_veins" uid="2195582263" type="0" value="0.041"/>
+  <presetinput identifier="Lines_Scale" uid="2196207447" type="0" value="0"/>
+  <presetinput identifier="Light_Angle" uid="2197059654" type="0" value="0.658"/>
+  <presetinput identifier="Luminosity" uid="2197129184" type="0" value="0.582"/>
+  <presetinput identifier="Saturation" uid="2197129205" type="0" value="0.547"/>
+  <presetinput identifier="$outputsize" uid="2276015707" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3504023561" type="4" value="510771514"/>
+  <presetinput identifier="Wood_Color" uid="4252226483" type="2" value="0.176,0.145,0.086"/>
+ </sbspreset>
+</sbspresets>

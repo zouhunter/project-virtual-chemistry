@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Scratched_Concrete/Scratched_Concrete" label="var01" >
+  <presetinput identifier="Age" uid="288012505" type="0" value="0.604" />
+  <presetinput identifier="Speckles" uid="288973962" type="0" value="0.606" />
+  <presetinput identifier="$outputsize" uid="354256350" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="1875324124" type="2" value="0.502,0.475,0.424" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Scratched_Concrete/Scratched_Concrete" label="var02" >
+  <presetinput identifier="Age" uid="288012505" type="0" value="0.72" />
+  <presetinput identifier="Speckles" uid="288973962" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="354256350" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="1875324124" type="2" value="0.643,0.635,0.675" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Scratched_Concrete/Scratched_Concrete" label="var03" >
+  <presetinput identifier="Age" uid="288012505" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="288012530" type="0" value="0.277" />
+  <presetinput identifier="$outputsize" uid="354256350" type="8" value="9,9" />
+  <presetinput identifier="Concrete_Color" uid="1875324124" type="2" value="0.533,0.533,0.533" />
+ </sbspreset>
+</sbspresets>

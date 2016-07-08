@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_031/concrete_031" label="var01" >
+  <presetinput identifier="Weathering" uid="2332100612" type="0" value="0" />
+  <presetinput identifier="Color" uid="2332147654" type="2" value="0.616,0.592,0.588" />
+  <presetinput identifier="$randomseed" uid="2793704521" type="4" value="1279147084" />
+  <presetinput identifier="$outputsize" uid="4059470363" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_031/concrete_031" label="var02" >
+  <presetinput identifier="Weathering" uid="2332100612" type="0" value="1" />
+  <presetinput identifier="Cracks" uid="2332144753" type="0" value="0" />
+  <presetinput identifier="Color" uid="2332147654" type="2" value="0.596,0.6,0.616" />
+  <presetinput identifier="$randomseed" uid="2793704521" type="4" value="-830174716" />
+  <presetinput identifier="$outputsize" uid="4059470363" type="8" value="9,9" />
+  <presetinput identifier="Light_Angle" uid="4104903686" type="0" value="0.283" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Fabric_01/Fabric_01" label="var01" >
+  <presetinput identifier="$outputsize" uid="2571564345" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2639999288" type="0" value="10" />
+  <presetinput identifier="Age" uid="2640036388" type="0" value="0.142" />
+  <presetinput identifier="$randomseed" uid="3459572587" type="4" value="-1898947846" />
+  <presetinput identifier="Thread_Color" uid="3818657438" type="2" value="0.404,0.404,0.169" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Fabric_01/Fabric_01" label="var02" >
+  <presetinput identifier="Age" uid="2640036388" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

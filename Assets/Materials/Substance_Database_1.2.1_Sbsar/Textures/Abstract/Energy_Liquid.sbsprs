@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Energy_Liquid/Energy_Liquid" label="var01" >
+  <presetinput identifier="$randomseed" uid="452991491" type="4" value="-1134936629" />
+  <presetinput identifier="Glow_Intensity" uid="1237819874" type="0" value="0.362" />
+  <presetinput identifier="Glow_Size" uid="1237819876" type="0" value="0.365" />
+  <presetinput identifier="Intensity" uid="1241372047" type="0" value="0.704" />
+  <presetinput identifier="$outputsize" uid="1282542673" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Energy_Liquid/Energy_Liquid" label="var02" >
+  <presetinput identifier="$randomseed" uid="452991491" type="4" value="-1050941162" />
+  <presetinput identifier="Energy_Color" uid="916626136" type="2" value="0.773,0.227,0.765" />
+  <presetinput identifier="Chaos" uid="918166775" type="0" value="0.033" />
+  <presetinput identifier="Glow_Intensity" uid="1237819874" type="0" value="0.972" />
+  <presetinput identifier="Glow_Size" uid="1237819876" type="0" value="0.797" />
+  <presetinput identifier="Intensity" uid="1241372047" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1282542673" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Energy_Liquid/Energy_Liquid" label="var03" >
+  <presetinput identifier="$randomseed" uid="452991491" type="4" value="-926174914" />
+  <presetinput identifier="Energy_Color" uid="916626136" type="2" value="0,0.773,0.024" />
+  <presetinput identifier="Chaos" uid="918166775" type="0" value="0.646" />
+  <presetinput identifier="Glow_Intensity" uid="1237819874" type="0" value="0.183" />
+  <presetinput identifier="Glow_Size" uid="1237819876" type="0" value="1" />
+  <presetinput identifier="Intensity" uid="1241372047" type="0" value="0.514" />
+  <presetinput identifier="$outputsize" uid="1282542673" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

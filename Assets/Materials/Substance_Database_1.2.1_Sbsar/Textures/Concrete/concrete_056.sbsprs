@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_056/concrete_056" label="var01">
+  <presetinput identifier="Contrast" uid="69069483" type="0" value="0.287"/>
+  <presetinput identifier="Brushes_Scale" uid="69110862" type="0" value="0.916"/>
+  <presetinput identifier="$randomseed" uid="697155678" type="4" value="677932289"/>
+  <presetinput identifier="Light_Angle" uid="2074251281" type="0" value="0.744"/>
+  <presetinput identifier="Emboss" uid="2074251401" type="0" value="0.733"/>
+  <presetinput identifier="Normal" uid="2074251478" type="0" value="0.552"/>
+  <presetinput identifier="Saturation" uid="2074308514" type="0" value="0.438"/>
+  <presetinput identifier="Luminosity" uid="2074308535" type="0" value="0.493"/>
+  <presetinput identifier="Brushes" uid="2079498232" type="0" value="0.663"/>
+  <presetinput identifier="$outputsize" uid="2130695692" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_056/concrete_056" label="var02">
+  <presetinput identifier="Contrast" uid="69069483" type="0" value="0.287"/>
+  <presetinput identifier="Brushes_Scale" uid="69110862" type="0" value="0.097"/>
+  <presetinput identifier="$randomseed" uid="697155678" type="4" value="-1763895532"/>
+  <presetinput identifier="Light_Angle" uid="2074251281" type="0" value="0.253"/>
+  <presetinput identifier="Emboss" uid="2074251401" type="0" value="0.462"/>
+  <presetinput identifier="Normal" uid="2074251478" type="0" value="0.552"/>
+  <presetinput identifier="Saturation" uid="2074308514" type="0" value="0.509"/>
+  <presetinput identifier="Luminosity" uid="2074308535" type="0" value="0.504"/>
+  <presetinput identifier="Hue_Shift" uid="2074308549" type="0" value="0.27"/>
+  <presetinput identifier="Dirtiness" uid="2079496698" type="0" value="0.396"/>
+  <presetinput identifier="Brushes" uid="2079498232" type="0" value="0.9"/>
+  <presetinput identifier="$outputsize" uid="2130695692" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_056/concrete_056" label="var03">
+  <presetinput identifier="Base_Color" uid="69067183" type="2" value="0.498,0.506,0.322"/>
+  <presetinput identifier="Contrast" uid="69069483" type="0" value="0.287"/>
+  <presetinput identifier="$randomseed" uid="697155678" type="4" value="-1763895532"/>
+  <presetinput identifier="Light_Angle" uid="2074251281" type="0" value="0.253"/>
+  <presetinput identifier="Emboss" uid="2074251401" type="0" value="0.462"/>
+  <presetinput identifier="Normal" uid="2074251478" type="0" value="0.552"/>
+  <presetinput identifier="Saturation" uid="2074308514" type="0" value="0.509"/>
+  <presetinput identifier="Luminosity" uid="2074308535" type="0" value="0.504"/>
+  <presetinput identifier="Dirtiness" uid="2079496698" type="0" value="1"/>
+  <presetinput identifier="Brushes" uid="2079498232" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="2130695692" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

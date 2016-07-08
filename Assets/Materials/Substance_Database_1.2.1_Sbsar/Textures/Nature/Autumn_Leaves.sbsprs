@@ -1,0 +1,53 @@
+<sbspresets formatversion="1.0" count="5" >
+ <sbspreset pkgurl="pkg://Autumn_Leaves/Autumn_Leaves" label="var01" >
+  <presetinput identifier="$outputsize" uid="1126535969" type="8" value="9,9" />
+  <presetinput identifier="Angle" uid="1196560388" type="0" value="0.247" />
+  <presetinput identifier="Saturation" uid="1205300757" type="0" value="0.35" />
+  <presetinput identifier="Luminosity" uid="1205300758" type="0" value="0.514" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Autumn_Leaves/Autumn_Leaves" label="var02" >
+  <presetinput identifier="$outputsize" uid="1126535969" type="8" value="9,9" />
+  <presetinput identifier="Density" uid="1188409495" type="0" value="0.103" />
+  <presetinput identifier="Angle" uid="1196560388" type="0" value="0.336" />
+  <presetinput identifier="Emboss" uid="1196560440" type="0" value="5.977" />
+  <presetinput identifier="Saturation" uid="1205300757" type="0" value="0.599" />
+  <presetinput identifier="Luminosity" uid="1205300758" type="0" value="0.492" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Autumn_Leaves/Autumn_Leaves" label="var03" >
+  <presetinput identifier="$randomseed" uid="341280115" type="4" value="-2067993618" />
+  <presetinput identifier="$outputsize" uid="1126535969" type="8" value="9,9" />
+  <presetinput identifier="Size_Variation" uid="1186232720" type="0" value="0.777" />
+  <presetinput identifier="Season" uid="1186313795" type="0" value="0.878" />
+  <presetinput identifier="Density" uid="1188409495" type="0" value="0.103" />
+  <presetinput identifier="Angle" uid="1196560388" type="0" value="0.308" />
+  <presetinput identifier="Emboss" uid="1196560440" type="0" value="5.977" />
+  <presetinput identifier="Saturation" uid="1205300757" type="0" value="0.599" />
+  <presetinput identifier="Luminosity" uid="1205300758" type="0" value="0.492" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Autumn_Leaves/Autumn_Leaves" label="var04" >
+  <presetinput identifier="$randomseed" uid="341280115" type="4" value="-1927077598" />
+  <presetinput identifier="$outputsize" uid="1126535969" type="8" value="9,9" />
+  <presetinput identifier="Size" uid="1186232335" type="0" value="1.12" />
+  <presetinput identifier="Size_Variation" uid="1186232720" type="0" value="0.998" />
+  <presetinput identifier="Season" uid="1186313795" type="0" value="0.394" />
+  <presetinput identifier="LeafType" uid="1188399615" type="4" value="0" />
+  <presetinput identifier="Density" uid="1188409495" type="0" value="0.154" />
+  <presetinput identifier="Angle" uid="1196560388" type="0" value="0.025" />
+  <presetinput identifier="Emboss" uid="1196560440" type="0" value="5.977" />
+  <presetinput identifier="Saturation" uid="1205300757" type="0" value="0.599" />
+  <presetinput identifier="Luminosity" uid="1205300758" type="0" value="0.492" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Autumn_Leaves/Autumn_Leaves" label="var05" >
+  <presetinput identifier="$randomseed" uid="341280115" type="4" value="-1889079650" />
+  <presetinput identifier="$outputsize" uid="1126535969" type="8" value="9,9" />
+  <presetinput identifier="Size" uid="1186232335" type="0" value="1.12" />
+  <presetinput identifier="Size_Variation" uid="1186232720" type="0" value="0.998" />
+  <presetinput identifier="Season" uid="1186313795" type="0" value="0.694" />
+  <presetinput identifier="LeafType" uid="1188399615" type="4" value="2" />
+  <presetinput identifier="Density" uid="1188409495" type="0" value="0.409" />
+  <presetinput identifier="Angle" uid="1196560388" type="0" value="0.217" />
+  <presetinput identifier="Emboss" uid="1196560440" type="0" value="-0.664" />
+  <presetinput identifier="Saturation" uid="1205300757" type="0" value="0.599" />
+  <presetinput identifier="Luminosity" uid="1205300758" type="0" value="0.492" />
+ </sbspreset>
+</sbspresets>

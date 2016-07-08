@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Painted_Wall/Painted_Wall" label="var01" >
+  <presetinput identifier="$outputsize" uid="150368078" type="8" value="9,9" />
+  <presetinput identifier="Primer" uid="214818848" type="0" value="0.244" />
+  <presetinput identifier="Chipped_Coating" uid="214819413" type="0" value="0.59" />
+  <presetinput identifier="Wall_Structure" uid="214823559" type="0" value="0.081" />
+  <presetinput identifier="Paint_Color_2" uid="1915118867" type="2" value="0.361,0.267,0.176" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Wall/Painted_Wall" label="var02" >
+  <presetinput identifier="$outputsize" uid="150368078" type="8" value="9,9" />
+  <presetinput identifier="Primer" uid="214818848" type="0" value="0.56" />
+  <presetinput identifier="Chipped_Coating" uid="214819413" type="0" value="0.103" />
+  <presetinput identifier="Wall_Structure" uid="214823559" type="0" value="0.885" />
+  <presetinput identifier="$randomseed" uid="1602517276" type="4" value="-88619792" />
+  <presetinput identifier="Paint_Color_2" uid="1915118867" type="2" value="0.251,0.282,0.361" />
+  <presetinput identifier="Wall_Color" uid="1915118869" type="2" value="0.902,0.918,0.847" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Wall/Painted_Wall" label="var03" >
+  <presetinput identifier="$outputsize" uid="150368078" type="8" value="9,9" />
+  <presetinput identifier="Primer" uid="214818848" type="0" value="0.896" />
+  <presetinput identifier="Chipped_Coating" uid="214819413" type="0" value="0.103" />
+  <presetinput identifier="Wall_Structure" uid="214823559" type="0" value="0.345" />
+  <presetinput identifier="$randomseed" uid="1602517276" type="4" value="-1622726816" />
+  <presetinput identifier="Paint_Color_2" uid="1915118867" type="2" value="0.192,0.361,0.192" />
+  <presetinput identifier="Wall_Color" uid="1915118869" type="2" value="0.902,0.918,0.847" />
+ </sbspreset>
+</sbspresets>

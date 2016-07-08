@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_008/concrete_008" label="var01" >
+  <presetinput identifier="$outputsize" uid="472704069" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1726712260" type="0" value="0.123" />
+  <presetinput identifier="Wet" uid="1726712261" type="0" value="0.221" />
+  <presetinput identifier="Brushes_Scale" uid="1726712263" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_008/concrete_008" label="var02" >
+  <presetinput identifier="$outputsize" uid="472704069" type="8" value="9,9" />
+  <presetinput identifier="Brushes_Scale" uid="1726712263" type="0" value="0.735" />
+  <presetinput identifier="Concrete_Color" uid="1726718424" type="2" value="0.443,0.38,0.306" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_008/concrete_008" label="var03" >
+  <presetinput identifier="$outputsize" uid="472704069" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1726712260" type="0" value="0.989" />
+  <presetinput identifier="Wet" uid="1726712261" type="0" value="0.023" />
+  <presetinput identifier="Brushes_Scale" uid="1726712263" type="0" value="0.573" />
+  <presetinput identifier="Concrete_Color" uid="1726718424" type="2" value="0.659,0.592,0.51" />
+ </sbspreset>
+</sbspresets>

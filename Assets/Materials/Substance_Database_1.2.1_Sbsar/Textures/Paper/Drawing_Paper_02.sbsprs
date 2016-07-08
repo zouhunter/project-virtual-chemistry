@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Drawing_Paper_02/Drawing_Paper_02" label="var01" >
+  <presetinput identifier="Contrast" uid="446638299" type="0" value="-0.234" />
+  <presetinput identifier="Dirt" uid="460963398" type="0" value="0.106" />
+  <presetinput identifier="Crumple" uid="461224897" type="0" value="0.146" />
+  <presetinput identifier="$outputsize" uid="518628857" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Drawing_Paper_02/Drawing_Paper_02" label="var02" >
+  <presetinput identifier="Hue_Shift" uid="437999819" type="0" value="0.593" />
+  <presetinput identifier="Saturation" uid="437999821" type="0" value="0.505" />
+  <presetinput identifier="Luminosity" uid="437999822" type="0" value="0.438" />
+  <presetinput identifier="Contrast" uid="446638299" type="0" value="0.197" />
+  <presetinput identifier="Dirt" uid="460963398" type="0" value="0.301" />
+  <presetinput identifier="Crumple" uid="461224897" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="518628857" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1234940843" type="4" value="1959433993" />
+ </sbspreset>
+</sbspresets>

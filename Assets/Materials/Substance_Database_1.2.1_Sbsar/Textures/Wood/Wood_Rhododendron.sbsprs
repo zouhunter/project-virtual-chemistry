@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wood_Rhododendron/Wood_Rhododendron" label="var01" >
+  <presetinput identifier="Saturation" uid="2591610592" type="0" value="0.6" />
+  <presetinput identifier="Luminosity" uid="2591610595" type="0" value="0.588" />
+  <presetinput identifier="Depth" uid="2599785486" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2600315085" type="0" value="0.605" />
+  <presetinput identifier="Fibers" uid="2608272769" type="0" value="0.648" />
+  <presetinput identifier="Nodes" uid="2608645127" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="2659855316" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3388489094" type="4" value="1871689018" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Rhododendron/Wood_Rhododendron" label="var02" >
+  <presetinput identifier="Saturation" uid="2591610592" type="0" value="0.56" />
+  <presetinput identifier="Luminosity" uid="2591610595" type="0" value="0.464" />
+  <presetinput identifier="Hue_Shift" uid="2591610598" type="0" value="1" />
+  <presetinput identifier="Depth" uid="2599785486" type="0" value="-0.049" />
+  <presetinput identifier="Emboss" uid="2600315085" type="0" value="0.605" />
+  <presetinput identifier="Fibers" uid="2608272769" type="0" value="0" />
+  <presetinput identifier="Nodes" uid="2608645127" type="0" value="0.82" />
+  <presetinput identifier="$outputsize" uid="2659855316" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3388489094" type="4" value="-2007353925" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Rhododendron/Wood_Rhododendron" label="var03" >
+  <presetinput identifier="Saturation" uid="2591610592" type="0" value="0.388" />
+  <presetinput identifier="Luminosity" uid="2591610595" type="0" value="0.496" />
+  <presetinput identifier="Hue_Shift" uid="2591610598" type="0" value="1" />
+  <presetinput identifier="Depth" uid="2599785486" type="0" value="-0.049" />
+  <presetinput identifier="Contrast" uid="2600249078" type="0" value="0.293" />
+  <presetinput identifier="Emboss" uid="2600315085" type="0" value="0.605" />
+  <presetinput identifier="Fibers" uid="2608272769" type="0" value="0.904" />
+  <presetinput identifier="Nodes" uid="2608645127" type="0" value="0.152" />
+  <presetinput identifier="$outputsize" uid="2659855316" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3388489094" type="4" value="-2669305" />
+ </sbspreset>
+</sbspresets>

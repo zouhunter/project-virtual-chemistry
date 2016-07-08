@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stonework_003/stonework_003" label="var01" >
+  <presetinput identifier="Pebbles_Amount" uid="2617242915" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="3059015338" type="4" value="1598166357" />
+  <presetinput identifier="$outputsize" uid="3777415416" type="8" value="9,9" />
+  <presetinput identifier="Moss_Amount_02" uid="3826292676" type="0" value="0" />
+  <presetinput identifier="Moss_Amount_01" uid="3826307320" type="0" value="0.03" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_003/stonework_003" label="var02" >
+  <presetinput identifier="Contrast" uid="2617199532" type="0" value="0.15" />
+  <presetinput identifier="Pebbles_Amount" uid="2617242915" type="0" value="0.666" />
+  <presetinput identifier="$randomseed" uid="3059015338" type="4" value="747663578" />
+  <presetinput identifier="$outputsize" uid="3777415416" type="8" value="9,9" />
+  <presetinput identifier="Wall_Frame" uid="3826291368" type="4" value="0" />
+  <presetinput identifier="Moss_Amount_02" uid="3826292676" type="0" value="0.906" />
+  <presetinput identifier="Moss_Amount_01" uid="3826307320" type="0" value="0" />
+  <presetinput identifier="Emboss" uid="3833302653" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_003/stonework_003" label="var03" >
+  <presetinput identifier="Cracks" uid="2617181951" type="0" value="0.346" />
+  <presetinput identifier="Contrast" uid="2617199532" type="0" value="0.15" />
+  <presetinput identifier="Pebbles_Amount" uid="2617242915" type="0" value="0.666" />
+  <presetinput identifier="$randomseed" uid="3059015338" type="4" value="-940955270" />
+  <presetinput identifier="$outputsize" uid="3777415416" type="8" value="9,9" />
+  <presetinput identifier="Pebbles_Color" uid="3825935197" type="2" value="0.384,0.384,0.384" />
+  <presetinput identifier="Wall_Color" uid="3825936170" type="2" value="0.431,0.447,0.478" />
+  <presetinput identifier="Moss_Amount_02" uid="3826292676" type="0" value="0.958" />
+  <presetinput identifier="Moss_Amount_01" uid="3826307320" type="0" value="0.468" />
+  <presetinput identifier="Saturation" uid="3833229654" type="0" value="0.474" />
+  <presetinput identifier="Emboss" uid="3833302653" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

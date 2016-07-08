@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Tree_Bark/Tree_Bark" label="var01" >
+  <presetinput identifier="$randomseed" uid="2849426575" type="4" value="-40852096" />
+  <presetinput identifier="Age" uid="4205809251" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4272216797" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark/Tree_Bark" label="var02" >
+  <presetinput identifier="$randomseed" uid="2849426575" type="4" value="-1008671150" />
+  <presetinput identifier="Age" uid="4205809251" type="0" value="0.508" />
+  <presetinput identifier="Depth" uid="4206855254" type="0" value="-1" />
+  <presetinput identifier="Saturation" uid="4206862914" type="0" value="0.391" />
+  <presetinput identifier="Luminosity" uid="4206862960" type="0" value="0.508" />
+  <presetinput identifier="Hue_Shift" uid="4206863348" type="0" value="0.495" />
+  <presetinput identifier="$outputsize" uid="4272216797" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark/Tree_Bark" label="var03" >
+  <presetinput identifier="$randomseed" uid="2849426575" type="4" value="681174218" />
+  <presetinput identifier="Age" uid="4205809251" type="0" value="0.353" />
+  <presetinput identifier="Depth" uid="4206855254" type="0" value="1" />
+  <presetinput identifier="Saturation" uid="4206862914" type="0" value="0.576" />
+  <presetinput identifier="Luminosity" uid="4206862960" type="0" value="0.472" />
+  <presetinput identifier="$outputsize" uid="4272216797" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

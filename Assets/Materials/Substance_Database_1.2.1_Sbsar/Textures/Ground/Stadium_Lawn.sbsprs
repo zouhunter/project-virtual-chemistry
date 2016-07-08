@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Stadium_Lawn/Stadium_Lawn" label="var01" >
+  <presetinput identifier="$outputsize" uid="1893976069" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1965204345" type="0" value="0.293" />
+  <presetinput identifier="Stripes_Color" uid="1970414747" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Stadium_Lawn/Stadium_Lawn" label="var02" >
+  <presetinput identifier="$randomseed" uid="663871063" type="4" value="-1591015664" />
+  <presetinput identifier="$outputsize" uid="1893976069" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1965204345" type="0" value="0.589" />
+  <presetinput identifier="Stripes" uid="1965219273" type="4" value="3" />
+  <presetinput identifier="Stripes_Color" uid="1970414747" type="0" value="0.501" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Stadium_Lawn/Stadium_Lawn" label="var03" >
+  <presetinput identifier="$randomseed" uid="663871063" type="4" value="-1591015664" />
+  <presetinput identifier="$outputsize" uid="1893976069" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1965204345" type="0" value="0.843" />
+  <presetinput identifier="Stripes" uid="1965219273" type="4" value="5" />
+  <presetinput identifier="Distance" uid="1965226998" type="4" value="2" />
+  <presetinput identifier="Stripes_Color" uid="1970414747" type="0" value="0.501" />
+ </sbspreset>
+</sbspresets>

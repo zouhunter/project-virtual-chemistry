@@ -1,0 +1,26 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Leopard_Fur/Leopard_Fur" label="var01" >
+  <presetinput identifier="$outputsize" uid="2165714023" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="2234095306" type="0" value="0.509" />
+  <presetinput identifier="Stain_Size" uid="2234095374" type="0" value="0.277" />
+  <presetinput identifier="Emboss" uid="2234095443" type="0" value="5.332" />
+  <presetinput identifier="Stain_Density" uid="2234899070" type="4" value="2" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Leopard_Fur/Leopard_Fur" label="var02" >
+  <presetinput identifier="$outputsize" uid="2165714023" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="2234095306" type="0" value="0.509" />
+  <presetinput identifier="Stain_Size" uid="2234095374" type="0" value="0.277" />
+  <presetinput identifier="Emboss" uid="2234095443" type="0" value="5.332" />
+  <presetinput identifier="Stain_Density" uid="2234899070" type="4" value="3" />
+  <presetinput identifier="$randomseed" uid="3596892725" type="4" value="-1709279935" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Leopard_Fur/Leopard_Fur" label="var03" >
+  <presetinput identifier="$outputsize" uid="2165714023" type="8" value="9,9" />
+  <presetinput identifier="Dalmatien" uid="2234091196" type="4" value="1" />
+  <presetinput identifier="Normal" uid="2234095306" type="0" value="0.509" />
+  <presetinput identifier="Stain_Size" uid="2234095374" type="0" value="0.29" />
+  <presetinput identifier="Folds" uid="2234095378" type="0" value="0" />
+  <presetinput identifier="Emboss" uid="2234095443" type="0" value="5.332" />
+  <presetinput identifier="$randomseed" uid="3596892725" type="4" value="-1709279935" />
+ </sbspreset>
+</sbspresets>

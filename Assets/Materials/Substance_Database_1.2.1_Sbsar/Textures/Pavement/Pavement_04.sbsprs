@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Pavement_04/Pavement_04" label="var01" >
+  <presetinput identifier="$outputsize" uid="549927976" type="8" value="9,9" />
+  <presetinput identifier="Luminosity" uid="607502623" type="0" value="0.483" />
+  <presetinput identifier="Contrast" uid="615624970" type="0" value="0.309" />
+  <presetinput identifier="Depth" uid="616072178" type="0" value="0.016" />
+  <presetinput identifier="Pavement_Density" uid="617524643" type="4" value="2" />
+  <presetinput identifier="Mortar" uid="617535951" type="0" value="0.028" />
+  <presetinput identifier="Pavement_Color" uid="1511897549" type="2" value="0.592,0.584,0.6" />
+  <presetinput identifier="$randomseed" uid="2008361594" type="4" value="1781971489" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Pavement_04/Pavement_04" label="var02" >
+  <presetinput identifier="$outputsize" uid="549927976" type="8" value="9,9" />
+  <presetinput identifier="Luminosity" uid="607502623" type="0" value="0.483" />
+  <presetinput identifier="Angle" uid="615563021" type="0" value="0.336" />
+  <presetinput identifier="Contrast" uid="615624970" type="0" value="0.123" />
+  <presetinput identifier="Depth" uid="616072178" type="0" value="0.016" />
+  <presetinput identifier="Pavement_Density" uid="617524643" type="4" value="3" />
+  <presetinput identifier="Mortar" uid="617535951" type="0" value="0.193" />
+  <presetinput identifier="Pavement_Color" uid="1511897549" type="2" value="0.365,0.361,0.369" />
+  <presetinput identifier="$randomseed" uid="2008361594" type="4" value="505416670" />
+ </sbspreset>
+</sbspresets>

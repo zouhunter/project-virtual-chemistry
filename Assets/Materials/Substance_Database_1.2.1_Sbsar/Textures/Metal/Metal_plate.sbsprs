@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Metal_plate/Metal_plate" label="var01" >
+  <presetinput identifier="Pattern" uid="3090326684" type="4" value="1" />
+  <presetinput identifier="Emboss" uid="3113243544" type="0" value="6.68" />
+  <presetinput identifier="Specular" uid="3116466347" type="0" value="0.687" />
+  <presetinput identifier="$outputsize" uid="3186086017" type="8" value="9,9" />
+  <presetinput identifier="Metal_Color" uid="3342323980" type="2" value="0.361,0.341,0.271" />
+  <presetinput identifier="$randomseed" uid="3935684307" type="4" value="639720766" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Metal_plate/Metal_plate" label="var02" >
+  <presetinput identifier="Emboss" uid="3113243544" type="0" value="0.449" />
+  <presetinput identifier="Normal" uid="3113311425" type="0" value="0.548" />
+  <presetinput identifier="Specular" uid="3116466347" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3186086017" type="8" value="9,9" />
+  <presetinput identifier="Metal_Color" uid="3342323980" type="2" value="0.835,0.835,0.835" />
+  <presetinput identifier="$randomseed" uid="3935684307" type="4" value="639720766" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,43 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://roofing_013/roofing_013" label="var01">
+  <presetinput identifier="Bricks_Color" uid="2149673275" type="2" value="0.498,0.42,0.42"/>
+  <presetinput identifier="Contrast" uid="2149676947" type="0" value="-0.064"/>
+  <presetinput identifier="$randomseed" uid="2914833545" type="4" value="-738645692"/>
+  <presetinput identifier="$outputsize" uid="4207854299" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="4287789920" type="0" value="0.464"/>
+  <presetinput identifier="Saturation" uid="4287789941" type="0" value="0.452"/>
+  <presetinput identifier="Emboss" uid="4287857758" type="0" value="0.708"/>
+  <presetinput identifier="Paint" uid="4289480959" type="0" value="0.07"/>
+  <presetinput identifier="Moss" uid="4289494331" type="0" value="0.399"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_013/roofing_013" label="var02">
+  <presetinput identifier="Moss_Color" uid="2149671267" type="2" value="0.243,0.365,0.235"/>
+  <presetinput identifier="Bricks_Color" uid="2149673275" type="2" value="0.498,0.42,0.42"/>
+  <presetinput identifier="Contrast" uid="2149676947" type="0" value="-0.064"/>
+  <presetinput identifier="$randomseed" uid="2914833545" type="4" value="-270874385"/>
+  <presetinput identifier="$outputsize" uid="4207854299" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="4287789920" type="0" value="0.464"/>
+  <presetinput identifier="Saturation" uid="4287789941" type="0" value="0.452"/>
+  <presetinput identifier="Emboss" uid="4287857758" type="0" value="0.708"/>
+  <presetinput identifier="Paint" uid="4289480959" type="0" value="0"/>
+  <presetinput identifier="Moss" uid="4289494331" type="0" value="0.765"/>
+  <presetinput identifier="Disorder" uid="4293122931" type="0" value="0.943"/>
+  <presetinput identifier="Bricks_Amount_X" uid="4293983648" type="4" value="10"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_013/roofing_013" label="var03">
+  <presetinput identifier="Moss_Color" uid="2149671267" type="2" value="0.243,0.365,0.235"/>
+  <presetinput identifier="Bricks_Color" uid="2149673275" type="2" value="0.498,0.42,0.42"/>
+  <presetinput identifier="Contrast" uid="2149676947" type="0" value="-0.064"/>
+  <presetinput identifier="$randomseed" uid="2914833545" type="4" value="-270874385"/>
+  <presetinput identifier="$outputsize" uid="4207854299" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="4287789920" type="0" value="0.464"/>
+  <presetinput identifier="Saturation" uid="4287789941" type="0" value="0.452"/>
+  <presetinput identifier="Emboss" uid="4287857758" type="0" value="0.708"/>
+  <presetinput identifier="Paint" uid="4289480959" type="0" value="0"/>
+  <presetinput identifier="Moss" uid="4289494331" type="0" value="1"/>
+  <presetinput identifier="Color_Variation" uid="4293105674" type="0" value="0.812"/>
+  <presetinput identifier="Disorder" uid="4293122931" type="0" value="0.943"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="4293983243" type="4" value="8"/>
+  <presetinput identifier="Bricks_Amount_X" uid="4293983648" type="4" value="2"/>
+ </sbspreset>
+</sbspresets>

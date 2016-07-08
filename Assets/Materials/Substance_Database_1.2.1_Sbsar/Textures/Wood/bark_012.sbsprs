@@ -1,0 +1,26 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://bark_012/bark_012" label="var01">
+  <presetinput identifier="Cracks" uid="2393570304" type="0" value="0"/>
+  <presetinput identifier="Moss" uid="2393570310" type="0" value="0"/>
+  <presetinput identifier="Wood_Color" uid="2393815229" type="2" value="0.529,0.494,0.447"/>
+  <presetinput identifier="$randomseed" uid="2739901966" type="4" value="-180845947"/>
+  <presetinput identifier="$outputsize" uid="4097671260" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_012/bark_012" label="var02">
+  <presetinput identifier="Moss" uid="2393570310" type="0" value="0.247"/>
+  <presetinput identifier="Wood_Color" uid="2393815229" type="2" value="0.529,0.435,0.388"/>
+  <presetinput identifier="$randomseed" uid="2739901966" type="4" value="1725183712"/>
+  <presetinput identifier="Emboss" uid="4049651417" type="0" value="0.514"/>
+  <presetinput identifier="Depth" uid="4049652852" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="4097671260" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_012/bark_012" label="var03">
+  <presetinput identifier="Moss" uid="2393570310" type="0" value="0.717"/>
+  <presetinput identifier="Wood_Color" uid="2393815229" type="2" value="0.267,0.267,0.267"/>
+  <presetinput identifier="Moss_Color" uid="2393815231" type="2" value="0.69,0.569,0.502"/>
+  <presetinput identifier="$randomseed" uid="2739901966" type="4" value="1979778450"/>
+  <presetinput identifier="Emboss" uid="4049651417" type="0" value="0.149"/>
+  <presetinput identifier="Depth" uid="4049652852" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="4097671260" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

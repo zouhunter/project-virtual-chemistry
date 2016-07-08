@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://Tree_Bark_003/Tree_Bark_003" label="Tree_Bark_003">
+  <presetinput identifier="Balance" uid="2987412983" type="0" value="1"/>
+  <presetinput identifier="Node_Offset" uid="2987646740" type="1" value="0.037,0.057"/>
+  <presetinput identifier="$outputsize" uid="3078343766" type="8" value="9,9"/>
+  <presetinput identifier="Moss" uid="3449714581" type="0" value="0.745"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark_003/Tree_Bark_003" label="var01">
+  <presetinput identifier="Balance" uid="2987412983" type="0" value="1"/>
+  <presetinput identifier="Node_Offset" uid="2987646740" type="1" value="0.037,0.057"/>
+  <presetinput identifier="$outputsize" uid="3078343766" type="8" value="9,9"/>
+  <presetinput identifier="Moss" uid="3449714581" type="0" value="0.745"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark_003/Tree_Bark_003" label="var02">
+  <presetinput identifier="Balance" uid="2987412983" type="0" value="0.152"/>
+  <presetinput identifier="Node_Offset" uid="2987646740" type="1" value="-0.285,-0.098"/>
+  <presetinput identifier="$outputsize" uid="3078343766" type="8" value="9,9"/>
+  <presetinput identifier="Layer_2_Color" uid="3449662893" type="2" value="0.294,0.235,0.18"/>
+  <presetinput identifier="Layer_1_Color" uid="3449662939" type="2" value="0.486,0.439,0.4"/>
+  <presetinput identifier="Moss_Color" uid="3449712428" type="2" value="0.18,0.259,0.063"/>
+  <presetinput identifier="Moss" uid="3449714581" type="0" value="1"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Bark_003/Tree_Bark_003" label="var03">
+  <presetinput identifier="Balance" uid="2987412983" type="0" value="1"/>
+  <presetinput identifier="Node_Offset" uid="2987646740" type="1" value="0.264,0.23"/>
+  <presetinput identifier="$outputsize" uid="3078343766" type="8" value="9,9"/>
+  <presetinput identifier="Layer_2_Color" uid="3449662893" type="2" value="0.294,0.235,0.18"/>
+  <presetinput identifier="Layer_1_Color" uid="3449662939" type="2" value="0.31,0.278,0.255"/>
+  <presetinput identifier="Moss_Color" uid="3449712428" type="2" value="0.18,0.259,0.063"/>
+ </sbspreset>
+</sbspresets>

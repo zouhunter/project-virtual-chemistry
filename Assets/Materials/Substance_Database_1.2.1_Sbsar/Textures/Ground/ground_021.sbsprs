@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://ground_021/ground_021" label="var01">
+  <presetinput identifier="Hue_Shift" uid="2959921187" type="0" value="0.171"/>
+  <presetinput identifier="Emboss" uid="2959945583" type="0" value="0.604"/>
+  <presetinput identifier="$outputsize" uid="3039848938" type="8" value="9,9"/>
+  <presetinput identifier="Water_level" uid="3486829748" type="0" value="0.528"/>
+  <presetinput identifier="$randomseed" uid="3796008888" type="4" value="971442422"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_021/ground_021" label="var02">
+  <presetinput identifier="Emboss" uid="2959945583" type="0" value="0.363"/>
+  <presetinput identifier="$outputsize" uid="3039848938" type="8" value="9,9"/>
+  <presetinput identifier="Water_level" uid="3486829748" type="0" value="0.68"/>
+  <presetinput identifier="Water_Flow" uid="3486840369" type="0" value="0.544"/>
+  <presetinput identifier="Water_To_Ice" uid="3486841202" type="0" value="0.146"/>
+  <presetinput identifier="Snow" uid="3486842038" type="0" value="0.462"/>
+  <presetinput identifier="Moss_Level" uid="3486842774" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="3796008888" type="4" value="1945345665"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_021/ground_021" label="var03">
+  <presetinput identifier="Emboss" uid="2959945583" type="0" value="0.363"/>
+  <presetinput identifier="$outputsize" uid="3039848938" type="8" value="9,9"/>
+  <presetinput identifier="Water_level" uid="3486829748" type="0" value="0.68"/>
+  <presetinput identifier="Water_Flow" uid="3486840369" type="0" value="0.544"/>
+  <presetinput identifier="Ice_Details" uid="3486841591" type="0" value="0.005"/>
+  <presetinput identifier="Moss" uid="3486842056" type="0" value="0.83"/>
+  <presetinput identifier="Moss_Level" uid="3486842774" type="0" value="0.606"/>
+  <presetinput identifier="$randomseed" uid="3796008888" type="4" value="1945345665"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_021/ground_021" label="var04">
+  <presetinput identifier="Emboss" uid="2959945583" type="0" value="0.363"/>
+  <presetinput identifier="$outputsize" uid="3039848938" type="8" value="9,9"/>
+  <presetinput identifier="Water_level" uid="3486829748" type="0" value="0.68"/>
+  <presetinput identifier="Water_Flow" uid="3486840369" type="0" value="0.544"/>
+  <presetinput identifier="Water_To_Ice" uid="3486841202" type="0" value="1"/>
+  <presetinput identifier="Ice_Details" uid="3486841591" type="0" value="0.898"/>
+  <presetinput identifier="Snow" uid="3486842038" type="0" value="0.836"/>
+  <presetinput identifier="Moss" uid="3486842056" type="0" value="0.83"/>
+  <presetinput identifier="Moss_Level" uid="3486842774" type="0" value="0.606"/>
+  <presetinput identifier="$randomseed" uid="3796008888" type="4" value="1945345665"/>
+ </sbspreset>
+</sbspresets>

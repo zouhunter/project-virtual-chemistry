@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_029/concrete_029" label="var01" >
+  <presetinput identifier="Ground_Color" uid="375456939" type="2" value="0.353,0.298,0.235" />
+  <presetinput identifier="Stones_Color" uid="375456940" type="2" value="0.486,0.482,0.447" />
+  <presetinput identifier="Stones_Disorder" uid="375482917" type="0" value="0.07" />
+  <presetinput identifier="Stones_Scale" uid="375484579" type="4" value="8" />
+  <presetinput identifier="$randomseed" uid="1004990692" type="4" value="1104416283" />
+  <presetinput identifier="$outputsize" uid="1821697718" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_029/concrete_029" label="var02" >
+  <presetinput identifier="Ground_Color" uid="375456939" type="2" value="0.353,0.298,0.235" />
+  <presetinput identifier="Stones_Color" uid="375456940" type="2" value="0.447,0.455,0.486" />
+  <presetinput identifier="Dirtiness" uid="375458244" type="0" value="0.668" />
+  <presetinput identifier="Stones_Disorder" uid="375482917" type="0" value="0.615" />
+  <presetinput identifier="Stones_Scale" uid="375484579" type="4" value="8" />
+  <presetinput identifier="Moss" uid="375508462" type="0" value="0.543" />
+  <presetinput identifier="Water_Level" uid="375508473" type="0" value="0.124" />
+  <presetinput identifier="$randomseed" uid="1004990692" type="4" value="52517037" />
+  <presetinput identifier="$outputsize" uid="1821697718" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_029/concrete_029" label="var03" >
+  <presetinput identifier="Ground_Color" uid="375456939" type="2" value="0.353,0.298,0.235" />
+  <presetinput identifier="Stones_Color" uid="375456940" type="2" value="0.447,0.455,0.486" />
+  <presetinput identifier="Dirtiness" uid="375458244" type="0" value="0.668" />
+  <presetinput identifier="Stones_Disorder" uid="375482917" type="0" value="0.615" />
+  <presetinput identifier="Stones_Scale" uid="375484579" type="4" value="19" />
+  <presetinput identifier="Ice_Details" uid="375508451" type="0" value="0.819" />
+  <presetinput identifier="Water_To_Ice" uid="375508452" type="0" value="0.986" />
+  <presetinput identifier="Moss" uid="375508462" type="0" value="0.567" />
+  <presetinput identifier="Snow" uid="375508463" type="0" value="0.724" />
+  <presetinput identifier="Water_Level" uid="375508473" type="0" value="0.24" />
+  <presetinput identifier="$randomseed" uid="1004990692" type="4" value="52517037" />
+  <presetinput identifier="$outputsize" uid="1821697718" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

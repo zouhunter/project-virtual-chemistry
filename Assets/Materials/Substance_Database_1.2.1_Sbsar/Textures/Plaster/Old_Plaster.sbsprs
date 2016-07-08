@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Old_Plaster/Old_Plaster" label="var01" >
+  <presetinput identifier="$randomseed" uid="452645645" type="4" value="-1144133665" />
+  <presetinput identifier="Plaster_Color" uid="928133293" type="2" value="0.941,0.941,0.922" />
+  <presetinput identifier="Dirt" uid="929114326" type="0" value="0" />
+  <presetinput identifier="Age" uid="1236007037" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="1300809055" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Old_Plaster/Old_Plaster" label="var02" >
+  <presetinput identifier="$randomseed" uid="452645645" type="4" value="1745309825" />
+  <presetinput identifier="Plaster_Color" uid="928133293" type="2" value="0.941,0.941,0.941" />
+  <presetinput identifier="Dirt_Color" uid="929113070" type="2" value="0.071,0.31,0.31" />
+  <presetinput identifier="Dirt" uid="929114326" type="0" value="0.74" />
+  <presetinput identifier="Scratches" uid="1236005773" type="0" value="1" />
+  <presetinput identifier="Age" uid="1236007037" type="0" value="0.54" />
+  <presetinput identifier="Contrast" uid="1241401469" type="0" value="0.227" />
+  <presetinput identifier="$outputsize" uid="1300809055" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Old_Plaster/Old_Plaster" label="var03" >
+  <presetinput identifier="$randomseed" uid="452645645" type="4" value="-1273444215" />
+  <presetinput identifier="Plaster_Color" uid="928133293" type="2" value="0.38,0.38,0.38" />
+  <presetinput identifier="Dirt_Color" uid="929113070" type="2" value="0.71,0.71,0.71" />
+  <presetinput identifier="Dirt" uid="929114326" type="0" value="0.74" />
+  <presetinput identifier="Scratches" uid="1236005773" type="0" value="1" />
+  <presetinput identifier="Age" uid="1236007037" type="0" value="0.442" />
+  <presetinput identifier="Contrast" uid="1241401469" type="0" value="0.227" />
+  <presetinput identifier="$outputsize" uid="1300809055" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

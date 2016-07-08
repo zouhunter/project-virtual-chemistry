@@ -1,0 +1,44 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://roofing_004/roofing_004" label="var01" >
+  <presetinput identifier="Saturation" uid="2559654073" type="0" value="0.502" />
+  <presetinput identifier="Tiles_2_Color" uid="2564580536" type="2" value="0.325,0.369,0.4" />
+  <presetinput identifier="Tiles_4_Color" uid="2564580772" type="2" value="0.4,0.451,0.482" />
+  <presetinput identifier="Tiles_3_Color" uid="2564580818" type="2" value="0.38,0.404,0.467" />
+  <presetinput identifier="Tiles_1_Color" uid="2564582034" type="2" value="0.353,0.388,0.467" />
+  <presetinput identifier="Tiles_Amount" uid="2564582037" type="8" value="8,13" />
+  <presetinput identifier="$outputsize" uid="2647490839" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3401553733" type="4" value="-1164386454" />
+  <presetinput identifier="Contrast" uid="3875901262" type="0" value="0.117" />
+  <presetinput identifier="Tiles_5_Color" uid="3879425060" type="2" value="0.439,0.455,0.569" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_004/roofing_004" label="var02" >
+  <presetinput identifier="Saturation" uid="2559654073" type="0" value="0.512" />
+  <presetinput identifier="Hue_Shift" uid="2559654110" type="0" value="0.443" />
+  <presetinput identifier="Tiles_2_Color" uid="2564580536" type="2" value="0.325,0.369,0.4" />
+  <presetinput identifier="Tiles_4_Color" uid="2564580772" type="2" value="0.4,0.451,0.482" />
+  <presetinput identifier="Tiles_3_Color" uid="2564580818" type="2" value="0.38,0.404,0.467" />
+  <presetinput identifier="Tiles_1_Color" uid="2564582034" type="2" value="0.353,0.388,0.467" />
+  <presetinput identifier="Tiles_Amount" uid="2564582037" type="8" value="20,19" />
+  <presetinput identifier="$outputsize" uid="2647490839" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3401553733" type="4" value="-575581248" />
+  <presetinput identifier="Dust" uid="3875893150" type="0" value="0.926" />
+  <presetinput identifier="Contrast" uid="3875901262" type="0" value="0.113" />
+  <presetinput identifier="Tiles_5_Color" uid="3879425060" type="2" value="0.439,0.455,0.569" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_004/roofing_004" label="var03" >
+  <presetinput identifier="Light_Angle" uid="2559624970" type="0" value="0.592" />
+  <presetinput identifier="Luminosity" uid="2559654060" type="0" value="0.532" />
+  <presetinput identifier="Saturation" uid="2559654073" type="0" value="0.489" />
+  <presetinput identifier="Hue_Shift" uid="2559654110" type="0" value="0.072" />
+  <presetinput identifier="Tiles_2_Color" uid="2564580536" type="2" value="0.325,0.369,0.4" />
+  <presetinput identifier="Tiles_4_Color" uid="2564580772" type="2" value="0.4,0.451,0.482" />
+  <presetinput identifier="Tiles_3_Color" uid="2564580818" type="2" value="0.38,0.404,0.467" />
+  <presetinput identifier="Tiles_1_Color" uid="2564582034" type="2" value="0.353,0.388,0.467" />
+  <presetinput identifier="Tiles_Amount" uid="2564582037" type="8" value="15,6" />
+  <presetinput identifier="$outputsize" uid="2647490839" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3401553733" type="4" value="-1615253222" />
+  <presetinput identifier="Contrast" uid="3875901262" type="0" value="0.068" />
+  <presetinput identifier="Tiles_5_Color" uid="3879425060" type="2" value="0.439,0.455,0.569" />
+  <presetinput identifier="Dirtiness" uid="3879441165" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,57 @@
+<sbspresets formatversion="1.0" count="6" >
+ <sbspreset pkgurl="pkg://ground_001/ground_001" label="var01" >
+  <presetinput identifier="Ice_Details" uid="2644365289" type="0" value="0.688" />
+  <presetinput identifier="$randomseed" uid="2955454577" type="4" value="1722953885" />
+  <presetinput identifier="$outputsize" uid="3881483811" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_001/ground_001" label="var02" >
+  <presetinput identifier="Snow" uid="2644361820" type="0" value="0.612" />
+  <presetinput identifier="Blood" uid="2644361821" type="0" value="0.609" />
+  <presetinput identifier="Ice_Details" uid="2644365289" type="0" value="0.688" />
+  <presetinput identifier="$randomseed" uid="2955454577" type="4" value="1722953885" />
+  <presetinput identifier="$outputsize" uid="3881483811" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_001/ground_001" label="var03" >
+  <presetinput identifier="Water_Flow" uid="2644361415" type="0" value="0.64" />
+  <presetinput identifier="Water_Refraction" uid="2644361477" type="0" value="0.342" />
+  <presetinput identifier="Water_Level" uid="2644361643" type="0" value="0.172" />
+  <presetinput identifier="Blood" uid="2644361821" type="0" value="0.609" />
+  <presetinput identifier="Ice_Details" uid="2644365289" type="0" value="0.688" />
+  <presetinput identifier="Water_Moss" uid="2644365294" type="0" value="0.227" />
+  <presetinput identifier="$randomseed" uid="2955454577" type="4" value="1722953885" />
+  <presetinput identifier="$outputsize" uid="3881483811" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_001/ground_001" label="var04" >
+  <presetinput identifier="Water_To_Ice" uid="2644361313" type="0" value="0.304" />
+  <presetinput identifier="Water_Flow" uid="2644361415" type="0" value="0.64" />
+  <presetinput identifier="Water_Refraction" uid="2644361477" type="0" value="0.342" />
+  <presetinput identifier="Water_Level" uid="2644361643" type="0" value="0.172" />
+  <presetinput identifier="Blood" uid="2644361821" type="0" value="0.609" />
+  <presetinput identifier="Ice_Details" uid="2644365289" type="0" value="0.688" />
+  <presetinput identifier="Water_Moss" uid="2644365294" type="0" value="0.227" />
+  <presetinput identifier="$randomseed" uid="2955454577" type="4" value="1722953885" />
+  <presetinput identifier="$outputsize" uid="3881483811" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_001/ground_001" label="var05" >
+  <presetinput identifier="Water_Flow" uid="2644361415" type="0" value="0.851" />
+  <presetinput identifier="Water_Refraction" uid="2644361477" type="0" value="0.545" />
+  <presetinput identifier="Water_Level" uid="2644361643" type="0" value="0.038" />
+  <presetinput identifier="Snow" uid="2644361820" type="0" value="0.761" />
+  <presetinput identifier="Blood" uid="2644361821" type="0" value="0.609" />
+  <presetinput identifier="Ice_Details" uid="2644365289" type="0" value="1" />
+  <presetinput identifier="Water_Moss" uid="2644365294" type="0" value="0.231" />
+  <presetinput identifier="$randomseed" uid="2955454577" type="4" value="1722953885" />
+  <presetinput identifier="$outputsize" uid="3881483811" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_001/ground_001" label="var06" >
+  <presetinput identifier="Water_Flow" uid="2644361415" type="0" value="0.851" />
+  <presetinput identifier="Water_Refraction" uid="2644361477" type="0" value="0.545" />
+  <presetinput identifier="Water_Level" uid="2644361643" type="0" value="0.038" />
+  <presetinput identifier="Snow" uid="2644361820" type="0" value="0.943" />
+  <presetinput identifier="Blood" uid="2644361821" type="0" value="0.609" />
+  <presetinput identifier="Ice_Details" uid="2644365289" type="0" value="1" />
+  <presetinput identifier="Water_Moss" uid="2644365294" type="0" value="0.231" />
+  <presetinput identifier="$randomseed" uid="2955454577" type="4" value="1722953885" />
+  <presetinput identifier="$outputsize" uid="3881483811" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Paper_02/Paper_02" label="var01" >
+  <presetinput identifier="$outputsize" uid="674028010" type="8" value="9,9" />
+  <presetinput identifier="Square_Size" uid="740010151" type="4" value="37" />
+  <presetinput identifier="Water_Drops" uid="740023681" type="0" value="0.817" />
+  <presetinput identifier="Age" uid="740620502" type="0" value="0.65" />
+  <presetinput identifier="Luminosity" uid="741843271" type="0" value="0.45" />
+  <presetinput identifier="$randomseed" uid="2136919992" type="4" value="-307330445" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Paper_02/Paper_02" label="var02" >
+  <presetinput identifier="$outputsize" uid="674028010" type="8" value="9,9" />
+  <presetinput identifier="Square_Size" uid="740010151" type="4" value="22" />
+  <presetinput identifier="Water_Drops" uid="740023681" type="0" value="1" />
+  <presetinput identifier="Sharpen" uid="740618939" type="0" value="0.643" />
+  <presetinput identifier="Age" uid="740620502" type="0" value="1" />
+  <presetinput identifier="Margin_Size" uid="741837878" type="0" value="0.167" />
+  <presetinput identifier="Luminosity" uid="741843271" type="0" value="0.45" />
+  <presetinput identifier="$randomseed" uid="2136919992" type="4" value="34198153" />
+ </sbspreset>
+</sbspresets>

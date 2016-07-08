@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Granite_01/Granite_01" label="var01" >
+  <presetinput identifier="Roughness" uid="436488252" type="0" value="0" />
+  <presetinput identifier="Depth" uid="440816184" type="0" value="1" />
+  <presetinput identifier="Hue_Shift" uid="449515728" type="0" value="0.438" />
+  <presetinput identifier="$outputsize" uid="507112930" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1229716400" type="4" value="-1254110867" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Granite_01/Granite_01" label="var02" >
+  <presetinput identifier="Roughness" uid="436488252" type="0" value="0.824" />
+  <presetinput identifier="Depth" uid="440816184" type="0" value="-1" />
+  <presetinput identifier="Hue_Shift" uid="449515728" type="0" value="0.822" />
+  <presetinput identifier="Saturation" uid="449515734" type="0" value="0.488" />
+  <presetinput identifier="$outputsize" uid="507112930" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1229716400" type="4" value="-2054216184" />
+ </sbspreset>
+</sbspresets>

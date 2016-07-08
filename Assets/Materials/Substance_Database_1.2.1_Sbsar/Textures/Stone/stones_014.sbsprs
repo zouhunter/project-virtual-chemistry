@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stones_014/stones_014" label="var01" >
+  <presetinput identifier="Stones_Color" uid="2439406617" type="2" value="0.592,0.576,0.494" />
+  <presetinput identifier="Molds_Amount" uid="2439407960" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="3170082386" type="4" value="-1480601309" />
+  <presetinput identifier="$outputsize" uid="3951134720" type="8" value="9,9" />
+  <presetinput identifier="Molds_Size" uid="4005403478" type="0" value="0.364" />
+  <presetinput identifier="Depth" uid="4007445544" type="0" value="-0.016" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_014/stones_014" label="var02" >
+  <presetinput identifier="Contrast" uid="2439172187" type="0" value="0.008" />
+  <presetinput identifier="Stones_Color" uid="2439406617" type="2" value="0.557,0.592,0.592" />
+  <presetinput identifier="Molds_Color" uid="2439408538" type="2" value="0.612,0.639,0.878" />
+  <presetinput identifier="$randomseed" uid="3170082386" type="4" value="-1480601309" />
+  <presetinput identifier="$outputsize" uid="3951134720" type="8" value="9,9" />
+  <presetinput identifier="Molds_Size" uid="4005403478" type="0" value="0.3" />
+  <presetinput identifier="Balance" uid="4005404516" type="0" value="0.436" />
+  <presetinput identifier="Depth" uid="4007445544" type="0" value="-1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_014/stones_014" label="var03" >
+  <presetinput identifier="Contrast" uid="2439172187" type="0" value="0.008" />
+  <presetinput identifier="Stones_Color" uid="2439406617" type="2" value="0.592,0.475,0.271" />
+  <presetinput identifier="Molds_Color" uid="2439408538" type="2" value="0.553,0.671,0.278" />
+  <presetinput identifier="$randomseed" uid="3170082386" type="4" value="1046953663" />
+  <presetinput identifier="$outputsize" uid="3951134720" type="8" value="9,9" />
+  <presetinput identifier="Balance" uid="4005404516" type="0" value="0.436" />
+  <presetinput identifier="Depth" uid="4007445544" type="0" value="1" />
+  <presetinput identifier="Normal" uid="4007448282" type="0" value="1" />
+  <presetinput identifier="Saturation" uid="4007473582" type="0" value="0.42" />
+ </sbspreset>
+</sbspresets>

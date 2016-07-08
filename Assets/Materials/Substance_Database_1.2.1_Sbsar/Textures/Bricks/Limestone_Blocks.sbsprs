@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Limestone_Blocks/Limestone_Blocks" label="var01" >
+  <presetinput identifier="Brick_X" uid="2955972391" type="4" value="6" />
+  <presetinput identifier="Bricks_Offset" uid="2956157050" type="0" value="2.552" />
+  <presetinput identifier="Bricks_Amount" uid="2956161999" type="0" value="0.565" />
+  <presetinput identifier="Age" uid="2956195189" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3044889656" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Limestone_Blocks/Limestone_Blocks" label="var02" >
+  <presetinput identifier="Brick_Y" uid="2955972390" type="4" value="17" />
+  <presetinput identifier="Brick_X" uid="2955972391" type="4" value="5" />
+  <presetinput identifier="Bricks_Offset" uid="2956157050" type="0" value="2.552" />
+  <presetinput identifier="Bricks_Amount" uid="2956161999" type="0" value="0.65" />
+  <presetinput identifier="Age" uid="2956195189" type="0" value="0.532" />
+  <presetinput identifier="Emboss" uid="2970277665" type="0" value="10" />
+  <presetinput identifier="$outputsize" uid="3044889656" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Limestone_Blocks/Limestone_Blocks" label="var03" >
+  <presetinput identifier="Brick_Y" uid="2955972390" type="4" value="17" />
+  <presetinput identifier="Brick_X" uid="2955972391" type="4" value="5" />
+  <presetinput identifier="Bricks_Offset" uid="2956157050" type="0" value="2.552" />
+  <presetinput identifier="Age" uid="2956195189" type="0" value="0.766" />
+  <presetinput identifier="Emboss" uid="2970277665" type="0" value="10" />
+  <presetinput identifier="$outputsize" uid="3044889656" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Limestone_Blocks/Limestone_Blocks" label="var04" >
+  <presetinput identifier="Brick_Y" uid="2955972390" type="4" value="37" />
+  <presetinput identifier="Brick_X" uid="2955972391" type="4" value="14" />
+  <presetinput identifier="Bricks_Offset" uid="2956157050" type="0" value="1.805" />
+  <presetinput identifier="Age" uid="2956195189" type="0" value="0.874" />
+  <presetinput identifier="Emboss" uid="2970277665" type="0" value="10" />
+  <presetinput identifier="$outputsize" uid="3044889656" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

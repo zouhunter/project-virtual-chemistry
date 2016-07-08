@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_004/concrete_004" label="var01" >
+  <presetinput identifier="Lines_Scale" uid="977494787" type="0" value="0.655" />
+  <presetinput identifier="Balance" uid="977600778" type="0" value="0.688" />
+  <presetinput identifier="Breakage" uid="977720097" type="4" value="0" />
+  <presetinput identifier="Joints_Amount" uid="977727440" type="4" value="1" />
+  <presetinput identifier="Cracks" uid="977763035" type="0" value="0.288" />
+  <presetinput identifier="$outputsize" uid="1064253763" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_004/concrete_004" label="var02" >
+  <presetinput identifier="Emboss" uid="976388038" type="0" value="0.846" />
+  <presetinput identifier="Lines_Scale" uid="977494787" type="0" value="0.655" />
+  <presetinput identifier="Top_Color" uid="977563570" type="2" value="0.537,0.537,0.463" />
+  <presetinput identifier="Balance" uid="977600778" type="0" value="0.828" />
+  <presetinput identifier="Joints_Amount" uid="977727440" type="4" value="1" />
+  <presetinput identifier="Cracks" uid="977763035" type="0" value="0.905" />
+  <presetinput identifier="$outputsize" uid="1064253763" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_004/concrete_004" label="var03" >
+  <presetinput identifier="Emboss" uid="976388038" type="0" value="0.846" />
+  <presetinput identifier="Lines_Scale" uid="977494787" type="0" value="0.655" />
+  <presetinput identifier="Top_Color" uid="977563570" type="2" value="0.498,0.533,0.537" />
+  <presetinput identifier="Bottom_Color" uid="977563942" type="2" value="0.549,0.569,0.537" />
+  <presetinput identifier="Balance" uid="977600778" type="0" value="0.828" />
+  <presetinput identifier="Joints_Amount" uid="977727440" type="4" value="6" />
+  <presetinput identifier="Cracks" uid="977763035" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1064253763" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

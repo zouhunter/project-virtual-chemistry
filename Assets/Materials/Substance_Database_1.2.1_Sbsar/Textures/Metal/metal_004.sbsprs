@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_004/metal_004" label="var01" >
+  <presetinput identifier="Scratches" uid="3395064358" type="0" value="0.052" />
+  <presetinput identifier="Rust" uid="3395214578" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3476674715" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_004/metal_004" label="var02" >
+  <presetinput identifier="Acid" uid="3389492492" type="0" value="0.732" />
+  <presetinput identifier="Rust" uid="3395214578" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3476674715" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_004/metal_004" label="var03" >
+  <presetinput identifier="Acid" uid="3389492492" type="0" value="1" />
+  <presetinput identifier="Rust" uid="3395214578" type="0" value="0.902" />
+  <presetinput identifier="$outputsize" uid="3476674715" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

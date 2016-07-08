@@ -1,0 +1,43 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://roofing_010/roofing_010" label="var01" >
+  <presetinput identifier="$randomseed" uid="2306861565" type="4" value="1944593292" />
+  <presetinput identifier="Contrast" uid="2767100732" type="0" value="-0.129" />
+  <presetinput identifier="Emboss" uid="3679500586" type="0" value="0.442" />
+  <presetinput identifier="Normal" uid="3679500661" type="0" value="0.616" />
+  <presetinput identifier="Light_Angle" uid="3679500722" type="0" value="0.108" />
+  <presetinput identifier="Saturation" uid="3679536641" type="0" value="0.521" />
+  <presetinput identifier="Luminosity" uid="3679536660" type="0" value="0.586" />
+  <presetinput identifier="$outputsize" uid="3725459375" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_010/roofing_010" label="var02" >
+  <presetinput identifier="$randomseed" uid="2306861565" type="4" value="1435088492" />
+  <presetinput identifier="Peeling_1" uid="2766866416" type="0" value="0.102" />
+  <presetinput identifier="Nails_Size" uid="2767068682" type="0" value="0.736" />
+  <presetinput identifier="Nails_Disorder" uid="2767068701" type="0" value="0.799" />
+  <presetinput identifier="Nails_Amount" uid="2767068728" type="0" value="0.588" />
+  <presetinput identifier="Contrast" uid="2767100732" type="0" value="-0.129" />
+  <presetinput identifier="Peeling_2" uid="3676289453" type="0" value="0" />
+  <presetinput identifier="Emboss" uid="3679500586" type="0" value="0.442" />
+  <presetinput identifier="Normal" uid="3679500661" type="0" value="0.616" />
+  <presetinput identifier="Light_Angle" uid="3679500722" type="0" value="0.108" />
+  <presetinput identifier="Saturation" uid="3679536641" type="0" value="0.521" />
+  <presetinput identifier="Luminosity" uid="3679536660" type="0" value="0.586" />
+  <presetinput identifier="$outputsize" uid="3725459375" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_010/roofing_010" label="var03" >
+  <presetinput identifier="$randomseed" uid="2306861565" type="4" value="1435088492" />
+  <presetinput identifier="Dirtiness" uid="2766866382" type="0" value="0.799" />
+  <presetinput identifier="Peeling_1" uid="2766866416" type="0" value="1" />
+  <presetinput identifier="Nails_Size" uid="2767068682" type="0" value="1" />
+  <presetinput identifier="Nails_Disorder" uid="2767068701" type="0" value="0.004" />
+  <presetinput identifier="Nails_Amount" uid="2767068728" type="0" value="0.117" />
+  <presetinput identifier="Contrast" uid="2767100732" type="0" value="-0.129" />
+  <presetinput identifier="Peeling_2" uid="3676289453" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3679500586" type="0" value="0.442" />
+  <presetinput identifier="Normal" uid="3679500661" type="0" value="0.616" />
+  <presetinput identifier="Light_Angle" uid="3679500722" type="0" value="0.108" />
+  <presetinput identifier="Saturation" uid="3679536641" type="0" value="0.521" />
+  <presetinput identifier="Luminosity" uid="3679536660" type="0" value="0.586" />
+  <presetinput identifier="$outputsize" uid="3725459375" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

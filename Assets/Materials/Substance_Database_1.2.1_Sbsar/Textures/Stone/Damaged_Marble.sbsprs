@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Damaged_Marble/Damaged_Marble" label="var01" >
+  <presetinput identifier="$outputsize" uid="283293848" type="8" value="9,9" />
+  <presetinput identifier="Damages" uid="348948043" type="0" value="1" />
+  <presetinput identifier="Normal" uid="350013864" type="0" value="0.598" />
+  <presetinput identifier="Contrast" uid="350013865" type="0" value="-0.076" />
+  <presetinput identifier="Depth" uid="350013866" type="0" value="-0.008" />
+  <presetinput identifier="Saturation" uid="350013876" type="0" value="0.606" />
+  <presetinput identifier="Hue_Shift" uid="350013877" type="0" value="0.178" />
+  <presetinput identifier="$randomseed" uid="1200664266" type="4" value="-1463710159" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Damaged_Marble/Damaged_Marble" label="var02" >
+  <presetinput identifier="$outputsize" uid="283293848" type="8" value="9,9" />
+  <presetinput identifier="Damages" uid="348948043" type="0" value="0" />
+  <presetinput identifier="Normal" uid="350013864" type="0" value="0.598" />
+  <presetinput identifier="Contrast" uid="350013865" type="0" value="-0.338" />
+  <presetinput identifier="Depth" uid="350013866" type="0" value="0.215" />
+  <presetinput identifier="Saturation" uid="350013876" type="0" value="0.496" />
+  <presetinput identifier="Hue_Shift" uid="350013877" type="0" value="0.364" />
+  <presetinput identifier="$randomseed" uid="1200664266" type="4" value="2093049544" />
+ </sbspreset>
+</sbspresets>

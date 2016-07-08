@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood015/wood015" label="var03">
+  <presetinput identifier="$outputsize" uid="451433657" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="531950871" type="0" value="0.288"/>
+  <presetinput identifier="Hue_Shift" uid="531950960" type="0" value="0.021"/>
+  <presetinput identifier="Emboss" uid="531960380" type="0" value="0.931"/>
+  <presetinput identifier="Light_Angle" uid="531960484" type="0" value="0.136"/>
+  <presetinput identifier="$randomseed" uid="1301955307" type="4" value="-977300471"/>
+  <presetinput identifier="Weathering" uid="1613826875" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="1613926532" type="0" value="0.117"/>
+  <presetinput identifier="Battens_Offset" uid="1613934257" type="0" value="0.49"/>
+  <presetinput identifier="Battens" uid="1613953480" type="4" value="1"/>
+  <presetinput identifier="Battens_Chamfer" uid="1629344136" type="0" value="0.077"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood015/wood015" label="var01">
+  <presetinput identifier="$randomseed" uid="20734284" type="4" value="1769898046"/>
+  <presetinput identifier="Wood_Color" uid="747936502" type="2" value="0.388,0.275,0.173"/>
+  <presetinput identifier="Saturation" uid="1393741488" type="0" value="0.262"/>
+  <presetinput identifier="Hue_Shift" uid="1393741527" type="0" value="0.034"/>
+  <presetinput identifier="Light_Angle" uid="1393766659" type="0" value="0.136"/>
+  <presetinput identifier="Emboss" uid="1393766811" type="0" value="0.931"/>
+  <presetinput identifier="Normal" uid="1393766852" type="0" value="0.859"/>
+  <presetinput identifier="$outputsize" uid="1447982878" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood015/wood015" label="var02">
+  <presetinput identifier="$outputsize" uid="2853056954" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="2941421588" type="0" value="0.288"/>
+  <presetinput identifier="Hue_Shift" uid="2941421683" type="0" value="0.021"/>
+  <presetinput identifier="Emboss" uid="2941482815" type="0" value="0.931"/>
+  <presetinput identifier="Light_Angle" uid="2941482919" type="0" value="0.136"/>
+  <presetinput identifier="Wood_Color" uid="3503610962" type="2" value="0.855,0.604,0.384"/>
+  <presetinput identifier="Contrast" uid="3503617415" type="0" value="-0.283"/>
+  <presetinput identifier="Weathering" uid="3503779384" type="0" value="0.636"/>
+  <presetinput identifier="$randomseed" uid="4252772328" type="4" value="-977300471"/>
+ </sbspreset>
+</sbspresets>

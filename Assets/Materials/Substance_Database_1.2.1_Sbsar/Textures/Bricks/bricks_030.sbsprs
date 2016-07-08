@@ -1,0 +1,49 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://bricks_030/bricks_030" label="var01">
+  <presetinput identifier="Contrast" uid="2664578116" type="0" value="0.111"/>
+  <presetinput identifier="Concrete_Color" uid="2666182545" type="2" value="0.49,0.51,0.498"/>
+  <presetinput identifier="Graffiti" uid="2666640774" type="4" value="0"/>
+  <presetinput identifier="Concrete" uid="2666640897" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="3010993247" type="4" value="111939291"/>
+  <presetinput identifier="$outputsize" uid="3825863181" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_030/bricks_030" label="var02">
+  <presetinput identifier="Concrete_Color" uid="2666182545" type="2" value="0.49,0.51,0.498"/>
+  <presetinput identifier="Age" uid="2666508759" type="0" value="0.853"/>
+  <presetinput identifier="Graffiti" uid="2666640774" type="4" value="0"/>
+  <presetinput identifier="Concrete" uid="2666640897" type="0" value="0"/>
+  <presetinput identifier="Bricks_Amount_X" uid="2666774460" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="3010993247" type="4" value="111939291"/>
+  <presetinput identifier="$outputsize" uid="3825863181" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_030/bricks_030" label="var04">
+  <presetinput identifier="Contrast" uid="2664578116" type="0" value="0.094"/>
+  <presetinput identifier="Cracks" uid="2666026460" type="0" value="0.975"/>
+  <presetinput identifier="Concrete_Color" uid="2666182545" type="2" value="0.49,0.494,0.51"/>
+  <presetinput identifier="Age" uid="2666508759" type="0" value="0.995"/>
+  <presetinput identifier="Graffiti_Switch" uid="2666640788" type="4" value="4"/>
+  <presetinput identifier="Graffiti_Drips_Angle" uid="2666640883" type="0" value="0.708"/>
+  <presetinput identifier="Concrete" uid="2666640897" type="0" value="1"/>
+  <presetinput identifier="Graffiti_Drips" uid="2666640914" type="0" value="0.229"/>
+  <presetinput identifier="Bricks_Amount_X" uid="2666774460" type="4" value="11"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="2666774461" type="4" value="5"/>
+  <presetinput identifier="$randomseed" uid="3010993247" type="4" value="1449781614"/>
+  <presetinput identifier="$outputsize" uid="3825863181" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_030/bricks_030" label="var03">
+  <presetinput identifier="Contrast" uid="2664578116" type="0" value="0.094"/>
+  <presetinput identifier="Cracks" uid="2666026460" type="0" value="0.984"/>
+  <presetinput identifier="Concrete_Color" uid="2666182545" type="2" value="0.49,0.494,0.51"/>
+  <presetinput identifier="Age" uid="2666508759" type="0" value="0.995"/>
+  <presetinput identifier="Graffiti" uid="2666640774" type="4" value="0"/>
+  <presetinput identifier="Graffiti_Switch" uid="2666640788" type="4" value="4"/>
+  <presetinput identifier="Graffiti_Drips_Angle" uid="2666640883" type="0" value="0.708"/>
+  <presetinput identifier="Concrete" uid="2666640897" type="0" value="0.689"/>
+  <presetinput identifier="Graffiti_Drips" uid="2666640914" type="0" value="0.229"/>
+  <presetinput identifier="Small_Bricks_Ratio" uid="2666774456" type="0" value="0.64"/>
+  <presetinput identifier="Bricks_Amount_X" uid="2666774460" type="4" value="11"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="2666774461" type="4" value="5"/>
+  <presetinput identifier="$randomseed" uid="3010993247" type="4" value="912383740"/>
+  <presetinput identifier="$outputsize" uid="3825863181" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

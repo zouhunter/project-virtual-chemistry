@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_024/concrete_024" label="var02" >
+  <presetinput identifier="Dirtiness" uid="2700740409" type="0" value="0.916" />
+  <presetinput identifier="Cable_Weight" uid="2700802495" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2782915152" type="8" value="9,9" />
+  <presetinput identifier="Holes" uid="3743988117" type="4" value="0" />
+  <presetinput identifier="Frame_Tar" uid="3743988349" type="4" value="0" />
+  <presetinput identifier="Wall_Color" uid="3743989584" type="2" value="0.478,0.494,0.533" />
+  <presetinput identifier="Cable_Color" uid="3743989593" type="2" value="0.012,0.012,0.012" />
+  <presetinput identifier="Metal_Color" uid="3743989595" type="2" value="0.678,0.674,0.674" />
+  <presetinput identifier="$randomseed" uid="4071488514" type="4" value="593952493" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_024/concrete_024" label="var01" >
+  <presetinput identifier="Luminosity" uid="2692961259" type="0" value="0.464" />
+  <presetinput identifier="Cable_Weight" uid="2700802495" type="0" value="0.29" />
+  <presetinput identifier="$outputsize" uid="2782915152" type="8" value="9,9" />
+  <presetinput identifier="Metal_Hooks" uid="3743988118" type="4" value="0" />
+  <presetinput identifier="Cables" uid="3743988119" type="4" value="0" />
+  <presetinput identifier="Contrast" uid="3743989250" type="0" value="0.422" />
+  <presetinput identifier="Tar_Color" uid="3743989591" type="2" value="0.494,0.541,0.569" />
+  <presetinput identifier="$randomseed" uid="4071488514" type="4" value="-1510276097" />
+ </sbspreset>
+</sbspresets>

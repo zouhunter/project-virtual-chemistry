@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Cookie/Cookie" label="var01" >
+  <presetinput identifier="$randomseed" uid="419742864" type="4" value="-526123629" />
+  <presetinput identifier="Luminosity" uid="1247969346" type="0" value="0.561" />
+  <presetinput identifier="Emboss" uid="1247969698" type="0" value="5.82" />
+  <presetinput identifier="Light_Angle" uid="1247969756" type="0" value="0.231" />
+  <presetinput identifier="Depth" uid="1247971179" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="1255036888" type="0" value="0.565" />
+  <presetinput identifier="Hue_Shift" uid="1255208186" type="0" value="0.016" />
+  <presetinput identifier="$outputsize" uid="1316410050" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cookie/Cookie" label="var02" >
+  <presetinput identifier="$randomseed" uid="419742864" type="4" value="-1044043086" />
+  <presetinput identifier="Luminosity" uid="1247969346" type="0" value="0.561" />
+  <presetinput identifier="Emboss" uid="1247969698" type="0" value="5.82" />
+  <presetinput identifier="Light_Angle" uid="1247969756" type="0" value="0.861" />
+  <presetinput identifier="Depth" uid="1247971179" type="0" value="-1" />
+  <presetinput identifier="Hazelnuts" uid="1248323932" type="0" value="0.876" />
+  <presetinput identifier="Chocolate_Chips" uid="1249152518" type="0" value="0.763" />
+  <presetinput identifier="Normal" uid="1255036888" type="0" value="0.565" />
+  <presetinput identifier="Hue_Shift" uid="1255208186" type="0" value="0.016" />
+  <presetinput identifier="$outputsize" uid="1316410050" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cookie/Cookie" label="var03" >
+  <presetinput identifier="$randomseed" uid="419742864" type="4" value="1522847665" />
+  <presetinput identifier="Luminosity" uid="1247969346" type="0" value="0.561" />
+  <presetinput identifier="Emboss" uid="1247969698" type="0" value="5.82" />
+  <presetinput identifier="Light_Angle" uid="1247969756" type="0" value="0.861" />
+  <presetinput identifier="Depth" uid="1247971179" type="0" value="-1" />
+  <presetinput identifier="Hazelnuts" uid="1248323932" type="0" value="0.235" />
+  <presetinput identifier="Chocolate_Chips" uid="1249152518" type="0" value="0.192" />
+  <presetinput identifier="Normal" uid="1255036888" type="0" value="0.565" />
+  <presetinput identifier="Bites" uid="1255037720" type="0" value="0.638" />
+  <presetinput identifier="Hue_Shift" uid="1255208186" type="0" value="0.016" />
+  <presetinput identifier="$outputsize" uid="1316410050" type="8" value="10,10" />
+ </sbspreset>
+</sbspresets>

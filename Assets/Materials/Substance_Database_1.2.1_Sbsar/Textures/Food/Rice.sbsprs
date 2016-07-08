@@ -1,0 +1,11 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Rice/Rice" label="var01" >
+  <presetinput identifier="$outputsize" uid="1777192304" type="8" value="9,9" />
+  <presetinput identifier="Density" uid="1814888067" type="0" value="0.149" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Rice/Rice" label="var02" >
+  <presetinput identifier="$outputsize" uid="1777192304" type="8" value="9,9" />
+  <presetinput identifier="Cooked" uid="1814878396" type="0" value="1" />
+  <presetinput identifier="Density" uid="1814888067" type="0" value="0.257" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://BrickWall_05/BrickWall_05" label="var01" >
+  <presetinput identifier="Mortar" uid="2567766156" type="0" value="0.83" />
+  <presetinput identifier="Age" uid="2571404529" type="0" value="0.49" />
+  <presetinput identifier="Depth" uid="2572007913" type="0" value="1" />
+  <presetinput identifier="Luminosity" uid="2579561220" type="0" value="0.432" />
+  <presetinput identifier="Saturation" uid="2579561223" type="0" value="0.492" />
+  <presetinput identifier="$outputsize" uid="2637301299" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3393196129" type="4" value="-1479111839" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://BrickWall_05/BrickWall_05" label="var02" >
+  <presetinput identifier="Mortar" uid="2567766156" type="0" value="0.3" />
+  <presetinput identifier="Bricks_Y" uid="2569930240" type="4" value="23" />
+  <presetinput identifier="Bricks_X" uid="2569930278" type="4" value="12" />
+  <presetinput identifier="Age" uid="2571404529" type="0" value="0.794" />
+  <presetinput identifier="Depth" uid="2572007913" type="0" value="1" />
+  <presetinput identifier="Hue_Shift" uid="2579561217" type="0" value="0.038" />
+  <presetinput identifier="Luminosity" uid="2579561220" type="0" value="0.396" />
+  <presetinput identifier="Saturation" uid="2579561223" type="0" value="0.492" />
+  <presetinput identifier="$outputsize" uid="2637301299" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3393196129" type="4" value="-1501651482" />
+ </sbspreset>
+</sbspresets>

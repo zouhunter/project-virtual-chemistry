@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Fencing/Fencing" label="var01" >
+  <presetinput identifier="$randomseed" uid="2158263586" type="4" value="-47265103" />
+  <presetinput identifier="Pattern_Morph" uid="3553054958" type="0" value="0.044" />
+  <presetinput identifier="Wire_Thickness" uid="3554411063" type="0" value="1" />
+  <presetinput identifier="Grid_Density" uid="3554411746" type="0" value="0.411" />
+  <presetinput identifier="$outputsize" uid="3621153648" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Fencing/Fencing" label="var02" >
+  <presetinput identifier="$randomseed" uid="2158263586" type="4" value="-47265103" />
+  <presetinput identifier="Metal_Color" uid="2903284339" type="2" value="0.812,0.682,0.569" />
+  <presetinput identifier="Pattern_Morph" uid="3553054958" type="0" value="0.186" />
+  <presetinput identifier="Wire_Thickness" uid="3554411063" type="0" value="0.989" />
+  <presetinput identifier="Grid_Density" uid="3554411746" type="0" value="0.188" />
+  <presetinput identifier="$outputsize" uid="3621153648" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Fencing/Fencing" label="var03" >
+  <presetinput identifier="$randomseed" uid="2158263586" type="4" value="-47265103" />
+  <presetinput identifier="Metal_Color" uid="2903284339" type="2" value="0.792,0.812,0.812" />
+  <presetinput identifier="Pattern_Morph" uid="3553054958" type="0" value="0.394" />
+  <presetinput identifier="Wire_Thickness" uid="3554411063" type="0" value="0.576" />
+  <presetinput identifier="Grid_Density" uid="3554411746" type="0" value="0.486" />
+  <presetinput identifier="$outputsize" uid="3621153648" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

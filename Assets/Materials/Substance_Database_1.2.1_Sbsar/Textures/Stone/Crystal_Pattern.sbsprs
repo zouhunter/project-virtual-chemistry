@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Glowing_Rock/Glowing_Rock" label="var01" >
+  <presetinput identifier="$outputsize" uid="541679682" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="607575960" type="0" value="-1" />
+  <presetinput identifier="Specular_Color" uid="634736993" type="2" value="0,0.902,0.027" />
+  <presetinput identifier="Emissive_Color" uid="634738977" type="2" value="0.224,0.518,0.902" />
+  <presetinput identifier="Rock_Color" uid="1520573764" type="2" value="0.475,0.157,0.502" />
+  <presetinput identifier="$randomseed" uid="2000385552" type="4" value="991363668" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Glowing_Rock/Glowing_Rock" label="var02" >
+  <presetinput identifier="$outputsize" uid="541679682" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="607575960" type="0" value="-1" />
+  <presetinput identifier="Crystal_Density" uid="633324341" type="0" value="0.132" />
+  <presetinput identifier="Specular_Color" uid="634736993" type="2" value="0.635,0.882,0.902" />
+  <presetinput identifier="Emissive_Color" uid="634738977" type="2" value="0.902,0.749,0.192" />
+  <presetinput identifier="Spec_Highlights" uid="634738979" type="0" value="0.942" />
+  <presetinput identifier="Rock_Color" uid="1520573764" type="2" value="0.89,0.008,0.008" />
+  <presetinput identifier="$randomseed" uid="2000385552" type="4" value="1111248537" />
+ </sbspreset>
+</sbspresets>

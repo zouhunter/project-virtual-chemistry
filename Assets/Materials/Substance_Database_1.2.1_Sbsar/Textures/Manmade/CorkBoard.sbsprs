@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://CorkBoard/CorkBoard" label="var01" >
+  <presetinput identifier="$randomseed" uid="2249333909" type="4" value="-1835558889" />
+  <presetinput identifier="$outputsize" uid="3512732359" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="3575089630" type="0" value="4.492" />
+  <presetinput identifier="Light_Angle" uid="3575089634" type="0" value="0.256" />
+  <presetinput identifier="Luminosity" uid="3583178736" type="0" value="0.519" />
+  <presetinput identifier="Saturation" uid="3583178739" type="0" value="0.432" />
+  <presetinput identifier="Hue_Shift" uid="3583178741" type="0" value="0.026" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://CorkBoard/CorkBoard" label="var02" >
+  <presetinput identifier="$randomseed" uid="2249333909" type="4" value="-1687362970" />
+  <presetinput identifier="$outputsize" uid="3512732359" type="8" value="10,10" />
+  <presetinput identifier="Disparities" uid="3572559105" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3575089630" type="0" value="4.492" />
+  <presetinput identifier="Light_Angle" uid="3575089634" type="0" value="0.092" />
+  <presetinput identifier="Depth" uid="3575624989" type="0" value="1" />
+  <presetinput identifier="Luminosity" uid="3583178736" type="0" value="0.519" />
+  <presetinput identifier="Saturation" uid="3583178739" type="0" value="0.386" />
+  <presetinput identifier="Hue_Shift" uid="3583178741" type="0" value="0.026" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://CorkBoard/CorkBoard" label="var03" >
+  <presetinput identifier="$randomseed" uid="2249333909" type="4" value="-1687362970" />
+  <presetinput identifier="$outputsize" uid="3512732359" type="8" value="10,10" />
+  <presetinput identifier="Relief_Balance" uid="3568544706" type="0" value="12.125" />
+  <presetinput identifier="Disparities" uid="3572559105" type="0" value="0" />
+  <presetinput identifier="Normal" uid="3575023239" type="0" value="0.045" />
+  <presetinput identifier="Emboss" uid="3575089630" type="0" value="4.492" />
+  <presetinput identifier="Light_Angle" uid="3575089634" type="0" value="0.444" />
+  <presetinput identifier="Depth" uid="3575624989" type="0" value="-0.975" />
+  <presetinput identifier="Luminosity" uid="3583178736" type="0" value="0.527" />
+  <presetinput identifier="Saturation" uid="3583178739" type="0" value="0.312" />
+  <presetinput identifier="Hue_Shift" uid="3583178741" type="0" value="0.026" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Calm_Water/Calm_Water" label="var01" >
+  <presetinput identifier="Emboss" uid="2421568077" type="0" value="4.727" />
+  <presetinput identifier="Light_Angle" uid="2421568113" type="0" value="0.744" />
+  <presetinput identifier="Saturation" uid="2429766752" type="0" value="0.509" />
+  <presetinput identifier="Hue_Shift" uid="2429766758" type="0" value="0.032" />
+  <presetinput identifier="$outputsize" uid="2485236052" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3277039366" type="4" value="-1027973134" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Calm_Water/Calm_Water" label="var02" >
+  <presetinput identifier="Emboss" uid="2421568077" type="0" value="4.727" />
+  <presetinput identifier="Contrast" uid="2421636214" type="0" value="-0.336" />
+  <presetinput identifier="Saturation" uid="2429766752" type="0" value="0.509" />
+  <presetinput identifier="Hue_Shift" uid="2429766758" type="0" value="0.032" />
+  <presetinput identifier="Droplets" uid="2445112026" type="0" value="0.261" />
+  <presetinput identifier="$outputsize" uid="2485236052" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3277039366" type="4" value="-1681962509" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Calm_Water/Calm_Water" label="var03" >
+  <presetinput identifier="Emboss" uid="2421568077" type="0" value="4.727" />
+  <presetinput identifier="Light_Angle" uid="2421568113" type="0" value="0.075" />
+  <presetinput identifier="Contrast" uid="2421636214" type="0" value="-0.336" />
+  <presetinput identifier="Saturation" uid="2429766752" type="0" value="0.509" />
+  <presetinput identifier="Hue_Shift" uid="2429766758" type="0" value="0.032" />
+  <presetinput identifier="Droplets" uid="2445112026" type="0" value="0.907" />
+  <presetinput identifier="$outputsize" uid="2485236052" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3277039366" type="4" value="108445475" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://door_001/door_001" label="var01" >
+  <presetinput identifier="Wood_Color" uid="2545260616" type="2" value="0.435,0.431,0.42" />
+  <presetinput identifier="Metal_Color" uid="2545260639" type="2" value="0.471,0.471,0.471" />
+  <presetinput identifier="Tube_Color" uid="2545260684" type="2" value="0.478,0.349,0.188" />
+  <presetinput identifier="Frame_Color" uid="2545260705" type="2" value="0.427,0.314,0.129" />
+  <presetinput identifier="Contrast" uid="2545295049" type="0" value="0.006" />
+  <presetinput identifier="Rust" uid="2545365689" type="0" value="0" />
+  <presetinput identifier="Age" uid="2545365702" type="0" value="0.547" />
+  <presetinput identifier="$outputsize" uid="3980426692" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://door_001/door_001" label="var02" >
+  <presetinput identifier="Rust_Color" uid="2545115130" type="2" value="0.337,0.106,0" />
+  <presetinput identifier="Wood_Color" uid="2545260616" type="2" value="0.435,0.431,0.42" />
+  <presetinput identifier="Metal_Color" uid="2545260639" type="2" value="0.463,0.443,0.424" />
+  <presetinput identifier="Tube_Color" uid="2545260684" type="2" value="0.478,0.349,0.188" />
+  <presetinput identifier="Frame_Color" uid="2545260705" type="2" value="0.427,0.314,0.129" />
+  <presetinput identifier="Contrast" uid="2545295049" type="0" value="0.338" />
+  <presetinput identifier="Frame" uid="2545365662" type="4" value="0" />
+  <presetinput identifier="Age" uid="2545365702" type="0" value="0.881" />
+  <presetinput identifier="$outputsize" uid="3980426692" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

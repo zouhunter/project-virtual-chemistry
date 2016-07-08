@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://carpet_003/carpet_003" label="var02" >
+  <presetinput identifier="$outputsize" uid="146862400" type="8" value="9,9" />
+  <presetinput identifier="Stains" uid="1913431148" type="0" value="0.48" />
+  <presetinput identifier="Creases" uid="1914520413" type="0" value="0.514" />
+  <presetinput identifier="Color" uid="1914541272" type="2" value="0.525,0.62,0.608" />
+  <presetinput identifier="Dirtiness" uid="1914602816" type="0" value="0.342" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://carpet_003/carpet_003" label="var01" >
+  <presetinput identifier="$outputsize" uid="146862400" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1605560082" type="4" value="-316428466" />
+  <presetinput identifier="Color" uid="1914541272" type="2" value="0.702,0.702,0.4" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://carpet_003/carpet_003" label="var03" >
+  <presetinput identifier="$outputsize" uid="146862400" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1605560082" type="4" value="1431383365" />
+  <presetinput identifier="Stains" uid="1913431148" type="0" value="0.48" />
+  <presetinput identifier="Creases" uid="1914520413" type="0" value="0.861" />
+  <presetinput identifier="Color" uid="1914541272" type="2" value="0.4,0.549,0.62" />
+  <presetinput identifier="Dirtiness" uid="1914602816" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

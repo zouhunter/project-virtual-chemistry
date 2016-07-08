@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Old_Fabric/Old_Fabric" label="var01" >
+  <presetinput identifier="Emboss" uid="2213451672" type="0" value="5.488" />
+  <presetinput identifier="Hue" uid="2213451676" type="0" value="0.476" />
+  <presetinput identifier="Bumpiness" uid="2214350197" type="0" value="0.318" />
+  <presetinput identifier="Age" uid="2214402483" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="2278697690" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Old_Fabric/Old_Fabric" label="var02" >
+  <presetinput identifier="Emboss" uid="2213451672" type="0" value="5.488" />
+  <presetinput identifier="Bumpiness" uid="2214350197" type="0" value="0.375" />
+  <presetinput identifier="Age" uid="2214402483" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2278697690" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

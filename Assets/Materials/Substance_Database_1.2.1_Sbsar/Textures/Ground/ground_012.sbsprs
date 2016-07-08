@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://ground_012/ground_012" label="var01" >
+  <presetinput identifier="$randomseed" uid="2587018239" type="4" value="-1545028017" />
+  <presetinput identifier="Grass_Color_02" uid="3082119683" type="2" value="0.376,0.431,0.341" />
+  <presetinput identifier="Leaves_Color_01" uid="3082119701" type="2" value="0.498,0.518,0.263" />
+  <presetinput identifier="Leaves_Color_02" uid="3082119702" type="2" value="0.29,0.369,0.208" />
+  <presetinput identifier="Grass_Color_01" uid="3082119731" type="2" value="0.584,0.549,0.443" />
+  <presetinput identifier="Leaves_1_Scale" uid="3082212065" type="4" value="4" />
+  <presetinput identifier="$outputsize" uid="3443578285" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_012/ground_012" label="var02" >
+  <presetinput identifier="$randomseed" uid="2587018239" type="4" value="1273438106" />
+  <presetinput identifier="Grass_Color_02" uid="3082119683" type="2" value="0.431,0.431,0.365" />
+  <presetinput identifier="Leaves_Color_01" uid="3082119701" type="2" value="0.518,0.482,0.333" />
+  <presetinput identifier="Leaves_Color_02" uid="3082119702" type="2" value="0.322,0.369,0.271" />
+  <presetinput identifier="Grass_Color_01" uid="3082119731" type="2" value="0.584,0.549,0.443" />
+  <presetinput identifier="Leaves_1_Scale" uid="3082212065" type="4" value="3" />
+  <presetinput identifier="Leaves_2_Scale" uid="3082212067" type="4" value="2" />
+  <presetinput identifier="Dirt" uid="3082212092" type="0" value="0.553" />
+  <presetinput identifier="Rock" uid="3082212094" type="0" value="0.36" />
+  <presetinput identifier="$outputsize" uid="3443578285" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

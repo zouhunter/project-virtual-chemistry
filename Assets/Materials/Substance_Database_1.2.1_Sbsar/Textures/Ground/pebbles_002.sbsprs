@@ -1,0 +1,38 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://pebbles_002/pebbles_002" label="var01" >
+  <presetinput identifier="Water_Color" uid="48600634" type="3" value="0.027,0.11,0.098,0.118" />
+  <presetinput identifier="Pebbles_1_Color" uid="48612320" type="2" value="0.302,0.294,0.271" />
+  <presetinput identifier="Pebbles_2_Color" uid="48612321" type="2" value="0.408,0.404,0.4" />
+  <presetinput identifier="Pebbles_3_Color" uid="48612322" type="2" value="0.667,0.663,0.663" />
+  <presetinput identifier="Pebbles_4_Color" uid="48612324" type="2" value="0.302,0.294,0.286" />
+  <presetinput identifier="Pebbles_5_Color" uid="48612325" type="2" value="0.714,0.714,0.714" />
+  <presetinput identifier="$randomseed" uid="793827883" type="4" value="-761702342" />
+  <presetinput identifier="$outputsize" uid="2015546489" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2105510652" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_002/pebbles_002" label="var02" >
+  <presetinput identifier="Water_Color" uid="48600634" type="3" value="0.047,0.047,0.11,1" />
+  <presetinput identifier="Pebbles_1_Color" uid="48612320" type="2" value="0.773,0.686,0.584" />
+  <presetinput identifier="Pebbles_2_Color" uid="48612321" type="2" value="0.408,0.329,0.263" />
+  <presetinput identifier="Pebbles_3_Color" uid="48612322" type="2" value="0.667,0.537,0.443" />
+  <presetinput identifier="Pebbles_4_Color" uid="48612324" type="2" value="0.302,0.251,0.2" />
+  <presetinput identifier="Pebbles_5_Color" uid="48612325" type="2" value="0.714,0.631,0.541" />
+  <presetinput identifier="$randomseed" uid="793827883" type="4" value="-75700723" />
+  <presetinput identifier="$outputsize" uid="2015546489" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="2100961718" type="0" value="0.395" />
+  <presetinput identifier="Scale" uid="2101885108" type="0" value="0.914" />
+  <presetinput identifier="Emboss" uid="2105510652" type="0" value="0.571" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_002/pebbles_002" label="var03" >
+  <presetinput identifier="Water_Color" uid="48600634" type="3" value="0.333,0.361,0.365,1" />
+  <presetinput identifier="Pebbles_1_Color" uid="48612320" type="2" value="0.494,0.486,0.427" />
+  <presetinput identifier="Pebbles_3_Color" uid="48612322" type="2" value="0.522,0.525,0.467" />
+  <presetinput identifier="Pebbles_4_Color" uid="48612324" type="2" value="0.686,0.678,0.604" />
+  <presetinput identifier="Pebbles_5_Color" uid="48612325" type="2" value="0.247,0.298,0.247" />
+  <presetinput identifier="$randomseed" uid="793827883" type="4" value="-1569712437" />
+  <presetinput identifier="$outputsize" uid="2015546489" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="2100961718" type="0" value="0.223" />
+  <presetinput identifier="Water_Level" uid="2100972107" type="0" value="0.076" />
+  <presetinput identifier="Scale" uid="2101885108" type="0" value="0.212" />
+ </sbspreset>
+</sbspresets>

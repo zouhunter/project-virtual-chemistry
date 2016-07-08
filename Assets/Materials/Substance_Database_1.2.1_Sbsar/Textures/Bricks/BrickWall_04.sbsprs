@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://BrickWall_04/BrickWall_04" label="var01" >
+  <presetinput identifier="Emboss" uid="1934447818" type="0" value="-2.969" />
+  <presetinput identifier="Light_Angle" uid="1934447862" type="0" value="0.392" />
+  <presetinput identifier="Hue_Shift" uid="1942498017" type="0" value="0.043" />
+  <presetinput identifier="Luminosity" uid="1942498020" type="0" value="0.502" />
+  <presetinput identifier="Saturation" uid="1942498023" type="0" value="0.643" />
+  <presetinput identifier="$outputsize" uid="2000345043" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://BrickWall_04/BrickWall_04" label="var02" >
+  <presetinput identifier="$randomseed" uid="541639041" type="4" value="252367591" />
+  <presetinput identifier="Contrast" uid="1934383857" type="0" value="0.221" />
+  <presetinput identifier="Normal" uid="1934384019" type="0" value="0.811" />
+  <presetinput identifier="Emboss" uid="1934447818" type="0" value="7.637" />
+  <presetinput identifier="Light_Angle" uid="1934447862" type="0" value="0.392" />
+  <presetinput identifier="Hue_Shift" uid="1942498017" type="0" value="0.043" />
+  <presetinput identifier="Luminosity" uid="1942498020" type="0" value="0.496" />
+  <presetinput identifier="Saturation" uid="1942498023" type="0" value="0.529" />
+  <presetinput identifier="$outputsize" uid="2000345043" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://BrickWall_04/BrickWall_04" label="var03" >
+  <presetinput identifier="$randomseed" uid="541639041" type="4" value="252367591" />
+  <presetinput identifier="Mortar" uid="1930839726" type="0" value="0.811" />
+  <presetinput identifier="Bricks_X" uid="1931925446" type="4" value="13" />
+  <presetinput identifier="Bricks_Y" uid="1931925472" type="4" value="30" />
+  <presetinput identifier="Contrast" uid="1934383857" type="0" value="0.221" />
+  <presetinput identifier="Normal" uid="1934384019" type="0" value="0.811" />
+  <presetinput identifier="Emboss" uid="1934447818" type="0" value="7.637" />
+  <presetinput identifier="Light_Angle" uid="1934447862" type="0" value="0.147" />
+  <presetinput identifier="Hue_Shift" uid="1942498017" type="0" value="0.043" />
+  <presetinput identifier="Luminosity" uid="1942498020" type="0" value="0.496" />
+  <presetinput identifier="Saturation" uid="1942498023" type="0" value="0.529" />
+  <presetinput identifier="$outputsize" uid="2000345043" type="8" value="10,10" />
+ </sbspreset>
+</sbspresets>

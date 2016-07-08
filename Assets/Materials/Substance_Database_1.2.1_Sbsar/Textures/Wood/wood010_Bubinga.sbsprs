@@ -1,0 +1,58 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://wood010/wood010" label="var02">
+  <presetinput identifier="$outputsize" uid="538305913" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="625517412" type="0" value="0.272"/>
+  <presetinput identifier="Normal" uid="625517475" type="0" value="0.596"/>
+  <presetinput identifier="Emboss" uid="625517564" type="0" value="0.966"/>
+  <presetinput identifier="Luminosity" uid="625564866" type="0" value="0.52"/>
+  <presetinput identifier="Saturation" uid="625564887" type="0" value="0.448"/>
+  <presetinput identifier="Details" uid="1523366550" type="0" value="0.151"/>
+  <presetinput identifier="Scratches" uid="1523366651" type="0" value="0.062"/>
+  <presetinput identifier="Battens" uid="1523533832" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="1523534271" type="4" value="19"/>
+  <presetinput identifier="Warp" uid="1523791102" type="0" value="1"/>
+  <presetinput identifier="Battens_Chamfer" uid="1541439450" type="0" value="0.157"/>
+  <presetinput identifier="$randomseed" uid="2003301163" type="4" value="1604365166"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood010/wood010" label="var03">
+  <presetinput identifier="$outputsize" uid="538305913" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="625517412" type="0" value="0.272"/>
+  <presetinput identifier="Normal" uid="625517475" type="0" value="0.596"/>
+  <presetinput identifier="Emboss" uid="625517564" type="0" value="0.966"/>
+  <presetinput identifier="Luminosity" uid="625564866" type="0" value="0.52"/>
+  <presetinput identifier="Saturation" uid="625564887" type="0" value="0.448"/>
+  <presetinput identifier="Details" uid="1523366550" type="0" value="1"/>
+  <presetinput identifier="Scratches" uid="1523366651" type="0" value="0.062"/>
+  <presetinput identifier="Battens_Height_Variation" uid="1523521687" type="0" value="0.968"/>
+  <presetinput identifier="Battens_Color_Variation" uid="1523521791" type="0" value="0.511"/>
+  <presetinput identifier="Battens_Random_Offset" uid="1523523422" type="0" value="0.763"/>
+  <presetinput identifier="Battens_Offset" uid="1523523441" type="0" value="0.466"/>
+  <presetinput identifier="Battens" uid="1523533832" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="1523534271" type="4" value="19"/>
+  <presetinput identifier="Warp" uid="1523791102" type="0" value="1"/>
+  <presetinput identifier="Battens_Chamfer" uid="1541439450" type="0" value="0.135"/>
+  <presetinput identifier="$randomseed" uid="2003301163" type="4" value="1755233573"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood010/wood010" label="var01">
+  <presetinput identifier="$randomseed" uid="246704948" type="4" value="-1303056018"/>
+  <presetinput identifier="Warp" uid="587246817" type="0" value="1"/>
+  <presetinput identifier="Wood_Color" uid="589074574" type="2" value="0.192,0.098,0.035"/>
+  <presetinput identifier="$outputsize" uid="1506180454" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="1553646792" type="0" value="0.448"/>
+  <presetinput identifier="Luminosity" uid="1553646813" type="0" value="0.52"/>
+  <presetinput identifier="Light_Angle" uid="1553677179" type="0" value="0.272"/>
+  <presetinput identifier="Normal" uid="1553677244" type="0" value="0.596"/>
+  <presetinput identifier="Emboss" uid="1553677283" type="0" value="0.966"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood010/wood010" label="var04">
+  <presetinput identifier="$outputsize" uid="182416218" type="8" value="9,9"/>
+  <presetinput identifier="Battens_Offset" uid="1879411026" type="0" value="0.546"/>
+  <presetinput identifier="Battens_Random_Offset" uid="1879411069" type="0" value="0.417"/>
+  <presetinput identifier="Battens_Height_Variation" uid="1879412404" type="0" value="0.517"/>
+  <presetinput identifier="Battens_Color_Variation" uid="1879412444" type="0" value="0.583"/>
+  <presetinput identifier="Battens" uid="1879432747" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="1879432774" type="4" value="3"/>
+  <presetinput identifier="Battens_Amount_Y" uid="1879433116" type="4" value="14"/>
+  <presetinput identifier="Battens_Gap" uid="1898637818" type="0" value="0.073"/>
+ </sbspreset>
+</sbspresets>

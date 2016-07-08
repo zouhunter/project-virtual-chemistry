@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Linen/Linen" label="var01" >
+  <presetinput identifier="Thread_Color" uid="723607345" type="2" value="0.212,0.251,0.831" />
+  <presetinput identifier="$outputsize" uid="1375651548" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1416312489" type="0" value="0.057" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Linen/Linen" label="var02" >
+  <presetinput identifier="Thread_Color" uid="723607345" type="2" value="0.831,0.749,0.604" />
+  <presetinput identifier="$outputsize" uid="1375651548" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1416312489" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

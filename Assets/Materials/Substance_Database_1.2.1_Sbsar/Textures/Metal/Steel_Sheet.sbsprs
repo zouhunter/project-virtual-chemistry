@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Steel_Sheet/Steel_Sheet" label="var01" >
+  <presetinput identifier="$outputsize" uid="4174177674" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="4234855346" type="0" value="0.455" />
+  <presetinput identifier="Age" uid="4235488336" type="0" value="0.353" />
+  <presetinput identifier="Emboss" uid="4242061034" type="0" value="8.008" />
+  <presetinput identifier="Tiling" uid="4242398740" type="4" value="2" />
+  <presetinput identifier="Sharpen" uid="4244353264" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Steel_Sheet/Steel_Sheet" label="var02" >
+  <presetinput identifier="$randomseed" uid="2948527064" type="4" value="1892736771" />
+  <presetinput identifier="$outputsize" uid="4174177674" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="4234855346" type="0" value="0.126" />
+  <presetinput identifier="Age" uid="4235488336" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="4242061034" type="0" value="8.008" />
+  <presetinput identifier="Tiling" uid="4242398740" type="4" value="1" />
+  <presetinput identifier="Sharpen" uid="4244353264" type="0" value="0.687" />
+ </sbspreset>
+</sbspresets>

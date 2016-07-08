@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://fabric_005/fabric_005" label="var02" >
+  <presetinput identifier="$outputsize" uid="3017992236" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="3374673827" type="0" value="0.388" />
+  <presetinput identifier="Color" uid="3376073099" type="2" value="0.957,0.176,0.188" />
+  <presetinput identifier="Volume" uid="3376135323" type="0" value="0.661" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_005/fabric_005" label="var03" >
+  <presetinput identifier="$outputsize" uid="3017992236" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3066015401" type="0" value="0.73" />
+  <presetinput identifier="Normal" uid="3066015478" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="3374673827" type="0" value="0.745" />
+  <presetinput identifier="Color" uid="3376073099" type="2" value="0.957,0.957,0.957" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_005/fabric_005" label="var04" >
+  <presetinput identifier="$outputsize" uid="3017992236" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3066015401" type="0" value="0.73" />
+  <presetinput identifier="Normal" uid="3066015478" type="0" value="1" />
+  <presetinput identifier="Tiles_Number" uid="3374669371" type="4" value="5" />
+  <presetinput identifier="Dirtiness" uid="3374673827" type="0" value="1" />
+  <presetinput identifier="Seams_Scale" uid="3376031221" type="0" value="0.435" />
+  <presetinput identifier="Fresnel_Speckles" uid="3376068798" type="0" value="0.375" />
+  <presetinput identifier="Color" uid="3376073099" type="2" value="0.086,0.098,0.957" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_005/fabric_005" label="var01" >
+  <presetinput identifier="$outputsize" uid="3017992236" type="8" value="9,9" />
+  <presetinput identifier="Tiles_Number" uid="3374669371" type="4" value="4" />
+  <presetinput identifier="Dirtiness" uid="3374673827" type="0" value="0.405" />
+  <presetinput identifier="Seams_Scale" uid="3376031221" type="0" value="0.666" />
+  <presetinput identifier="Fresnel_Speckles" uid="3376068798" type="0" value="0.637" />
+  <presetinput identifier="Color" uid="3376073099" type="2" value="0.341,0.306,0.741" />
+  <presetinput identifier="Volume" uid="3376135323" type="0" value="0.148" />
+ </sbspreset>
+</sbspresets>

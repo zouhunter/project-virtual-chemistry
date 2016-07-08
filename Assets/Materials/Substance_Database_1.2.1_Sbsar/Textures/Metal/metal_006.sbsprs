@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://metal_006/metal_006" label="var01" >
+  <presetinput identifier="Metal_Color" uid="61804060" type="2" value="0.318,0.286,0.286" />
+  <presetinput identifier="Scratches_Angle" uid="63199908" type="0" value="0.017" />
+  <presetinput identifier="$randomseed" uid="774444580" type="4" value="910337735" />
+  <presetinput identifier="$outputsize" uid="2036007030" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="2087487728" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_006/metal_006" label="var02" >
+  <presetinput identifier="Contrast" uid="61803328" type="0" value="0.457" />
+  <presetinput identifier="Metal_Color" uid="61804060" type="2" value="0.318,0.286,0.286" />
+  <presetinput identifier="Scratches_Angle" uid="63199908" type="0" value="0.225" />
+  <presetinput identifier="$randomseed" uid="774444580" type="4" value="284767603" />
+  <presetinput identifier="$outputsize" uid="2036007030" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="2080881087" type="0" value="0.559" />
+  <presetinput identifier="Luminosity" uid="2080881101" type="0" value="0.488" />
+  <presetinput identifier="Scratches" uid="2087487712" type="0" value="0.613" />
+  <presetinput identifier="Dirtiness" uid="2087487728" type="0" value="0.36" />
+ </sbspreset>
+</sbspresets>

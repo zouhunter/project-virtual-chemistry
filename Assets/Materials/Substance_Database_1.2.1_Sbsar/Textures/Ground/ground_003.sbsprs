@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://ground_003/ground_003" label="var01" >
+  <presetinput identifier="Color_Variation" uid="2676745774" type="0" value="0.486" />
+  <presetinput identifier="Pebbles_Amount" uid="3762385252" type="0" value="0.018" />
+  <presetinput identifier="Moss" uid="3762420779" type="0" value="0.468" />
+  <presetinput identifier="$outputsize" uid="3849273744" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_003/ground_003" label="var03" >
+  <presetinput identifier="Color_Variation" uid="2676745774" type="0" value="0.468" />
+  <presetinput identifier="Pebbles_Amount" uid="3762385252" type="0" value="0.239" />
+  <presetinput identifier="Moss" uid="3762420779" type="0" value="0.666" />
+  <presetinput identifier="$outputsize" uid="3849273744" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_003/ground_003" label="var02" >
+  <presetinput identifier="Color_Variation" uid="2676745774" type="0" value="0.401" />
+  <presetinput identifier="Pebbles_Amount" uid="3762385252" type="0" value="0.633" />
+  <presetinput identifier="Moss" uid="3762420779" type="0" value="0.781" />
+  <presetinput identifier="$outputsize" uid="3849273744" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

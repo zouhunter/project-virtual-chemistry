@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_007/fabric_007" label="var02" >
+  <presetinput identifier="$outputsize" uid="2983663519" type="8" value="9,9" />
+  <presetinput identifier="Pattern_Amount" uid="3406306319" type="4" value="13" />
+  <presetinput identifier="Age" uid="3406359551" type="0" value="0.609" />
+  <presetinput identifier="Dirtiness" uid="3406368880" type="0" value="0.326" />
+  <presetinput identifier="Creases" uid="3407568892" type="0" value="0.802" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_007/fabric_007" label="var03" >
+  <presetinput identifier="$outputsize" uid="2983663519" type="8" value="9,9" />
+  <presetinput identifier="Top_Color" uid="3406296847" type="2" value="0,0,0" />
+  <presetinput identifier="Bottom_Color" uid="3406297541" type="2" value="0.867,0.925,0.004" />
+  <presetinput identifier="Pattern_Amount" uid="3406306319" type="4" value="6" />
+  <presetinput identifier="Age" uid="3406359551" type="0" value="0.725" />
+  <presetinput identifier="Dirtiness" uid="3406368880" type="0" value="0.326" />
+  <presetinput identifier="Stains" uid="3407546931" type="0" value="0.591" />
+  <presetinput identifier="Creases" uid="3407568892" type="0" value="0.82" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_007/fabric_007" label="var01" >
+  <presetinput identifier="$outputsize" uid="2983663519" type="8" value="9,9" />
+  <presetinput identifier="Top_Color" uid="3406296847" type="2" value="0.165,0.176,0.173" />
+  <presetinput identifier="Bottom_Color" uid="3406297541" type="2" value="0.953,0.953,0.953" />
+  <presetinput identifier="Pattern_Amount" uid="3406306319" type="4" value="12" />
+  <presetinput identifier="Age" uid="3406359551" type="0" value="0.157" />
+  <presetinput identifier="Stains" uid="3407546931" type="0" value="0.237" />
+  <presetinput identifier="Creases" uid="3407568892" type="0" value="0.54" />
+ </sbspreset>
+</sbspresets>

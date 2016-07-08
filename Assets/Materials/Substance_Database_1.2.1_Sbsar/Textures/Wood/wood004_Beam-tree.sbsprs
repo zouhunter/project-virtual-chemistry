@@ -1,0 +1,56 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://wood004/wood004" label="var01">
+  <presetinput identifier="$outputsize" uid="561261449" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="606638631" type="0" value="0.442"/>
+  <presetinput identifier="Luminosity" uid="606638642" type="0" value="0.502"/>
+  <presetinput identifier="Emboss" uid="606694668" type="0" value="0.823"/>
+  <presetinput identifier="Normal" uid="606694739" type="0" value="0.501"/>
+  <presetinput identifier="Age" uid="1538094182" type="0" value="0.138"/>
+  <presetinput identifier="Wood_Color" uid="1538180705" type="2" value="0.329,0.196,0.106"/>
+  <presetinput identifier="$randomseed" uid="1980120539" type="4" value="438297679"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood004/wood004" label="var02">
+  <presetinput identifier="Light_Angle" uid="2310054262" type="0" value="0.136"/>
+  <presetinput identifier="Normal" uid="2310054321" type="0" value="0.409"/>
+  <presetinput identifier="Emboss" uid="2310054382" type="0" value="0.537"/>
+  <presetinput identifier="Hue_Shift" uid="2310102690" type="0" value="0.041"/>
+  <presetinput identifier="Saturation" uid="2310102725" type="0" value="0.442"/>
+  <presetinput identifier="Luminosity" uid="2310102736" type="0" value="0.489"/>
+  <presetinput identifier="$outputsize" uid="2364401515" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3684692281" type="4" value="-1846821563"/>
+  <presetinput identifier="Age" uid="4130650244" type="0" value="0.872"/>
+  <presetinput identifier="Cracks" uid="4130650345" type="0" value="1"/>
+  <presetinput identifier="Battens_Color_Variation" uid="4130806509" type="0" value="0.103"/>
+  <presetinput identifier="Battens_Random_Offset" uid="4130807116" type="0" value="0.663"/>
+  <presetinput identifier="Battens_Offset" uid="4130807139" type="0" value="0.523"/>
+  <presetinput identifier="Contrast" uid="4130808662" type="0" value="0.33"/>
+  <presetinput identifier="Battens_Amount_Y" uid="4130818989" type="4" value="11"/>
+  <presetinput identifier="Battens_Chamfer" uid="4145785001" type="0" value="0.102"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood004/wood004" label="var03">
+  <presetinput identifier="Light_Angle" uid="2310054262" type="0" value="0.136"/>
+  <presetinput identifier="Normal" uid="2310054321" type="0" value="0.688"/>
+  <presetinput identifier="Emboss" uid="2310054382" type="0" value="0.823"/>
+  <presetinput identifier="Hue_Shift" uid="2310102690" type="0" value="0.041"/>
+  <presetinput identifier="Saturation" uid="2310102725" type="0" value="0.37"/>
+  <presetinput identifier="Luminosity" uid="2310102736" type="0" value="0.535"/>
+  <presetinput identifier="$outputsize" uid="2364401515" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3684692281" type="4" value="1723014446"/>
+  <presetinput identifier="Age" uid="4130650244" type="0" value="0.116"/>
+  <presetinput identifier="Wood_Color" uid="4130802307" type="2" value="0.165,0.11,0.071"/>
+  <presetinput identifier="Battens_Color_Variation" uid="4130806509" type="0" value="0.103"/>
+  <presetinput identifier="Battens_Random_Offset" uid="4130807116" type="0" value="0.663"/>
+  <presetinput identifier="Battens_Offset" uid="4130807139" type="0" value="0.523"/>
+  <presetinput identifier="Battens" uid="4130818586" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="4130818989" type="4" value="11"/>
+  <presetinput identifier="Battens_Chamfer" uid="4145785001" type="0" value="0.102"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood004/wood004" label="var04">
+  <presetinput identifier="$outputsize" uid="2525889639" type="8" value="9,9"/>
+  <presetinput identifier="Battens_Amount_Y" uid="3964971169" type="4" value="15"/>
+  <presetinput identifier="Battens" uid="3964971286" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="3964971387" type="4" value="4"/>
+  <presetinput identifier="Battens_Gap" uid="3984083876" type="0" value="0.03"/>
+  <presetinput identifier="Battens_Chamfer" uid="3984083877" type="0" value="0.169"/>
+ </sbspreset>
+</sbspresets>

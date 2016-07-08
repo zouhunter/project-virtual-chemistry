@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Elephant_Skin/Elephant_Skin" label="var01" >
+  <presetinput identifier="Hair" uid="2873931316" type="4" value="1" />
+  <presetinput identifier="Irregularity" uid="2874655097" type="0" value="0.186" />
+  <presetinput identifier="Mud" uid="2874665347" type="0" value="0.776" />
+  <presetinput identifier="$outputsize" uid="2943476145" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="4161009635" type="4" value="-1775974433" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Elephant_Skin/Elephant_Skin" label="var02" >
+  <presetinput identifier="Hair" uid="2873931316" type="4" value="1" />
+  <presetinput identifier="Emboss" uid="2873947826" type="0" value="9.082" />
+  <presetinput identifier="Normal" uid="2873947834" type="0" value="0.745" />
+  <presetinput identifier="Irregularity" uid="2874655097" type="0" value="0.987" />
+  <presetinput identifier="Mud" uid="2874665347" type="0" value="0.948" />
+  <presetinput identifier="$outputsize" uid="2943476145" type="8" value="9,9" />
+  <presetinput identifier="Skin_Color" uid="3585032619" type="2" value="0.494,0.51,0.478" />
+  <presetinput identifier="$randomseed" uid="4161009635" type="4" value="-1775974433" />
+ </sbspreset>
+</sbspresets>

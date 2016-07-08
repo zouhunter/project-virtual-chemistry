@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://metal_plate_006/metal_plate_006" label="var01" >
+  <presetinput identifier="Rivets_Amount" uid="2912430871" type="4" value="20" />
+  <presetinput identifier="Rivets_Size" uid="2912845887" type="0" value="0.896" />
+  <presetinput identifier="Saturation" uid="3526373823" type="0" value="0.536" />
+  <presetinput identifier="Hue_Shift" uid="3526373848" type="0" value="0.495" />
+  <presetinput identifier="$outputsize" uid="3614214161" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_006/metal_plate_006" label="var02" >
+  <presetinput identifier="$randomseed" uid="2149490243" type="4" value="-1781276111" />
+  <presetinput identifier="Rivets_Amount" uid="2912430871" type="4" value="6" />
+  <presetinput identifier="Contrast" uid="2912436297" type="0" value="0.053" />
+  <presetinput identifier="Metal_Color" uid="2912437138" type="2" value="0.235,0.231,0.227" />
+  <presetinput identifier="Rivet_Color" uid="2912439173" type="2" value="0.235,0.227,0.22" />
+  <presetinput identifier="Rivets_Size" uid="2912845887" type="0" value="0.28" />
+  <presetinput identifier="Rivets_Offset" uid="2912894404" type="0" value="0.522" />
+  <presetinput identifier="Saturation" uid="3526373823" type="0" value="0.519" />
+  <presetinput identifier="Light_Angle" uid="3526479372" type="0" value="0.133" />
+  <presetinput identifier="Dirtiness" uid="3529526161" type="0" value="0.911" />
+  <presetinput identifier="Rivet_Rust" uid="3529690443" type="0" value="0.973" />
+  <presetinput identifier="$outputsize" uid="3614214161" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

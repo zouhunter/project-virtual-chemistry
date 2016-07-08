@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_032/concrete_032" label="var01" >
+  <presetinput identifier="Peeling" uid="297298923" type="0" value="0" />
+  <presetinput identifier="Stucco_Color" uid="297735917" type="2" value="0.549,0.549,0.565" />
+  <presetinput identifier="$outputsize" uid="345960058" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1139603496" type="4" value="1410022933" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_032/concrete_032" label="var02" >
+  <presetinput identifier="Peeling" uid="297298923" type="0" value="0.776" />
+  <presetinput identifier="Disorder" uid="297327370" type="0" value="0.775" />
+  <presetinput identifier="Stucco_Color" uid="297735917" type="2" value="0.549,0.549,0.565" />
+  <presetinput identifier="$outputsize" uid="345960058" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1139603496" type="4" value="-23650562" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_032/concrete_032" label="var03" >
+  <presetinput identifier="Peeling" uid="297298923" type="0" value="0.71" />
+  <presetinput identifier="Disorder" uid="297327370" type="0" value="0.775" />
+  <presetinput identifier="Stucco_Color" uid="297735917" type="2" value="0.439,0.447,0.471" />
+  <presetinput identifier="Concrete_Color" uid="297737255" type="2" value="0.435,0.424,0.416" />
+  <presetinput identifier="Luminosity" uid="297949121" type="0" value="0.418" />
+  <presetinput identifier="$outputsize" uid="345960058" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1139603496" type="4" value="-1006019065" />
+  <presetinput identifier="Contrast" uid="1852610267" type="0" value="0.219" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood047/wood047" label="var02">
+  <presetinput identifier="$outputsize" uid="3116614223" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3164568545" type="0" value="0.364"/>
+  <presetinput identifier="Luminosity" uid="3164568564" type="0" value="0.542"/>
+  <presetinput identifier="Peel" uid="3164761702" type="0" value="0.237"/>
+  <presetinput identifier="Age" uid="3165347743" type="0" value="1"/>
+  <presetinput identifier="Battens_Gap" uid="3258335611" type="0" value="0.034"/>
+  <presetinput identifier="Wood_Color" uid="3273207719" type="2" value="0.22,0.086,0.043"/>
+  <presetinput identifier="Battens_Height_Variation" uid="3273211809" type="0" value="0.142"/>
+  <presetinput identifier="Battens" uid="3273223998" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="4004631581" type="4" value="-1397561067"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood047/wood047" label="var01">
+  <presetinput identifier="Wood_Color" uid="3099686348" type="2" value="0.22,0.141,0.075"/>
+  <presetinput identifier="$outputsize" uid="3256588324" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3343327626" type="0" value="0.364"/>
+  <presetinput identifier="Luminosity" uid="3343327647" type="0" value="0.542"/>
+  <presetinput identifier="Age" uid="3346204148" type="0" value="0.951"/>
+  <presetinput identifier="Peel" uid="3346674701" type="0" value="0.393"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood047/wood047" label="var03">
+  <presetinput identifier="$randomseed" uid="2304361847" type="4" value="1944595116"/>
+  <presetinput identifier="Battens_Random_Offset" uid="2767268098" type="0" value="0.848"/>
+  <presetinput identifier="Battens_Color_Variation" uid="2767269539" type="0" value="0.041"/>
+  <presetinput identifier="Battens_Height_Variation" uid="2767269579" type="0" value="0.506"/>
+  <presetinput identifier="Wood_Color" uid="2767273677" type="2" value="0.122,0.059,0.043"/>
+  <presetinput identifier="Battens" uid="2767289940" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="2767290339" type="4" value="17"/>
+  <presetinput identifier="Battens_Gap" uid="2782810129" type="0" value="0.026"/>
+  <presetinput identifier="Age" uid="3678621429" type="0" value="1"/>
+  <presetinput identifier="Peel" uid="3679092492" type="0" value="0.244"/>
+  <presetinput identifier="Saturation" uid="3682036363" type="0" value="0.414"/>
+  <presetinput identifier="Luminosity" uid="3682036382" type="0" value="0.574"/>
+  <presetinput identifier="$outputsize" uid="3727414053" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

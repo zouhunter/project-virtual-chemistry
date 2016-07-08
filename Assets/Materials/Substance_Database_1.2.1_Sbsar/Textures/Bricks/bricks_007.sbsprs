@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_007/bricks_007" label="var01" >
+  <presetinput identifier="$outputsize" uid="2551269676" type="8" value="9,9" />
+  <presetinput identifier="Bricks_Disorder" uid="2634405225" type="0" value="0.09" />
+  <presetinput identifier="Bricks_Amount" uid="2634405232" type="8" value="7,9" />
+  <presetinput identifier="Bricks_Offset_Disorder" uid="2634410631" type="0" value="0.379" />
+  <presetinput identifier="Bricks_Ratio" uid="2634411648" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2639007657" type="0" value="0.517" />
+  <presetinput identifier="Normal" uid="2639007734" type="0" value="0.887" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_007/bricks_007" label="var02" >
+  <presetinput identifier="$outputsize" uid="2551269676" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="2634139563" type="0" value="0.707" />
+  <presetinput identifier="Bricks_Disorder" uid="2634405225" type="0" value="0.09" />
+  <presetinput identifier="Bricks_Amount" uid="2634405232" type="8" value="6,8" />
+  <presetinput identifier="Bricks_Offset_Disorder" uid="2634410631" type="0" value="0.547" />
+  <presetinput identifier="Bricks_Ratio" uid="2634411648" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2639007657" type="0" value="0.517" />
+  <presetinput identifier="Normal" uid="2639007734" type="0" value="0.887" />
+  <presetinput identifier="Color_Variation" uid="3804838627" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_007/bricks_007" label="var03" >
+  <presetinput identifier="$outputsize" uid="2551269676" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="2634139563" type="0" value="0.992" />
+  <presetinput identifier="Bricks_Disorder" uid="2634405225" type="0" value="0.907" />
+  <presetinput identifier="Bricks_Amount" uid="2634405232" type="8" value="6,8" />
+  <presetinput identifier="Bricks_Offset_Disorder" uid="2634410631" type="0" value="0.308" />
+  <presetinput identifier="Emboss" uid="2639007657" type="0" value="0.517" />
+  <presetinput identifier="Normal" uid="2639007734" type="0" value="0.887" />
+  <presetinput identifier="Color_Variation" uid="3804838627" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_plate_001/metal_plate_001" label="var01" >
+  <presetinput identifier="Rust" uid="324914311" type="0" value="0" />
+  <presetinput identifier="Paint_Peeling" uid="324914424" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="1771725305" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_001/metal_plate_001" label="var02" >
+  <presetinput identifier="Rust" uid="324914311" type="0" value="0" />
+  <presetinput identifier="Paint_Peeling" uid="324914424" type="0" value="0.717" />
+  <presetinput identifier="Metal_Color_02" uid="324985789" type="2" value="0.224,0.224,0.561" />
+  <presetinput identifier="$outputsize" uid="1771725305" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_001/metal_plate_001" label="var03" >
+  <presetinput identifier="Rust" uid="324914311" type="0" value="1" />
+  <presetinput identifier="Paint_Peeling" uid="324914424" type="0" value="1" />
+  <presetinput identifier="Rivets_Scale" uid="324914425" type="4" value="3" />
+  <presetinput identifier="Metal_Color_02" uid="324985789" type="2" value="0.224,0.224,0.561" />
+  <presetinput identifier="$outputsize" uid="1771725305" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

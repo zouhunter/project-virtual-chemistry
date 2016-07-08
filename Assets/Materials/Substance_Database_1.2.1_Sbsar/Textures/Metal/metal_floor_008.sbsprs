@@ -1,0 +1,42 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://metal_floor_008/metal_floor_008" label="var01">
+  <presetinput identifier="$outputsize" uid="2427751373" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="2515022435" type="0" value="0.315"/>
+  <presetinput identifier="Luminosity" uid="2515022454" type="0" value="0.534"/>
+  <presetinput identifier="$randomseed" uid="3351682463" type="4" value="1539562106"/>
+  <presetinput identifier="Contrast" uid="3932994948" type="0" value="0.139"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_008/metal_floor_008" label="var02">
+  <presetinput identifier="$outputsize" uid="2427751373" type="8" value="9,9"/>
+  <presetinput identifier="Hue_Shift" uid="2515022340" type="0" value="0.43"/>
+  <presetinput identifier="Saturation" uid="2515022435" type="0" value="0.437"/>
+  <presetinput identifier="Luminosity" uid="2515022454" type="0" value="0.498"/>
+  <presetinput identifier="$randomseed" uid="3351682463" type="4" value="1539562106"/>
+  <presetinput identifier="Frame" uid="3931979435" type="4" value="0"/>
+  <presetinput identifier="Contrast" uid="3932994948" type="0" value="0.139"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_008/metal_floor_008" label="var03">
+  <presetinput identifier="$outputsize" uid="2427751373" type="8" value="9,9"/>
+  <presetinput identifier="Hue_Shift" uid="2515022340" type="0" value="0.021"/>
+  <presetinput identifier="Saturation" uid="2515022435" type="0" value="0.437"/>
+  <presetinput identifier="Luminosity" uid="2515022454" type="0" value="0.514"/>
+  <presetinput identifier="$randomseed" uid="3351682463" type="4" value="1539562106"/>
+  <presetinput identifier="Damage" uid="3931701637" type="0" value="0.943"/>
+  <presetinput identifier="Frame" uid="3931979435" type="4" value="0"/>
+  <presetinput identifier="Age" uid="3931992157" type="0" value="0.911"/>
+  <presetinput identifier="Contrast" uid="3932994948" type="0" value="-0.037"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_008/metal_floor_008" label="var04">
+  <presetinput identifier="$outputsize" uid="2427751373" type="8" value="9,9"/>
+  <presetinput identifier="Hue_Shift" uid="2515022340" type="0" value="0.021"/>
+  <presetinput identifier="Saturation" uid="2515022435" type="0" value="0.521"/>
+  <presetinput identifier="Luminosity" uid="2515022454" type="0" value="0.484"/>
+  <presetinput identifier="$randomseed" uid="3351682463" type="4" value="1539562106"/>
+  <presetinput identifier="Damage" uid="3931701637" type="0" value="0"/>
+  <presetinput identifier="Frame_Offset" uid="3931701665" type="1" value="1,0.993"/>
+  <presetinput identifier="Rust" uid="3931703803" type="0" value="1"/>
+  <presetinput identifier="Age" uid="3931992157" type="0" value="0"/>
+  <presetinput identifier="Shininess" uid="3932044649" type="0" value="0.705"/>
+  <presetinput identifier="Contrast" uid="3932994948" type="0" value="-0.037"/>
+ </sbspreset>
+</sbspresets>

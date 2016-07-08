@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Straw_Checker/Straw_Checker" label="var01" >
+  <presetinput identifier="Straws" uid="409214240" type="4" value="6" />
+  <presetinput identifier="Density" uid="433776217" type="4" value="26" />
+  <presetinput identifier="Variation" uid="433777504" type="0" value="0.871" />
+  <presetinput identifier="$outputsize" uid="502658964" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Straw_Checker/Straw_Checker" label="var02" >
+  <presetinput identifier="Straws" uid="409214240" type="4" value="7" />
+  <presetinput identifier="Emboss" uid="427979917" type="0" value="10" />
+  <presetinput identifier="Depth" uid="428492878" type="0" value="1" />
+  <presetinput identifier="Density" uid="433776217" type="4" value="10" />
+  <presetinput identifier="Variation" uid="433777504" type="0" value="0.003" />
+  <presetinput identifier="$outputsize" uid="502658964" type="8" value="9,9" />
+  <presetinput identifier="Thread_Color" uid="1730447874" type="2" value="0.592,0.388,0.251" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Straw_Checker/Straw_Checker" label="var03" >
+  <presetinput identifier="Emboss" uid="427979917" type="0" value="-0.254" />
+  <presetinput identifier="Depth" uid="428492878" type="0" value="1" />
+  <presetinput identifier="Density" uid="433776217" type="4" value="30" />
+  <presetinput identifier="Variation" uid="433777504" type="0" value="0.003" />
+  <presetinput identifier="$outputsize" uid="502658964" type="8" value="9,9" />
+  <presetinput identifier="Thread_Color" uid="1730447874" type="2" value="0.525,0.51,0.592" />
+ </sbspreset>
+</sbspresets>

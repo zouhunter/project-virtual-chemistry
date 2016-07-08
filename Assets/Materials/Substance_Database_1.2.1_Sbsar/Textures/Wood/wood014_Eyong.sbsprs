@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood014/wood014" label="var03">
+  <presetinput identifier="Dirtiness" uid="5058542" type="0" value="1"/>
+  <presetinput identifier="Battens_Random_Offset" uid="5147211" type="0" value="0.822"/>
+  <presetinput identifier="Battens_Amount_Y" uid="5168298" type="4" value="15"/>
+  <presetinput identifier="Battens" uid="5168413" type="4" value="1"/>
+  <presetinput identifier="Battens_Chamfer" uid="23199525" type="0" value="0"/>
+  <presetinput identifier="Battens_Gap" uid="23199531" type="0" value="0.023"/>
+  <presetinput identifier="$randomseed" uid="770074174" type="4" value="-1356328231"/>
+  <presetinput identifier="$outputsize" uid="2056548460" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="2143865282" type="0" value="0.386"/>
+  <presetinput identifier="Luminosity" uid="2143865303" type="0" value="0.516"/>
+  <presetinput identifier="Light_Angle" uid="2143893105" type="0" value="0.122"/>
+  <presetinput identifier="Emboss" uid="2143893225" type="0" value="0.31"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood014/wood014" label="var02">
+  <presetinput identifier="Dirtiness" uid="5058542" type="0" value="1"/>
+  <presetinput identifier="Battens" uid="5168413" type="4" value="1"/>
+  <presetinput identifier="Battens_Gap" uid="23199531" type="0" value="0.182"/>
+  <presetinput identifier="$randomseed" uid="770074174" type="4" value="-1356328231"/>
+  <presetinput identifier="$outputsize" uid="2056548460" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="2143865282" type="0" value="0.386"/>
+  <presetinput identifier="Luminosity" uid="2143865303" type="0" value="0.516"/>
+  <presetinput identifier="Light_Angle" uid="2143893105" type="0" value="0.122"/>
+  <presetinput identifier="Emboss" uid="2143893225" type="0" value="0.31"/>
+  <presetinput identifier="Depth" uid="2143894596" type="0" value="0.15"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood014/wood014" label="var01">
+  <presetinput identifier="$outputsize" uid="314387177" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="400582337" type="0" value="-0.906"/>
+  <presetinput identifier="Emboss" uid="400583788" type="0" value="0.31"/>
+  <presetinput identifier="Saturation" uid="400659271" type="0" value="0.386"/>
+  <presetinput identifier="Luminosity" uid="400659282" type="0" value="0.516"/>
+  <presetinput identifier="$randomseed" uid="1171209403" type="4" value="80288256"/>
+  <presetinput identifier="Contrast" uid="1751641812" type="0" value="0.242"/>
+ </sbspreset>
+</sbspresets>

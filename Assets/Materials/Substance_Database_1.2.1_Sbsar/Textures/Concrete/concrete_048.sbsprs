@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://concrete_048/concrete_048" label="var02">
+  <presetinput identifier="White_Stains" uid="2294363365" type="0" value="1"/>
+  <presetinput identifier="Moisture" uid="2294374464" type="0" value="1"/>
+  <presetinput identifier="Moisture_Color" uid="2294925352" type="2" value="0.392,0.388,0.373"/>
+  <presetinput identifier="Concrete_Color" uid="2294936054" type="2" value="0.502,0.482,0.467"/>
+  <presetinput identifier="$outputsize" uid="4064035874" type="8" value="9,9"/>
+  <presetinput identifier="White_Stains_Amount" uid="4144148762" type="0" value="0.375"/>
+  <presetinput identifier="Weathering" uid="4144153000" type="0" value="0.728"/>
+  <presetinput identifier="Light_Angle" uid="4150329919" type="0" value="0.653"/>
+  <presetinput identifier="Emboss" uid="4150330023" type="0" value="0.143"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_048/concrete_048" label="var01">
+  <presetinput identifier="Moisture" uid="2294374464" type="0" value="0.479"/>
+  <presetinput identifier="Concrete_Color" uid="2294936054" type="2" value="0.482,0.49,0.502"/>
+  <presetinput identifier="$randomseed" uid="2773373552" type="4" value="-1473193388"/>
+  <presetinput identifier="$outputsize" uid="4064035874" type="8" value="9,9"/>
+  <presetinput identifier="Weathering" uid="4144153000" type="0" value="0.908"/>
+ </sbspreset>
+</sbspresets>

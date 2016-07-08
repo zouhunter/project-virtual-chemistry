@@ -1,0 +1,46 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://zebra_001/zebra_001" label="var01" >
+  <presetinput identifier="Normal" uid="2698809872" type="0" value="0.574" />
+  <presetinput identifier="Emboss" uid="2698809935" type="0" value="0.864" />
+  <presetinput identifier="Light_Angle" uid="2698810071" type="0" value="0.678" />
+  <presetinput identifier="Depth" uid="2698811618" type="0" value="-1" />
+  <presetinput identifier="Hue_Shift" uid="2698865923" type="0" value="0.249" />
+  <presetinput identifier="Luminosity" uid="2698866033" type="0" value="0.484" />
+  <presetinput identifier="$outputsize" uid="2776749258" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="3749416194" type="0" value="0.182" />
+  <presetinput identifier="$randomseed" uid="4076061336" type="4" value="-1695626390" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://zebra_001/zebra_001" label="var02" >
+  <presetinput identifier="Normal" uid="2698809872" type="0" value="13.574" />
+  <presetinput identifier="Emboss" uid="2698809935" type="0" value="0.864" />
+  <presetinput identifier="Light_Angle" uid="2698810071" type="0" value="0.678" />
+  <presetinput identifier="Depth" uid="2698811618" type="0" value="-1" />
+  <presetinput identifier="Saturation" uid="2698866020" type="0" value="0.533" />
+  <presetinput identifier="Luminosity" uid="2698866033" type="0" value="0.533" />
+  <presetinput identifier="$outputsize" uid="2776749258" type="8" value="9,9" />
+  <presetinput identifier="Fur" uid="3749204656" type="0" value="0.574" />
+  <presetinput identifier="Dirt_Point_Scale" uid="3749414287" type="4" value="19" />
+  <presetinput identifier="Base_Color_02" uid="3749414563" type="2" value="0.471,0.294,0.478" />
+  <presetinput identifier="Base_Color_01" uid="3749414573" type="2" value="0.667,0.322,0.373" />
+  <presetinput identifier="Dirt_Point_Size" uid="3749415663" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="3749416194" type="0" value="0.062" />
+  <presetinput identifier="Age" uid="3749416790" type="0" value="0.098" />
+  <presetinput identifier="$randomseed" uid="4076061336" type="4" value="1974063407" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://zebra_001/zebra_001" label="var03" >
+  <presetinput identifier="Normal" uid="2698809872" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2698809935" type="0" value="0.635" />
+  <presetinput identifier="Light_Angle" uid="2698810071" type="0" value="0.575" />
+  <presetinput identifier="Depth" uid="2698811618" type="0" value="-1" />
+  <presetinput identifier="Saturation" uid="2698866020" type="0" value="0.533" />
+  <presetinput identifier="Luminosity" uid="2698866033" type="0" value="0.533" />
+  <presetinput identifier="$outputsize" uid="2776749258" type="8" value="9,9" />
+  <presetinput identifier="Fur" uid="3749204656" type="0" value="0.574" />
+  <presetinput identifier="Dirt_Point_Scale" uid="3749414287" type="4" value="19" />
+  <presetinput identifier="Base_Color_02" uid="3749414563" type="2" value="0.478,0.416,0.231" />
+  <presetinput identifier="Base_Color_01" uid="3749414573" type="2" value="0.663,0.667,0.494" />
+  <presetinput identifier="Dirt_Point_Size" uid="3749415663" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="3749416194" type="0" value="0.062" />
+  <presetinput identifier="$randomseed" uid="4076061336" type="4" value="-370967143" />
+ </sbspreset>
+</sbspresets>

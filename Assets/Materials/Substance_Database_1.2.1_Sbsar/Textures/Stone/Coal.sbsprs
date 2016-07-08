@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Coal/Coal" label="var01" >
+  <presetinput identifier="$outputsize" uid="57361482" type="8" value="10,10" />
+  <presetinput identifier="Depth" uid="118815632" type="0" value="0.066" />
+  <presetinput identifier="Angle" uid="119326575" type="0" value="0.242" />
+  <presetinput identifier="Normal" uid="119392266" type="0" value="0.531" />
+  <presetinput identifier="Hue_Shift" uid="127515000" type="0" value="0.007" />
+  <presetinput identifier="Luminosity" uid="127515005" type="0" value="0.443" />
+  <presetinput identifier="Saturation" uid="127515006" type="0" value="0.462" />
+  <presetinput identifier="$randomseed" uid="1410945560" type="4" value="732803179" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Coal/Coal" label="var02" >
+  <presetinput identifier="$outputsize" uid="57361482" type="8" value="10,10" />
+  <presetinput identifier="Coal_Size" uid="115539123" type="0" value="3" />
+  <presetinput identifier="Depth" uid="118815632" type="0" value="0.066" />
+  <presetinput identifier="Angle" uid="119326575" type="0" value="0.242" />
+  <presetinput identifier="Normal" uid="119392266" type="0" value="0.531" />
+  <presetinput identifier="Hue_Shift" uid="127515000" type="0" value="0.007" />
+  <presetinput identifier="Luminosity" uid="127515005" type="0" value="0.443" />
+  <presetinput identifier="Saturation" uid="127515006" type="0" value="0.462" />
+  <presetinput identifier="$randomseed" uid="1410945560" type="4" value="597840873" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Coal/Coal" label="var03" >
+  <presetinput identifier="$outputsize" uid="57361482" type="8" value="10,10" />
+  <presetinput identifier="Incandescence" uid="115532482" type="0" value="0.819" />
+  <presetinput identifier="Coal_Size" uid="115539123" type="0" value="1.43" />
+  <presetinput identifier="Depth" uid="118815632" type="0" value="0.066" />
+  <presetinput identifier="Angle" uid="119326575" type="0" value="0.242" />
+  <presetinput identifier="Normal" uid="119392266" type="0" value="0.531" />
+  <presetinput identifier="Hue_Shift" uid="127515000" type="0" value="0.007" />
+  <presetinput identifier="Luminosity" uid="127515005" type="0" value="0.443" />
+  <presetinput identifier="Saturation" uid="127515006" type="0" value="0.462" />
+  <presetinput identifier="$randomseed" uid="1410945560" type="4" value="-367775774" />
+ </sbspreset>
+</sbspresets>

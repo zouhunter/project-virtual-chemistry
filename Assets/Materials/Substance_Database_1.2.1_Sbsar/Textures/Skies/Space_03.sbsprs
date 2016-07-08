@@ -1,0 +1,11 @@
+<sbspresets formatversion="1.0" count="1" >
+ <sbspreset pkgurl="pkg://Space_03/Space_03" label="var01" >
+  <presetinput identifier="$outputsize" uid="2721120891" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="2789707609" type="0" value="0.092" />
+  <presetinput identifier="Depth" uid="2790178209" type="0" value="-0.6" />
+  <presetinput identifier="Nebula" uid="2811921083" type="0" value="0.484" />
+  <presetinput identifier="Glow" uid="2816121462" type="0" value="0.194" />
+  <presetinput identifier="Stars" uid="2816122578" type="0" value="0.81" />
+  <presetinput identifier="$randomseed" uid="4114813993" type="4" value="-2122777470" />
+ </sbspreset>
+</sbspresets>

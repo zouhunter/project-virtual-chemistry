@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood019/wood019" label="var01">
+  <presetinput identifier="Dirtiness" uid="2410320900" type="0" value="0.553"/>
+  <presetinput identifier="Age" uid="2410320902" type="0" value="0.383"/>
+  <presetinput identifier="$randomseed" uid="2719546836" type="4" value="-1189129918"/>
+  <presetinput identifier="Saturation" uid="4030091816" type="0" value="0.373"/>
+  <presetinput identifier="Luminosity" uid="4030091837" type="0" value="0.57"/>
+  <presetinput identifier="$outputsize" uid="4117425030" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood019/wood019" label="var03">
+  <presetinput identifier="Battens_Gap" uid="2216716606" type="0" value="0.04"/>
+  <presetinput identifier="Battens" uid="2232366605" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="2232367034" type="4" value="16"/>
+  <presetinput identifier="Contrast" uid="2232377153" type="0" value="-0.018"/>
+  <presetinput identifier="Battens_Offset" uid="2232377716" type="0" value="0.638"/>
+  <presetinput identifier="Battens_Color_Variation" uid="2232379130" type="0" value="0.109"/>
+  <presetinput identifier="Age" uid="2232804604" type="0" value="0.882"/>
+  <presetinput identifier="Dirtiness" uid="2232804606" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="2829552942" type="4" value="-1141612669"/>
+  <presetinput identifier="Light_Angle" uid="4203273569" type="0" value="0.106"/>
+  <presetinput identifier="Luminosity" uid="4203291335" type="0" value="0.529"/>
+  <presetinput identifier="Saturation" uid="4203291346" type="0" value="0.234"/>
+  <presetinput identifier="$outputsize" uid="4292189052" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood019/wood019" label="var02">
+  <presetinput identifier="Battens" uid="2232366605" type="4" value="1"/>
+  <presetinput identifier="Contrast" uid="2232377153" type="0" value="-0.07"/>
+  <presetinput identifier="Battens_Color_Variation" uid="2232379130" type="0" value="0.109"/>
+  <presetinput identifier="Age" uid="2232804604" type="0" value="0.882"/>
+  <presetinput identifier="Dirtiness" uid="2232804606" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="2829552942" type="4" value="1849260837"/>
+  <presetinput identifier="Light_Angle" uid="4203273569" type="0" value="0.106"/>
+  <presetinput identifier="Luminosity" uid="4203291335" type="0" value="0.56"/>
+  <presetinput identifier="Saturation" uid="4203291346" type="0" value="0.373"/>
+  <presetinput identifier="$outputsize" uid="4292189052" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

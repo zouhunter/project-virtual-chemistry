@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Cracked_Plaster/Cracked_Plaster" label="var01" >
+  <presetinput identifier="$outputsize" uid="560928430" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="622751044" type="0" value="0.176" />
+  <presetinput identifier="Luminosity" uid="622751411" type="0" value="0.459" />
+  <presetinput identifier="Age" uid="626963900" type="0" value="0.507" />
+  <presetinput identifier="Cracks" uid="626965124" type="0" value="0.598" />
+  <presetinput identifier="Saturation" uid="633933621" type="0" value="0.466" />
+  <presetinput identifier="Impacts" uid="634415154" type="0" value="0.031" />
+  <presetinput identifier="$randomseed" uid="1981612284" type="4" value="687329426" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cracked_Plaster/Cracked_Plaster" label="var02" >
+  <presetinput identifier="$outputsize" uid="560928430" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="622751044" type="0" value="0.416" />
+  <presetinput identifier="Luminosity" uid="622751411" type="0" value="0.428" />
+  <presetinput identifier="Age" uid="626963900" type="0" value="0.912" />
+  <presetinput identifier="Cracks" uid="626965124" type="0" value="0.287" />
+  <presetinput identifier="Saturation" uid="633933621" type="0" value="0.403" />
+  <presetinput identifier="Hue_Shift" uid="633933622" type="0" value="0.534" />
+  <presetinput identifier="Impacts" uid="634415154" type="0" value="0.581" />
+  <presetinput identifier="$randomseed" uid="1981612284" type="4" value="-976845825" />
+ </sbspreset>
+</sbspresets>

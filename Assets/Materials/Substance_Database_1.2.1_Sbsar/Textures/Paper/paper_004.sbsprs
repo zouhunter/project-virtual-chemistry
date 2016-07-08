@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://paper_004/paper_004" label="var01">
+  <presetinput identifier="Saturation" uid="2185696590" type="0" value="0.529"/>
+  <presetinput identifier="Luminosity" uid="2185696603" type="0" value="0.484"/>
+  <presetinput identifier="$outputsize" uid="2266737888" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3496590002" type="4" value="-11759206"/>
+  <presetinput identifier="Holes_Size" uid="4257006516" type="0" value="0.56"/>
+  <presetinput identifier="Lines_Print" uid="4260402651" type="0" value="0.393"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_004/paper_004" label="var02">
+  <presetinput identifier="Creases" uid="2182321630" type="0" value="0.788"/>
+  <presetinput identifier="Saturation" uid="2185696590" type="0" value="0.529"/>
+  <presetinput identifier="Luminosity" uid="2185696603" type="0" value="0.484"/>
+  <presetinput identifier="$outputsize" uid="2266737888" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3496590002" type="4" value="553322555"/>
+  <presetinput identifier="Holes_Size" uid="4257006516" type="0" value="0.56"/>
+  <presetinput identifier="Lines_Print" uid="4260402651" type="0" value="0.42"/>
+  <presetinput identifier="Ink_Stains_Amount" uid="4260573172" type="0" value="0.261"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_004/paper_004" label="var03">
+  <presetinput identifier="Wet" uid="2182296239" type="0" value="0.719"/>
+  <presetinput identifier="Creases" uid="2182321630" type="0" value="1"/>
+  <presetinput identifier="Saturation" uid="2185696590" type="0" value="0.529"/>
+  <presetinput identifier="Luminosity" uid="2185696603" type="0" value="0.484"/>
+  <presetinput identifier="$outputsize" uid="2266737888" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3496590002" type="4" value="553322555"/>
+  <presetinput identifier="Holes_Amount" uid="4255299852" type="4" value="8"/>
+  <presetinput identifier="Holes_Offset" uid="4255299876" type="0" value="0.112"/>
+  <presetinput identifier="Holes_Size" uid="4257006516" type="0" value="0.507"/>
+  <presetinput identifier="Lines_Print" uid="4260402651" type="0" value="0.43"/>
+ </sbspreset>
+</sbspresets>

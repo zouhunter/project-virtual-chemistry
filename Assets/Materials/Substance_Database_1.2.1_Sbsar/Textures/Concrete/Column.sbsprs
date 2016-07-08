@@ -1,0 +1,54 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Column/Column" label="var02" >
+  <presetinput identifier="$outputsize" uid="432436698" type="8" value="10,10" />
+  <presetinput identifier="Horizontal_Lines_Thickness" uid="478449964" type="0" value="1" />
+  <presetinput identifier="Columns_Depth" uid="478451364" type="0" value="0.727" />
+  <presetinput identifier="Age" uid="478455428" type="0" value="0.254" />
+  <presetinput identifier="Horizontal_Lines_Number" uid="478610179" type="4" value="0" />
+  <presetinput identifier="Damages" uid="478639852" type="0" value="0.316" />
+  <presetinput identifier="Luminosity" uid="489982189" type="0" value="0.522" />
+  <presetinput identifier="Emboss" uid="498202307" type="0" value="10" />
+  <presetinput identifier="Light_Angle" uid="498202367" type="0" value="0.139" />
+  <presetinput identifier="Depth" uid="498715136" type="0" value="0.637" />
+  <presetinput identifier="$randomseed" uid="1320444808" type="4" value="-499577013" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Column/Column" label="var03" >
+  <presetinput identifier="$outputsize" uid="432436698" type="8" value="10,10" />
+  <presetinput identifier="Horizontal_Lines_Thickness" uid="478449964" type="0" value="0.911" />
+  <presetinput identifier="Columns_Depth" uid="478451364" type="0" value="0" />
+  <presetinput identifier="Age" uid="478455428" type="0" value="0.28" />
+  <presetinput identifier="Horizontal_Lines_Number" uid="478610179" type="4" value="16" />
+  <presetinput identifier="Columns_Number" uid="478610673" type="4" value="30" />
+  <presetinput identifier="Damages" uid="478639852" type="0" value="0.797" />
+  <presetinput identifier="Dirt" uid="478657717" type="0" value="0.89" />
+  <presetinput identifier="Luminosity" uid="489982189" type="0" value="0.522" />
+  <presetinput identifier="Emboss" uid="498202307" type="0" value="10" />
+  <presetinput identifier="Light_Angle" uid="498202367" type="0" value="0.119" />
+  <presetinput identifier="Depth" uid="498715136" type="0" value="0.637" />
+  <presetinput identifier="$randomseed" uid="1320444808" type="4" value="-409963082" />
+  <presetinput identifier="Rock_Color" uid="1662388137" type="2" value="0.741,0.733,0.706" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Column/Column" label="var01" >
+  <presetinput identifier="$outputsize" uid="432436698" type="8" value="10,10" />
+  <presetinput identifier="Columns_Depth" uid="478451364" type="0" value="1" />
+  <presetinput identifier="Age" uid="478455428" type="0" value="0.254" />
+  <presetinput identifier="Damages" uid="478639852" type="0" value="0.445" />
+  <presetinput identifier="Luminosity" uid="489982189" type="0" value="0.522" />
+  <presetinput identifier="Emboss" uid="498202307" type="0" value="8.242" />
+  <presetinput identifier="Light_Angle" uid="498202367" type="0" value="0.161" />
+  <presetinput identifier="Rock_Color" uid="1662388137" type="2" value="0.89,0.82,0.686" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Column/Column" label="var04" >
+  <presetinput identifier="$outputsize" uid="432436698" type="8" value="10,10" />
+  <presetinput identifier="Columns_Depth" uid="478451364" type="0" value="1" />
+  <presetinput identifier="Age" uid="478455428" type="0" value="0.109" />
+  <presetinput identifier="Damages" uid="478639852" type="0" value="0.094" />
+  <presetinput identifier="Dirt" uid="478657717" type="0" value="0.07" />
+  <presetinput identifier="Luminosity" uid="489982189" type="0" value="0.522" />
+  <presetinput identifier="Emboss" uid="498202307" type="0" value="8.242" />
+  <presetinput identifier="Light_Angle" uid="498202367" type="0" value="0.161" />
+  <presetinput identifier="$randomseed" uid="1320444808" type="4" value="-1981302902" />
+  <presetinput identifier="Rock_Color" uid="1662388137" type="2" value="0.957,0.925,0.847" />
+  <presetinput identifier="Roughness" uid="1666529925" type="0" value="0.184" />
+ </sbspreset>
+</sbspresets>

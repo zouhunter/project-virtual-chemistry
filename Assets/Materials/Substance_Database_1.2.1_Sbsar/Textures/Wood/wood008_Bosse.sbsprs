@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood008_Bosse/wood008_Bosse" label="va01">
+  <presetinput identifier="$randomseed" uid="388140111" type="4" value="1291070921"/>
+  <presetinput identifier="Age" uid="982107551" type="0" value="0.24"/>
+  <presetinput identifier="Contrast" uid="982146592" type="0" value="-0.328"/>
+  <presetinput identifier="$outputsize" uid="1079024157" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1158423462" type="0" value="0.481"/>
+  <presetinput identifier="Saturation" uid="1158423475" type="0" value="0.444"/>
+  <presetinput identifier="Emboss" uid="1158536344" type="0" value="0.54"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood008_Bosse/wood008_Bosse" label="va02">
+  <presetinput identifier="$randomseed" uid="388140111" type="4" value="1812837960"/>
+  <presetinput identifier="Age" uid="982107551" type="0" value="0.562"/>
+  <presetinput identifier="Contrast" uid="982146592" type="0" value="0.078"/>
+  <presetinput identifier="Battens_Offset" uid="982147093" type="0" value="-11.501"/>
+  <presetinput identifier="Wood_Color" uid="982153205" type="2" value="0.525,0.431,0.424"/>
+  <presetinput identifier="$outputsize" uid="1079024157" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1158423462" type="0" value="0.513"/>
+  <presetinput identifier="Saturation" uid="1158423475" type="0" value="0.444"/>
+  <presetinput identifier="Emboss" uid="1158536344" type="0" value="0.53"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood008_Bosse/wood008_Bosse" label="va03">
+  <presetinput identifier="$randomseed" uid="388140111" type="4" value="-1782507188"/>
+  <presetinput identifier="Age" uid="982107551" type="0" value="0.687"/>
+  <presetinput identifier="Battens_Amount_Y" uid="982136539" type="4" value="12"/>
+  <presetinput identifier="Battens_Amount_X" uid="982136577" type="4" value="3"/>
+  <presetinput identifier="Battens" uid="982136684" type="4" value="1"/>
+  <presetinput identifier="Contrast" uid="982146592" type="0" value="0.078"/>
+  <presetinput identifier="Battens_Offset" uid="982147093" type="0" value="0.496"/>
+  <presetinput identifier="Wood_Color" uid="982153205" type="2" value="0.525,0.431,0.424"/>
+  <presetinput identifier="$outputsize" uid="1079024157" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1158423462" type="0" value="0.513"/>
+  <presetinput identifier="Saturation" uid="1158423475" type="0" value="0.438"/>
+  <presetinput identifier="Emboss" uid="1158536344" type="0" value="0.53"/>
+ </sbspreset>
+</sbspresets>

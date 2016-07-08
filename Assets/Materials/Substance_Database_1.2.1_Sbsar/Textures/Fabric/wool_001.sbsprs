@@ -1,0 +1,43 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://wool_001/wool_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="692505082" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="739930163" type="0" value="0.164" />
+  <presetinput identifier="Luminosity" uid="739930177" type="0" value="0.586" />
+  <presetinput identifier="Saturation" uid="739930196" type="0" value="0.521" />
+  <presetinput identifier="Depth" uid="740001234" type="0" value="0.562" />
+  <presetinput identifier="Normal" uid="740003616" type="0" value="0.793" />
+  <presetinput identifier="Emboss" uid="740003711" type="0" value="0.906" />
+  <presetinput identifier="Light_Angle" uid="740003815" type="0" value="0.642" />
+  <presetinput identifier="Scale" uid="1405067727" type="4" value="4" />
+  <presetinput identifier="$randomseed" uid="2117394344" type="4" value="1366500065" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wool_001/wool_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="692505082" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="739930163" type="0" value="0.817" />
+  <presetinput identifier="Luminosity" uid="739930177" type="0" value="0.586" />
+  <presetinput identifier="Saturation" uid="739930196" type="0" value="0.521" />
+  <presetinput identifier="Depth" uid="740001234" type="0" value="0.562" />
+  <presetinput identifier="Normal" uid="740003616" type="0" value="0.793" />
+  <presetinput identifier="Emboss" uid="740003711" type="0" value="0.883" />
+  <presetinput identifier="Light_Angle" uid="740003815" type="0" value="0.578" />
+  <presetinput identifier="Creases" uid="1405063825" type="0" value="0.516" />
+  <presetinput identifier="Creases_Orientation" uid="1405063831" type="0" value="0.736" />
+  <presetinput identifier="Scale" uid="1405067727" type="4" value="7" />
+  <presetinput identifier="$randomseed" uid="2117394344" type="4" value="-1947959510" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wool_001/wool_001" label="var03" >
+  <presetinput identifier="$outputsize" uid="692505082" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="739930163" type="0" value="0.422" />
+  <presetinput identifier="Luminosity" uid="739930177" type="0" value="0.558" />
+  <presetinput identifier="Saturation" uid="739930196" type="0" value="0.521" />
+  <presetinput identifier="Depth" uid="740001234" type="0" value="0.562" />
+  <presetinput identifier="Normal" uid="740003616" type="0" value="0.793" />
+  <presetinput identifier="Emboss" uid="740003711" type="0" value="0.883" />
+  <presetinput identifier="Light_Angle" uid="740003815" type="0" value="0.578" />
+  <presetinput identifier="Contrast" uid="1402929075" type="0" value="0.406" />
+  <presetinput identifier="Creases" uid="1405063825" type="0" value="1" />
+  <presetinput identifier="Creases_Orientation" uid="1405063831" type="0" value="1" />
+  <presetinput identifier="Scale" uid="1405067727" type="4" value="10" />
+  <presetinput identifier="$randomseed" uid="2117394344" type="4" value="425439687" />
+ </sbspreset>
+</sbspresets>

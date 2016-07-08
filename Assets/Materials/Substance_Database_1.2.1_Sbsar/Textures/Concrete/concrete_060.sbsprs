@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_060/concrete_060" label="var01">
+  <presetinput identifier="Concrete_Color" uid="596509808" type="2" value="0.498,0.494,0.482"/>
+  <presetinput identifier="Cracks" uid="603265877" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1499656113" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="1547675956" type="0" value="0.862"/>
+  <presetinput identifier="Moisture_02_Amount" uid="1550560485" type="0" value="0"/>
+  <presetinput identifier="Moisture_01_Amount" uid="1550563328" type="0" value="0"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_060/concrete_060" label="var02">
+  <presetinput identifier="$randomseed" uid="235993571" type="4" value="605402440"/>
+  <presetinput identifier="Concrete_Color" uid="596509808" type="2" value="0.498,0.494,0.482"/>
+  <presetinput identifier="Moisture_Color" uid="596509810" type="2" value="0.486,0.478,0.439"/>
+  <presetinput identifier="Cracks" uid="603265877" type="0" value="0"/>
+  <presetinput identifier="$outputsize" uid="1499656113" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1547674521" type="0" value="1"/>
+  <presetinput identifier="Emboss" uid="1547675956" type="0" value="0.541"/>
+  <presetinput identifier="Moisture_02_Amount" uid="1550560485" type="0" value="1"/>
+  <presetinput identifier="Moisture_01_Amount" uid="1550563328" type="0" value="1"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_060/concrete_060" label="var03">
+  <presetinput identifier="$randomseed" uid="235993571" type="4" value="660804450"/>
+  <presetinput identifier="Concrete_Color" uid="596509808" type="2" value="0.467,0.478,0.498"/>
+  <presetinput identifier="Moisture_Color" uid="596509810" type="2" value="0.357,0.349,0.322"/>
+  <presetinput identifier="Cracks" uid="603265877" type="0" value="0.595"/>
+  <presetinput identifier="$outputsize" uid="1499656113" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1547674521" type="0" value="-0.453"/>
+  <presetinput identifier="Emboss" uid="1547675956" type="0" value="1"/>
+  <presetinput identifier="Moisture_02_Amount" uid="1550560485" type="0" value="1"/>
+  <presetinput identifier="Moisture_01_Amount" uid="1550563328" type="0" value="0"/>
+ </sbspreset>
+</sbspresets>

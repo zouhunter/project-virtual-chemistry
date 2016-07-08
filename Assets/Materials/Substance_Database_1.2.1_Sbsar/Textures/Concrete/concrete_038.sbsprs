@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_038/concrete_038" label="var01" >
+  <presetinput identifier="$outputsize" uid="645717503" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="1552670474" type="0" value="0.825" />
+  <presetinput identifier="Base_Color" uid="1552670648" type="2" value="0.455,0.443,0.416" />
+  <presetinput identifier="$randomseed" uid="1896795053" type="4" value="1305984732" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_038/concrete_038" label="var02" >
+  <presetinput identifier="$outputsize" uid="645717503" type="8" value="9,9" />
+  <presetinput identifier="Holes_Size" uid="1552657619" type="0" value="0.943" />
+  <presetinput identifier="Dirtiness" uid="1552670466" type="0" value="0" />
+  <presetinput identifier="Age" uid="1552670474" type="0" value="1" />
+  <presetinput identifier="Base_Color" uid="1552670648" type="2" value="0.588,0.576,0.553" />
+  <presetinput identifier="$randomseed" uid="1896795053" type="4" value="1367134888" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_038/concrete_038" label="var03" >
+  <presetinput identifier="$outputsize" uid="645717503" type="8" value="9,9" />
+  <presetinput identifier="Holes_Size" uid="1552657619" type="0" value="0.227" />
+  <presetinput identifier="Dirtiness" uid="1552670466" type="0" value="0" />
+  <presetinput identifier="Base_Color" uid="1552670648" type="2" value="0.588,0.576,0.553" />
+  <presetinput identifier="$randomseed" uid="1896795053" type="4" value="1367134888" />
+ </sbspreset>
+</sbspresets>

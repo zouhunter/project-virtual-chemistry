@@ -1,0 +1,49 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://Snake_Skin_001/Snake_Skin_001" label="var01">
+  <presetinput identifier="$outputsize" uid="645588904" type="8" value="9,9"/>
+  <presetinput identifier="Interstices_Color" uid="1557206800" type="2" value="0.678,0.765,0.62"/>
+  <presetinput identifier="Scales_Color" uid="1557206814" type="2" value="0.392,0.475,0.306"/>
+  <presetinput identifier="Edges_Shape" uid="1557227570" type="0" value="0"/>
+  <presetinput identifier="Center_Position" uid="1557564514" type="0" value="0"/>
+  <presetinput identifier="Color_Variation" uid="1557574894" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="1896411642" type="4" value="1178733235"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Snake_Skin_001/Snake_Skin_001" label="var02">
+  <presetinput identifier="Disorder" uid="592011285" type="0" value="1"/>
+  <presetinput identifier="Age" uid="592036108" type="0" value="0.431"/>
+  <presetinput identifier="$outputsize" uid="645588904" type="8" value="9,9"/>
+  <presetinput identifier="Interstices_Color" uid="1557206800" type="2" value="0.765,0.643,0.2"/>
+  <presetinput identifier="Scales_Color" uid="1557206814" type="2" value="0.475,0.392,0.145"/>
+  <presetinput identifier="Edges_Shape" uid="1557227570" type="0" value="0"/>
+  <presetinput identifier="Center_Position" uid="1557564514" type="0" value="0.508"/>
+  <presetinput identifier="Color_Variation" uid="1557574894" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="1896411642" type="4" value="-1273550314"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Snake_Skin_001/Snake_Skin_001" label="var03">
+  <presetinput identifier="Emboss" uid="589799725" type="0" value="0.107"/>
+  <presetinput identifier="Light_Angle" uid="589799861" type="0" value="0.142"/>
+  <presetinput identifier="Depth" uid="589802368" type="0" value="-1"/>
+  <presetinput identifier="Disorder" uid="592011285" type="0" value="0.562"/>
+  <presetinput identifier="Age" uid="592036108" type="0" value="0.025"/>
+  <presetinput identifier="$outputsize" uid="645588904" type="8" value="9,9"/>
+  <presetinput identifier="Interstices_Color" uid="1557206800" type="2" value="0.176,0.212,0.259"/>
+  <presetinput identifier="Scales_Color" uid="1557206814" type="2" value="0.341,0.412,0.475"/>
+  <presetinput identifier="Edges_Shape" uid="1557227570" type="0" value="1"/>
+  <presetinput identifier="Center_Position" uid="1557564514" type="0" value="0.451"/>
+  <presetinput identifier="Color_Variation" uid="1557574894" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="1896411642" type="4" value="-1154065344"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Snake_Skin_001/Snake_Skin_001" label="var04">
+  <presetinput identifier="Emboss" uid="589799725" type="0" value="0.107"/>
+  <presetinput identifier="Light_Angle" uid="589799861" type="0" value="0.142"/>
+  <presetinput identifier="Depth" uid="589802368" type="0" value="-1"/>
+  <presetinput identifier="Age" uid="592036108" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="645588904" type="8" value="9,9"/>
+  <presetinput identifier="Interstices_Color" uid="1557206800" type="2" value="0.259,0.216,0.176"/>
+  <presetinput identifier="Scales_Color" uid="1557206814" type="2" value="0.475,0.349,0.137"/>
+  <presetinput identifier="Edges_Shape" uid="1557227570" type="0" value="1"/>
+  <presetinput identifier="Center_Position" uid="1557564514" type="0" value="0.451"/>
+  <presetinput identifier="Color_Variation" uid="1557574894" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="1896411642" type="4" value="1133713385"/>
+ </sbspreset>
+</sbspresets>

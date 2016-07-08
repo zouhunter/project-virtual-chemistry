@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Concrete_07/Concrete_07" label="var01" >
+  <presetinput identifier="$randomseed" uid="2470460982" type="4" value="149857905" />
+  <presetinput identifier="Emboss" uid="3223932932" type="0" value="3.32" />
+  <presetinput identifier="Angle" uid="3223932948" type="0" value="0.756" />
+  <presetinput identifier="Luminosity" uid="3223933129" type="0" value="0.545" />
+  <presetinput identifier="Hue_Shift" uid="3223933261" type="0" value="0.421" />
+  <presetinput identifier="Depth" uid="3223942895" type="0" value="0.113" />
+  <presetinput identifier="Age" uid="3223944632" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3291621476" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_07/Concrete_07" label="var02" >
+  <presetinput identifier="$randomseed" uid="2470460982" type="4" value="1316887068" />
+  <presetinput identifier="Emboss" uid="3223932932" type="0" value="3.32" />
+  <presetinput identifier="Angle" uid="3223932948" type="0" value="0.722" />
+  <presetinput identifier="Luminosity" uid="3223933129" type="0" value="0.545" />
+  <presetinput identifier="Hue_Shift" uid="3223933261" type="0" value="0.421" />
+  <presetinput identifier="Depth" uid="3223942895" type="0" value="0.176" />
+  <presetinput identifier="Age" uid="3223944632" type="0" value="0.701" />
+  <presetinput identifier="$outputsize" uid="3291621476" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_07/Concrete_07" label="var03" >
+  <presetinput identifier="$randomseed" uid="2470460982" type="4" value="1818632437" />
+  <presetinput identifier="Streaks" uid="3221919749" type="0" value="0" />
+  <presetinput identifier="Relief_Balance" uid="3222921615" type="0" value="30.656" />
+  <presetinput identifier="Emboss" uid="3223932932" type="0" value="4.551" />
+  <presetinput identifier="Angle" uid="3223932948" type="0" value="0.669" />
+  <presetinput identifier="Luminosity" uid="3223933129" type="0" value="0.545" />
+  <presetinput identifier="Saturation" uid="3223933179" type="0" value="0.584" />
+  <presetinput identifier="Hue_Shift" uid="3223933261" type="0" value="0.534" />
+  <presetinput identifier="Depth" uid="3223942895" type="0" value="0.176" />
+  <presetinput identifier="Age" uid="3223944632" type="0" value="0.407" />
+  <presetinput identifier="$outputsize" uid="3291621476" type="8" value="10,10" />
+ </sbspreset>
+</sbspresets>

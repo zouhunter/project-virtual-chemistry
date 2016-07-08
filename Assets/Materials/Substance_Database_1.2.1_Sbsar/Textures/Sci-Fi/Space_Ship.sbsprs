@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Space_Ship/Space_Ship" label="var01" >
+  <presetinput identifier="Panels_Density" uid="2561363299" type="0" value="0.134" />
+  <presetinput identifier="Pipes_Density" uid="2561368447" type="0" value="0.148" />
+  <presetinput identifier="Blocks_Density" uid="2561371542" type="0" value="0.114" />
+  <presetinput identifier="Contrast" uid="2569396217" type="0" value="0.309" />
+  <presetinput identifier="Depth" uid="2569858305" type="0" value="-0.004" />
+  <presetinput identifier="$outputsize" uid="2639483611" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3391177865" type="4" value="-2063179964" />
+  <presetinput identifier="Hull_Color" uid="3884804295" type="2" value="0.82,0.835,0.875" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Space_Ship/Space_Ship" label="var02" >
+  <presetinput identifier="Panels_Density" uid="2561363299" type="0" value="0.59" />
+  <presetinput identifier="Pipes_Density" uid="2561368447" type="0" value="0.224" />
+  <presetinput identifier="Blocks_Density" uid="2561371542" type="0" value="0.416" />
+  <presetinput identifier="Emboss" uid="2569327042" type="0" value="4.609" />
+  <presetinput identifier="Contrast" uid="2569396217" type="0" value="0.08" />
+  <presetinput identifier="Depth" uid="2569858305" type="0" value="-0.004" />
+  <presetinput identifier="$outputsize" uid="2639483611" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3391177865" type="4" value="881525208" />
+  <presetinput identifier="Hull_Color" uid="3884804295" type="2" value="0.361,0.396,0.404" />
+ </sbspreset>
+</sbspresets>

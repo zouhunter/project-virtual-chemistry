@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Galvanized/Galvanized" label="var01" >
+  <presetinput identifier="$outputsize" uid="597899134" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="654643526" type="0" value="0.606" />
+  <presetinput identifier="Normal" uid="656126564" type="0" value="8.691" />
+  <presetinput identifier="Bumpiness" uid="656129700" type="0" value="0" />
+  <presetinput identifier="Emboss" uid="666330142" type="0" value="7.695" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Galvanized/Galvanized" label="var02" >
+  <presetinput identifier="$outputsize" uid="597899134" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="656126564" type="0" value="8.691" />
+  <presetinput identifier="Bumpiness" uid="656129700" type="0" value="2" />
+  <presetinput identifier="Emboss" uid="666330142" type="0" value="7.695" />
+  <presetinput identifier="$randomseed" uid="1959862572" type="4" value="-1172840181" />
+ </sbspreset>
+</sbspresets>

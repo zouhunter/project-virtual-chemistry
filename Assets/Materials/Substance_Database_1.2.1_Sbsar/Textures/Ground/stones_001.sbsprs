@@ -1,0 +1,39 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stones_001/stones_001" label="var01" >
+  <presetinput identifier="$randomseed" uid="2427974921" type="4" value="-41400167" />
+  <presetinput identifier="Rock_Scale" uid="3174582959" type="4" value="4" />
+  <presetinput identifier="Depth" uid="3264786291" type="0" value="1" />
+  <presetinput identifier="Hue_Shift" uid="3264830098" type="0" value="0.047" />
+  <presetinput identifier="$outputsize" uid="3351634779" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_001/stones_001" label="var02" >
+  <presetinput identifier="$randomseed" uid="2427974921" type="4" value="-41400167" />
+  <presetinput identifier="Water_Level" uid="3174582957" type="0" value="0.499" />
+  <presetinput identifier="Rock_Scale" uid="3174582959" type="4" value="10" />
+  <presetinput identifier="Water_Refraction" uid="3174806344" type="0" value="0.444" />
+  <presetinput identifier="Water_Moss" uid="3174806347" type="0" value="0.367" />
+  <presetinput identifier="Water_Flow" uid="3174806350" type="0" value="0.787" />
+  <presetinput identifier="Light_Angle" uid="3264783686" type="0" value="0.65" />
+  <presetinput identifier="Emboss" uid="3264783838" type="0" value="0.643" />
+  <presetinput identifier="Depth" uid="3264786291" type="0" value="1" />
+  <presetinput identifier="Hue_Shift" uid="3264830098" type="0" value="0.047" />
+  <presetinput identifier="$outputsize" uid="3351634779" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_001/stones_001" label="var03" >
+  <presetinput identifier="$randomseed" uid="2427974921" type="4" value="2060025690" />
+  <presetinput identifier="Snow" uid="3174582956" type="0" value="0.635" />
+  <presetinput identifier="Water_Level" uid="3174582957" type="0" value="0.465" />
+  <presetinput identifier="Contrast" uid="3174582958" type="0" value="0.002" />
+  <presetinput identifier="Rock_Scale" uid="3174582959" type="4" value="10" />
+  <presetinput identifier="Ice_Details" uid="3174805664" type="0" value="0.211" />
+  <presetinput identifier="Water_Refraction" uid="3174806344" type="0" value="0.397" />
+  <presetinput identifier="Water_To_Ice" uid="3174806348" type="0" value="0.367" />
+  <presetinput identifier="Water_Flow" uid="3174806350" type="0" value="0.985" />
+  <presetinput identifier="Water_Flow_Angle" uid="3174806351" type="0" value="0.642" />
+  <presetinput identifier="Light_Angle" uid="3264783686" type="0" value="0.217" />
+  <presetinput identifier="Normal" uid="3264783745" type="0" value="0.621" />
+  <presetinput identifier="Emboss" uid="3264783838" type="0" value="0.401" />
+  <presetinput identifier="Depth" uid="3264786291" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3351634779" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

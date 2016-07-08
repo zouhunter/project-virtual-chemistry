@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_004/bricks_004" label="var02" >
+  <presetinput identifier="Normal" uid="1943768252" type="0" value="0.836" />
+  <presetinput identifier="Emboss" uid="1943768291" type="0" value="0.923" />
+  <presetinput identifier="Bricks_Length" uid="1944390134" type="0" value="0.997" />
+  <presetinput identifier="Cracks" uid="1944439588" type="0" value="0.679" />
+  <presetinput identifier="Dirtiness" uid="1944442486" type="0" value="1" />
+  <presetinput identifier="Bricks_Variations" uid="1944444953" type="0" value="0.792" />
+  <presetinput identifier="$outputsize" uid="1988545126" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_004/bricks_004" label="var03" >
+  <presetinput identifier="Normal" uid="1943768252" type="0" value="0.836" />
+  <presetinput identifier="Emboss" uid="1943768291" type="0" value="0.923" />
+  <presetinput identifier="Bricks_Length" uid="1944390134" type="0" value="1" />
+  <presetinput identifier="Bricks_Size" uid="1944434544" type="0" value="0.81" />
+  <presetinput identifier="Cracks" uid="1944439588" type="0" value="0.745" />
+  <presetinput identifier="Dirtiness" uid="1944442486" type="0" value="0.797" />
+  <presetinput identifier="Bricks_Variations" uid="1944444953" type="0" value="0.263" />
+  <presetinput identifier="$outputsize" uid="1988545126" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_004/bricks_004" label="var01" >
+  <presetinput identifier="Bricks_Color_6" uid="1940328578" type="2" value="0.22,0.165,0.2" />
+  <presetinput identifier="Bricks_Color_7" uid="1940329708" type="2" value="0.431,0.286,0.376" />
+  <presetinput identifier="Bricks_Color_2" uid="1940333289" type="2" value="0.204,0.11,0.361" />
+  <presetinput identifier="Bricks_Color_3" uid="1940334158" type="2" value="0.624,0.322,0.227" />
+  <presetinput identifier="Bricks_Color_5" uid="1940335837" type="2" value="0.886,0.886,0.725" />
+  <presetinput identifier="Emboss" uid="1943768291" type="0" value="0.561" />
+  <presetinput identifier="Bricks_Length" uid="1944390134" type="0" value="0.616" />
+  <presetinput identifier="Bricks_Size" uid="1944434544" type="0" value="0.131" />
+  <presetinput identifier="Cracks" uid="1944439588" type="0" value="0.688" />
+  <presetinput identifier="Dirtiness" uid="1944442486" type="0" value="0.049" />
+  <presetinput identifier="$outputsize" uid="1988545126" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

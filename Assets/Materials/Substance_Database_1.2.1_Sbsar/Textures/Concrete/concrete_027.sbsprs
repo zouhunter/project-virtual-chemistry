@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_027/concrete_027" label="var01" >
+  <presetinput identifier="$randomseed" uid="398821475" type="4" value="-1302558521" />
+  <presetinput identifier="Scratches" uid="977278076" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="977278416" type="0" value="0" />
+  <presetinput identifier="Concrete_Color" uid="977279474" type="2" value="0.494,0.514,0.482" />
+  <presetinput identifier="Age" uid="977339459" type="0" value="0.256" />
+  <presetinput identifier="Contrast" uid="980396152" type="0" value="0.184" />
+  <presetinput identifier="$outputsize" uid="1085775409" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_027/concrete_027" label="var02" >
+  <presetinput identifier="$randomseed" uid="398821475" type="4" value="-1613870456" />
+  <presetinput identifier="Flake" uid="977278140" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="977278416" type="0" value="0" />
+  <presetinput identifier="Concrete_Color" uid="977279474" type="2" value="0.514,0.486,0.482" />
+  <presetinput identifier="Age" uid="977339459" type="0" value="0.688" />
+  <presetinput identifier="Contrast" uid="980396152" type="0" value="0.207" />
+  <presetinput identifier="$outputsize" uid="1085775409" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

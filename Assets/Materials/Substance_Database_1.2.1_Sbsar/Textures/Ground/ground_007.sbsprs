@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://ground_007/ground_007" label="var02" >
+  <presetinput identifier="Moss" uid="2613193243" type="0" value="0.617" />
+  <presetinput identifier="Hills" uid="2614975875" type="0" value="1" />
+  <presetinput identifier="Cracks" uid="2614975876" type="0" value="0.954" />
+  <presetinput identifier="$outputsize" uid="3775184630" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_007/ground_007" label="var01" >
+  <presetinput identifier="Moss" uid="2613193243" type="0" value="0.34" />
+  <presetinput identifier="Contrast" uid="2613293455" type="0" value="0.109" />
+  <presetinput identifier="Ground_Color" uid="2613296402" type="2" value="0.502,0.557,0.502" />
+  <presetinput identifier="Rock_1_Color" uid="2613299067" type="2" value="0.278,0.239,0.184" />
+  <presetinput identifier="Hills" uid="2614975875" type="0" value="0.862" />
+  <presetinput identifier="Cracks" uid="2614975876" type="0" value="0.928" />
+  <presetinput identifier="$randomseed" uid="3061229732" type="4" value="-1540678445" />
+  <presetinput identifier="$outputsize" uid="3775184630" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="3831101484" type="0" value="0.873" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_007/ground_007" label="var03" >
+  <presetinput identifier="Moss" uid="2613193243" type="0" value="0.617" />
+  <presetinput identifier="Snow" uid="2613197560" type="0" value="0.602" />
+  <presetinput identifier="Hills" uid="2614975875" type="0" value="1" />
+  <presetinput identifier="Cracks" uid="2614975876" type="0" value="0.954" />
+  <presetinput identifier="$randomseed" uid="3061229732" type="4" value="1962992510" />
+  <presetinput identifier="$outputsize" uid="3775184630" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_007/ground_007" label="var04" >
+  <presetinput identifier="Moss" uid="2613193243" type="0" value="0.617" />
+  <presetinput identifier="Snow" uid="2613197560" type="0" value="0.819" />
+  <presetinput identifier="Hills" uid="2614975875" type="0" value="1" />
+  <presetinput identifier="Cracks" uid="2614975876" type="0" value="0.954" />
+  <presetinput identifier="$randomseed" uid="3061229732" type="4" value="-273402728" />
+  <presetinput identifier="$outputsize" uid="3775184630" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

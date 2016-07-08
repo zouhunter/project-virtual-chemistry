@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_003/concrete_003" label="var01" >
+  <presetinput identifier="Roughness" uid="3189732917" type="0" value="0.219" />
+  <presetinput identifier="Scratches" uid="3254522251" type="0" value="0" />
+  <presetinput identifier="Balance" uid="3254528684" type="0" value="0.661" />
+  <presetinput identifier="$outputsize" uid="3301312032" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_003/concrete_003" label="var02" >
+  <presetinput identifier="Emboss" uid="3248177317" type="0" value="0.728" />
+  <presetinput identifier="Scratches" uid="3254522251" type="0" value="1" />
+  <presetinput identifier="Balance" uid="3254528684" type="0" value="0.578" />
+  <presetinput identifier="$outputsize" uid="3301312032" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_003/concrete_003" label="var03" >
+  <presetinput identifier="Roughness" uid="3189732917" type="0" value="0.646" />
+  <presetinput identifier="Emboss" uid="3248177317" type="0" value="0.728" />
+  <presetinput identifier="Wall_Color_02" uid="3253049576" type="2" value="0.706,0.69,0.612" />
+  <presetinput identifier="Wall_Color_01" uid="3253051560" type="2" value="0.298,0.325,0.357" />
+  <presetinput identifier="Scratches" uid="3254522251" type="0" value="0.753" />
+  <presetinput identifier="Balance" uid="3254528684" type="0" value="0.275" />
+  <presetinput identifier="$outputsize" uid="3301312032" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

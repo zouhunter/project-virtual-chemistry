@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://fabric_023/fabric_023" label="var01">
+  <presetinput identifier="Creases" uid="2637404443" type="0" value="0.502"/>
+  <presetinput identifier="Base_Color_2" uid="2639267338" type="2" value="0.212,0.204,0.176"/>
+  <presetinput identifier="Base_Color_1" uid="2639267339" type="2" value="0.62,0.655,0.471"/>
+  <presetinput identifier="Speckles" uid="2639312226" type="0" value="0.273"/>
+  <presetinput identifier="$randomseed" uid="2963548514" type="4" value="-2012749876"/>
+  <presetinput identifier="Light_Angle" uid="3800791341" type="0" value="0.753"/>
+  <presetinput identifier="Emboss" uid="3800791477" type="0" value="0.311"/>
+  <presetinput identifier="$outputsize" uid="3889577776" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_023/fabric_023" label="var03">
+  <presetinput identifier="Dirtiness" uid="2636937180" type="0" value="0.471"/>
+  <presetinput identifier="Creases" uid="2637404443" type="0" value="0.982"/>
+  <presetinput identifier="Base_Color_2" uid="2639267338" type="2" value="0.161,0.176,0.212"/>
+  <presetinput identifier="Base_Color_1" uid="2639267339" type="2" value="0.518,0.506,0.655"/>
+  <presetinput identifier="Speckles" uid="2639312226" type="0" value="0.74"/>
+  <presetinput identifier="$randomseed" uid="2963548514" type="4" value="-1016243951"/>
+  <presetinput identifier="Light_Angle" uid="3800791341" type="0" value="0.753"/>
+  <presetinput identifier="Emboss" uid="3800791477" type="0" value="0.311"/>
+  <presetinput identifier="$outputsize" uid="3889577776" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_023/fabric_023" label="var02">
+  <presetinput identifier="Dirtiness" uid="2636937180" type="0" value="1"/>
+  <presetinput identifier="Creases" uid="2637404443" type="0" value="1"/>
+  <presetinput identifier="Base_Color_2" uid="2639267338" type="2" value="0.212,0.012,0.012"/>
+  <presetinput identifier="Base_Color_1" uid="2639267339" type="2" value="0.655,0.059,0.059"/>
+  <presetinput identifier="Speckles" uid="2639312226" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="2963548514" type="4" value="496431951"/>
+  <presetinput identifier="Light_Angle" uid="3800791341" type="0" value="0.211"/>
+  <presetinput identifier="Emboss" uid="3800791477" type="0" value="0.595"/>
+  <presetinput identifier="$outputsize" uid="3889577776" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

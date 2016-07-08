@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://snow_001/snow_001" label="var01" >
+  <presetinput identifier="$randomseed" uid="3218329002" type="4" value="2059953952" />
+  <presetinput identifier="$outputsize" uid="3902921720" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="3992754128" type="0" value="0.279" />
+  <presetinput identifier="Normal" uid="3992755490" type="0" value="0.812" />
+  <presetinput identifier="Emboss" uid="3992755581" type="0" value="0.693" />
+  <presetinput identifier="Luminosity" uid="3992805955" type="0" value="0.566" />
+  <presetinput identifier="Saturation" uid="3992805974" type="0" value="0.559" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://snow_001/snow_001" label="var02" >
+  <presetinput identifier="Snow_Amount" uid="2455218555" type="0" value="0.465" />
+  <presetinput identifier="$randomseed" uid="3218329002" type="4" value="1692616139" />
+  <presetinput identifier="$outputsize" uid="3902921720" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="3992754128" type="0" value="0.279" />
+  <presetinput identifier="Normal" uid="3992755490" type="0" value="0.812" />
+  <presetinput identifier="Emboss" uid="3992755581" type="0" value="0.693" />
+  <presetinput identifier="Luminosity" uid="3992805955" type="0" value="0.61" />
+  <presetinput identifier="Saturation" uid="3992805974" type="0" value="0.559" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://snow_001/snow_001" label="var03" >
+  <presetinput identifier="Roughness" uid="2455218554" type="0" value="0.316" />
+  <presetinput identifier="Snow_Amount" uid="2455218555" type="0" value="0.382" />
+  <presetinput identifier="Snow_Melting" uid="2455618334" type="0" value="0.328" />
+  <presetinput identifier="Contrast" uid="2457464241" type="0" value="-0.055" />
+  <presetinput identifier="$randomseed" uid="3218329002" type="4" value="-895088553" />
+  <presetinput identifier="$outputsize" uid="3902921720" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="3992754128" type="0" value="0.279" />
+  <presetinput identifier="Normal" uid="3992755490" type="0" value="0.812" />
+  <presetinput identifier="Emboss" uid="3992755581" type="0" value="0.693" />
+  <presetinput identifier="Light_Angle" uid="3992755685" type="0" value="0.678" />
+  <presetinput identifier="Hue_Shift" uid="3992805937" type="0" value="0.02" />
+  <presetinput identifier="Luminosity" uid="3992805955" type="0" value="0.574" />
+  <presetinput identifier="Saturation" uid="3992805974" type="0" value="0.535" />
+ </sbspreset>
+</sbspresets>

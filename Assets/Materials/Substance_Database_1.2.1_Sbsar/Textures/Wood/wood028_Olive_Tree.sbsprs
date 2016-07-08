@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood028/wood028" label="var01">
+  <presetinput identifier="$randomseed" uid="41824705" type="4" value="1888096288"/>
+  <presetinput identifier="Warping" uid="801921041" type="0" value="0.462"/>
+  <presetinput identifier="Contrast" uid="802612142" type="0" value="0.115"/>
+  <presetinput identifier="Luminosity" uid="1347460648" type="0" value="0.535"/>
+  <presetinput identifier="Saturation" uid="1347460669" type="0" value="0.349"/>
+  <presetinput identifier="Light_Angle" uid="1347510670" type="0" value="0.222"/>
+  <presetinput identifier="$outputsize" uid="1426859923" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood028/wood028" label="var02">
+  <presetinput identifier="$randomseed" uid="41824705" type="4" value="2114867464"/>
+  <presetinput identifier="Age" uid="801211528" type="0" value="0.526"/>
+  <presetinput identifier="Warping" uid="801921041" type="0" value="0.462"/>
+  <presetinput identifier="Contrast" uid="802612142" type="0" value="0.115"/>
+  <presetinput identifier="Luminosity" uid="1347460648" type="0" value="0.45"/>
+  <presetinput identifier="Saturation" uid="1347460669" type="0" value="0.358"/>
+  <presetinput identifier="Light_Angle" uid="1347510670" type="0" value="0.222"/>
+  <presetinput identifier="$outputsize" uid="1426859923" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood028/wood028" label="var03">
+  <presetinput identifier="$randomseed" uid="41824705" type="4" value="2114867464"/>
+  <presetinput identifier="Battens_Gap" uid="788010649" type="0" value="0.023"/>
+  <presetinput identifier="Age" uid="801211528" type="0" value="0.526"/>
+  <presetinput identifier="Dirtiness" uid="801211530" type="0" value="0.767"/>
+  <presetinput identifier="Warping" uid="801921041" type="0" value="0.462"/>
+  <presetinput identifier="Battens" uid="802589410" type="4" value="1"/>
+  <presetinput identifier="Contrast" uid="802612142" type="0" value="0.115"/>
+  <presetinput identifier="Luminosity" uid="1347460648" type="0" value="0.506"/>
+  <presetinput identifier="Saturation" uid="1347460669" type="0" value="0.358"/>
+  <presetinput identifier="Light_Angle" uid="1347510670" type="0" value="0.1"/>
+  <presetinput identifier="$outputsize" uid="1426859923" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var01" >
+  <presetinput identifier="Stones_Scale" uid="1509834450" type="0" value="0.126" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var02" >
+  <presetinput identifier="Water_Level" uid="641432669" type="0" value="0.159" />
+  <presetinput identifier="Stones_Scale" uid="1509834450" type="0" value="0.476" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var03" >
+  <presetinput identifier="Snow" uid="641432661" type="0" value="0.643" />
+  <presetinput identifier="Water_Flow" uid="641432665" type="0" value="0.277" />
+  <presetinput identifier="Water_Flow_Angle" uid="641432666" type="0" value="0.147" />
+  <presetinput identifier="Water_Level" uid="641432669" type="0" value="0.159" />
+  <presetinput identifier="Stones_Scale" uid="1509834450" type="0" value="0.476" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

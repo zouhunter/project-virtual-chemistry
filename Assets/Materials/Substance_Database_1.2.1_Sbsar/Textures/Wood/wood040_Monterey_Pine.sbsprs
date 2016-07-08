@@ -1,0 +1,40 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood040/wood040" label="var02">
+  <presetinput identifier="$outputsize" uid="3142310520" type="8" value="9,9"/>
+  <presetinput identifier="Normal" uid="3189152930" type="0" value="0.498"/>
+  <presetinput identifier="Emboss" uid="3189153021" type="0" value="0.876"/>
+  <presetinput identifier="Luminosity" uid="3189203907" type="0" value="0.457"/>
+  <presetinput identifier="Saturation" uid="3189203926" type="0" value="0.442"/>
+  <presetinput identifier="Lines_Width" uid="3191544459" type="0" value="0.96"/>
+  <presetinput identifier="Lines" uid="3191544497" type="0" value="0.836"/>
+  <presetinput identifier="Lines_Warping" uid="3191544683" type="0" value="1"/>
+  <presetinput identifier="Stains" uid="3191598495" type="0" value="0.892"/>
+  <presetinput identifier="$randomseed" uid="3963210794" type="4" value="304421465"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood040/wood040" label="var01">
+  <presetinput identifier="Emboss" uid="54576402" type="0" value="0.876"/>
+  <presetinput identifier="Normal" uid="54576461" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="54606380" type="0" value="0.457"/>
+  <presetinput identifier="Saturation" uid="54606393" type="0" value="0.442"/>
+  <presetinput identifier="Lines_Warping" uid="57492100" type="0" value="0.909"/>
+  <presetinput identifier="Lines" uid="57492318" type="0" value="0.526"/>
+  <presetinput identifier="Lines_Width" uid="57492324" type="0" value="0.96"/>
+  <presetinput identifier="$outputsize" uid="102597527" type="8" value="9,9"/>
+  <presetinput identifier="Wood_Color" uid="2093444735" type="2" value="0.859,0.871,0.576"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood040/wood040" label="var03">
+  <presetinput identifier="Emboss" uid="54576402" type="0" value="0.876"/>
+  <presetinput identifier="Normal" uid="54576461" type="0" value="0.498"/>
+  <presetinput identifier="Light_Angle" uid="54576522" type="0" value="0.142"/>
+  <presetinput identifier="Luminosity" uid="54606380" type="0" value="0.457"/>
+  <presetinput identifier="Saturation" uid="54606393" type="0" value="0.442"/>
+  <presetinput identifier="Lines_Warping" uid="57492100" type="0" value="1"/>
+  <presetinput identifier="Lines" uid="57492318" type="0" value="0.836"/>
+  <presetinput identifier="Lines_Width" uid="57492324" type="0" value="0.96"/>
+  <presetinput identifier="Stains" uid="57521264" type="0" value="0.142"/>
+  <presetinput identifier="$outputsize" uid="102597527" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="1366267333" type="4" value="582665039"/>
+  <presetinput identifier="Battens" uid="2093428454" type="4" value="1"/>
+  <presetinput identifier="Wood_Color" uid="2093444735" type="2" value="0.58,0.306,0.2"/>
+ </sbspreset>
+</sbspresets>

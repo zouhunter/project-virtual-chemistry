@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_003/fabric_003" label="var01" >
+  <presetinput identifier="$outputsize" uid="3049056505" type="8" value="9,9" />
+  <presetinput identifier="Color" uid="3481080993" type="2" value="0.427,0.494,0.392" />
+  <presetinput identifier="Creases_Orientation" uid="3481081442" type="0" value="0.461" />
+  <presetinput identifier="Creases" uid="3481081452" type="0" value="0.231" />
+  <presetinput identifier="Scale" uid="3481104590" type="4" value="4" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_003/fabric_003" label="var03" >
+  <presetinput identifier="Luminosity" uid="2967490882" type="0" value="0.488" />
+  <presetinput identifier="Saturation" uid="2967490903" type="0" value="0.558" />
+  <presetinput identifier="Normal" uid="2967580195" type="0" value="0.931" />
+  <presetinput identifier="$outputsize" uid="3049056505" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="3480385284" type="0" value="0.913" />
+  <presetinput identifier="Color" uid="3481080993" type="2" value="0.294,0.298,0.263" />
+  <presetinput identifier="Creases_Orientation" uid="3481081442" type="0" value="0.475" />
+  <presetinput identifier="Creases" uid="3481081452" type="0" value="0.745" />
+  <presetinput identifier="Scale" uid="3481104590" type="4" value="1" />
+  <presetinput identifier="Contrast" uid="3481162753" type="0" value="0.066" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_003/fabric_003" label="var02" >
+  <presetinput identifier="$outputsize" uid="3049056505" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="3480385284" type="0" value="0.501" />
+  <presetinput identifier="Color" uid="3481080993" type="2" value="0.824,0.827,0.729" />
+  <presetinput identifier="Creases_Orientation" uid="3481081442" type="0" value="0.799" />
+  <presetinput identifier="Creases" uid="3481081452" type="0" value="0.694" />
+ </sbspreset>
+</sbspresets>

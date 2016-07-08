@@ -1,0 +1,38 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://roofing_005/roofing_005" label="var01" >
+  <presetinput identifier="Saturation" uid="838914474" type="0" value="0.519" />
+  <presetinput identifier="Luminosity" uid="838914495" type="0" value="0.481" />
+  <presetinput identifier="Hue_Shift" uid="838914509" type="0" value="0.435" />
+  <presetinput identifier="$outputsize" uid="928802820" type="8" value="9,9" />
+  <presetinput identifier="Tiles_Amount_X" uid="1303088646" type="4" value="6" />
+  <presetinput identifier="Cracks" uid="1303088705" type="0" value="0.869" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1303097724" type="4" value="19" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_005/roofing_005" label="var02" >
+  <presetinput identifier="Saturation" uid="838914474" type="0" value="0" />
+  <presetinput identifier="Luminosity" uid="838914495" type="0" value="0.521" />
+  <presetinput identifier="Hue_Shift" uid="838914509" type="0" value="0.17" />
+  <presetinput identifier="$outputsize" uid="928802820" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="1301574487" type="0" value="0.955" />
+  <presetinput identifier="Contrast" uid="1301574489" type="0" value="0.148" />
+  <presetinput identifier="Tiles_Amount_X" uid="1303088646" type="4" value="13" />
+  <presetinput identifier="Cracks" uid="1303088705" type="0" value="1" />
+  <presetinput identifier="Cracks_Scale" uid="1303094919" type="4" value="32" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1303097724" type="4" value="25" />
+  <presetinput identifier="$randomseed" uid="1613659734" type="4" value="-723734057" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_005/roofing_005" label="var03" >
+  <presetinput identifier="Saturation" uid="838914474" type="0" value="0.359" />
+  <presetinput identifier="Luminosity" uid="838914495" type="0" value="0.521" />
+  <presetinput identifier="Hue_Shift" uid="838914509" type="0" value="0.857" />
+  <presetinput identifier="$outputsize" uid="928802820" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="1301574487" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="1301574489" type="0" value="0.252" />
+  <presetinput identifier="Color_Variation" uid="1302877676" type="0" value="1" />
+  <presetinput identifier="Tiles_Amount_X" uid="1303088646" type="4" value="5" />
+  <presetinput identifier="Cracks" uid="1303088705" type="0" value="1" />
+  <presetinput identifier="Cracks_Scale" uid="1303094919" type="4" value="6" />
+  <presetinput identifier="Tiles_Amount_Y" uid="1303097724" type="4" value="11" />
+  <presetinput identifier="$randomseed" uid="1613659734" type="4" value="-723734057" />
+ </sbspreset>
+</sbspresets>

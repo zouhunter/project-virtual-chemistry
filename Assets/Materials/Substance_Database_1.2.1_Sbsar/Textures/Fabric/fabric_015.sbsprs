@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_015/fabric_015" label="var01" >
+  <presetinput identifier="$randomseed" uid="538777274" type="4" value="562564732" />
+  <presetinput identifier="Emboss" uid="1915897453" type="0" value="0.552" />
+  <presetinput identifier="Light_Angle" uid="1915897589" type="0" value="0.578" />
+  <presetinput identifier="Hue_Shift" uid="1915992353" type="0" value="0.069" />
+  <presetinput identifier="$outputsize" uid="2003763432" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_015/fabric_015" label="var02" >
+  <presetinput identifier="Creases_Flap" uid="227872181" type="0" value="0.667" />
+  <presetinput identifier="Creases" uid="227872237" type="0" value="0.651" />
+  <presetinput identifier="Dirtiness" uid="227974810" type="0" value="0.52" />
+  <presetinput identifier="$randomseed" uid="538777274" type="4" value="-1331058998" />
+  <presetinput identifier="Emboss" uid="1915897453" type="0" value="0.552" />
+  <presetinput identifier="Light_Angle" uid="1915897589" type="0" value="0.578" />
+  <presetinput identifier="Hue_Shift" uid="1915992353" type="0" value="0.069" />
+  <presetinput identifier="Saturation" uid="1915992390" type="0" value="0.608" />
+  <presetinput identifier="$outputsize" uid="2003763432" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_015/fabric_015" label="var03" >
+  <presetinput identifier="Creases_Flap" uid="227872181" type="0" value="0.979" />
+  <presetinput identifier="Creases" uid="227872237" type="0" value="0.651" />
+  <presetinput identifier="Dirtiness" uid="227974810" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="538777274" type="4" value="-1323160616" />
+  <presetinput identifier="Normal" uid="1915897394" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="1915897453" type="0" value="0.552" />
+  <presetinput identifier="Light_Angle" uid="1915897589" type="0" value="0.669" />
+  <presetinput identifier="Hue_Shift" uid="1915992353" type="0" value="0.069" />
+  <presetinput identifier="Saturation" uid="1915992390" type="0" value="0.608" />
+  <presetinput identifier="Luminosity" uid="1915992403" type="0" value="0.558" />
+  <presetinput identifier="$outputsize" uid="2003763432" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

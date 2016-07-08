@@ -1,0 +1,45 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stonework_001/stonework_001" label="var01" >
+  <presetinput identifier="Depth" uid="2733855853" type="0" value="-1" />
+  <presetinput identifier="Emboss" uid="2733858496" type="0" value="0.442" />
+  <presetinput identifier="$outputsize" uid="2813204549" type="8" value="9,9" />
+  <presetinput identifier="Moss_Color" uid="3714812832" type="2" value="0.012,0.012,0.012" />
+  <presetinput identifier="Mortar_Color" uid="3714812837" type="2" value="0.831,0.831,0.831" />
+  <presetinput identifier="Stones_Color" uid="3714812839" type="2" value="0.467,0.486,0.514" />
+  <presetinput identifier="Moss" uid="3714824552" type="0" value="0.886" />
+  <presetinput identifier="Stones_Disorder" uid="3714824558" type="0" value="0.2" />
+  <presetinput identifier="Stones_Shapes" uid="3714824559" type="0" value="0.9" />
+  <presetinput identifier="$randomseed" uid="4040953367" type="4" value="-1299284401" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_001/stonework_001" label="var02" >
+  <presetinput identifier="Saturation" uid="2733810155" type="0" value="0.476" />
+  <presetinput identifier="Luminosity" uid="2733810174" type="0" value="0.506" />
+  <presetinput identifier="Depth" uid="2733855853" type="0" value="1" />
+  <presetinput identifier="Normal" uid="2733858463" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2733858496" type="0" value="0.442" />
+  <presetinput identifier="$outputsize" uid="2813204549" type="8" value="9,9" />
+  <presetinput identifier="Moss_Color" uid="3714812832" type="2" value="0.204,0.275,0.129" />
+  <presetinput identifier="Mortar_Color" uid="3714812837" type="2" value="0.596,0.596,0.596" />
+  <presetinput identifier="Stones_Color" uid="3714812839" type="2" value="0.514,0.49,0.361" />
+  <presetinput identifier="Stones_Shapes" uid="3714824559" type="0" value="0.9" />
+  <presetinput identifier="Contrast" uid="3715509772" type="0" value="-0.131" />
+  <presetinput identifier="$randomseed" uid="4040953367" type="4" value="-724473769" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_001/stonework_001" label="var03" >
+  <presetinput identifier="Saturation" uid="2733810155" type="0" value="0.476" />
+  <presetinput identifier="Luminosity" uid="2733810174" type="0" value="0.506" />
+  <presetinput identifier="Depth" uid="2733855853" type="0" value="1" />
+  <presetinput identifier="Normal" uid="2733858463" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2733858496" type="0" value="0.442" />
+  <presetinput identifier="$outputsize" uid="2813204549" type="8" value="9,9" />
+  <presetinput identifier="Moss_Color" uid="3714812832" type="2" value="0.463,0.463,0.463" />
+  <presetinput identifier="Mortar_Color" uid="3714812837" type="2" value="0.596,0.596,0.596" />
+  <presetinput identifier="Stones_Color" uid="3714812839" type="2" value="0.514,0.49,0.361" />
+  <presetinput identifier="Moss" uid="3714824552" type="0" value="0.771" />
+  <presetinput identifier="Interstices_Size" uid="3714824557" type="0" value="0.394" />
+  <presetinput identifier="Stones_Disorder" uid="3714824558" type="0" value="0.58" />
+  <presetinput identifier="Stones_Shapes" uid="3714824559" type="0" value="0.396" />
+  <presetinput identifier="Contrast" uid="3715509772" type="0" value="-0.131" />
+  <presetinput identifier="$randomseed" uid="4040953367" type="4" value="1241873303" />
+ </sbspreset>
+</sbspresets>

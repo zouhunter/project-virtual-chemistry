@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wheel/Wheel" label="var01" >
+  <presetinput identifier="$outputsize" uid="1811295906" type="8" value="10,10" />
+  <presetinput identifier="Bolts" uid="1876434027" type="4" value="5" />
+  <presetinput identifier="Age" uid="1876439427" type="0" value="0" />
+  <presetinput identifier="Outer_Holes" uid="1876446681" type="4" value="11" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wheel/Wheel" label="var02" >
+  <presetinput identifier="$outputsize" uid="1811295906" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="1875549708" type="0" value="1.66" />
+  <presetinput identifier="Bolts" uid="1876434027" type="4" value="10" />
+  <presetinput identifier="Age" uid="1876439427" type="0" value="0.448" />
+  <presetinput identifier="Outer_Holes" uid="1876446681" type="4" value="8" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wheel/Wheel" label="var03" >
+  <presetinput identifier="$outputsize" uid="1811295906" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="1875549708" type="0" value="-1.465" />
+  <presetinput identifier="Depth" uid="1875549723" type="0" value="1" />
+  <presetinput identifier="Bolts" uid="1876434027" type="4" value="0" />
+  <presetinput identifier="Outer_Holes" uid="1876446681" type="4" value="8" />
+ </sbspreset>
+</sbspresets>

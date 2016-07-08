@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Crumpled_Paper/Crumpled_Paper" label="var01" >
+  <presetinput identifier="$outputsize" uid="2284238459" type="8" value="9,9" />
+  <presetinput identifier="Crumple" uid="2350371561" type="0" value="0" />
+  <presetinput identifier="Dirt" uid="2379001312" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="3746865193" type="4" value="1322756545" />
+  <presetinput identifier="Paper_Color" uid="4076614172" type="2" value="0.906,0.898,0.847" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Crumpled_Paper/Crumpled_Paper" label="var02" >
+  <presetinput identifier="$outputsize" uid="2284238459" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="2350371538" type="0" value="-0.184" />
+  <presetinput identifier="Contrast" uid="2350371663" type="0" value="0.166" />
+  <presetinput identifier="Dirt" uid="2379001312" type="0" value="0.409" />
+  <presetinput identifier="$randomseed" uid="3746865193" type="4" value="1696359431" />
+  <presetinput identifier="Paper_Color" uid="4076614172" type="2" value="0.824,0.831,0.906" />
+ </sbspreset>
+</sbspresets>

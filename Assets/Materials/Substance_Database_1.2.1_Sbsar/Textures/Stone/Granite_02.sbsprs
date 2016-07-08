@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Granite_02/Granite_02" label="var02" >
+  <presetinput identifier="$randomseed" uid="2816243962" type="4" value="-1234668872" />
+  <presetinput identifier="$outputsize" uid="4037963432" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="4099707802" type="0" value="0.144" />
+  <presetinput identifier="Saturation" uid="4099707804" type="0" value="0.496" />
+  <presetinput identifier="Luminosity" uid="4099707807" type="0" value="0.54" />
+  <presetinput identifier="Contrast" uid="4107854730" type="0" value="-0.254" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Granite_02/Granite_02" label="var01" >
+  <presetinput identifier="$randomseed" uid="2816243962" type="4" value="-443228415" />
+  <presetinput identifier="$outputsize" uid="4037963432" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="4099707802" type="0" value="0.996" />
+  <presetinput identifier="Saturation" uid="4099707804" type="0" value="0.4" />
+  <presetinput identifier="Luminosity" uid="4099707807" type="0" value="0.566" />
+  <presetinput identifier="Roughness" uid="4103326582" type="0" value="0.472" />
+  <presetinput identifier="Contrast" uid="4107854730" type="0" value="-0.254" />
+ </sbspreset>
+</sbspresets>

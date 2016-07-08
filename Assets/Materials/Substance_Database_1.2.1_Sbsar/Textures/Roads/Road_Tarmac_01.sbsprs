@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Road_Tarmac_01/Road_Tarmac_01" label="var01" >
+  <presetinput identifier="$randomseed" uid="241972563" type="4" value="1582728732" />
+  <presetinput identifier="$outputsize" uid="1495147265" type="8" value="9,9" />
+  <presetinput identifier="Luminosity" uid="1571204102" type="0" value="0.454" />
+  <presetinput identifier="Stripe_Length" uid="1572369258" type="0" value="0.908" />
+  <presetinput identifier="Lanes" uid="1572369259" type="4" value="3" />
+  <presetinput identifier="Center_Stripes" uid="1572775304" type="4" value="5" />
+  <presetinput identifier="Side_Stripes" uid="1572785711" type="4" value="0" />
+  <presetinput identifier="Stripe_Width" uid="1572786158" type="0" value="0.084" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Road_Tarmac_01/Road_Tarmac_01" label="var02" >
+  <presetinput identifier="$randomseed" uid="241972563" type="4" value="1582728732" />
+  <presetinput identifier="$outputsize" uid="1495147265" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="1567363492" type="0" value="0.461" />
+  <presetinput identifier="Asperities" uid="1571052281" type="0" value="0" />
+  <presetinput identifier="Luminosity" uid="1571204102" type="0" value="0.454" />
+  <presetinput identifier="Stripe_Offset" uid="1571935127" type="0" value="1" />
+  <presetinput identifier="Stripe_Length" uid="1572369258" type="0" value="0.908" />
+  <presetinput identifier="Lanes" uid="1572369259" type="4" value="4" />
+  <presetinput identifier="Center_Stripes" uid="1572775304" type="4" value="18" />
+  <presetinput identifier="Side_Stripes" uid="1572785711" type="4" value="0" />
+  <presetinput identifier="Stripe_Width" uid="1572786158" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

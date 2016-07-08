@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Triangles/Triangles" label="var01" >
+  <presetinput identifier="$outputsize" uid="3777280719" type="8" value="9,9" />
+  <presetinput identifier="Density" uid="3834944579" type="4" value="1" />
+  <presetinput identifier="AO" uid="3837599846" type="0" value="0" />
+  <presetinput identifier="Contrast" uid="3847370733" type="0" value="0.256" />
+  <presetinput identifier="Emboss" uid="3847436758" type="0" value="-0.156" />
+  <presetinput identifier="Depth" uid="3847947541" type="0" value="0.004" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Triangles/Triangles" label="var02" >
+  <presetinput identifier="$outputsize" uid="3777280719" type="8" value="9,9" />
+  <presetinput identifier="Density" uid="3834944579" type="4" value="3" />
+  <presetinput identifier="AO" uid="3837599846" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="3847370733" type="0" value="-0.004" />
+  <presetinput identifier="Emboss" uid="3847436758" type="0" value="10" />
+  <presetinput identifier="Depth" uid="3847947541" type="0" value="0.004" />
+  <presetinput identifier="Luminosity" uid="3856025592" type="0" value="0.511" />
+  <presetinput identifier="Saturation" uid="3856025595" type="0" value="0.448" />
+  <presetinput identifier="Hue_Shift" uid="3856025597" type="0" value="0.436" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_002/fabric_002" label="var02" >
+  <presetinput identifier="Age" uid="601509095" type="0" value="0.606" />
+  <presetinput identifier="Color_3" uid="601509423" type="2" value="0.741,0.741,0.741" />
+  <presetinput identifier="Color_2" uid="601509562" type="2" value="0.035,0.694,0.09" />
+  <presetinput identifier="Color_1" uid="601509685" type="2" value="0.059,0.012,0.616" />
+  <presetinput identifier="$outputsize" uid="1495176192" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="1547948677" type="0" value="0.743" />
+  <presetinput identifier="Normal" uid="1547948762" type="0" value="0.696" />
+  <presetinput identifier="Creases_Orientation" uid="1551268568" type="0" value="0.654" />
+  <presetinput identifier="Dirtiness" uid="1551268597" type="0" value="0.995" />
+  <presetinput identifier="Creases" uid="1551268622" type="0" value="0.792" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_002/fabric_002" label="var03" >
+  <presetinput identifier="Age" uid="601509095" type="0" value="0.849" />
+  <presetinput identifier="Color_3" uid="601509423" type="2" value="0.322,0.486,0.475" />
+  <presetinput identifier="Color_2" uid="601509562" type="2" value="0.694,0.016,0.016" />
+  <presetinput identifier="Color_1" uid="601509685" type="2" value="0.059,0.012,0.616" />
+  <presetinput identifier="$outputsize" uid="1495176192" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="1547948677" type="0" value="1" />
+  <presetinput identifier="Normal" uid="1547948762" type="0" value="0.696" />
+  <presetinput identifier="Creases_Orientation" uid="1551268568" type="0" value="0.266" />
+  <presetinput identifier="Dirtiness" uid="1551268597" type="0" value="0.766" />
+  <presetinput identifier="Creases" uid="1551268622" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_002/fabric_002" label="var01" >
+  <presetinput identifier="$randomseed" uid="241992274" type="4" value="-1678876781" />
+  <presetinput identifier="Age" uid="601509095" type="0" value="0.363" />
+  <presetinput identifier="Color_3" uid="601509423" type="2" value="0.282,0.741,0.573" />
+  <presetinput identifier="Color_2" uid="601509562" type="2" value="0.694,0.129,0.031" />
+  <presetinput identifier="Color_1" uid="601509685" type="2" value="0.494,0.616,0.047" />
+  <presetinput identifier="$outputsize" uid="1495176192" type="8" value="9,9" />
+  <presetinput identifier="Creases_Orientation" uid="1551268568" type="0" value="0.469" />
+  <presetinput identifier="Creases" uid="1551268622" type="0" value="0.339" />
+ </sbspreset>
+</sbspresets>

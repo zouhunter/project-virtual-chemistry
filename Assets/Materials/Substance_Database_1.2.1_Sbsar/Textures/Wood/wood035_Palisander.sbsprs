@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood035/wood035" label="var03">
+  <presetinput identifier="Saturation" uid="695689128" type="0" value="0.45"/>
+  <presetinput identifier="Luminosity" uid="695689149" type="0" value="0.556"/>
+  <presetinput identifier="$outputsize" uid="741074438" type="8" value="9,9"/>
+  <presetinput identifier="Wood_Humidity" uid="1457988809" type="0" value="1"/>
+  <presetinput identifier="Cracks" uid="1457988810" type="0" value="1"/>
+  <presetinput identifier="Battens" uid="1457988921" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="2069491796" type="4" value="1707564228"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood035/wood035" label="var01">
+  <presetinput identifier="$outputsize" uid="2610648313" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="2663781092" type="0" value="0.142"/>
+  <presetinput identifier="Luminosity" uid="2663902530" type="0" value="0.58"/>
+  <presetinput identifier="Saturation" uid="2663902551" type="0" value="0.407"/>
+  <presetinput identifier="$randomseed" uid="3437839019" type="4" value="-892106914"/>
+  <presetinput identifier="Contrast" uid="3779289776" type="0" value="-0.305"/>
+  <presetinput identifier="Cracks" uid="3780613685" type="0" value="0.464"/>
+  <presetinput identifier="Wood_Humidity" uid="3780613686" type="0" value="0.685"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood035/wood035" label="var02">
+  <presetinput identifier="$outputsize" uid="2610648313" type="8" value="9,9"/>
+  <presetinput identifier="Relief_Balance" uid="2663781269" type="0" value="1.344"/>
+  <presetinput identifier="Luminosity" uid="2663902530" type="0" value="0.521"/>
+  <presetinput identifier="Saturation" uid="2663902551" type="0" value="0.617"/>
+  <presetinput identifier="$randomseed" uid="3437839019" type="4" value="1218555495"/>
+  <presetinput identifier="Contrast" uid="3779289776" type="0" value="-0.344"/>
+  <presetinput identifier="Cracks" uid="3780613685" type="0" value="1"/>
+  <presetinput identifier="Wood_Humidity" uid="3780613686" type="0" value="1"/>
+ </sbspreset>
+</sbspresets>

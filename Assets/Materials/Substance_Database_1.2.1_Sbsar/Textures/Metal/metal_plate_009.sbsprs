@@ -1,0 +1,45 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_plate_009/metal_plate_009" label="var01" >
+  <presetinput identifier="$outputsize" uid="2169611861" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="2215436431" type="0" value="0.789" />
+  <presetinput identifier="Emboss" uid="2215436496" type="0" value="0.29" />
+  <presetinput identifier="Depth" uid="2215438973" type="0" value="0.211" />
+  <presetinput identifier="Hue_Shift" uid="2215452572" type="0" value="0.087" />
+  <presetinput identifier="Luminosity" uid="2215452654" type="0" value="0.527" />
+  <presetinput identifier="Saturation" uid="2215452667" type="0" value="0.558" />
+  <presetinput identifier="$randomseed" uid="3592663047" type="4" value="-1750636458" />
+  <presetinput identifier="Contrast" uid="4222810771" type="0" value="0.227" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_009/metal_plate_009" label="var02" >
+  <presetinput identifier="$outputsize" uid="2169611861" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="2215436431" type="0" value="0.789" />
+  <presetinput identifier="Emboss" uid="2215436496" type="0" value="0.29" />
+  <presetinput identifier="Depth" uid="2215438973" type="0" value="0.211" />
+  <presetinput identifier="Luminosity" uid="2215452654" type="0" value="0.501" />
+  <presetinput identifier="Saturation" uid="2215452667" type="0" value="0.446" />
+  <presetinput identifier="Rust" uid="2218011107" type="0" value="0.424" />
+  <presetinput identifier="Rust_Drips_1" uid="2218053256" type="0" value="0.175" />
+  <presetinput identifier="Lines_Amount" uid="2221974544" type="4" value="13" />
+  <presetinput identifier="Lines_Size" uid="2222014761" type="0" value="0.554" />
+  <presetinput identifier="Rust_Drips_2" uid="2222750710" type="0" value="0.678" />
+  <presetinput identifier="$randomseed" uid="3592663047" type="4" value="-1750636458" />
+  <presetinput identifier="Contrast" uid="4222810771" type="0" value="0.039" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_009/metal_plate_009" label="var03" >
+  <presetinput identifier="$outputsize" uid="2169611861" type="8" value="9,9" />
+  <presetinput identifier="Light_Angle" uid="2215436360" type="0" value="0.464" />
+  <presetinput identifier="Normal" uid="2215436431" type="0" value="0.789" />
+  <presetinput identifier="Emboss" uid="2215436496" type="0" value="0.29" />
+  <presetinput identifier="Depth" uid="2215438973" type="0" value="0.211" />
+  <presetinput identifier="Luminosity" uid="2215452654" type="0" value="0.501" />
+  <presetinput identifier="Saturation" uid="2215452667" type="0" value="0.482" />
+  <presetinput identifier="Rust" uid="2218011107" type="0" value="0.156" />
+  <presetinput identifier="Rust_Drips_1" uid="2218053256" type="0" value="0.021" />
+  <presetinput identifier="Dirtiness" uid="2218053267" type="0" value="0" />
+  <presetinput identifier="Lines_Amount" uid="2221974544" type="4" value="5" />
+  <presetinput identifier="Lines_Size" uid="2222014761" type="0" value="0.554" />
+  <presetinput identifier="Rust_Drips_2" uid="2222750710" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="3592663047" type="4" value="-1750636458" />
+  <presetinput identifier="Contrast" uid="4222810771" type="0" value="0.248" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://paper_001/paper_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="2250699821" type="8" value="9,9" />
+  <presetinput identifier="Blue_Lines" uid="4244477901" type="4" value="1" />
+  <presetinput identifier="Red_Line" uid="4244477908" type="4" value="1" />
+  <presetinput identifier="Creases" uid="4244486864" type="0" value="0.416" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_001/paper_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="2250699821" type="8" value="9,9" />
+  <presetinput identifier="Bule_Lines_Amount" uid="4244482414" type="4" value="25" />
+  <presetinput identifier="Creases" uid="4244486864" type="0" value="0.885" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_001/paper_001" label="var03" >
+  <presetinput identifier="$outputsize" uid="2250699821" type="8" value="9,9" />
+  <presetinput identifier="Ink_Stains_Opacity" uid="4242745783" type="0" value="0.561" />
+  <presetinput identifier="Dirtiness" uid="4244392034" type="0" value="0.72" />
+  <presetinput identifier="Ink_Stains" uid="4244397392" type="0" value="0.565" />
+  <presetinput identifier="Bule_Lines_Amount" uid="4244482414" type="4" value="30" />
+  <presetinput identifier="Creases" uid="4244486864" type="0" value="0.885" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_001/paper_001" label="var04" >
+  <presetinput identifier="$outputsize" uid="2250699821" type="8" value="9,9" />
+  <presetinput identifier="Ink_Stains_Color" uid="4242745776" type="2" value="0,0.047,0.149" />
+  <presetinput identifier="Ink_Stains_Opacity" uid="4242745783" type="0" value="0.63" />
+  <presetinput identifier="Dirtiness" uid="4244392034" type="0" value="1" />
+  <presetinput identifier="Ink_Stains" uid="4244397392" type="0" value="0.565" />
+  <presetinput identifier="Red_Line" uid="4244477908" type="4" value="1" />
+  <presetinput identifier="Bule_Lines_Amount" uid="4244482414" type="4" value="21" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood042/wood042" label="var02">
+  <presetinput identifier="$randomseed" uid="750880128" type="4" value="-676025697"/>
+  <presetinput identifier="$outputsize" uid="2075366354" type="8" value="9,9"/>
+  <presetinput identifier="Veins_Warping" uid="2127637200" type="0" value="0.946"/>
+  <presetinput identifier="Age" uid="2127637253" type="0" value="0.683"/>
+  <presetinput identifier="Luminosity" uid="2129603177" type="0" value="0.414"/>
+  <presetinput identifier="Saturation" uid="2129603196" type="0" value="0.407"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood042/wood042" label="var03">
+  <presetinput identifier="Battens" uid="23674531" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="23674574" type="4" value="2"/>
+  <presetinput identifier="$randomseed" uid="750880128" type="4" value="824103955"/>
+  <presetinput identifier="$outputsize" uid="2075366354" type="8" value="9,9"/>
+  <presetinput identifier="Veins_Warping" uid="2127637200" type="0" value="0.946"/>
+  <presetinput identifier="Age" uid="2127637253" type="0" value="0.683"/>
+  <presetinput identifier="Luminosity" uid="2129603177" type="0" value="0.353"/>
+  <presetinput identifier="Saturation" uid="2129603196" type="0" value="0.328"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood042/wood042" label="var01">
+  <presetinput identifier="$outputsize" uid="2040818996" type="8" value="9,9"/>
+  <presetinput identifier="Veins_Warping" uid="2093405238" type="0" value="0.946"/>
+  <presetinput identifier="Age" uid="2093405667" type="0" value="0.765"/>
+  <presetinput identifier="Luminosity" uid="2096682127" type="0" value="0.416"/>
+  <presetinput identifier="Saturation" uid="2096682138" type="0" value="0.337"/>
+ </sbspreset>
+</sbspresets>

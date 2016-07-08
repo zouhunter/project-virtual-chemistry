@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://nature_001/nature_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="2255782380" type="8" value="9,9" />
+  <presetinput identifier="Dirt_Balance" uid="4239750388" type="0" value="0.126" />
+  <presetinput identifier="Frame_Width" uid="4239750389" type="0" value="0.164" />
+  <presetinput identifier="Frame_Scale" uid="4239750401" type="4" value="3" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://nature_001/nature_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="2255782380" type="8" value="9,9" />
+  <presetinput identifier="Dirt_Balance" uid="4239750388" type="0" value="0.776" />
+  <presetinput identifier="Frame_Width" uid="4239750389" type="0" value="0.424" />
+  <presetinput identifier="Frame_Scale" uid="4239750401" type="4" value="2" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://nature_001/nature_001" label="var03" >
+  <presetinput identifier="$outputsize" uid="2255782380" type="8" value="9,9" />
+  <presetinput identifier="Dirt_Balance" uid="4239750388" type="0" value="1" />
+  <presetinput identifier="Frame_Width" uid="4239750389" type="0" value="0.424" />
+  <presetinput identifier="Frame_Color" uid="4240178545" type="2" value="0.639,0.627,0.651" />
+  <presetinput identifier="Grass_Color" uid="4240178549" type="2" value="0.675,0.722,0.263" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,11 @@
+<sbspresets formatversion="1.0" count="1" >
+ <sbspreset pkgurl="pkg://Rock_Pavement_01/Rock_Pavement_01" label="var01" >
+  <presetinput identifier="Sharpen" uid="860121197" type="0" value="0.505" />
+  <presetinput identifier="Contrast" uid="861985324" type="0" value="0.219" />
+  <presetinput identifier="Depth" uid="861985447" type="0" value="-1" />
+  <presetinput identifier="Luminosity" uid="861986190" type="0" value="0.549" />
+  <presetinput identifier="Saturation" uid="869443893" type="0" value="0.438" />
+  <presetinput identifier="$outputsize" uid="930385678" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1611045212" type="4" value="1526345168" />
+ </sbspreset>
+</sbspresets>

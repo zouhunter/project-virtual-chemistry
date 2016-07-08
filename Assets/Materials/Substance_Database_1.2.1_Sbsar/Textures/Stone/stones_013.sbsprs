@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://stones_013/stones_013" label="var01" >
+  <presetinput identifier="$outputsize" uid="25031724" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="69251753" type="0" value="0" />
+  <presetinput identifier="Normal" uid="69251830" type="0" value="0.92" />
+  <presetinput identifier="Depth" uid="69253124" type="0" value="-0.033" />
+  <presetinput identifier="White_Molds" uid="72941350" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="1443881598" type="4" value="-1828324611" />
+  <presetinput identifier="Stones_Layer02_Color" uid="2073717438" type="2" value="0.353,0.322,0.29" />
+  <presetinput identifier="Stones_Layer01_Color" uid="2073717439" type="2" value="0.541,0.482,0.4" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_013/stones_013" label="var02" >
+  <presetinput identifier="$outputsize" uid="25031724" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="69251753" type="0" value="1" />
+  <presetinput identifier="Normal" uid="69251830" type="0" value="0.556" />
+  <presetinput identifier="Depth" uid="69253124" type="0" value="-0.033" />
+  <presetinput identifier="Nicks" uid="72911773" type="0" value="0" />
+  <presetinput identifier="White_Molds" uid="72941350" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="1443881598" type="4" value="1546038768" />
+  <presetinput identifier="White_Molds_Color" uid="2073717433" type="2" value="0.596,0.537,0.365" />
+  <presetinput identifier="Stones_Layer02_Color" uid="2073717438" type="2" value="0.353,0.322,0.29" />
+  <presetinput identifier="Stones_Layer01_Color" uid="2073717439" type="2" value="0.533,0.541,0.49" />
+ </sbspreset>
+</sbspresets>

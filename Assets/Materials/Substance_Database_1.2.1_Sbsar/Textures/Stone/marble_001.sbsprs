@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://marble_001/marble_001" label="var01" >
+  <presetinput identifier="$randomseed" uid="415324918" type="4" value="-1043079330" />
+  <presetinput identifier="Weathering" uid="897456189" type="0" value="0" />
+  <presetinput identifier="White_Lines" uid="1251565364" type="0" value="1" />
+  <presetinput identifier="White_Areas" uid="1251566238" type="0" value="1" />
+  <presetinput identifier="Saturation" uid="1257239818" type="0" value="0.586" />
+  <presetinput identifier="Hue_Shift" uid="1257239917" type="0" value="0.05" />
+  <presetinput identifier="$outputsize" uid="1337150628" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://marble_001/marble_001" label="var02" >
+  <presetinput identifier="$randomseed" uid="415324918" type="4" value="1135513055" />
+  <presetinput identifier="Weathering" uid="897456189" type="0" value="0" />
+  <presetinput identifier="White_Lines" uid="1251565364" type="0" value="0.508" />
+  <presetinput identifier="White_Areas" uid="1251566238" type="0" value="0.864" />
+  <presetinput identifier="Marble_Color" uid="1251567515" type="2" value="0.776,0.69,0.698" />
+  <presetinput identifier="$outputsize" uid="1337150628" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://marble_001/marble_001" label="var03" >
+  <presetinput identifier="$randomseed" uid="415324918" type="4" value="1135513055" />
+  <presetinput identifier="Contrast" uid="897330700" type="0" value="0.059" />
+  <presetinput identifier="Weathering" uid="897456189" type="0" value="0.622" />
+  <presetinput identifier="White_Lines" uid="1251565364" type="0" value="0.01" />
+  <presetinput identifier="White_Areas" uid="1251566238" type="0" value="0.13" />
+  <presetinput identifier="Marble_Color" uid="1251567515" type="2" value="0.157,0.145,0.141" />
+  <presetinput identifier="$outputsize" uid="1337150628" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

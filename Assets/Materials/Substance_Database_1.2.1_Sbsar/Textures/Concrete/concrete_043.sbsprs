@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://concrete_043/concrete_043" label="var01">
+  <presetinput identifier="$outputsize" uid="718710343" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1343131662" type="0" value="0.334"/>
+  <presetinput identifier="Age_Bee_Drips" uid="1344940588" type="0" value="1"/>
+  <presetinput identifier="Age_Bubbles" uid="1344974994" type="0" value="0.914"/>
+  <presetinput identifier="Age" uid="1345158901" type="0" value="0"/>
+  <presetinput identifier="Age_Bee" uid="1345180226" type="0" value="0.465"/>
+  <presetinput identifier="Concrete_Color" uid="1345274151" type="2" value="0.341,0.38,0.388"/>
+  <presetinput identifier="$randomseed" uid="2107944981" type="4" value="205806352"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_043/concrete_043" label="var02">
+  <presetinput identifier="$outputsize" uid="718710343" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1343131662" type="0" value="0.064"/>
+  <presetinput identifier="Age_Bee_Drips" uid="1344940588" type="0" value="1"/>
+  <presetinput identifier="Age_Bubbles" uid="1344974994" type="0" value="0.914"/>
+  <presetinput identifier="Age" uid="1345158901" type="0" value="0"/>
+  <presetinput identifier="Age_Bee" uid="1345180226" type="0" value="0.296"/>
+  <presetinput identifier="Drips_Color" uid="1345273168" type="2" value="0,0,0"/>
+  <presetinput identifier="Concrete_Color" uid="1345274151" type="2" value="0.318,0.373,0.353"/>
+  <presetinput identifier="$randomseed" uid="2107944981" type="4" value="205806352"/>
+ </sbspreset>
+</sbspresets>

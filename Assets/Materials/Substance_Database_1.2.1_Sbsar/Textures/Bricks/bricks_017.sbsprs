@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://bricks_017/bricks_017" label="var01" >
+  <presetinput identifier="$randomseed" uid="200193978" type="4" value="-1363607337" />
+  <presetinput identifier="Bricks_Color" uid="644355232" type="2" value="0.353,0.22,0.122" />
+  <presetinput identifier="Bricks_Ratio" uid="644821226" type="0" value="0.552" />
+  <presetinput identifier="Bricks_Amount_X" uid="644821229" type="4" value="11" />
+  <presetinput identifier="Frame" uid="644844180" type="4" value="0" />
+  <presetinput identifier="Metal_Plates_Offset" uid="644859830" type="1" value="0.505,0.5" />
+  <presetinput identifier="Dirtiness" uid="1502371002" type="0" value="0" />
+  <presetinput identifier="Stains" uid="1502486270" type="0" value="0" />
+  <presetinput identifier="Peeling" uid="1502576023" type="0" value="0" />
+  <presetinput identifier="Metal_Plates" uid="1502583304" type="4" value="0" />
+  <presetinput identifier="$outputsize" uid="1553768936" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_017/bricks_017" label="var02" >
+  <presetinput identifier="$randomseed" uid="200193978" type="4" value="-524129953" />
+  <presetinput identifier="Bricks_Color" uid="644355232" type="2" value="0.133,0.133,0.137" />
+  <presetinput identifier="Metal_Plates_Color" uid="644355235" type="2" value="0.451,0.263,0.129" />
+  <presetinput identifier="Bricks_Amount_Y" uid="644821202" type="4" value="15" />
+  <presetinput identifier="Bricks_Ratio" uid="644821226" type="0" value="0.552" />
+  <presetinput identifier="Bricks_Amount_X" uid="644821229" type="4" value="4" />
+  <presetinput identifier="Frame" uid="644844180" type="4" value="0" />
+  <presetinput identifier="Metal_Plates_Offset" uid="644859830" type="1" value="0,0.773" />
+  <presetinput identifier="Dirtiness" uid="1502371002" type="0" value="0.887" />
+  <presetinput identifier="Stains" uid="1502486270" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="1553768936" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Cow_Skin/Cow_Skin" label="var01" >
+  <presetinput identifier="$outputsize" uid="290374974" type="8" value="9,9" />
+  <presetinput identifier="Stains_Scale" uid="345661648" type="0" value="1" />
+  <presetinput identifier="Fur_Patches" uid="359739274" type="0" value="0.386" />
+  <presetinput identifier="$randomseed" uid="1178391404" type="4" value="-2131290747" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cow_Skin/Cow_Skin" label="var02" >
+  <presetinput identifier="$outputsize" uid="290374974" type="8" value="9,9" />
+  <presetinput identifier="Stains_Scale" uid="345661648" type="0" value="1" />
+  <presetinput identifier="Fur_Patches" uid="359739274" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="1178391404" type="4" value="-1468530160" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cow_Skin/Cow_Skin" label="var03" >
+  <presetinput identifier="$outputsize" uid="290374974" type="8" value="9,9" />
+  <presetinput identifier="Dirt" uid="359738893" type="0" value="1" />
+  <presetinput identifier="Fur_Patches" uid="359739274" type="0" value="0.318" />
+  <presetinput identifier="$randomseed" uid="1178391404" type="4" value="-1669997083" />
+ </sbspreset>
+</sbspresets>

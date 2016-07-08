@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://pebbles_005/pebbles_005" label="var01" >
+  <presetinput identifier="$outputsize" uid="2603966338" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2657622279" type="0" value="1" />
+  <presetinput identifier="Normal" uid="2657622360" type="0" value="0.773" />
+  <presetinput identifier="Cracks" uid="3791166679" type="0" value="0" />
+  <presetinput identifier="Stones_Scale" uid="3791166699" type="4" value="5" />
+  <presetinput identifier="Moss" uid="3791166703" type="0" value="0.476" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_005/pebbles_005" label="var02" >
+  <presetinput identifier="$outputsize" uid="2603966338" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2657622279" type="0" value="0.316" />
+  <presetinput identifier="Normal" uid="2657622360" type="0" value="0.773" />
+  <presetinput identifier="Concrete_Color" uid="3791136217" type="2" value="0.4,0.373,0.255" />
+  <presetinput identifier="Stones_Color" uid="3791136219" type="2" value="0.475,0.408,0.365" />
+  <presetinput identifier="Cracks" uid="3791166679" type="0" value="0.997" />
+  <presetinput identifier="Stones_Scale" uid="3791166699" type="4" value="7" />
+  <presetinput identifier="Moss" uid="3791166703" type="0" value="0.213" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_005/pebbles_005" label="var03" >
+  <presetinput identifier="$outputsize" uid="2603966338" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2657622279" type="0" value="0.316" />
+  <presetinput identifier="Normal" uid="2657622360" type="0" value="0.773" />
+  <presetinput identifier="Concrete_Color" uid="3791136217" type="2" value="0.702,0.627,0.592" />
+  <presetinput identifier="Stones_Color" uid="3791136219" type="2" value="0.247,0.278,0.353" />
+  <presetinput identifier="Cracks" uid="3791166679" type="0" value="0.2" />
+  <presetinput identifier="Stones_Scale" uid="3791166699" type="4" value="13" />
+  <presetinput identifier="Moss" uid="3791166703" type="0" value="0.213" />
+ </sbspreset>
+</sbspresets>

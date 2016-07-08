@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://concrete_046/concrete_046" label="var02">
+  <presetinput identifier="$randomseed" uid="2305633015" type="4" value="1733262422"/>
+  <presetinput identifier="Concrete_Color" uid="2761582365" type="2" value="0.255,0.275,0.267"/>
+  <presetinput identifier="Strokes" uid="2764849158" type="0" value="0.401"/>
+  <presetinput identifier="Age" uid="2764849509" type="0" value="1"/>
+  <presetinput identifier="Stucco_Color" uid="3678188943" type="2" value="0.471,0.494,0.49"/>
+  <presetinput identifier="Saturation" uid="3678635275" type="0" value="0.504"/>
+  <presetinput identifier="Luminosity" uid="3678635294" type="0" value="0.456"/>
+  <presetinput identifier="$outputsize" uid="3726589093" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_046/concrete_046" label="var01">
+  <presetinput identifier="$randomseed" uid="2305633015" type="4" value="-687059269"/>
+  <presetinput identifier="Strokes" uid="2764849158" type="0" value="0"/>
+  <presetinput identifier="Age" uid="2764849509" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="2768001323" type="0" value="0.645"/>
+  <presetinput identifier="Stucco_Color" uid="3678188943" type="2" value="0.529,0.525,0.506"/>
+  <presetinput identifier="Luminosity" uid="3678635294" type="0" value="0.463"/>
+  <presetinput identifier="$outputsize" uid="3726589093" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Road_02/Road_02" label="var01" >
+  <presetinput identifier="$randomseed" uid="2733648610" type="4" value="-82676255" />
+  <presetinput identifier="Cracks" uid="4058911159" type="0" value="0.748" />
+  <presetinput identifier="Bumps" uid="4058927585" type="0" value="0.688" />
+  <presetinput identifier="Line_Size" uid="4058950424" type="0" value="6.953" />
+  <presetinput identifier="$outputsize" uid="4118953136" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Road_02/Road_02" label="var02" >
+  <presetinput identifier="$randomseed" uid="2733648610" type="4" value="513956981" />
+  <presetinput identifier="Normal" uid="4058620373" type="0" value="1" />
+  <presetinput identifier="Cracks" uid="4058911159" type="0" value="1" />
+  <presetinput identifier="Bumps" uid="4058927585" type="0" value="0.021" />
+  <presetinput identifier="Depth" uid="4058937646" type="0" value="-0.904" />
+  <presetinput identifier="Line_Size" uid="4058950424" type="0" value="10" />
+  <presetinput identifier="Damages" uid="4059002573" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4118953136" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

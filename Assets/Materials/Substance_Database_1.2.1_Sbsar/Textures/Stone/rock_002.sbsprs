@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://rock_002/rock_002" label="var01">
+  <presetinput identifier="$outputsize" uid="49077988" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="129001290" type="0" value="0.481"/>
+  <presetinput identifier="Luminosity" uid="129001311" type="0" value="0.498"/>
+  <presetinput identifier="$randomseed" uid="1436469430" type="4" value="-857291559"/>
+  <presetinput identifier="Rock_Color" uid="2015275058" type="2" value="0.51,0.514,0.522"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_002/rock_002" label="var02">
+  <presetinput identifier="$outputsize" uid="49077988" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="129001290" type="0" value="0.481"/>
+  <presetinput identifier="Luminosity" uid="129001311" type="0" value="0.498"/>
+  <presetinput identifier="$randomseed" uid="1436469430" type="4" value="1103684981"/>
+  <presetinput identifier="Water_Level" uid="2015274666" type="0" value="0.31"/>
+  <presetinput identifier="Water_Details" uid="2015274676" type="0" value="0.189"/>
+  <presetinput identifier="Water_Refraction" uid="2015274679" type="0" value="1"/>
+  <presetinput identifier="Rock_Color" uid="2015275058" type="2" value="0.51,0.514,0.522"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_002/rock_002" label="var03">
+  <presetinput identifier="$outputsize" uid="49077988" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="129001290" type="0" value="0.461"/>
+  <presetinput identifier="Luminosity" uid="129001311" type="0" value="0.493"/>
+  <presetinput identifier="$randomseed" uid="1436469430" type="4" value="-437553965"/>
+  <presetinput identifier="Water_Flow_Angle" uid="2014843479" type="0" value="0.311"/>
+  <presetinput identifier="Contrast" uid="2014871615" type="0" value="-0.023"/>
+  <presetinput identifier="Water_Level" uid="2015274666" type="0" value="0.031"/>
+  <presetinput identifier="Water_Flow" uid="2015274673" type="0" value="0.01"/>
+  <presetinput identifier="Water_Details" uid="2015274676" type="0" value="0.131"/>
+  <presetinput identifier="Water_Refraction" uid="2015274679" type="0" value="1"/>
+  <presetinput identifier="Rock_Color" uid="2015275058" type="2" value="0.29,0.29,0.294"/>
+  <presetinput identifier="Water_Color" uid="2015297492" type="3" value="0.278,0.043,0.051,0.502"/>
+ </sbspreset>
+</sbspresets>

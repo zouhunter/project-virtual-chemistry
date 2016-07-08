@@ -1,0 +1,73 @@
+<sbspresets formatversion="1.0" count="5" >
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var01" >
+  <presetinput identifier="$randomseed" uid="194242399" type="4" value="-517257887" />
+  <presetinput identifier="Contrast" uid="639421114" type="0" value="-0.088" />
+  <presetinput identifier="Emboss" uid="1505539976" type="0" value="0.753" />
+  <presetinput identifier="Normal" uid="1505540055" type="0" value="0.7" />
+  <presetinput identifier="Saturation" uid="1505577123" type="0" value="0.489" />
+  <presetinput identifier="Hue_Shift" uid="1505577156" type="0" value="0.286" />
+  <presetinput identifier="Scale" uid="1506344468" type="4" value="15" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var02" >
+  <presetinput identifier="$randomseed" uid="194242399" type="4" value="-517257887" />
+  <presetinput identifier="Contrast" uid="639421114" type="0" value="-0.088" />
+  <presetinput identifier="Emboss" uid="1505539976" type="0" value="0.753" />
+  <presetinput identifier="Normal" uid="1505540055" type="0" value="0.7" />
+  <presetinput identifier="Saturation" uid="1505577123" type="0" value="0.489" />
+  <presetinput identifier="Hue_Shift" uid="1505577156" type="0" value="0.48" />
+  <presetinput identifier="Scale" uid="1506344468" type="4" value="5" />
+  <presetinput identifier="Stones_Scale" uid="1506471070" type="0" value="0.738" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var03" >
+  <presetinput identifier="$randomseed" uid="194242399" type="4" value="-824541135" />
+  <presetinput identifier="Water_Flow" uid="639398233" type="0" value="0.55" />
+  <presetinput identifier="Water_Flow_Angle" uid="639398234" type="0" value="0.136" />
+  <presetinput identifier="Water_Level" uid="639398237" type="0" value="0.243" />
+  <presetinput identifier="Contrast" uid="639421114" type="0" value="-0.088" />
+  <presetinput identifier="Emboss" uid="1505539976" type="0" value="0.753" />
+  <presetinput identifier="Normal" uid="1505540055" type="0" value="0.7" />
+  <presetinput identifier="Saturation" uid="1505577123" type="0" value="0.489" />
+  <presetinput identifier="Hue_Shift" uid="1505577156" type="0" value="0.48" />
+  <presetinput identifier="Scale" uid="1506344468" type="4" value="8" />
+  <presetinput identifier="Stones_Scale" uid="1506471070" type="0" value="0.959" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var04" >
+  <presetinput identifier="$randomseed" uid="194242399" type="4" value="-824541135" />
+  <presetinput identifier="Water_Flow" uid="639398233" type="0" value="0.651" />
+  <presetinput identifier="Water_Flow_Angle" uid="639398234" type="0" value="0.111" />
+  <presetinput identifier="Snow" uid="639398236" type="0" value="0.511" />
+  <presetinput identifier="Water_Level" uid="639398237" type="0" value="0.243" />
+  <presetinput identifier="Water_Moss" uid="639398239" type="0" value="0.503" />
+  <presetinput identifier="Contrast" uid="639421114" type="0" value="0.076" />
+  <presetinput identifier="Emboss" uid="1505539976" type="0" value="0.753" />
+  <presetinput identifier="Normal" uid="1505540055" type="0" value="0.7" />
+  <presetinput identifier="Saturation" uid="1505577123" type="0" value="0.484" />
+  <presetinput identifier="Luminosity" uid="1505577142" type="0" value="0.499" />
+  <presetinput identifier="Scale" uid="1506344468" type="4" value="8" />
+  <presetinput identifier="Color_Balance" uid="1506365646" type="0" value="0.753" />
+  <presetinput identifier="Stones_Scale" uid="1506471070" type="0" value="0.959" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_001/pebbles_001" label="var05" >
+  <presetinput identifier="$randomseed" uid="194242399" type="4" value="-824541135" />
+  <presetinput identifier="Ice_Details" uid="639398176" type="0" value="0.32" />
+  <presetinput identifier="Water_Refraction" uid="639398232" type="0" value="0.597" />
+  <presetinput identifier="Water_Flow" uid="639398233" type="0" value="0.651" />
+  <presetinput identifier="Water_Flow_Angle" uid="639398234" type="0" value="0.111" />
+  <presetinput identifier="Snow" uid="639398236" type="0" value="1" />
+  <presetinput identifier="Water_Level" uid="639398237" type="0" value="0.243" />
+  <presetinput identifier="Water_Moss" uid="639398239" type="0" value="0.976" />
+  <presetinput identifier="Contrast" uid="639421114" type="0" value="0.076" />
+  <presetinput identifier="Emboss" uid="1505539976" type="0" value="0.753" />
+  <presetinput identifier="Normal" uid="1505540055" type="0" value="0.7" />
+  <presetinput identifier="Saturation" uid="1505577123" type="0" value="0.484" />
+  <presetinput identifier="Luminosity" uid="1505577142" type="0" value="0.499" />
+  <presetinput identifier="Scale" uid="1506344468" type="4" value="8" />
+  <presetinput identifier="Color_Balance" uid="1506365646" type="0" value="0.825" />
+  <presetinput identifier="Stones_Scale" uid="1506471070" type="0" value="0.959" />
+  <presetinput identifier="$outputsize" uid="1558311181" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

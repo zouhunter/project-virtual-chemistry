@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://book_paper004/book_paper004" label="var01">
+  <presetinput identifier="$outputsize" uid="707989587" type="8" value="9,9"/>
+  <presetinput identifier="Dirtiness" uid="788826251" type="0" value="0.165"/>
+  <presetinput identifier="Emboss" uid="795760342" type="0" value="0.96"/>
+  <presetinput identifier="Hue_Shift" uid="795847066" type="0" value="0.953"/>
+  <presetinput identifier="Luminosity" uid="795847144" type="0" value="0.442"/>
+  <presetinput identifier="Saturation" uid="795847165" type="0" value="0.422"/>
+  <presetinput identifier="Contrast" uid="1354052355" type="0" value="-0.131"/>
+  <presetinput identifier="Stains" uid="1355972026" type="0" value="0"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper004/book_paper004" label="var02">
+  <presetinput identifier="$outputsize" uid="707989587" type="8" value="9,9"/>
+  <presetinput identifier="Chipping" uid="788824474" type="0" value="0.908"/>
+  <presetinput identifier="Dirtiness" uid="788826251" type="0" value="0.165"/>
+  <presetinput identifier="Emboss" uid="795760342" type="0" value="0.96"/>
+  <presetinput identifier="Hue_Shift" uid="795847066" type="0" value="1"/>
+  <presetinput identifier="Luminosity" uid="795847144" type="0" value="0.442"/>
+  <presetinput identifier="Saturation" uid="795847165" type="0" value="0.422"/>
+  <presetinput identifier="Contrast" uid="1354052355" type="0" value="-0.131"/>
+  <presetinput identifier="Stains" uid="1355972026" type="0" value="0"/>
+  <presetinput identifier="Age" uid="1355974791" type="0" value="0.755"/>
+  <presetinput identifier="$randomseed" uid="2101413377" type="4" value="-1268135241"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper004/book_paper004" label="var03">
+  <presetinput identifier="$outputsize" uid="707989587" type="8" value="9,9"/>
+  <presetinput identifier="Dirtiness" uid="788826251" type="0" value="1"/>
+  <presetinput identifier="Emboss" uid="795760342" type="0" value="0.96"/>
+  <presetinput identifier="Hue_Shift" uid="795847066" type="0" value="1"/>
+  <presetinput identifier="Luminosity" uid="795847144" type="0" value="0.442"/>
+  <presetinput identifier="Saturation" uid="795847165" type="0" value="0.422"/>
+  <presetinput identifier="Contrast" uid="1354052355" type="0" value="-0.131"/>
+  <presetinput identifier="Stains" uid="1355972026" type="0" value="0.13"/>
+  <presetinput identifier="Age" uid="1355974791" type="0" value="0.755"/>
+  <presetinput identifier="$randomseed" uid="2101413377" type="4" value="1957781524"/>
+ </sbspreset>
+</sbspresets>

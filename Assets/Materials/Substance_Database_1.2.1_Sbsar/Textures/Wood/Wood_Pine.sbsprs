@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wood_Pine/Wood_Pine" label="var01" >
+  <presetinput identifier="$randomseed" uid="2309234152" type="4" value="343680976" />
+  <presetinput identifier="Emboss" uid="3668019363" type="0" value="1.191" />
+  <presetinput identifier="Depth" uid="3668554848" type="0" value="-0.008" />
+  <presetinput identifier="Knots" uid="3676365929" type="0" value="0" />
+  <presetinput identifier="Fibers" uid="3677042159" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3738569658" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Pine/Wood_Pine" label="var02" >
+  <presetinput identifier="$randomseed" uid="2309234152" type="4" value="1507172583" />
+  <presetinput identifier="Hue_Shift" uid="3659855496" type="0" value="0.972" />
+  <presetinput identifier="Luminosity" uid="3659855501" type="0" value="0.4" />
+  <presetinput identifier="Saturation" uid="3659855502" type="0" value="0.34" />
+  <presetinput identifier="Emboss" uid="3668019363" type="0" value="1.191" />
+  <presetinput identifier="Depth" uid="3668554848" type="0" value="-0.008" />
+  <presetinput identifier="Knots" uid="3676365929" type="0" value="0.296" />
+  <presetinput identifier="Fibers" uid="3677042159" type="0" value="0.496" />
+  <presetinput identifier="$outputsize" uid="3738569658" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Pine/Wood_Pine" label="var03" >
+  <presetinput identifier="$randomseed" uid="2309234152" type="4" value="-810138301" />
+  <presetinput identifier="Hue_Shift" uid="3659855496" type="0" value="0.98" />
+  <presetinput identifier="Luminosity" uid="3659855501" type="0" value="0.4" />
+  <presetinput identifier="Saturation" uid="3659855502" type="0" value="0.264" />
+  <presetinput identifier="Contrast" uid="3667953304" type="0" value="0.277" />
+  <presetinput identifier="Emboss" uid="3668019363" type="0" value="10" />
+  <presetinput identifier="Depth" uid="3668554848" type="0" value="-0.008" />
+  <presetinput identifier="Knots" uid="3676365929" type="0" value="0.156" />
+  <presetinput identifier="Fibers" uid="3677042159" type="0" value="0.032" />
+  <presetinput identifier="$outputsize" uid="3738569658" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

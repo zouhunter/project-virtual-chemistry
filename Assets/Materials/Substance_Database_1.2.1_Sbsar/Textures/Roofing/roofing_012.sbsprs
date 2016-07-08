@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://roofing_012/roofing_012" label="var01">
+  <presetinput identifier="$randomseed" uid="120405402" type="4" value="410237364"/>
+  <presetinput identifier="Contrast" uid="713497985" type="0" value="0.221"/>
+  <presetinput identifier="Tiles_Amounts_X" uid="717118982" type="4" value="10"/>
+  <presetinput identifier="$outputsize" uid="1348414408" type="8" value="9,9"/>
+  <presetinput identifier="Hue_Shift" uid="1426297345" type="0" value="0.425"/>
+  <presetinput identifier="Saturation" uid="1426297446" type="0" value="0.445"/>
+  <presetinput identifier="Luminosity" uid="1426297459" type="0" value="0.484"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_012/roofing_012" label="var02">
+  <presetinput identifier="$randomseed" uid="120405402" type="4" value="-219936426"/>
+  <presetinput identifier="Contrast" uid="713497985" type="0" value="0.221"/>
+  <presetinput identifier="Dust" uid="716474881" type="0" value="0.843"/>
+  <presetinput identifier="Tiles_Amounts_Y" uid="717113664" type="4" value="16"/>
+  <presetinput identifier="Tiles_Amounts_X" uid="717118982" type="4" value="3"/>
+  <presetinput identifier="$outputsize" uid="1348414408" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="1426222413" type="0" value="0.676"/>
+  <presetinput identifier="Hue_Shift" uid="1426297345" type="0" value="0.425"/>
+  <presetinput identifier="Saturation" uid="1426297446" type="0" value="0.445"/>
+  <presetinput identifier="Luminosity" uid="1426297459" type="0" value="0.484"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_012/roofing_012" label="var03">
+  <presetinput identifier="$randomseed" uid="120405402" type="4" value="-219936426"/>
+  <presetinput identifier="Contrast" uid="713497985" type="0" value="0.221"/>
+  <presetinput identifier="Moss" uid="716391301" type="0" value="1"/>
+  <presetinput identifier="Dust" uid="716474881" type="0" value="0.63"/>
+  <presetinput identifier="Tiles_01_Color" uid="716478661" type="2" value="0.427,0.463,0.475"/>
+  <presetinput identifier="Tiles_Amounts_Y" uid="717113664" type="4" value="16"/>
+  <presetinput identifier="Tiles_Amounts_X" uid="717118982" type="4" value="3"/>
+  <presetinput identifier="$outputsize" uid="1348414408" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="1426222413" type="0" value="0.676"/>
+  <presetinput identifier="Saturation" uid="1426297446" type="0" value="0.445"/>
+  <presetinput identifier="Luminosity" uid="1426297459" type="0" value="0.484"/>
+ </sbspreset>
+</sbspresets>

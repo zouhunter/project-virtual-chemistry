@@ -1,0 +1,11 @@
+<sbspresets formatversion="1.0" count="1" >
+ <sbspreset pkgurl="pkg://Meteor/Meteor" label="var01" >
+  <presetinput identifier="$randomseed" uid="3071980737" type="4" value="-556159592" />
+  <presetinput identifier="$outputsize" uid="3764953747" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="3826352241" type="0" value="-0.469" />
+  <presetinput identifier="Normal" uid="3826352291" type="0" value="1" />
+  <presetinput identifier="Depth" uid="3826365051" type="0" value="-1" />
+  <presetinput identifier="Luminosity" uid="3835389091" type="0" value="0.574" />
+  <presetinput identifier="Age" uid="3835488377" type="0" value="0.35" />
+ </sbspreset>
+</sbspresets>

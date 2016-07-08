@@ -1,0 +1,45 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://sci_fi_004/sci_fi_004" label="var01" >
+  <presetinput identifier="Frame_02_Offset" uid="3090678122" type="0" value="1" />
+  <presetinput identifier="Frame_01_Offset" uid="3090678123" type="0" value="0.437" />
+  <presetinput identifier="Patterns_Type" uid="3090684201" type="4" value="2" />
+  <presetinput identifier="Glow_Amount" uid="3090706051" type="0" value="0.732" />
+  <presetinput identifier="Glow_Size" uid="3090706096" type="0" value="0.644" />
+  <presetinput identifier="Light_Color" uid="3090875842" type="2" value="1,0.573,0.325" />
+  <presetinput identifier="Base_Color_01" uid="3090884544" type="2" value="0.443,0.443,0.482" />
+  <presetinput identifier="Base_Color_04" uid="3090884584" type="2" value="0.522,0.545,0.58" />
+  <presetinput identifier="Base_Color_02" uid="3090884587" type="2" value="0.2,0.212,0.224" />
+  <presetinput identifier="$outputsize" uid="3270876874" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sci_fi_004/sci_fi_004" label="var02" >
+  <presetinput identifier="Bolts_Type" uid="3087281366" type="4" value="2" />
+  <presetinput identifier="Frame_02_Offset" uid="3090678122" type="0" value="0.085" />
+  <presetinput identifier="Glow_Amount" uid="3090706051" type="0" value="0" />
+  <presetinput identifier="Glow_Size" uid="3090706096" type="0" value="0" />
+  <presetinput identifier="Age" uid="3090847191" type="0" value="0" />
+  <presetinput identifier="Light_Color" uid="3090875842" type="2" value="0.118,0.149,0.122" />
+  <presetinput identifier="Base_Color_01" uid="3090884544" type="2" value="0.443,0.443,0.482" />
+  <presetinput identifier="Base_Color_04" uid="3090884584" type="2" value="0.58,0.573,0.498" />
+  <presetinput identifier="Base_Color_03" uid="3090884585" type="2" value="0.341,0.302,0.282" />
+  <presetinput identifier="Base_Color_02" uid="3090884587" type="2" value="0.2,0.212,0.224" />
+  <presetinput identifier="$outputsize" uid="3270876874" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="3349731344" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3349731407" type="0" value="0.176" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sci_fi_004/sci_fi_004" label="var03" >
+  <presetinput identifier="Bolts_Type" uid="3087281366" type="4" value="2" />
+  <presetinput identifier="Patterns_Type" uid="3090684201" type="4" value="2" />
+  <presetinput identifier="Glow_Amount" uid="3090706051" type="0" value="1" />
+  <presetinput identifier="Glow_Size" uid="3090706096" type="0" value="0.504" />
+  <presetinput identifier="Age" uid="3090847191" type="0" value="0.516" />
+  <presetinput identifier="Light_Color" uid="3090875842" type="2" value="0.71,1,0.031" />
+  <presetinput identifier="Base_Color_01" uid="3090884544" type="2" value="0.714,0.714,0.773" />
+  <presetinput identifier="Base_Color_04" uid="3090884584" type="2" value="0.792,0.808,0.847" />
+  <presetinput identifier="Base_Color_03" uid="3090884585" type="2" value="0.792,0.788,0.847" />
+  <presetinput identifier="Base_Color_02" uid="3090884587" type="2" value="0.353,0.373,0.392" />
+  <presetinput identifier="$outputsize" uid="3270876874" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="3349730018" type="0" value="0.512" />
+  <presetinput identifier="Normal" uid="3349731344" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3349731407" type="0" value="0.176" />
+ </sbspreset>
+</sbspresets>

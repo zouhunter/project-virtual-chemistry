@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://rock_003/rock_003" label="var01">
+  <presetinput identifier="$outputsize" uid="2586412364" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3445330718" type="4" value="-1313655020"/>
+  <presetinput identifier="Snow" uid="3771535376" type="0" value="0.525"/>
+  <presetinput identifier="Moss" uid="3771535470" type="0" value="0.479"/>
+  <presetinput identifier="Ground_Color" uid="3771562589" type="2" value="0.463,0.463,0.471"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_003/rock_003" label="var02">
+  <presetinput identifier="$outputsize" uid="2586412364" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3445330718" type="4" value="-1173374875"/>
+  <presetinput identifier="Snow" uid="3771535376" type="0" value="0.868"/>
+  <presetinput identifier="Moss" uid="3771535470" type="0" value="0.479"/>
+  <presetinput identifier="Ground_Color" uid="3771562589" type="2" value="0.463,0.463,0.471"/>
+ </sbspreset>
+</sbspresets>

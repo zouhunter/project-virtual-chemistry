@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Marble_02/Marble_02" label="var01" >
+  <presetinput identifier="$outputsize" uid="46127956" type="8" value="9,9" />
+  <presetinput identifier="Asperities" uid="109233601" type="0" value="0.132" />
+  <presetinput identifier="$randomseed" uid="1439550726" type="4" value="-556159592" />
+  <presetinput identifier="Marble_Color" uid="2019885390" type="2" value="0.675,0.69,0.557" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Marble_02/Marble_02" label="var02" >
+  <presetinput identifier="$outputsize" uid="46127956" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="109180068" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="109180069" type="0" value="1" />
+  <presetinput identifier="Saturation" uid="109180089" type="0" value="0.616" />
+  <presetinput identifier="Swirls" uid="109233421" type="0" value="0" />
+  <presetinput identifier="Asperities" uid="109233601" type="0" value="0.686" />
+  <presetinput identifier="Damage" uid="109239899" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="1439550726" type="4" value="-1636592768" />
+  <presetinput identifier="Marble_Color" uid="2019885390" type="2" value="0.612,0.69,0.6" />
+ </sbspreset>
+</sbspresets>

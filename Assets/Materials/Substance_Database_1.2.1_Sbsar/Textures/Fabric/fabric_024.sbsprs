@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://fabric_024/fabric_024" label="var01">
+  <presetinput identifier="Hue_Shift" uid="142015189" type="0" value="0.086"/>
+  <presetinput identifier="Light_Angle" uid="142017793" type="0" value="0.739"/>
+  <presetinput identifier="Emboss" uid="142017945" type="0" value="0.684"/>
+  <presetinput identifier="Normal" uid="142017990" type="0" value="0.538"/>
+  <presetinput identifier="$outputsize" uid="220873500" type="8" value="9,9"/>
+  <presetinput identifier="Tilles_Amount" uid="2008258372" type="4" value="7"/>
+  <presetinput identifier="Contrast" uid="2008265905" type="0" value="0.08"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_024/fabric_024" label="var02">
+  <presetinput identifier="Cracks" uid="136511563" type="0" value="0.794"/>
+  <presetinput identifier="Hue_Shift" uid="142015189" type="0" value="0.447"/>
+  <presetinput identifier="Light_Angle" uid="142017793" type="0" value="0.739"/>
+  <presetinput identifier="Normal" uid="142017990" type="0" value="0.538"/>
+  <presetinput identifier="$outputsize" uid="220873500" type="8" value="9,9"/>
+  <presetinput identifier="Tilles_Amount" uid="2008258372" type="4" value="12"/>
+  <presetinput identifier="Contrast" uid="2008265905" type="0" value="-0.061"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_024/fabric_024" label="var03">
+  <presetinput identifier="Cracks" uid="136511563" type="0" value="0.794"/>
+  <presetinput identifier="Hue_Shift" uid="142015189" type="0" value="0.951"/>
+  <presetinput identifier="Light_Angle" uid="142017793" type="0" value="0.225"/>
+  <presetinput identifier="Emboss" uid="142017945" type="0" value="0.531"/>
+  <presetinput identifier="Normal" uid="142017990" type="0" value="0.509"/>
+  <presetinput identifier="$outputsize" uid="220873500" type="8" value="9,9"/>
+  <presetinput identifier="Age" uid="2008181139" type="0" value="0.044"/>
+  <presetinput identifier="Tilles_Amount" uid="2008258372" type="4" value="17"/>
+  <presetinput identifier="Contrast" uid="2008265905" type="0" value="-0.061"/>
+ </sbspreset>
+</sbspresets>

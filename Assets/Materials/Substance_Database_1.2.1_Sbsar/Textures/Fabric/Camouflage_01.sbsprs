@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Camouflage_01/Camouflage_01" label="var01" >
+  <presetinput identifier="$outputsize" uid="423858594" type="8" value="10,10" />
+  <presetinput identifier="Hue_Shift" uid="501594010" type="0" value="0.301" />
+  <presetinput identifier="Fabric" uid="502995064" type="0" value="0.568" />
+  <presetinput identifier="$randomseed" uid="1311868912" type="4" value="1484667669" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Camouflage_01/Camouflage_01" label="var02" >
+  <presetinput identifier="$outputsize" uid="423858594" type="8" value="10,10" />
+  <presetinput identifier="Light_Angle" uid="492290748" type="0" value="0.697" />
+  <presetinput identifier="Emboss" uid="492290754" type="0" value="-8.828" />
+  <presetinput identifier="Contrast" uid="492291200" type="0" value="0.094" />
+  <presetinput identifier="Environment" uid="494873008" type="4" value="3" />
+  <presetinput identifier="Hue_Shift" uid="501594010" type="0" value="0.982" />
+  <presetinput identifier="Fabric" uid="502995064" type="0" value="0.568" />
+  <presetinput identifier="$randomseed" uid="1311868912" type="4" value="-2056523934" />
+ </sbspreset>
+</sbspresets>

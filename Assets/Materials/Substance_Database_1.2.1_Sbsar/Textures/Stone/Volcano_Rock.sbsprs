@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Volcano_Rock/Volcano_Rock" label="var01" >
+  <presetinput identifier="$outputsize" uid="31030449" type="8" value="9,9" />
+  <presetinput identifier="Lava" uid="99208001" type="0" value="0.61" />
+  <presetinput identifier="Temperature" uid="99208039" type="0" value="0.71" />
+  <presetinput identifier="$randomseed" uid="1454074595" type="4" value="-821851467" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Volcano_Rock/Volcano_Rock" label="var02" >
+  <presetinput identifier="$outputsize" uid="31030449" type="8" value="9,9" />
+  <presetinput identifier="Lava" uid="99208001" type="0" value="1" />
+  <presetinput identifier="Temperature" uid="99208039" type="0" value="0.702" />
+  <presetinput identifier="Depth" uid="99208061" type="0" value="0.023" />
+  <presetinput identifier="Lava_Hue" uid="99211057" type="0" value="0.936" />
+  <presetinput identifier="$randomseed" uid="1454074595" type="4" value="-1140365130" />
+ </sbspreset>
+</sbspresets>

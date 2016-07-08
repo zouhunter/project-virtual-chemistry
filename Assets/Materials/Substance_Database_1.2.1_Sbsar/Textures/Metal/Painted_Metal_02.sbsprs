@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Painted_Metal_02/Painted_Metal_02" label="var01" >
+  <presetinput identifier="Rust" uid="409684884" type="0" value="0.18" />
+  <presetinput identifier="Normal" uid="410172790" type="0" value="0.871" />
+  <presetinput identifier="Emboss" uid="410172798" type="0" value="8.438" />
+  <presetinput identifier="$outputsize" uid="474794077" type="8" value="9,9" />
+  <presetinput identifier="Paint_Color" uid="1721556408" type="2" value="0.784,0.878,0.902" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Metal_02/Painted_Metal_02" label="var02" >
+  <presetinput identifier="Rust" uid="409684884" type="0" value="0.83" />
+  <presetinput identifier="Normal" uid="410172790" type="0" value="0.871" />
+  <presetinput identifier="Emboss" uid="410172798" type="0" value="8.438" />
+  <presetinput identifier="$outputsize" uid="474794077" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1262411279" type="4" value="1228130472" />
+  <presetinput identifier="Paint_Color" uid="1721556408" type="2" value="0.902,0.863,0.796" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Metal_02/Painted_Metal_02" label="var03" >
+  <presetinput identifier="Rust" uid="409684884" type="0" value="1" />
+  <presetinput identifier="Normal" uid="410172790" type="0" value="0.871" />
+  <presetinput identifier="Emboss" uid="410172798" type="0" value="8.438" />
+  <presetinput identifier="$outputsize" uid="474794077" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1262411279" type="4" value="590182947" />
+  <presetinput identifier="Paint_Color" uid="1721556408" type="2" value="0.902,0.863,0.796" />
+ </sbspreset>
+</sbspresets>

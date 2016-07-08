@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Plastic_Bumps/Plastic_Bumps" label="var01" >
+  <presetinput identifier="$outputsize" uid="2961105518" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="3029081948" type="0" value="0.691" />
+  <presetinput identifier="Viscosity" uid="3053229044" type="0" value="0.8" />
+  <presetinput identifier="$randomseed" uid="3876385852" type="4" value="-888560112" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Plastic_Bumps/Plastic_Bumps" label="var02" >
+  <presetinput identifier="$outputsize" uid="2961105518" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="3020451374" type="0" value="0.797" />
+  <presetinput identifier="Emboss" uid="3020513655" type="0" value="5.703" />
+  <presetinput identifier="Hue_Shift" uid="3029081948" type="0" value="0.936" />
+  <presetinput identifier="Viscosity" uid="3053229044" type="0" value="0.252" />
+  <presetinput identifier="$randomseed" uid="3876385852" type="4" value="1279140572" />
+ </sbspreset>
+</sbspresets>

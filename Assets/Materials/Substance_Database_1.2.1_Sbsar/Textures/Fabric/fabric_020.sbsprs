@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://fabric_020/fabric_020" label="var01">
+  <presetinput identifier="$outputsize" uid="155303034" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="203225703" type="0" value="0.719"/>
+  <presetinput identifier="Emboss" uid="203225855" type="0" value="0.772"/>
+  <presetinput identifier="Hue_Shift" uid="203228595" type="0" value="0.184"/>
+  <presetinput identifier="Saturation" uid="203228628" type="0" value="0.602"/>
+  <presetinput identifier="$randomseed" uid="1580444200" type="4" value="1529744083"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_020/fabric_020" label="var02">
+  <presetinput identifier="$outputsize" uid="155303034" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="203225703" type="0" value="0.719"/>
+  <presetinput identifier="Emboss" uid="203225855" type="0" value="0.772"/>
+  <presetinput identifier="Hue_Shift" uid="203228595" type="0" value="0.584"/>
+  <presetinput identifier="Saturation" uid="203228628" type="0" value="0.602"/>
+  <presetinput identifier="$randomseed" uid="1580444200" type="4" value="-835965072"/>
+  <presetinput identifier="Creases" uid="1939938182" type="0" value="0.602"/>
+  <presetinput identifier="Contrast" uid="1939942578" type="0" value="-0.232"/>
+  <presetinput identifier="Pattern_Tiling" uid="1943955391" type="4" value="8"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_020/fabric_020" label="var03">
+  <presetinput identifier="$outputsize" uid="155303034" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="203225703" type="0" value="0.719"/>
+  <presetinput identifier="Emboss" uid="203225855" type="0" value="0.772"/>
+  <presetinput identifier="Hue_Shift" uid="203228595" type="0" value="0.936"/>
+  <presetinput identifier="Luminosity" uid="203228609" type="0" value="0.538"/>
+  <presetinput identifier="Saturation" uid="203228628" type="0" value="0.362"/>
+  <presetinput identifier="$randomseed" uid="1580444200" type="4" value="-852769715"/>
+  <presetinput identifier="Creases" uid="1939938182" type="0" value="1"/>
+  <presetinput identifier="Creases_Orientation" uid="1939938183" type="0" value="0.942"/>
+  <presetinput identifier="Age" uid="1939938208" type="0" value="0.511"/>
+  <presetinput identifier="Dirtiness" uid="1939938215" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="1939942578" type="0" value="-0.232"/>
+  <presetinput identifier="Pattern_Tiling" uid="1943955391" type="4" value="1"/>
+ </sbspreset>
+</sbspresets>

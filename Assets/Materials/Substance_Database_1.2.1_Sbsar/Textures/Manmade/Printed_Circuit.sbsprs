@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.0" count="1" >
+ <sbspreset pkgurl="pkg://Printed_Circuit/Printed_Circuit" label="var01" >
+  <presetinput identifier="Emboss" uid="728803139" type="0" value="2.754" />
+  <presetinput identifier="Contrast" uid="729519527" type="0" value="0.045" />
+  <presetinput identifier="Normal" uid="729519547" type="0" value="0.354" />
+  <presetinput identifier="Details" uid="732332708" type="4" value="1" />
+  <presetinput identifier="Border" uid="732513155" type="4" value="0" />
+  <presetinput identifier="Part" uid="732522181" type="4" value="4" />
+  <presetinput identifier="Solder_Width" uid="732610676" type="0" value="0.329" />
+  <presetinput identifier="$outputsize" uid="789428973" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

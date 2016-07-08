@@ -1,0 +1,47 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://metal_floor_007/metal_floor_007" label="var01">
+  <presetinput identifier="$randomseed" uid="2449191899" type="4" value="179125057"/>
+  <presetinput identifier="Border" uid="3157416573" type="4" value="0"/>
+  <presetinput identifier="Grid" uid="3160984216" type="4" value="0"/>
+  <presetinput identifier="Contrast" uid="3161259940" type="0" value="0.119"/>
+  <presetinput identifier="Grid_Offset" uid="3161285087" type="1" value="0.598,0.286"/>
+  <presetinput identifier="Holes" uid="3282522838" type="4" value="0"/>
+  <presetinput identifier="Emboss" uid="3285508876" type="0" value="0.546"/>
+  <presetinput identifier="Normal" uid="3285508947" type="0" value="0.533"/>
+  <presetinput identifier="Depth" uid="3285510561" type="0" value="0.08"/>
+  <presetinput identifier="Saturation" uid="3285523495" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="3285523506" type="0" value="0.491"/>
+  <presetinput identifier="Hue_Shift" uid="3285523520" type="0" value="0.137"/>
+  <presetinput identifier="$outputsize" uid="3330909577" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_007/metal_floor_007" label="var02">
+  <presetinput identifier="$randomseed" uid="2449191899" type="4" value="1697518572"/>
+  <presetinput identifier="Grid" uid="3160984216" type="4" value="0"/>
+  <presetinput identifier="Age" uid="3161259922" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="3161259940" type="0" value="0.119"/>
+  <presetinput identifier="Grid_Offset" uid="3161285087" type="1" value="0.598,0.286"/>
+  <presetinput identifier="Emboss" uid="3285508876" type="0" value="0.546"/>
+  <presetinput identifier="Normal" uid="3285508947" type="0" value="0.533"/>
+  <presetinput identifier="Depth" uid="3285510561" type="0" value="0.08"/>
+  <presetinput identifier="Saturation" uid="3285523495" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="3285523506" type="0" value="0.491"/>
+  <presetinput identifier="Hue_Shift" uid="3285523520" type="0" value="0.137"/>
+  <presetinput identifier="$outputsize" uid="3330909577" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_007/metal_floor_007" label="var03">
+  <presetinput identifier="$randomseed" uid="2449191899" type="4" value="-1567723215"/>
+  <presetinput identifier="Border" uid="3157416573" type="4" value="0"/>
+  <presetinput identifier="Grid" uid="3160984216" type="4" value="0"/>
+  <presetinput identifier="Age" uid="3161259922" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="3161259940" type="0" value="0.355"/>
+  <presetinput identifier="Grid_Offset" uid="3161285087" type="1" value="0.598,0.286"/>
+  <presetinput identifier="Holes" uid="3282522838" type="4" value="0"/>
+  <presetinput identifier="Emboss" uid="3285508876" type="0" value="0.755"/>
+  <presetinput identifier="Normal" uid="3285508947" type="0" value="0.533"/>
+  <presetinput identifier="Depth" uid="3285510561" type="0" value="0.08"/>
+  <presetinput identifier="Saturation" uid="3285523495" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="3285523506" type="0" value="0.491"/>
+  <presetinput identifier="Hue_Shift" uid="3285523520" type="0" value="0.36"/>
+  <presetinput identifier="$outputsize" uid="3330909577" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

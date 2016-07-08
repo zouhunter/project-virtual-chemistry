@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://stones_011/stones_011" label="var01" >
+  <presetinput identifier="$outputsize" uid="55053215" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="102059333" type="0" value="1" />
+  <presetinput identifier="White_Molds_Scale" uid="108453682" type="0" value="0.048" />
+  <presetinput identifier="Orange_Molds_Size" uid="108453778" type="0" value="0.537" />
+  <presetinput identifier="White_Molds_Size" uid="108453854" type="0" value="0.328" />
+  <presetinput identifier="Orange_Molds_Scale" uid="108453875" type="0" value="1" />
+  <presetinput identifier="White_Molds_Color" uid="2041714544" type="2" value="0.345,0.357,0.055" />
+  <presetinput identifier="Stones_Color" uid="2041715938" type="2" value="0.388,0.384,0.369" />
+  <presetinput identifier="Orange_Molds_Color" uid="2041719002" type="2" value="0.675,0.345,0.102" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_011/stones_011" label="var02" >
+  <presetinput identifier="$outputsize" uid="55053215" type="8" value="9,9" />
+  <presetinput identifier="Luminosity" uid="102019620" type="0" value="0.512" />
+  <presetinput identifier="Saturation" uid="102019633" type="0" value="0.504" />
+  <presetinput identifier="Depth" uid="102057911" type="0" value="0.326" />
+  <presetinput identifier="Emboss" uid="102059290" type="0" value="0.224" />
+  <presetinput identifier="Normal" uid="102059333" type="0" value="0.652" />
+  <presetinput identifier="Small_Orange_Molds_Scale" uid="108452297" type="0" value="0.963" />
+  <presetinput identifier="White_Molds_Scale" uid="108453682" type="0" value="1" />
+  <presetinput identifier="Orange_Molds_Disorder" uid="108453765" type="0" value="0.185" />
+  <presetinput identifier="Orange_Molds_Size" uid="108453778" type="0" value="1" />
+  <presetinput identifier="White_Molds_Size" uid="108453854" type="0" value="0.596" />
+  <presetinput identifier="Orange_Molds_Scale" uid="108453875" type="0" value="0.62" />
+  <presetinput identifier="White_Molds_Color" uid="2041714544" type="2" value="0.357,0.357,0.318" />
+  <presetinput identifier="Stones_Color" uid="2041715938" type="2" value="0.671,0.741,0.765" />
+  <presetinput identifier="Orange_Molds_Color" uid="2041719002" type="2" value="0.376,0.435,0.278" />
+  <presetinput identifier="Contrast" uid="2041722438" type="0" value="-0.016" />
+ </sbspreset>
+</sbspresets>

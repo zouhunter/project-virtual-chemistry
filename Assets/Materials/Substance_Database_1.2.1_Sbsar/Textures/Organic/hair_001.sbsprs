@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://hair_001/hair_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="2884221635" type="8" value="9,9" />
+  <presetinput identifier="Highlight_Offset" uid="2932474641" type="0" value="0.491" />
+  <presetinput identifier="Color" uid="2932478561" type="2" value="0.059,0.055,0.055" />
+  <presetinput identifier="Highlight_Intensity" uid="2932733965" type="0" value="0.754" />
+  <presetinput identifier="Detail" uid="2932734625" type="0" value="0.898" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://hair_001/hair_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="2884221635" type="8" value="9,9" />
+  <presetinput identifier="Highlight_Offset" uid="2932474641" type="0" value="0.773" />
+  <presetinput identifier="Color" uid="2932478561" type="2" value="0.506,0.255,0.11" />
+  <presetinput identifier="Highlight_Intensity" uid="2932733965" type="0" value="0.57" />
+  <presetinput identifier="Detail" uid="2932734625" type="0" value="0.093" />
+ </sbspreset>
+</sbspresets>

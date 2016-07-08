@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_006/fabric_006" label="var02" >
+  <presetinput identifier="Dirtiness" uid="666604124" type="0" value="0.723" />
+  <presetinput identifier="Pattern_Scale" uid="666631092" type="4" value="9" />
+  <presetinput identifier="$outputsize" uid="1567976294" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_006/fabric_006" label="var03" >
+  <presetinput identifier="Color" uid="666522990" type="2" value="0.8,0.8,0.8" />
+  <presetinput identifier="Dirtiness" uid="666604124" type="0" value="0.277" />
+  <presetinput identifier="Pattern_Scale" uid="666631092" type="4" value="2" />
+  <presetinput identifier="$outputsize" uid="1567976294" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_006/fabric_006" label="var01" >
+  <presetinput identifier="$randomseed" uid="168262964" type="4" value="2130264722" />
+  <presetinput identifier="Color" uid="666522990" type="2" value="0.8,0.8,0.8" />
+  <presetinput identifier="Dirtiness" uid="666604124" type="0" value="0.098" />
+  <presetinput identifier="Pattern_Scale" uid="666631092" type="4" value="4" />
+  <presetinput identifier="$outputsize" uid="1567976294" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

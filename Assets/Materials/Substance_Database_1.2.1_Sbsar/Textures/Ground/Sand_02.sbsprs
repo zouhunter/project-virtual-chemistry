@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Sand_02/Sand_02" label="var01" >
+  <presetinput identifier="Emboss" uid="3132473388" type="0" value="3.613" />
+  <presetinput identifier="Normal" uid="3132473419" type="0" value="1" />
+  <presetinput identifier="Dunes" uid="3144437756" type="0" value="0.398" />
+  <presetinput identifier="Dunes_Shapes" uid="3144437759" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3200228088" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3922562218" type="4" value="-1412023695" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Sand_02/Sand_02" label="var02" >
+  <presetinput identifier="Emboss" uid="3132473388" type="0" value="4.59" />
+  <presetinput identifier="Normal" uid="3132473419" type="0" value="0.977" />
+  <presetinput identifier="Contrast" uid="3132473435" type="0" value="0.143" />
+  <presetinput identifier="Dunes" uid="3144437756" type="0" value="1" />
+  <presetinput identifier="Dunes_Shapes" uid="3144437759" type="0" value="0.797" />
+  <presetinput identifier="$outputsize" uid="3200228088" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3922562218" type="4" value="1623096006" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Plane_Tree_Bark/Plane_Tree_Bark" label="var01" >
+  <presetinput identifier="$randomseed" uid="2999251682" type="4" value="-557629387" />
+  <presetinput identifier="Hue_Shift" uid="3784045862" type="0" value="0.984" />
+  <presetinput identifier="Bark_Patches" uid="3784188745" type="0" value="0.74" />
+  <presetinput identifier="$outputsize" uid="3853968560" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Plane_Tree_Bark/Plane_Tree_Bark" label="var02" >
+  <presetinput identifier="$randomseed" uid="2999251682" type="4" value="640010960" />
+  <presetinput identifier="Emboss" uid="3784045861" type="0" value="0.859" />
+  <presetinput identifier="Saturation" uid="3784045865" type="0" value="0.36" />
+  <presetinput identifier="Contrast" uid="3784045866" type="0" value="0.008" />
+  <presetinput identifier="Luminosity" uid="3784045867" type="0" value="0.504" />
+  <presetinput identifier="Depth" uid="3784045871" type="0" value="0.594" />
+  <presetinput identifier="Bark_Patches" uid="3784188745" type="0" value="0.792" />
+  <presetinput identifier="$outputsize" uid="3853968560" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Plane_Tree_Bark/Plane_Tree_Bark" label="var03" >
+  <presetinput identifier="$randomseed" uid="2999251682" type="4" value="199129957" />
+  <presetinput identifier="Emboss" uid="3784045861" type="0" value="0.859" />
+  <presetinput identifier="Saturation" uid="3784045865" type="0" value="0.504" />
+  <presetinput identifier="Contrast" uid="3784045866" type="0" value="0.008" />
+  <presetinput identifier="Luminosity" uid="3784045867" type="0" value="0.504" />
+  <presetinput identifier="Depth" uid="3784045871" type="0" value="-0.162" />
+  <presetinput identifier="Bark_Patches" uid="3784188745" type="0" value="0.5" />
+  <presetinput identifier="$outputsize" uid="3853968560" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

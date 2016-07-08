@@ -1,0 +1,44 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://enveloppe_001/enveloppe_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="2567915773" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2622623352" type="0" value="0.631" />
+  <presetinput identifier="Light_Angle" uid="2622623456" type="0" value="0.733" />
+  <presetinput identifier="Hue_Shift" uid="2622746932" type="0" value="0.01" />
+  <presetinput identifier="Luminosity" uid="2622746950" type="0" value="0.527" />
+  <presetinput identifier="Saturation" uid="2622746963" type="0" value="0.437" />
+  <presetinput identifier="$randomseed" uid="3464322735" type="4" value="-1472703056" />
+  <presetinput identifier="Envelope_Frame" uid="3822797821" type="4" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://enveloppe_001/enveloppe_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="2567915773" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2622623352" type="0" value="0.631" />
+  <presetinput identifier="Light_Angle" uid="2622623456" type="0" value="0.681" />
+  <presetinput identifier="Hue_Shift" uid="2622746932" type="0" value="0.01" />
+  <presetinput identifier="Luminosity" uid="2622746950" type="0" value="0.527" />
+  <presetinput identifier="Saturation" uid="2622746963" type="0" value="0.437" />
+  <presetinput identifier="$randomseed" uid="3464322735" type="4" value="-1472703056" />
+  <presetinput identifier="Envelope_Size" uid="3820346104" type="0" value="0.676" />
+  <presetinput identifier="Envelope_Frame" uid="3822797821" type="4" value="0" />
+  <presetinput identifier="Stamp_2_Position" uid="3822801943" type="1" value="0.839,0.455" />
+  <presetinput identifier="Creases" uid="3822802340" type="0" value="0.725" />
+  <presetinput identifier="Dirtiness" uid="3822802346" type="0" value="0.394" />
+  <presetinput identifier="Ink_Pad_3_Position" uid="3822804936" type="1" value="0.748,0.445" />
+  <presetinput identifier="Ink_Pad_2_Position" uid="3822804942" type="1" value="0.844,0.447" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://enveloppe_001/enveloppe_001" label="var03" >
+  <presetinput identifier="$outputsize" uid="2567915773" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2622623352" type="0" value="0.631" />
+  <presetinput identifier="Light_Angle" uid="2622623456" type="0" value="0.681" />
+  <presetinput identifier="Luminosity" uid="2622746950" type="0" value="0.554" />
+  <presetinput identifier="Saturation" uid="2622746963" type="0" value="0.343" />
+  <presetinput identifier="$randomseed" uid="3464322735" type="4" value="480393316" />
+  <presetinput identifier="Envelope_Size" uid="3820346104" type="0" value="0.676" />
+  <presetinput identifier="Envelope_Frame" uid="3822797821" type="4" value="0" />
+  <presetinput identifier="Stamp_2_Position" uid="3822801943" type="1" value="0.839,0.455" />
+  <presetinput identifier="Stamp_1_Position" uid="3822801956" type="1" value="0.92,0.459" />
+  <presetinput identifier="Creases" uid="3822802340" type="0" value="0" />
+  <presetinput identifier="Dirtiness" uid="3822802346" type="0" value="0.87" />
+  <presetinput identifier="Ink_Pad_3_Position" uid="3822804936" type="1" value="0.748,0.445" />
+  <presetinput identifier="Ink_Pad_2_Position" uid="3822804942" type="1" value="0.844,0.447" />
+ </sbspreset>
+</sbspresets>

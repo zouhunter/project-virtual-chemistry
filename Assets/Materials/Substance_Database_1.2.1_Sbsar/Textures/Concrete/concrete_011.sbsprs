@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_011/concrete_011" label="var01" >
+  <presetinput identifier="Concrete_Color" uid="294007065" type="2" value="0.612,0.529,0.471" />
+  <presetinput identifier="Pebbles" uid="294026224" type="0" value="0.447" />
+  <presetinput identifier="Weathering" uid="294076663" type="0" value="0.234" />
+  <presetinput identifier="$outputsize" uid="1799768328" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_011/concrete_011" label="var02" >
+  <presetinput identifier="Concrete_Color" uid="294007065" type="2" value="0.584,0.612,0.522" />
+  <presetinput identifier="Pebbles" uid="294026224" type="0" value="0.447" />
+  <presetinput identifier="Weathering" uid="294076663" type="0" value="0.674" />
+  <presetinput identifier="$outputsize" uid="1799768328" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_011/concrete_011" label="var03" >
+  <presetinput identifier="Concrete_Color" uid="294007065" type="2" value="0.604,0.612,0.604" />
+  <presetinput identifier="Weathering" uid="294076663" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1799768328" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

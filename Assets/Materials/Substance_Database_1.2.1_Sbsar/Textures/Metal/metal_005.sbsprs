@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://metal_005/metal_005" label="var01" >
+  <presetinput identifier="Paint_Color" uid="54841841" type="2" value="0.459,0.455,0.455" />
+  <presetinput identifier="Dirtiness_02" uid="54846139" type="0" value="0.437" />
+  <presetinput identifier="$randomseed" uid="784474527" type="4" value="128110771" />
+  <presetinput identifier="$outputsize" uid="2041591757" type="8" value="9,9" />
+  <presetinput identifier="Peeling" uid="2092530525" type="0" value="0" />
+  <presetinput identifier="Dirtiness_01" uid="2092753943" type="0" value="0.438" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_005/metal_005" label="var02" >
+  <presetinput identifier="Paint_Color" uid="54841841" type="2" value="0.486,0.333,0.082" />
+  <presetinput identifier="Dirtiness_02" uid="54846139" type="0" value="0" />
+  <presetinput identifier="Stripes_Color" uid="54849185" type="2" value="0.173,0.11,0.114" />
+  <presetinput identifier="Peeling_Cracks" uid="55260278" type="0" value="0.314" />
+  <presetinput identifier="Background_Color" uid="55416028" type="2" value="0.173,0.141,0.145" />
+  <presetinput identifier="Stripes" uid="55416193" type="4" value="1" />
+  <presetinput identifier="$randomseed" uid="784474527" type="4" value="871140673" />
+  <presetinput identifier="$outputsize" uid="2041591757" type="8" value="9,9" />
+  <presetinput identifier="Peeling" uid="2092530525" type="0" value="0.473" />
+  <presetinput identifier="Dirtiness_01" uid="2092753943" type="0" value="0.357" />
+  <presetinput identifier="Peeling_Falloff" uid="2092754774" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

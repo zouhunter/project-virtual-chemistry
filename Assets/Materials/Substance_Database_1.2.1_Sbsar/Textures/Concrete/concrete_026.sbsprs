@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_026/concrete_026" label="var01" >
+  <presetinput identifier="$outputsize" uid="2864664529" type="8" value="9,9" />
+  <presetinput identifier="Peeling_1" uid="2945223201" type="0" value="0" />
+  <presetinput identifier="Peeling_2" uid="3494801936" type="0" value="0" />
+  <presetinput identifier="Concrete_Layer1_Color" uid="3497463840" type="2" value="0.416,0.42,0.435" />
+  <presetinput identifier="$randomseed" uid="4258093443" type="4" value="-589816014" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_026/concrete_026" label="var02" >
+  <presetinput identifier="$outputsize" uid="2864664529" type="8" value="9,9" />
+  <presetinput identifier="Peeling_1" uid="2945223201" type="0" value="0.392" />
+  <presetinput identifier="Peeling_2" uid="3494801936" type="0" value="0.634" />
+  <presetinput identifier="Concrete_Layer1_Color" uid="3497463840" type="2" value="0.337,0.357,0.333" />
+  <presetinput identifier="Concrete_Layer2_Color" uid="3497464031" type="2" value="0.478,0.408,0.318" />
+  <presetinput identifier="$randomseed" uid="4258093443" type="4" value="-1017340544" />
+ </sbspreset>
+</sbspresets>

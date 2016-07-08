@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Beer/Beer" label="var01" >
+  <presetinput identifier="$outputsize" uid="1661669869" type="8" value="10,10" />
+  <presetinput identifier="Light_Angle" uid="1736217288" type="0" value="0.117" />
+  <presetinput identifier="Saturation" uid="1744432345" type="0" value="0.285" />
+  <presetinput identifier="Luminosity" uid="1744432346" type="0" value="0.502" />
+  <presetinput identifier="Hue_Shift" uid="1744432351" type="0" value="0.881" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Beer/Beer" label="var02" >
+  <presetinput identifier="$randomseed" uid="880347071" type="4" value="1691315096" />
+  <presetinput identifier="$outputsize" uid="1661669869" type="8" value="10,10" />
+  <presetinput identifier="Bubbles_Flow" uid="1720718384" type="0" value="46.387" />
+  <presetinput identifier="Drops_Flow" uid="1720723081" type="0" value="48.828" />
+  <presetinput identifier="Foam" uid="1720739838" type="0" value="0.794" />
+  <presetinput identifier="Beer_Type" uid="1720810414" type="4" value="3" />
+  <presetinput identifier="Depth" uid="1735700023" type="0" value="1" />
+  <presetinput identifier="Light_Angle" uid="1736217288" type="0" value="0.117" />
+  <presetinput identifier="Saturation" uid="1744432345" type="0" value="0.512" />
+  <presetinput identifier="Luminosity" uid="1744432346" type="0" value="0.502" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Beer/Beer" label="var03" >
+  <presetinput identifier="$randomseed" uid="880347071" type="4" value="1691315096" />
+  <presetinput identifier="$outputsize" uid="1661669869" type="8" value="10,10" />
+  <presetinput identifier="Bubbles_Flow" uid="1720718384" type="0" value="46.387" />
+  <presetinput identifier="Drops_Flow" uid="1720723081" type="0" value="79.785" />
+  <presetinput identifier="Foam" uid="1720739838" type="0" value="0.269" />
+  <presetinput identifier="Beer_Type" uid="1720810414" type="4" value="4" />
+  <presetinput identifier="Opacity" uid="1720885596" type="0" value="0.198" />
+  <presetinput identifier="Depth" uid="1735700023" type="0" value="1" />
+  <presetinput identifier="Light_Angle" uid="1736217288" type="0" value="0.117" />
+  <presetinput identifier="Saturation" uid="1744432345" type="0" value="0.435" />
+  <presetinput identifier="Luminosity" uid="1744432346" type="0" value="0.458" />
+ </sbspreset>
+</sbspresets>

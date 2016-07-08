@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://sand_001/sand_001" label="var01" >
+  <presetinput identifier="Bumps_1" uid="2784041226" type="0" value="0.424" />
+  <presetinput identifier="$outputsize" uid="3744936067" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sand_001/sand_001" label="var02" >
+  <presetinput identifier="Dirtyness" uid="2784041224" type="0" value="0.646" />
+  <presetinput identifier="Bumps_1" uid="2784041226" type="0" value="0.687" />
+  <presetinput identifier="Bumps_2" uid="2784041227" type="0" value="0.943" />
+  <presetinput identifier="$outputsize" uid="3744936067" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sand_001/sand_001" label="var03" >
+  <presetinput identifier="Dirtyness" uid="2784041224" type="0" value="1" />
+  <presetinput identifier="Bumps_1" uid="2784041226" type="0" value="0.687" />
+  <presetinput identifier="Bumps_2" uid="2784041227" type="0" value="0.943" />
+  <presetinput identifier="Sand_Color" uid="2784044794" type="2" value="0.353,0.38,0.31" />
+  <presetinput identifier="$outputsize" uid="3744936067" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

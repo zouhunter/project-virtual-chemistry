@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://bark_010/bark_010" label="var01">
+  <presetinput identifier="Emboss" uid="463173576" type="0" value="1"/>
+  <presetinput identifier="Bark_Disorder" uid="465833398" type="0" value="1"/>
+  <presetinput identifier="Moss" uid="465851583" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="516305229" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="1236543263" type="4" value="47481863"/>
+  <presetinput identifier="Contrast" uid="1690418528" type="0" value="0.094"/>
+  <presetinput identifier="Bark_Color" uid="1691818770" type="2" value="0.541,0.459,0.404"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_010/bark_010" label="var02">
+  <presetinput identifier="Emboss" uid="463173576" type="0" value="0.197"/>
+  <presetinput identifier="Moss" uid="465851583" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="516305229" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="1236543263" type="4" value="-1840015134"/>
+  <presetinput identifier="Moss_Color" uid="1690384029" type="2" value="0.078,0.067,0.051"/>
+  <presetinput identifier="Contrast" uid="1690418528" type="0" value="0.094"/>
+  <presetinput identifier="Bark_Color" uid="1691818770" type="2" value="0.82,0.749,0.663"/>
+ </sbspreset>
+</sbspresets>

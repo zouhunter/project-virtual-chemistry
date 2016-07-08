@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Pavement_06/Pavement_06" label="var01" >
+  <presetinput identifier="Hue_Shift" uid="2858882429" type="0" value="0.061" />
+  <presetinput identifier="Pavement_Y" uid="2863112109" type="4" value="7" />
+  <presetinput identifier="Pavement_X" uid="2863112111" type="4" value="7" />
+  <presetinput identifier="Colour_Variation" uid="2863162397" type="0" value="0.968" />
+  <presetinput identifier="$outputsize" uid="2929059919" type="8" value="9,9" />
+  <presetinput identifier="Offset" uid="3564928748" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="4192730653" type="4" value="-1854052776" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Pavement_06/Pavement_06" label="var02" >
+  <presetinput identifier="Saturation" uid="2858882427" type="0" value="0.505" />
+  <presetinput identifier="Hue_Shift" uid="2858882429" type="0" value="0.347" />
+  <presetinput identifier="Pavement_X" uid="2863112111" type="4" value="6" />
+  <presetinput identifier="Colour_Variation" uid="2863162397" type="0" value="0.231" />
+  <presetinput identifier="Contrast" uid="2867029357" type="0" value="0.258" />
+  <presetinput identifier="$outputsize" uid="2929059919" type="8" value="9,9" />
+  <presetinput identifier="Offset_Random" uid="3564928542" type="0" value="0.227" />
+  <presetinput identifier="Offset" uid="3564928748" type="0" value="0.395" />
+  <presetinput identifier="$randomseed" uid="4192730653" type="4" value="-1480177114" />
+ </sbspreset>
+</sbspresets>

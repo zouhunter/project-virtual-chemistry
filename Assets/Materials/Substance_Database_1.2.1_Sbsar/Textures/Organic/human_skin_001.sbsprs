@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://human_skin_001/human_skin_001" label="var01">
+  <presetinput identifier="Luminosity" uid="864255756" type="0" value="0.502"/>
+  <presetinput identifier="Saturation" uid="864255769" type="0" value="0.491"/>
+  <presetinput identifier="$outputsize" uid="920635063" type="8" value="9,9"/>
+  <presetinput identifier="Veins" uid="1279202184" type="0" value="0"/>
+  <presetinput identifier="Skin_Color" uid="1279252835" type="2" value="0.345,0.224,0.098"/>
+  <presetinput identifier="Naevus" uid="1279259154" type="0" value="0"/>
+  <presetinput identifier="Age_Stains" uid="1279259156" type="0" value="0"/>
+  <presetinput identifier="Spots" uid="1281738454" type="0" value="0"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://human_skin_001/human_skin_001" label="var02">
+  <presetinput identifier="Normal" uid="864190573" type="0" value="0.328"/>
+  <presetinput identifier="Luminosity" uid="864255756" type="0" value="0.502"/>
+  <presetinput identifier="Saturation" uid="864255769" type="0" value="0.491"/>
+  <presetinput identifier="$outputsize" uid="920635063" type="8" value="9,9"/>
+  <presetinput identifier="Veins" uid="1279202184" type="0" value="1"/>
+  <presetinput identifier="Skin_Color" uid="1279252835" type="2" value="0.765,0.616,0.537"/>
+  <presetinput identifier="Naevus" uid="1279259154" type="0" value="0.054"/>
+  <presetinput identifier="Age_Stains" uid="1279259156" type="0" value="0"/>
+  <presetinput identifier="Spots" uid="1281738454" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="1638781157" type="4" value="-1119818528"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://human_skin_001/human_skin_001" label="var03">
+  <presetinput identifier="Emboss" uid="864190514" type="0" value="0.431"/>
+  <presetinput identifier="Normal" uid="864190573" type="0" value="0.422"/>
+  <presetinput identifier="Luminosity" uid="864255756" type="0" value="0.505"/>
+  <presetinput identifier="Saturation" uid="864255769" type="0" value="0.479"/>
+  <presetinput identifier="$outputsize" uid="920635063" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1279175763" type="0" value="0.193"/>
+  <presetinput identifier="Veins" uid="1279202184" type="0" value="0.799"/>
+  <presetinput identifier="Skin_Color" uid="1279252835" type="2" value="0.714,0.616,0.514"/>
+  <presetinput identifier="Naevus" uid="1279259154" type="0" value="0"/>
+  <presetinput identifier="Spots" uid="1281738454" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="1638781157" type="4" value="-1119818528"/>
+ </sbspreset>
+</sbspresets>

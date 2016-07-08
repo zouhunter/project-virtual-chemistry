@@ -1,0 +1,46 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://sci_fi_005/sci_fi_005" label="var01">
+  <presetinput identifier="$outputsize" uid="777511475" type="8" value="9,9"/>
+  <presetinput identifier="Base_Color_01" uid="1420428067" type="2" value="0.408,0.427,0.376"/>
+  <presetinput identifier="Age" uid="1420428081" type="0" value="0.667"/>
+  <presetinput identifier="Light_Amount" uid="1420462444" type="0" value="0.604"/>
+  <presetinput identifier="Door_Opening" uid="1420544291" type="0" value="0.27"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sci_fi_005/sci_fi_005" label="var03">
+  <presetinput identifier="Luminosity" uid="722164616" type="0" value="0.486"/>
+  <presetinput identifier="Saturation" uid="722164637" type="0" value="0.512"/>
+  <presetinput identifier="Hue_Shift" uid="722164730" type="0" value="0.816"/>
+  <presetinput identifier="$outputsize" uid="777511475" type="8" value="9,9"/>
+  <presetinput identifier="Base_Color_01" uid="1420428067" type="2" value="0.408,0.427,0.376"/>
+  <presetinput identifier="Age" uid="1420428081" type="0" value="0.667"/>
+  <presetinput identifier="Light_Amount" uid="1420462444" type="0" value="0.79"/>
+  <presetinput identifier="Light_Color" uid="1420484738" type="2" value="0.718,0.788,0.212"/>
+  <presetinput identifier="Glass_Window" uid="1420544279" type="4" value="1"/>
+  <presetinput identifier="Window_Frame" uid="1420672924" type="4" value="1"/>
+  <presetinput identifier="Glass_Window_Color" uid="1420672940" type="2" value="0.529,0.529,0.62"/>
+  <presetinput identifier="$randomseed" uid="2032530529" type="4" value="2121590376"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sci_fi_005/sci_fi_005" label="var04">
+  <presetinput identifier="Luminosity" uid="722164616" type="0" value="0.486"/>
+  <presetinput identifier="Saturation" uid="722164637" type="0" value="0.512"/>
+  <presetinput identifier="Hue_Shift" uid="722164730" type="0" value="0.527"/>
+  <presetinput identifier="$outputsize" uid="777511475" type="8" value="9,9"/>
+  <presetinput identifier="Base_Color_01" uid="1420428067" type="2" value="0.408,0.427,0.376"/>
+  <presetinput identifier="Light_Amount" uid="1420462444" type="0" value="0.79"/>
+  <presetinput identifier="Light_Color" uid="1420484738" type="2" value="0.718,0.788,0.212"/>
+  <presetinput identifier="Window_Frame_Scale_X" uid="1420672896" type="4" value="5"/>
+  <presetinput identifier="Window_Frame" uid="1420672924" type="4" value="1"/>
+  <presetinput identifier="Glass_Window_Color" uid="1420672940" type="2" value="0.529,0.529,0.62"/>
+  <presetinput identifier="Window_Frame_Scale_Y" uid="1420727166" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="2032530529" type="4" value="1701088674"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sci_fi_005/sci_fi_005" label="var02">
+  <presetinput identifier="$outputsize" uid="777511475" type="8" value="9,9"/>
+  <presetinput identifier="Base_Color_01" uid="1420428067" type="2" value="0.427,0.408,0.341"/>
+  <presetinput identifier="Age" uid="1420428081" type="0" value="0.667"/>
+  <presetinput identifier="Light_Amount" uid="1420462444" type="0" value="0.79"/>
+  <presetinput identifier="Light_Color" uid="1420484738" type="2" value="0.718,0.788,0.212"/>
+  <presetinput identifier="Damage" uid="1420504438" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="2032530529" type="4" value="54314161"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://concrete_045/concrete_045" label="var01">
+  <presetinput identifier="$outputsize" uid="997673156" type="8" value="9,9"/>
+  <presetinput identifier="Sand_Position" uid="1099765369" type="0" value="0"/>
+  <presetinput identifier="Sand" uid="1099776906" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="1102020237" type="0" value="0.273"/>
+  <presetinput identifier="$randomseed" uid="1812291222" type="4" value="216459646"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_045/concrete_045" label="var02">
+  <presetinput identifier="$outputsize" uid="997673156" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="1042943705" type="0" value="0.606"/>
+  <presetinput identifier="Sand_Position" uid="1099765369" type="0" value="1"/>
+  <presetinput identifier="Concrete_Color" uid="1099765374" type="2" value="0.624,0.6,0.514"/>
+  <presetinput identifier="Sand_Color" uid="1099765375" type="2" value="0.224,0.204,0.184"/>
+  <presetinput identifier="Sand" uid="1099776906" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="1102020237" type="0" value="0.064"/>
+  <presetinput identifier="$randomseed" uid="1812291222" type="4" value="-2101084768"/>
+ </sbspreset>
+</sbspresets>

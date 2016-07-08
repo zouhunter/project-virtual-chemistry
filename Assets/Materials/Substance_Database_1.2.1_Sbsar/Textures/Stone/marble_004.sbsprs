@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://marble_004/marble_004" label="var01">
+  <presetinput identifier="$randomseed" uid="2297423841" type="4" value="1411908937"/>
+  <presetinput identifier="Cracks" uid="2773091353" type="0" value="0"/>
+  <presetinput identifier="Weathering" uid="2773091478" type="0" value="0"/>
+  <presetinput identifier="Marble_Stains_Color" uid="2774046911" type="2" value="0.663,0.447,0.404"/>
+  <presetinput identifier="Base_Marble_Color" uid="2774046938" type="2" value="0.753,0.714,0.702"/>
+  <presetinput identifier="$outputsize" uid="3751670195" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://marble_004/marble_004" label="var02">
+  <presetinput identifier="$randomseed" uid="2297423841" type="4" value="1913750902"/>
+  <presetinput identifier="Cracks" uid="2773091353" type="0" value="0.885"/>
+  <presetinput identifier="White_Areas" uid="2773108428" type="0" value="0.074"/>
+  <presetinput identifier="Contrast" uid="2773614324" type="0" value="0.365"/>
+  <presetinput identifier="Marble_Stains_Color" uid="2774046911" type="2" value="0.663,0.573,0.459"/>
+  <presetinput identifier="Base_Marble_Color" uid="2774046938" type="2" value="0.659,0.627,0.62"/>
+  <presetinput identifier="$outputsize" uid="3751670195" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

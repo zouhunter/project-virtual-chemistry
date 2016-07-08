@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Woven_Metal/Woven_Metal" label="var01" >
+  <presetinput identifier="$outputsize" uid="3926363508" type="8" value="9,9" />
+  <presetinput identifier="Streaks" uid="4000027744" type="0" value="1" />
+  <presetinput identifier="Depth" uid="4000912364" type="0" value="-0.006" />
+  <presetinput identifier="Stripe_Width" uid="4004913524" type="0" value="0.806" />
+  <presetinput identifier="Rounding" uid="4005507060" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Woven_Metal/Woven_Metal" label="var02" >
+  <presetinput identifier="Color" uid="2430416033" type="2" value="0.608,0.655,0.659" />
+  <presetinput identifier="$outputsize" uid="3926363508" type="8" value="9,9" />
+  <presetinput identifier="Streaks" uid="4000027744" type="0" value="1" />
+  <presetinput identifier="Depth" uid="4000912364" type="0" value="-0.006" />
+  <presetinput identifier="Emboss" uid="4000934134" type="0" value="0" />
+  <presetinput identifier="Stripe_Width" uid="4004913524" type="0" value="0.165" />
+  <presetinput identifier="Luminosity" uid="4004916604" type="0" value="0.658" />
+  <presetinput identifier="Rounding" uid="4005507060" type="0" value="0.057" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Woven_Metal/Woven_Metal" label="var03" >
+  <presetinput identifier="$outputsize" uid="3926363508" type="8" value="9,9" />
+  <presetinput identifier="Streaks" uid="4000027744" type="0" value="0" />
+  <presetinput identifier="Depth" uid="4000912364" type="0" value="-0.006" />
+  <presetinput identifier="Emboss" uid="4000934134" type="0" value="0.059" />
+  <presetinput identifier="Stripe_Width" uid="4004913524" type="0" value="0.509" />
+  <presetinput identifier="Hue_Shift" uid="4004916595" type="0" value="0.539" />
+  <presetinput identifier="Saturation" uid="4004916605" type="0" value="0.565" />
+  <presetinput identifier="Rounding" uid="4005507060" type="0" value="0.865" />
+ </sbspreset>
+</sbspresets>

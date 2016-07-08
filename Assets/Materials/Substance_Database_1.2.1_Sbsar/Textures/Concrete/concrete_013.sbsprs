@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_013/concrete_013" label="var01" >
+  <presetinput identifier="Concrete_Color" uid="520071500" type="2" value="0.561,0.561,0.51" />
+  <presetinput identifier="Emboss" uid="1635494412" type="0" value="0.699" />
+  <presetinput identifier="Normal" uid="1635494483" type="0" value="0.422" />
+  <presetinput identifier="$outputsize" uid="1680272521" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_013/concrete_013" label="var02" >
+  <presetinput identifier="Rain" uid="520059749" type="0" value="0.687" />
+  <presetinput identifier="Concrete_Color" uid="520071500" type="2" value="0.522,0.561,0.557" />
+  <presetinput identifier="Emboss" uid="1635494412" type="0" value="0.699" />
+  <presetinput identifier="Normal" uid="1635494483" type="0" value="0.422" />
+  <presetinput identifier="$outputsize" uid="1680272521" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_013/concrete_013" label="var03" >
+  <presetinput identifier="Peebles_Color_1" uid="520004457" type="2" value="0.427,0.404,0.392" />
+  <presetinput identifier="Rain" uid="520059749" type="0" value="0.37" />
+  <presetinput identifier="Concrete_Color" uid="520071500" type="2" value="0.675,0.541,0.51" />
+  <presetinput identifier="Emboss" uid="1635494412" type="0" value="0.699" />
+  <presetinput identifier="Normal" uid="1635494483" type="0" value="0.422" />
+  <presetinput identifier="$outputsize" uid="1680272521" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

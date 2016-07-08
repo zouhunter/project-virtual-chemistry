@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="5" >
+ <sbspreset pkgurl="pkg://concrete_006/concrete_006" label="var01" >
+  <presetinput identifier="$outputsize" uid="806329538" type="8" value="9,9" />
+  <presetinput identifier="Moisture" uid="893044356" type="0" value="0.633" />
+  <presetinput identifier="Holes_Scale" uid="893067669" type="0" value="0.332" />
+  <presetinput identifier="Scratches" uid="893071856" type="0" value="0.036" />
+  <presetinput identifier="Moisture_Balance" uid="1254194772" type="0" value="0.252" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_006/concrete_006" label="var02" >
+  <presetinput identifier="$outputsize" uid="806329538" type="8" value="9,9" />
+  <presetinput identifier="Moisture_Balance" uid="1254194772" type="0" value="0.252" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_006/concrete_006" label="var03" >
+  <presetinput identifier="$outputsize" uid="806329538" type="8" value="9,9" />
+  <presetinput identifier="Moisture_Balance" uid="1254194772" type="0" value="0.444" />
+  <presetinput identifier="Concrete_Color" uid="1254276510" type="2" value="0.702,0.702,0.706" />
+  <presetinput identifier="Plaster_Color" uid="1254289862" type="2" value="0.859,0.859,0.831" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_006/concrete_006" label="var04" >
+  <presetinput identifier="$outputsize" uid="806329538" type="8" value="9,9" />
+  <presetinput identifier="Moisture" uid="893044356" type="0" value="0.542" />
+  <presetinput identifier="Scratches" uid="893071856" type="0" value="0.283" />
+  <presetinput identifier="Emboss" uid="894622279" type="0" value="0.841" />
+  <presetinput identifier="Moisture_Balance" uid="1254194772" type="0" value="0.499" />
+  <presetinput identifier="Concrete_Color" uid="1254276510" type="2" value="0.702,0.702,0.706" />
+  <presetinput identifier="Plaster_Color" uid="1254289862" type="2" value="0.859,0.859,0.831" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_006/concrete_006" label="var05" >
+  <presetinput identifier="$outputsize" uid="806329538" type="8" value="9,9" />
+  <presetinput identifier="Moisture" uid="893044356" type="0" value="0.06" />
+  <presetinput identifier="Scratches" uid="893071856" type="0" value="0.463" />
+  <presetinput identifier="Emboss" uid="894622279" type="0" value="0.841" />
+  <presetinput identifier="Moisture_Balance" uid="1254194772" type="0" value="1" />
+  <presetinput identifier="Concrete_Color" uid="1254276510" type="2" value="0.702,0.702,0.706" />
+  <presetinput identifier="Plaster_Color" uid="1254289862" type="2" value="0.859,0.859,0.831" />
+ </sbspreset>
+</sbspresets>

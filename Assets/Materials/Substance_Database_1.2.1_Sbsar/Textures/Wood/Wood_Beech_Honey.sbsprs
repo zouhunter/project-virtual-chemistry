@@ -1,0 +1,42 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wood_Beech_Honey/Wood_Beech_Honey" label="var01" >
+  <presetinput identifier="Knots" uid="2431930964" type="0" value="1" />
+  <presetinput identifier="Fibers" uid="2432664530" type="0" value="0" />
+  <presetinput identifier="Contrast" uid="2440310949" type="0" value="-0.033" />
+  <presetinput identifier="Normal" uid="2440311239" type="0" value="0.612" />
+  <presetinput identifier="Emboss" uid="2440380062" type="0" value="2.52" />
+  <presetinput identifier="Angle" uid="2440380066" type="0" value="0.608" />
+  <presetinput identifier="Depth" uid="2440888925" type="0" value="-1" />
+  <presetinput identifier="Luminosity" uid="2448441520" type="0" value="0.428" />
+  <presetinput identifier="Saturation" uid="2448441523" type="0" value="0.591" />
+  <presetinput identifier="$outputsize" uid="2499984775" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3262163925" type="4" value="-93163645" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Beech_Honey/Wood_Beech_Honey" label="var03" >
+  <presetinput identifier="Knots" uid="2431930964" type="0" value="0.45" />
+  <presetinput identifier="Fibers" uid="2432664530" type="0" value="0" />
+  <presetinput identifier="Relief_Balance" uid="2435835402" type="0" value="12.562" />
+  <presetinput identifier="Contrast" uid="2440310949" type="0" value="-0.033" />
+  <presetinput identifier="Normal" uid="2440311239" type="0" value="0.612" />
+  <presetinput identifier="Emboss" uid="2440380062" type="0" value="-9.961" />
+  <presetinput identifier="Angle" uid="2440380066" type="0" value="0.717" />
+  <presetinput identifier="Depth" uid="2440888925" type="0" value="-1" />
+  <presetinput identifier="Luminosity" uid="2448441520" type="0" value="0.344" />
+  <presetinput identifier="Saturation" uid="2448441523" type="0" value="0.579" />
+  <presetinput identifier="$outputsize" uid="2499984775" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3262163925" type="4" value="-1218725457" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Beech_Honey/Wood_Beech_Honey" label="var02" >
+  <presetinput identifier="Knots" uid="2431930964" type="0" value="1" />
+  <presetinput identifier="Fibers" uid="2432664530" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="2440310949" type="0" value="-0.033" />
+  <presetinput identifier="Normal" uid="2440311239" type="0" value="0.612" />
+  <presetinput identifier="Emboss" uid="2440380062" type="0" value="-9.961" />
+  <presetinput identifier="Angle" uid="2440380066" type="0" value="0.25" />
+  <presetinput identifier="Depth" uid="2440888925" type="0" value="-1" />
+  <presetinput identifier="Luminosity" uid="2448441520" type="0" value="0.407" />
+  <presetinput identifier="Saturation" uid="2448441523" type="0" value="0.579" />
+  <presetinput identifier="$outputsize" uid="2499984775" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3262163925" type="4" value="-1104578330" />
+ </sbspreset>
+</sbspresets>

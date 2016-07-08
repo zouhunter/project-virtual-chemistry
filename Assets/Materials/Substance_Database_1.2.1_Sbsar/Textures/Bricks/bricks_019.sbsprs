@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://bricks_019/bricks_019" label="var01" >
+  <presetinput identifier="$randomseed" uid="90655139" type="4" value="-1905827065" />
+  <presetinput identifier="Bricks_Amount_X" uid="680681907" type="4" value="7" />
+  <presetinput identifier="Bricks_Amount_Y" uid="680681908" type="4" value="12" />
+  <presetinput identifier="Bricks_Color" uid="686242365" type="2" value="0.345,0.2,0.153" />
+  <presetinput identifier="$outputsize" uid="1377132529" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="1462524421" type="0" value="0" />
+  <presetinput identifier="Moss" uid="1462524446" type="0" value="0" />
+  <presetinput identifier="Yellow_Stains" uid="1462524456" type="0" value="0.423" />
+  <presetinput identifier="White_Stains" uid="1462525437" type="0" value="0.876" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_019/bricks_019" label="var02" >
+  <presetinput identifier="$randomseed" uid="90655139" type="4" value="754691904" />
+  <presetinput identifier="Mortar_Color" uid="680176990" type="2" value="0.91,0.906,0.937" />
+  <presetinput identifier="Bricks_Amount_Y" uid="680681908" type="4" value="17" />
+  <presetinput identifier="Bricks_Color" uid="686242365" type="2" value="0.318,0.318,0.345" />
+  <presetinput identifier="$outputsize" uid="1377132529" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="1462524421" type="0" value="0.868" />
+  <presetinput identifier="Moss" uid="1462524446" type="0" value="0.971" />
+  <presetinput identifier="Yellow_Stains" uid="1462524456" type="0" value="0.199" />
+  <presetinput identifier="White_Stains" uid="1462525437" type="0" value="0.344" />
+ </sbspreset>
+</sbspresets>

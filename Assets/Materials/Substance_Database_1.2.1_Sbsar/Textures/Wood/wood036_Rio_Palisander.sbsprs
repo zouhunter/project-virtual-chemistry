@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood036/wood036" label="var02">
+  <presetinput identifier="Fleck" uid="2313672429" type="0" value="1"/>
+  <presetinput identifier="Pattern_Warp" uid="2313672443" type="0" value="0.98"/>
+  <presetinput identifier="Light_Angle" uid="2314390884" type="0" value="0.131"/>
+  <presetinput identifier="Emboss" uid="2314391036" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="2314416834" type="0" value="0.542"/>
+  <presetinput identifier="Saturation" uid="2314416855" type="0" value="0.267"/>
+  <presetinput identifier="$outputsize" uid="2360314745" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3688733995" type="4" value="-1017512387"/>
+  <presetinput identifier="Battens" uid="4134872584" type="4" value="1"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood036/wood036" label="var03">
+  <presetinput identifier="Fleck" uid="2313672429" type="0" value="1"/>
+  <presetinput identifier="Pattern_Warp" uid="2313672443" type="0" value="0.98"/>
+  <presetinput identifier="Light_Angle" uid="2314390884" type="0" value="0.131"/>
+  <presetinput identifier="Emboss" uid="2314391036" type="0" value="0.498"/>
+  <presetinput identifier="Luminosity" uid="2314416834" type="0" value="0.542"/>
+  <presetinput identifier="Saturation" uid="2314416855" type="0" value="0.267"/>
+  <presetinput identifier="$outputsize" uid="2360314745" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3688733995" type="4" value="-1170297864"/>
+  <presetinput identifier="Battens" uid="4134872584" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="4134872677" type="4" value="4"/>
+  <presetinput identifier="Battens_Color_Variation" uid="4134893311" type="0" value="0.343"/>
+  <presetinput identifier="Battens_Gap" uid="4149872717" type="0" value="0.018"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood036/wood036" label="var01">
+  <presetinput identifier="Pattern_Warp" uid="2062398565" type="0" value="1"/>
+  <presetinput identifier="Fleck" uid="2062398579" type="0" value="0.89"/>
+  <presetinput identifier="Emboss" uid="2063118178" type="0" value="0.498"/>
+  <presetinput identifier="Light_Angle" uid="2063118330" type="0" value="0.753"/>
+  <presetinput identifier="Hue_Shift" uid="2063159342" type="0" value="1"/>
+  <presetinput identifier="Saturation" uid="2063159369" type="0" value="0.81"/>
+  <presetinput identifier="Luminosity" uid="2063159388" type="0" value="0.57"/>
+  <presetinput identifier="$outputsize" uid="2141579751" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

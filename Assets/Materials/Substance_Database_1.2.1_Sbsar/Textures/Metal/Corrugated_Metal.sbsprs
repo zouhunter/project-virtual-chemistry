@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Corrugated_Metal/Corrugated_Metal" label="var01" >
+  <presetinput identifier="$randomseed" uid="104393247" type="4" value="-654868754" />
+  <presetinput identifier="$outputsize" uid="1363868749" type="8" value="9,9" />
+  <presetinput identifier="Paint_Hue" uid="1409474609" type="0" value="0.561" />
+  <presetinput identifier="Rust" uid="1432709681" type="0" value="0.139" />
+  <presetinput identifier="Pattern_Density" uid="1432714583" type="4" value="10" />
+  <presetinput identifier="Emboss" uid="1433897778" type="0" value="9.258" />
+  <presetinput identifier="Normal" uid="1433897803" type="0" value="0.895" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Corrugated_Metal/Corrugated_Metal" label="var02" >
+  <presetinput identifier="$randomseed" uid="104393247" type="4" value="-1128836633" />
+  <presetinput identifier="$outputsize" uid="1363868749" type="8" value="9,9" />
+  <presetinput identifier="Paint_Hue" uid="1409474609" type="0" value="0.967" />
+  <presetinput identifier="Rust" uid="1432709681" type="0" value="0.586" />
+  <presetinput identifier="Pattern_Density" uid="1432714583" type="4" value="23" />
+  <presetinput identifier="Emboss" uid="1433897778" type="0" value="9.258" />
+  <presetinput identifier="Normal" uid="1433897803" type="0" value="0.895" />
+ </sbspreset>
+</sbspresets>

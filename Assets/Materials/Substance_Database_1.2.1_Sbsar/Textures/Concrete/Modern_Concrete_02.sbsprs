@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Modern_Concrete_02/Modern_Concrete_02" label="var01" >
+  <presetinput identifier="Concrete_Color" uid="2196927396" type="2" value="0.675,0.702,0.643" />
+  <presetinput identifier="$outputsize" uid="4163409791" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="4235325058" type="0" value="0.2" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Modern_Concrete_02/Modern_Concrete_02" label="var02" >
+  <presetinput identifier="Concrete_Color" uid="2196927396" type="2" value="0.702,0.592,0.533" />
+  <presetinput identifier="$outputsize" uid="4163409791" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="4235325058" type="0" value="0.496" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Modern_Concrete_02/Modern_Concrete_02" label="var03" >
+  <presetinput identifier="Concrete_Color" uid="2196927396" type="2" value="0.8,0.855,0.753" />
+  <presetinput identifier="$outputsize" uid="4163409791" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="4234061156" type="0" value="0.283" />
+  <presetinput identifier="Emboss" uid="4234062911" type="0" value="7.969" />
+  <presetinput identifier="Age" uid="4235325058" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

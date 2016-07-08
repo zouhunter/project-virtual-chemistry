@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Snake_Skin/Snake_Skin" label="var01" >
+  <presetinput identifier="$randomseed" uid="312624448" type="4" value="1361055270" />
+  <presetinput identifier="Skin_Color" uid="1057670189" type="2" value="0.345,0.435,0.298" />
+  <presetinput identifier="Skin_Pattern" uid="1074084979" type="4" value="1" />
+  <presetinput identifier="Warp" uid="1106459894" type="0" value="0.247" />
+  <presetinput identifier="$outputsize" uid="1171280658" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Snake_Skin/Snake_Skin" label="var02" >
+  <presetinput identifier="$randomseed" uid="312624448" type="4" value="965773167" />
+  <presetinput identifier="Skin_Color" uid="1057670189" type="2" value="0.435,0.333,0.282" />
+  <presetinput identifier="Skin_Pattern" uid="1074084979" type="4" value="2" />
+  <presetinput identifier="Warp" uid="1106459894" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1171280658" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Snake_Skin/Snake_Skin" label="var03" >
+  <presetinput identifier="$randomseed" uid="312624448" type="4" value="620420913" />
+  <presetinput identifier="Skin_Color" uid="1057670189" type="2" value="0.435,0.333,0.282" />
+  <presetinput identifier="Skin_Pattern" uid="1074084979" type="4" value="2" />
+  <presetinput identifier="Normal" uid="1106052465" type="0" value="0.784" />
+  <presetinput identifier="Shed" uid="1106459047" type="4" value="1" />
+  <presetinput identifier="Warp" uid="1106459894" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1171280658" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

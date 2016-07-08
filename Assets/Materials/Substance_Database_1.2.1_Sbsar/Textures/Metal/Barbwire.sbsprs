@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Barbwire/Barbwire" label="var01" >
+  <presetinput identifier="$randomseed" uid="2745240374" type="4" value="-1374825781" />
+  <presetinput identifier="Warp" uid="4033594160" type="0" value="0" />
+  <presetinput identifier="Saturation" uid="4033595589" type="0" value="0.464" />
+  <presetinput identifier="Luminosity" uid="4033595615" type="0" value="0.392" />
+  <presetinput identifier="Angle" uid="4037929613" type="0" value="0.25" />
+  <presetinput identifier="Rust" uid="4086884805" type="0" value="0.057" />
+  <presetinput identifier="$outputsize" uid="4107476324" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Barbwire/Barbwire" label="var02" >
+  <presetinput identifier="$randomseed" uid="2745240374" type="4" value="560060302" />
+  <presetinput identifier="Warp" uid="4033594160" type="0" value="91.992" />
+  <presetinput identifier="Saturation" uid="4033595589" type="0" value="0.452" />
+  <presetinput identifier="Angle" uid="4037929613" type="0" value="0.475" />
+  <presetinput identifier="Depth" uid="4037932384" type="0" value="-0.875" />
+  <presetinput identifier="Contrast" uid="4037932458" type="0" value="-0.15" />
+  <presetinput identifier="Normal" uid="4037932527" type="0" value="0.652" />
+  <presetinput identifier="Rust" uid="4086884805" type="0" value="0.057" />
+  <presetinput identifier="$outputsize" uid="4107476324" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Barbwire/Barbwire" label="var03" >
+  <presetinput identifier="$randomseed" uid="2745240374" type="4" value="-259832567" />
+  <presetinput identifier="Warp" uid="4033594160" type="0" value="10.938" />
+  <presetinput identifier="Saturation" uid="4033595589" type="0" value="0.452" />
+  <presetinput identifier="Hue_Shift" uid="4033595635" type="0" value="0.055" />
+  <presetinput identifier="Angle" uid="4037929613" type="0" value="0.114" />
+  <presetinput identifier="Depth" uid="4037932384" type="0" value="-1" />
+  <presetinput identifier="Contrast" uid="4037932458" type="0" value="-0.15" />
+  <presetinput identifier="Normal" uid="4037932527" type="0" value="0.652" />
+  <presetinput identifier="Rust" uid="4086884805" type="0" value="0.909" />
+  <presetinput identifier="$outputsize" uid="4107476324" type="8" value="10,10" />
+ </sbspreset>
+</sbspresets>

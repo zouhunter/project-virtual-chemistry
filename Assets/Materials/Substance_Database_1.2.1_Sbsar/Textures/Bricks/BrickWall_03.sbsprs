@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://BrickWall_03/BrickWall_03" label="var01" >
+  <presetinput identifier="Hue_Shift" uid="2288063874" type="0" value="0.115" />
+  <presetinput identifier="Saturation" uid="2288063876" type="0" value="0.387" />
+  <presetinput identifier="Luminosity" uid="2288063879" type="0" value="0.527" />
+  <presetinput identifier="Angle" uid="2296671125" type="0" value="0.622" />
+  <presetinput identifier="Emboss" uid="2296671145" type="0" value="1.797" />
+  <presetinput identifier="$outputsize" uid="2358503600" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://BrickWall_03/BrickWall_03" label="var02" >
+  <presetinput identifier="Saturation" uid="2288063876" type="0" value="0.634" />
+  <presetinput identifier="Luminosity" uid="2288063879" type="0" value="0.471" />
+  <presetinput identifier="Angle" uid="2296671125" type="0" value="0.197" />
+  <presetinput identifier="Emboss" uid="2296671145" type="0" value="6.816" />
+  <presetinput identifier="Age" uid="2296736370" type="0" value="0.562" />
+  <presetinput identifier="$outputsize" uid="2358503600" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3689021154" type="4" value="-1768589088" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://BrickWall_03/BrickWall_03" label="var03" >
+  <presetinput identifier="Hue_Shift" uid="2288063874" type="0" value="0.072" />
+  <presetinput identifier="Saturation" uid="2288063876" type="0" value="0.634" />
+  <presetinput identifier="Luminosity" uid="2288063879" type="0" value="0.471" />
+  <presetinput identifier="Bricks_X" uid="2291132581" type="4" value="6" />
+  <presetinput identifier="Mortar" uid="2293006875" type="0" value="0.905" />
+  <presetinput identifier="Angle" uid="2296671125" type="0" value="0.711" />
+  <presetinput identifier="Emboss" uid="2296671145" type="0" value="6.816" />
+  <presetinput identifier="Age" uid="2296736370" type="0" value="0.945" />
+  <presetinput identifier="$outputsize" uid="2358503600" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3689021154" type="4" value="-1768589088" />
+ </sbspreset>
+</sbspresets>

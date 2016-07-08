@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Flesh/Flesh" label="var01" >
+  <presetinput identifier="$outputsize" uid="2330579399" type="8" value="9,9" />
+  <presetinput identifier="Nerves" uid="2402447314" type="0" value="0.812" />
+  <presetinput identifier="Cooked" uid="2402448974" type="0" value="0.524" />
+  <presetinput identifier="Grill_Pattern" uid="2404166233" type="0" value="0.694" />
+  <presetinput identifier="$randomseed" uid="3717973909" type="4" value="1409466370" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Flesh/Flesh" label="var02" >
+  <presetinput identifier="$outputsize" uid="2330579399" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="2402438324" type="0" value="0.532" />
+  <presetinput identifier="Nerves" uid="2402447314" type="0" value="0.812" />
+  <presetinput identifier="Cooked" uid="2402448974" type="0" value="0.524" />
+  <presetinput identifier="Grill_Pattern" uid="2404166233" type="0" value="0.221" />
+  <presetinput identifier="$randomseed" uid="3717973909" type="4" value="-942648254" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Rock_02/Rock_02" label="var01" >
+  <presetinput identifier="$randomseed" uid="2459649006" type="4" value="207207185" />
+  <presetinput identifier="Contrast" uid="3252125349" type="0" value="0.246" />
+  <presetinput identifier="Depth" uid="3252125350" type="0" value="-1" />
+  <presetinput identifier="Luminosity" uid="3252125354" type="0" value="0.54" />
+  <presetinput identifier="Saturation" uid="3252125355" type="0" value="0.37" />
+  <presetinput identifier="$outputsize" uid="3320403388" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Rock_02/Rock_02" label="var02" >
+  <presetinput identifier="$randomseed" uid="2459649006" type="4" value="-241679654" />
+  <presetinput identifier="Wet" uid="3251904091" type="0" value="0.672" />
+  <presetinput identifier="Contrast" uid="3252125349" type="0" value="-0.219" />
+  <presetinput identifier="Depth" uid="3252125350" type="0" value="1" />
+  <presetinput identifier="Hue_Shift" uid="3252125353" type="0" value="0.521" />
+  <presetinput identifier="Luminosity" uid="3252125354" type="0" value="0.54" />
+  <presetinput identifier="Saturation" uid="3252125355" type="0" value="0.528" />
+  <presetinput identifier="$outputsize" uid="3320403388" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

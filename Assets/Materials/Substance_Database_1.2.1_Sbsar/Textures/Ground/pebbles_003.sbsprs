@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://pebbles_003/pebbles_003" label="var01" >
+  <presetinput identifier="$randomseed" uid="2244031288" type="4" value="656481827" />
+  <presetinput identifier="Water_Color" uid="2826234124" type="3" value="0,0,0,1" />
+  <presetinput identifier="Pebbles_Color_2" uid="2826234126" type="2" value="0.792,0.792,0.792" />
+  <presetinput identifier="Pebbles_Color_1" uid="2826234127" type="2" value="0.224,0.22,0.192" />
+  <presetinput identifier="$outputsize" uid="3534955882" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="3618359461" type="0" value="0.032" />
+  <presetinput identifier="Scale" uid="3621376423" type="0" value="0.8" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_003/pebbles_003" label="var02" >
+  <presetinput identifier="$randomseed" uid="2244031288" type="4" value="-653337276" />
+  <presetinput identifier="Pebbles_Color_2" uid="2826234126" type="2" value="0.58,0.584,0.58" />
+  <presetinput identifier="Pebbles_Color_1" uid="2826234127" type="2" value="0.486,0.498,0.478" />
+  <presetinput identifier="Contrast" uid="2826308012" type="0" value="0.174" />
+  <presetinput identifier="$outputsize" uid="3534955882" type="8" value="9,9" />
+  <presetinput identifier="Water_Level" uid="3618349912" type="0" value="0.56" />
+  <presetinput identifier="Moss" uid="3618359461" type="0" value="0.103" />
+  <presetinput identifier="Scale" uid="3621376423" type="0" value="0.693" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://pebbles_003/pebbles_003" label="var03" >
+  <presetinput identifier="$randomseed" uid="2244031288" type="4" value="-725696343" />
+  <presetinput identifier="Pebbles_Color_2" uid="2826234126" type="2" value="0.667,0.604,0.604" />
+  <presetinput identifier="Pebbles_Color_1" uid="2826234127" type="2" value="0.412,0.439,0.459" />
+  <presetinput identifier="Contrast" uid="2826308012" type="0" value="0.111" />
+  <presetinput identifier="$outputsize" uid="3534955882" type="8" value="9,9" />
+  <presetinput identifier="Water_Level" uid="3618349912" type="0" value="0.146" />
+  <presetinput identifier="Moss" uid="3618359461" type="0" value="0.462" />
+  <presetinput identifier="Scale" uid="3621376423" type="0" value="0.373" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,44 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_052/concrete_052" label="var01">
+  <presetinput identifier="Contrast" uid="450794651" type="0" value="0.293"/>
+  <presetinput identifier="$randomseed" uid="927763292" type="4" value="1590019074"/>
+  <presetinput identifier="$outputsize" uid="1614716174" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="1700930720" type="0" value="0.524"/>
+  <presetinput identifier="Luminosity" uid="1700930741" type="0" value="0.48"/>
+  <presetinput identifier="Depth" uid="1701040422" type="0" value="-0.609"/>
+  <presetinput identifier="Light_Angle" uid="1701042963" type="0" value="0.739"/>
+  <presetinput identifier="Emboss" uid="1701043083" type="0" value="0.865"/>
+  <presetinput identifier="Normal" uid="1701043156" type="0" value="0.662"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_052/concrete_052" label="var02">
+  <presetinput identifier="Balance" uid="450146535" type="0" value="0.836"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="450344055" type="4" value="6"/>
+  <presetinput identifier="Bricks_Amount_X" uid="450344056" type="4" value="5"/>
+  <presetinput identifier="Contrast" uid="450794651" type="0" value="0.293"/>
+  <presetinput identifier="$randomseed" uid="927763292" type="4" value="-194267686"/>
+  <presetinput identifier="$outputsize" uid="1614716174" type="8" value="9,9"/>
+  <presetinput identifier="Roughness" uid="1696596611" type="0" value="0.243"/>
+  <presetinput identifier="Saturation" uid="1700930720" type="0" value="0.524"/>
+  <presetinput identifier="Luminosity" uid="1700930741" type="0" value="0.48"/>
+  <presetinput identifier="Depth" uid="1701040422" type="0" value="-0.609"/>
+  <presetinput identifier="Light_Angle" uid="1701042963" type="0" value="0.306"/>
+  <presetinput identifier="Emboss" uid="1701043083" type="0" value="0.865"/>
+  <presetinput identifier="Normal" uid="1701043156" type="0" value="0.662"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_052/concrete_052" label="var03">
+  <presetinput identifier="Balance" uid="450146535" type="0" value="1"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="450344055" type="4" value="6"/>
+  <presetinput identifier="Bricks_Amount_X" uid="450344056" type="4" value="5"/>
+  <presetinput identifier="Contrast" uid="450794651" type="0" value="0.293"/>
+  <presetinput identifier="$randomseed" uid="927763292" type="4" value="-194267686"/>
+  <presetinput identifier="$outputsize" uid="1614716174" type="8" value="9,9"/>
+  <presetinput identifier="Roughness" uid="1696596611" type="0" value="0.243"/>
+  <presetinput identifier="Moss" uid="1696602861" type="0" value="0.894"/>
+  <presetinput identifier="Saturation" uid="1700930720" type="0" value="0.524"/>
+  <presetinput identifier="Luminosity" uid="1700930741" type="0" value="0.48"/>
+  <presetinput identifier="Depth" uid="1701040422" type="0" value="-0.609"/>
+  <presetinput identifier="Light_Angle" uid="1701042963" type="0" value="0.306"/>
+  <presetinput identifier="Emboss" uid="1701043083" type="0" value="0.865"/>
+  <presetinput identifier="Normal" uid="1701043156" type="0" value="0.662"/>
+ </sbspreset>
+</sbspresets>

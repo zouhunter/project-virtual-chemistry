@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_035/concrete_035" label="var01" >
+  <presetinput identifier="Brick_Amount_X" uid="2513110429" type="4" value="1" />
+  <presetinput identifier="Brick_Amount_Y" uid="2513115572" type="4" value="1" />
+  <presetinput identifier="$randomseed" uid="3091580747" type="4" value="1307078038" />
+  <presetinput identifier="Erosion" uid="3926038851" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="4013412633" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_035/concrete_035" label="var02" >
+  <presetinput identifier="Dirtiness_Color" uid="2512572406" type="2" value="0.165,0.165,0.165" />
+  <presetinput identifier="Bricks_Color" uid="2512787797" type="2" value="0.404,0.404,0.404" />
+  <presetinput identifier="Brick_Amount_X" uid="2513110429" type="4" value="12" />
+  <presetinput identifier="Brick_Amount_Y" uid="2513115572" type="4" value="1" />
+  <presetinput identifier="$randomseed" uid="3091580747" type="4" value="-1171120651" />
+  <presetinput identifier="Erosion" uid="3926038851" type="0" value="0.672" />
+  <presetinput identifier="$outputsize" uid="4013412633" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_035/concrete_035" label="var03" >
+  <presetinput identifier="Concrete_Color" uid="2512569072" type="2" value="0.502,0.455,0.431" />
+  <presetinput identifier="Dirtiness" uid="2512571271" type="0" value="0.516" />
+  <presetinput identifier="Dirtiness_Color" uid="2512572406" type="2" value="0.62,0.62,0.62" />
+  <presetinput identifier="Bricks_Color" uid="2512787797" type="2" value="0.506,0.482,0.459" />
+  <presetinput identifier="Brick_Amount_X" uid="2513110429" type="4" value="12" />
+  <presetinput identifier="Brick_Amount_Y" uid="2513115572" type="4" value="19" />
+  <presetinput identifier="$randomseed" uid="3091580747" type="4" value="-760848153" />
+  <presetinput identifier="Erosion" uid="3926038851" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4013412633" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

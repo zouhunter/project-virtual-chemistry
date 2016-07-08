@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Rough_Ground/Rough_Ground" label="var01" >
+  <presetinput identifier="$randomseed" uid="750124229" type="4" value="-1856330112" />
+  <presetinput identifier="$outputsize" uid="2076699287" type="8" value="9,9" />
+  <presetinput identifier="Streaks" uid="2140151897" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2140159472" type="0" value="10" />
+  <presetinput identifier="Roughness" uid="2142073606" type="0" value="0" />
+  <presetinput identifier="Normal" uid="2142695023" type="0" value="0.975" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Rough_Ground/Rough_Ground" label="var02" >
+  <presetinput identifier="$randomseed" uid="750124229" type="4" value="1859557265" />
+  <presetinput identifier="$outputsize" uid="2076699287" type="8" value="9,9" />
+  <presetinput identifier="Streaks" uid="2140151897" type="0" value="0" />
+  <presetinput identifier="Hue_Shift" uid="2140159468" type="0" value="0.203" />
+  <presetinput identifier="Emboss" uid="2140159472" type="0" value="10" />
+  <presetinput identifier="Roughness" uid="2142073606" type="0" value="1" />
+  <presetinput identifier="Normal" uid="2142695023" type="0" value="0.975" />
+ </sbspreset>
+</sbspresets>

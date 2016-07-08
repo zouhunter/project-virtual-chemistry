@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://ground_016/ground_016" label="var01" >
+  <presetinput identifier="$randomseed" uid="2656648345" type="4" value="1180527273" />
+  <presetinput identifier="Stone_Color" uid="3017358385" type="2" value="0.192,0.196,0.204" />
+  <presetinput identifier="Background_Color" uid="3017383491" type="2" value="0.675,0.659,0.631" />
+  <presetinput identifier="$outputsize" uid="3375049419" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_016/ground_016" label="var02" >
+  <presetinput identifier="$randomseed" uid="2656648345" type="4" value="1585831561" />
+  <presetinput identifier="Stone_Color" uid="3017358385" type="2" value="0.114,0.122,0.133" />
+  <presetinput identifier="Background_Color" uid="3017383491" type="2" value="0.675,0.659,0.631" />
+  <presetinput identifier="$outputsize" uid="3375049419" type="8" value="9,9" />
+  <presetinput identifier="Snow" uid="3425823553" type="0" value="0.7" />
+ </sbspreset>
+</sbspresets>

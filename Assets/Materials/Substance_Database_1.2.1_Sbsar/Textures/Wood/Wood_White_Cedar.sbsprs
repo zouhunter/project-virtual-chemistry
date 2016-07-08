@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Wood_White_Cedar/Wood_White_Cedar" label="var_01" >
+  <presetinput identifier="$outputsize" uid="2827303131" type="8" value="9,9" />
+  <presetinput identifier="Knots" uid="2910050056" type="0" value="1" />
+  <presetinput identifier="Fibers" uid="2910324366" type="0" value="0.988" />
+  <presetinput identifier="Dirt" uid="3530112219" type="0" value="0.722" />
+  <presetinput identifier="$randomseed" uid="4294389385" type="4" value="1236958235" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_White_Cedar/Wood_White_Cedar" label="var_02" >
+  <presetinput identifier="$outputsize" uid="2827303131" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="2893530601" type="0" value="0.988" />
+  <presetinput identifier="Luminosity" uid="2893530604" type="0" value="0.464" />
+  <presetinput identifier="Emboss" uid="2901588930" type="0" value="10" />
+  <presetinput identifier="Angle" uid="2901588990" type="0" value="0.164" />
+  <presetinput identifier="Contrast" uid="2901652985" type="0" value="-0.035" />
+  <presetinput identifier="Knots" uid="2910050056" type="0" value="0" />
+  <presetinput identifier="Fibers" uid="2910324366" type="0" value="0" />
+  <presetinput identifier="Splinters" uid="3530109611" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="4294389385" type="4" value="-1395737861" />
+ </sbspreset>
+</sbspresets>

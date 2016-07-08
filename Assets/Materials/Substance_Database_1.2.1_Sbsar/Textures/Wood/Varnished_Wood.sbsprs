@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Varnished_Wood/Varnished_Wood" label="var01" >
+  <presetinput identifier="$outputsize" uid="2016045942" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="2080733058" type="0" value="0.785" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Varnished_Wood/Varnished_Wood" label="var02" >
+  <presetinput identifier="Wood_Color" uid="49335344" type="2" value="0.976,0.635,0.333" />
+  <presetinput identifier="$randomseed" uid="794328356" type="4" value="-521230334" />
+  <presetinput identifier="$outputsize" uid="2016045942" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="2080733058" type="0" value="0.785" />
+  <presetinput identifier="Planks" uid="2080733883" type="4" value="8" />
+  <presetinput identifier="Depth" uid="2085999788" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Varnished_Wood/Varnished_Wood" label="var03" >
+  <presetinput identifier="Wood_Color" uid="49335344" type="2" value="0.427,0.294,0.216" />
+  <presetinput identifier="$randomseed" uid="794328356" type="4" value="542667244" />
+  <presetinput identifier="$outputsize" uid="2016045942" type="8" value="9,9" />
+  <presetinput identifier="Planks" uid="2080733883" type="4" value="5" />
+  <presetinput identifier="Depth" uid="2085999788" type="0" value="-0.896" />
+  <presetinput identifier="Normal" uid="2086463286" type="0" value="0.492" />
+ </sbspreset>
+</sbspresets>

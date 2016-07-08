@@ -1,0 +1,26 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Flower_Grass/Flower_Grass" label="var01" >
+  <presetinput identifier="Emboss" uid="3099381175" type="0" value="7.539" />
+  <presetinput identifier="Petals" uid="3102264555" type="0" value="0.008" />
+  <presetinput identifier="Flowers" uid="3116116456" type="4" value="0" />
+  <presetinput identifier="$outputsize" uid="3167440558" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3954792700" type="4" value="-862499400" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Flower_Grass/Flower_Grass" label="var02" >
+  <presetinput identifier="Emboss" uid="3099381175" type="0" value="7.539" />
+  <presetinput identifier="Petals" uid="3102264555" type="0" value="0.948" />
+  <presetinput identifier="Flowers_Size" uid="3102710775" type="4" value="3" />
+  <presetinput identifier="$outputsize" uid="3167440558" type="8" value="9,9" />
+  <presetinput identifier="Flowers_Color" uid="3322940220" type="2" value="1,0.902,0.541" />
+  <presetinput identifier="$randomseed" uid="3954792700" type="4" value="-862499400" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Flower_Grass/Flower_Grass" label="var03" >
+  <presetinput identifier="Emboss" uid="3099381175" type="0" value="8.652" />
+  <presetinput identifier="Normal" uid="3099443950" type="0" value="0.617" />
+  <presetinput identifier="Petals" uid="3102264555" type="0" value="0.542" />
+  <presetinput identifier="Flowers_Size" uid="3102710775" type="4" value="1" />
+  <presetinput identifier="$outputsize" uid="3167440558" type="8" value="9,9" />
+  <presetinput identifier="Flowers_Color" uid="3322940220" type="2" value="0.941,0.992,1" />
+  <presetinput identifier="$randomseed" uid="3954792700" type="4" value="-862499400" />
+ </sbspreset>
+</sbspresets>

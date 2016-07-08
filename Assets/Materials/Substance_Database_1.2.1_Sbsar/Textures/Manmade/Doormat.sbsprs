@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Doormat/Doormat" label="var01" >
+  <presetinput identifier="Emboss" uid="3494540038" type="0" value="6.621" />
+  <presetinput identifier="Luminosity" uid="3503230248" type="0" value="0.493" />
+  <presetinput identifier="Strands_Angle" uid="3520240213" type="0" value="0.539" />
+  <presetinput identifier="Strands_Chaos" uid="3520240407" type="0" value="0.206" />
+  <presetinput identifier="$outputsize" uid="3560828959" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Doormat/Doormat" label="var02" >
+  <presetinput identifier="Emboss" uid="3494540038" type="0" value="6.621" />
+  <presetinput identifier="Normal" uid="3494607967" type="0" value="0.581" />
+  <presetinput identifier="Contrast" uid="3494608189" type="0" value="0.111" />
+  <presetinput identifier="Luminosity" uid="3503230248" type="0" value="0.488" />
+  <presetinput identifier="Strands_Angle" uid="3520240213" type="0" value="0.989" />
+  <presetinput identifier="Strands_Chaos" uid="3520240407" type="0" value="0.918" />
+  <presetinput identifier="$outputsize" uid="3560828959" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stones_007/stones_007" label="var01" >
+  <presetinput identifier="$randomseed" uid="2531915228" type="4" value="-1837296851" />
+  <presetinput identifier="Yellow_Molds_Color" uid="3143950589" type="2" value="0.494,0.384,0.286" />
+  <presetinput identifier="White_Molds_Color" uid="3143951128" type="2" value="0.455,0.525,0.408" />
+  <presetinput identifier="White_Molds_Amount" uid="3143953948" type="0" value="0.451" />
+  <presetinput identifier="Yellow_Molds_Amount" uid="3144056724" type="0" value="0.213" />
+  <presetinput identifier="$outputsize" uid="3248219022" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="3297988223" type="0" value="0.6" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_007/stones_007" label="var02" >
+  <presetinput identifier="$randomseed" uid="2531915228" type="4" value="-1392264479" />
+  <presetinput identifier="Yellow_Molds_Color" uid="3143950589" type="2" value="0.945,0.855,0.518" />
+  <presetinput identifier="Moss_Color" uid="3143950791" type="2" value="0.843,0.855,0.835" />
+  <presetinput identifier="White_Molds_Color" uid="3143951128" type="2" value="0.686,0.776,0.671" />
+  <presetinput identifier="Concrete_Color" uid="3143951129" type="2" value="0.686,0.686,0.686" />
+  <presetinput identifier="Dirt_Color" uid="3143951131" type="2" value="0.475,0.424,0.369" />
+  <presetinput identifier="White_Molds_Amount" uid="3143953948" type="0" value="0" />
+  <presetinput identifier="Yellow_Molds_Amount" uid="3144056724" type="0" value="0.449" />
+  <presetinput identifier="$outputsize" uid="3248219022" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_007/stones_007" label="var03" >
+  <presetinput identifier="$randomseed" uid="2531915228" type="4" value="-1908752480" />
+  <presetinput identifier="Yellow_Molds_Color" uid="3143950589" type="2" value="0.945,0.855,0.518" />
+  <presetinput identifier="Moss_Color" uid="3143950791" type="2" value="0.549,0.51,0.435" />
+  <presetinput identifier="White_Molds_Color" uid="3143951128" type="2" value="0.188,0.224,0.184" />
+  <presetinput identifier="Concrete_Color" uid="3143951129" type="2" value="0.776,0.82,0.651" />
+  <presetinput identifier="Dirt_Color" uid="3143951131" type="2" value="0.4,0.475,0.376" />
+  <presetinput identifier="Yellow_Molds_Amount" uid="3144056724" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3248219022" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3301352715" type="0" value="0.108" />
+  <presetinput identifier="Depth" uid="3301355430" type="0" value="-1" />
+ </sbspreset>
+</sbspresets>

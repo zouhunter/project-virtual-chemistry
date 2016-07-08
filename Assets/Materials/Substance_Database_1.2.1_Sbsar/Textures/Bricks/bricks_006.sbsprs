@@ -1,0 +1,40 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_006/bricks_006" label="var01" >
+  <presetinput identifier="Bricks_Amount_X" uid="242798074" type="4" value="6" />
+  <presetinput identifier="Bricks_Amount_Y" uid="242798105" type="4" value="11" />
+  <presetinput identifier="Bricks_Random_Offset" uid="243214093" type="0" value="0.357" />
+  <presetinput identifier="Bricks_Line_01" uid="243263006" type="4" value="0" />
+  <presetinput identifier="Bricks_Line_01_Offset" uid="243263007" type="4" value="7" />
+  <presetinput identifier="Bricks_Line_03" uid="243263164" type="4" value="0" />
+  <presetinput identifier="Cement" uid="1906476990" type="0" value="0.438" />
+  <presetinput identifier="Dirtiness" uid="1906496380" type="0" value="0.558" />
+  <presetinput identifier="$outputsize" uid="1957901781" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_006/bricks_006" label="var02" >
+  <presetinput identifier="Bricks_Amount_X" uid="242798074" type="4" value="6" />
+  <presetinput identifier="Bricks_Amount_Y" uid="242798105" type="4" value="14" />
+  <presetinput identifier="Bricks_Offset" uid="243214092" type="0" value="0.568" />
+  <presetinput identifier="Bricks_Random_Offset" uid="243214093" type="0" value="0.452" />
+  <presetinput identifier="Bricks_Line_02" uid="243263001" type="4" value="0" />
+  <presetinput identifier="Bricks_Line_01_Offset" uid="243263007" type="4" value="7" />
+  <presetinput identifier="Bricks_Line_03" uid="243263164" type="4" value="0" />
+  <presetinput identifier="Cement" uid="1906476990" type="0" value="0.438" />
+  <presetinput identifier="Dirtiness" uid="1906496380" type="0" value="0.761" />
+  <presetinput identifier="Normal" uid="1911452431" type="0" value="0.635" />
+  <presetinput identifier="Emboss" uid="1911452496" type="0" value="0.735" />
+  <presetinput identifier="$outputsize" uid="1957901781" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_006/bricks_006" label="var03" >
+  <presetinput identifier="Bricks_Color" uid="242794224" type="2" value="0.314,0.329,0.282" />
+  <presetinput identifier="Bricks_Amount_X" uid="242798074" type="4" value="6" />
+  <presetinput identifier="Bricks_Amount_Y" uid="242798105" type="4" value="17" />
+  <presetinput identifier="Bricks_Offset" uid="243214092" type="0" value="0.568" />
+  <presetinput identifier="Bricks_Random_Offset" uid="243214093" type="0" value="0.563" />
+  <presetinput identifier="Bricks_Line_01_Offset" uid="243263007" type="4" value="7" />
+  <presetinput identifier="Cement" uid="1906476990" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="1906496380" type="0" value="0.907" />
+  <presetinput identifier="Normal" uid="1911452431" type="0" value="0.288" />
+  <presetinput identifier="Emboss" uid="1911452496" type="0" value="0.562" />
+  <presetinput identifier="$outputsize" uid="1957901781" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

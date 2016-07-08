@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://bricks_022/bricks_022" label="var01" >
+  <presetinput identifier="$outputsize" uid="582098298" type="8" value="9,9" />
+  <presetinput identifier="Wet" uid="664647800" type="0" value="0.158" />
+  <presetinput identifier="Bricks_Variation" uid="664647802" type="0" value="0.937" />
+  <presetinput identifier="Moisture" uid="664647807" type="0" value="1" />
+  <presetinput identifier="Saturation" uid="669951188" type="0" value="0.282" />
+  <presetinput identifier="$randomseed" uid="1975520040" type="4" value="-802968198" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_022/bricks_022" label="var02" >
+  <presetinput identifier="$outputsize" uid="582098298" type="8" value="9,9" />
+  <presetinput identifier="Wet" uid="664647800" type="0" value="0.005" />
+  <presetinput identifier="Bricks_Variation" uid="664647802" type="0" value="0.077" />
+  <presetinput identifier="Moisture" uid="664647807" type="0" value="0" />
+  <presetinput identifier="Bricks_Color_02" uid="664658018" type="2" value="0.18,0.118,0.098" />
+  <presetinput identifier="Bricks_Color_01" uid="664658019" type="2" value="0.298,0.216,0.196" />
+  <presetinput identifier="Side_Bricks_Color" uid="664658029" type="2" value="0.22,0.133,0.094" />
+  <presetinput identifier="Mortar_Color" uid="664658030" type="2" value="0.345,0.263,0.259" />
+  <presetinput identifier="Luminosity" uid="669951169" type="0" value="0.489" />
+  <presetinput identifier="Light_Angle" uid="669997927" type="0" value="0.722" />
+  <presetinput identifier="Contrast" uid="1480649938" type="0" value="-0.023" />
+  <presetinput identifier="Moisture_02_Color" uid="1480821378" type="2" value="0.855,0.725,0.71" />
+ </sbspreset>
+</sbspresets>

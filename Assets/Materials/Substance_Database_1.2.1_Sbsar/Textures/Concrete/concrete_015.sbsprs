@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_015/concrete_015" label="var01" >
+  <presetinput identifier="Moss" uid="257787453" type="0" value="0.28" />
+  <presetinput identifier="Stucco_Color" uid="257793617" type="2" value="0.757,0.757,0.757" />
+  <presetinput identifier="Roughness" uid="257797296" type="0" value="0.398" />
+  <presetinput identifier="$outputsize" uid="1971782154" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_015/concrete_015" label="var02" >
+  <presetinput identifier="Moss" uid="257787453" type="0" value="0.439" />
+  <presetinput identifier="Stucco_Color" uid="257793617" type="2" value="0.757,0.757,0.757" />
+  <presetinput identifier="Dirtiness" uid="257793635" type="0" value="0.558" />
+  <presetinput identifier="Roughness" uid="257797296" type="0" value="0.398" />
+  <presetinput identifier="$randomseed" uid="586486872" type="4" value="-1102403438" />
+  <presetinput identifier="$outputsize" uid="1971782154" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_015/concrete_015" label="var03" >
+  <presetinput identifier="Moss" uid="257787453" type="0" value="0.439" />
+  <presetinput identifier="Stucco_Color" uid="257793617" type="2" value="0.757,0.671,0.518" />
+  <presetinput identifier="Dirtiness" uid="257793635" type="0" value="0.977" />
+  <presetinput identifier="Roughness" uid="257797296" type="0" value="0.91" />
+  <presetinput identifier="$randomseed" uid="586486872" type="4" value="-1102403438" />
+  <presetinput identifier="$outputsize" uid="1971782154" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

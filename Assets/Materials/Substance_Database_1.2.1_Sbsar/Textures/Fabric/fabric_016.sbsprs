@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_016/fabric_016" label="var01" >
+  <presetinput identifier="$outputsize" uid="2583200674" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="2628008555" type="0" value="0.284" />
+  <presetinput identifier="Emboss" uid="2628109607" type="0" value="0.535" />
+  <presetinput identifier="Normal" uid="2628109688" type="0" value="0.574" />
+  <presetinput identifier="Light_Angle" uid="2628109759" type="0" value="0.653" />
+  <presetinput identifier="Depth" uid="2628112266" type="0" value="0.371" />
+  <presetinput identifier="$randomseed" uid="3465188848" type="4" value="1564517335" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_016/fabric_016" label="var02" >
+  <presetinput identifier="$outputsize" uid="2583200674" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="2628008460" type="0" value="0.574" />
+  <presetinput identifier="Hue_Shift" uid="2628008555" type="0" value="0.386" />
+  <presetinput identifier="Emboss" uid="2628109607" type="0" value="0.535" />
+  <presetinput identifier="Normal" uid="2628109688" type="0" value="0.574" />
+  <presetinput identifier="Light_Angle" uid="2628109759" type="0" value="0.653" />
+  <presetinput identifier="Depth" uid="2628112266" type="0" value="0.371" />
+  <presetinput identifier="$randomseed" uid="3465188848" type="4" value="1564517335" />
+  <presetinput identifier="Creases" uid="3808521892" type="0" value="0.511" />
+  <presetinput identifier="Contrast" uid="3810571755" type="0" value="0.141" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_016/fabric_016" label="var03" >
+  <presetinput identifier="$outputsize" uid="2583200674" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="2628008460" type="0" value="0.499" />
+  <presetinput identifier="Hue_Shift" uid="2628008555" type="0" value="0.247" />
+  <presetinput identifier="Emboss" uid="2628109607" type="0" value="0.535" />
+  <presetinput identifier="Normal" uid="2628109688" type="0" value="0.574" />
+  <presetinput identifier="Light_Angle" uid="2628109759" type="0" value="0.653" />
+  <presetinput identifier="Depth" uid="2628112266" type="0" value="0.371" />
+  <presetinput identifier="$randomseed" uid="3465188848" type="4" value="-2082985409" />
+  <presetinput identifier="Creases" uid="3808521892" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="3808521909" type="0" value="0.906" />
+  <presetinput identifier="Creases_Flap" uid="3808521947" type="0" value="0.943" />
+  <presetinput identifier="Contrast" uid="3810571755" type="0" value="0.141" />
+ </sbspreset>
+</sbspresets>

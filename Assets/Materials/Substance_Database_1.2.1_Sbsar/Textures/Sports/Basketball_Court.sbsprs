@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Basketball_Court/Basketball_Court" label="var01" >
+  <presetinput identifier="Luminosity" uid="285488724" type="0" value="0.468" />
+  <presetinput identifier="Saturation" uid="285488727" type="0" value="0.561" />
+  <presetinput identifier="Light_Angle" uid="293685318" type="0" value="0.425" />
+  <presetinput identifier="Emboss" uid="293685370" type="0" value="-10" />
+  <presetinput identifier="$outputsize" uid="368495459" type="8" value="11,11" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Basketball_Court/Basketball_Court" label="var02" >
+  <presetinput identifier="Court_Type" uid="272704301" type="4" value="4" />
+  <presetinput identifier="Dirt" uid="276799123" type="0" value="1" />
+  <presetinput identifier="Luminosity" uid="285488724" type="0" value="0.456" />
+  <presetinput identifier="Saturation" uid="285488727" type="0" value="0.572" />
+  <presetinput identifier="Light_Angle" uid="293685318" type="0" value="0.236" />
+  <presetinput identifier="Emboss" uid="293685370" type="0" value="10" />
+  <presetinput identifier="$outputsize" uid="368495459" type="8" value="11,11" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Basketball_Court/Basketball_Court" label="var03" >
+  <presetinput identifier="Court_Type" uid="272704301" type="4" value="6" />
+  <presetinput identifier="Dirt" uid="276799123" type="0" value="1" />
+  <presetinput identifier="Luminosity" uid="285488724" type="0" value="0.456" />
+  <presetinput identifier="Saturation" uid="285488727" type="0" value="0.572" />
+  <presetinput identifier="Light_Angle" uid="293685318" type="0" value="0.042" />
+  <presetinput identifier="Emboss" uid="293685370" type="0" value="10" />
+  <presetinput identifier="$outputsize" uid="368495459" type="8" value="11,11" />
+ </sbspreset>
+</sbspresets>

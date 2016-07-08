@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Impact_01/Impact_01" label="var01" >
+  <presetinput identifier="Details" uid="3504157335" type="0" value="0.057" />
+  <presetinput identifier="Glow_Size" uid="3504158986" type="0" value="0.444" />
+  <presetinput identifier="Warp" uid="3548991686" type="0" value="24.121" />
+  <presetinput identifier="$outputsize" uid="3568902746" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Impact_01/Impact_01" label="var02" >
+  <presetinput identifier="Details" uid="3504157335" type="0" value="0.676" />
+  <presetinput identifier="Glow_Size" uid="3504158986" type="0" value="0.471" />
+  <presetinput identifier="Warp" uid="3548991686" type="0" value="67.871" />
+  <presetinput identifier="$outputsize" uid="3568902746" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Impact_01/Impact_01" label="var03" >
+  <presetinput identifier="Emboss" uid="3502753803" type="0" value="9.473" />
+  <presetinput identifier="Luminosity" uid="3502753953" type="0" value="0.532" />
+  <presetinput identifier="Saturation" uid="3502753963" type="0" value="0.668" />
+  <presetinput identifier="Details" uid="3504157335" type="0" value="0.852" />
+  <presetinput identifier="Glow_Size" uid="3504158986" type="0" value="0.562" />
+  <presetinput identifier="Warp" uid="3548991686" type="0" value="45.312" />
+  <presetinput identifier="$outputsize" uid="3568902746" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

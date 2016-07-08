@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Muddy_Trail/Muddy_Trail" label="var01" >
+  <presetinput identifier="$randomseed" uid="927490122" type="4" value="84347581" />
+  <presetinput identifier="$outputsize" uid="1614444056" type="8" value="9,9" />
+  <presetinput identifier="Wet_Grass" uid="1678856877" type="0" value="0.625" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Muddy_Trail/Muddy_Trail" label="var02" >
+  <presetinput identifier="Wet_Grass_Spread" uid="449657355" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="927490122" type="4" value="1267231322" />
+  <presetinput identifier="$outputsize" uid="1614444056" type="8" value="9,9" />
+  <presetinput identifier="Wet_Grass" uid="1678856877" type="0" value="0.756" />
+  <presetinput identifier="Normal" uid="1682766424" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="1682766650" type="0" value="0.029" />
+  <presetinput identifier="Emboss" uid="1682830593" type="0" value="10" />
+ </sbspreset>
+</sbspresets>

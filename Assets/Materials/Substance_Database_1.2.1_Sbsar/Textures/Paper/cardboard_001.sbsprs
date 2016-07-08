@@ -1,0 +1,38 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://cardboard_001/cardboard_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="49063621" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="128982891" type="0" value="0.436" />
+  <presetinput identifier="Luminosity" uid="128982910" type="0" value="0.503" />
+  <presetinput identifier="Normal" uid="129097759" type="0" value="0.533" />
+  <presetinput identifier="Emboss" uid="129097792" type="0" value="0.436" />
+  <presetinput identifier="Light_Angle" uid="129097944" type="0" value="0.25" />
+  <presetinput identifier="$randomseed" uid="1436463255" type="4" value="1237385291" />
+  <presetinput identifier="Scale" uid="2014507316" type="4" value="28" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://cardboard_001/cardboard_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="49063621" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="128982891" type="0" value="0.436" />
+  <presetinput identifier="Luminosity" uid="128982910" type="0" value="0.503" />
+  <presetinput identifier="Normal" uid="129097759" type="0" value="0.533" />
+  <presetinput identifier="Emboss" uid="129097792" type="0" value="0.436" />
+  <presetinput identifier="Light_Angle" uid="129097944" type="0" value="0.25" />
+  <presetinput identifier="Dirtiness" uid="131141971" type="0" value="0.312" />
+  <presetinput identifier="Tearing" uid="131162595" type="0" value="0.34" />
+  <presetinput identifier="$randomseed" uid="1436463255" type="4" value="1520413526" />
+  <presetinput identifier="Scale" uid="2014507316" type="4" value="41" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://cardboard_001/cardboard_001" label="var03" >
+  <presetinput identifier="$outputsize" uid="49063621" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="128982891" type="0" value="0.436" />
+  <presetinput identifier="Luminosity" uid="128982910" type="0" value="0.503" />
+  <presetinput identifier="Normal" uid="129097759" type="0" value="0.357" />
+  <presetinput identifier="Emboss" uid="129097792" type="0" value="0.783" />
+  <presetinput identifier="Light_Angle" uid="129097944" type="0" value="0.161" />
+  <presetinput identifier="Dirtiness" uid="131141971" type="0" value="0.604" />
+  <presetinput identifier="Tearing" uid="131162595" type="0" value="0.008" />
+  <presetinput identifier="$randomseed" uid="1436463255" type="4" value="-1996980866" />
+  <presetinput identifier="Creases" uid="2014454020" type="0" value="0.956" />
+  <presetinput identifier="Scale" uid="2014507316" type="4" value="16" />
+  <presetinput identifier="Contrast" uid="2014817561" type="0" value="0.055" />
+ </sbspreset>
+</sbspresets>

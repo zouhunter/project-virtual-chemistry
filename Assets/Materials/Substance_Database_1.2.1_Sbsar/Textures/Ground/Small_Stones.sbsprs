@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Small_Stones/Small_Stones" label="var01" >
+  <presetinput identifier="Wet" uid="2302957034" type="0" value="0.239" />
+  <presetinput identifier="Normal" uid="2302963979" type="0" value="0.728" />
+  <presetinput identifier="Emboss" uid="2302964154" type="0" value="6.68" />
+  <presetinput identifier="$outputsize" uid="2373603333" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Small_Stones/Small_Stones" label="var02" >
+  <presetinput identifier="Wet" uid="2302957034" type="0" value="0.52" />
+  <presetinput identifier="Normal" uid="2302963979" type="0" value="0.728" />
+  <presetinput identifier="Emboss" uid="2302964154" type="0" value="6.68" />
+  <presetinput identifier="$outputsize" uid="2373603333" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3657975383" type="4" value="-1176791079" />
+ </sbspreset>
+</sbspresets>

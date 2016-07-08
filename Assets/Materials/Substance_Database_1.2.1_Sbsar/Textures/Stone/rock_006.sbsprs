@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://rock_006/rock_006" label="var01">
+  <presetinput identifier="$randomseed" uid="2240275117" type="4" value="864797539"/>
+  <presetinput identifier="Small_White_Stones_Size" uid="2825733287" type="0" value="0"/>
+  <presetinput identifier="Age" uid="2825899494" type="0" value="0.617"/>
+  <presetinput identifier="$outputsize" uid="3539334399" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="3618157178" type="0" value="0.414"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_006/rock_006" label="var02">
+  <presetinput identifier="$randomseed" uid="2240275117" type="4" value="-376425600"/>
+  <presetinput identifier="Small_White_Stones_Color" uid="2825697372" type="2" value="1,0.933,0.812"/>
+  <presetinput identifier="Base_Stones_Color" uid="2825699250" type="2" value="0.553,0.463,0.392"/>
+  <presetinput identifier="Age" uid="2825899494" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="3539334399" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="3618157178" type="0" value="0.414"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_006/rock_006" label="var03">
+  <presetinput identifier="$randomseed" uid="2240275117" type="4" value="-1774503136"/>
+  <presetinput identifier="Small_Yellow_Stones_Color" uid="2825697057" type="2" value="0.953,0.906,0.82"/>
+  <presetinput identifier="Small_White_Stones_Color" uid="2825697372" type="2" value="0.765,0.753,0.698"/>
+  <presetinput identifier="Base_Stones_Color" uid="2825699250" type="2" value="0.553,0.529,0.486"/>
+  <presetinput identifier="$outputsize" uid="3539334399" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="3618157178" type="0" value="0.806"/>
+ </sbspreset>
+</sbspresets>

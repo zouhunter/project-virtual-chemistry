@@ -1,0 +1,38 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Defocused_Light/Defocused_Light" label="var01" >
+  <presetinput identifier="Polygons" uid="137830633" type="0" value="0.568" />
+  <presetinput identifier="Halos" uid="137830646" type="0" value="0.298" />
+  <presetinput identifier="Dots" uid="137830697" type="0" value="0.712" />
+  <presetinput identifier="Stars" uid="137830710" type="0" value="0.687" />
+  <presetinput identifier="Star_Branches" uid="137839009" type="4" value="5" />
+  <presetinput identifier="Color_Variation" uid="137843844" type="0" value="0.296" />
+  <presetinput identifier="Color2Hue" uid="137843846" type="0" value="0.137" />
+  <presetinput identifier="Color1Hue" uid="137843961" type="0" value="0.293" />
+  <presetinput identifier="Anim_Direction" uid="137859844" type="0" value="40.078" />
+  <presetinput identifier="$outputsize" uid="231910535" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Defocused_Light/Defocused_Light" label="var02" >
+  <presetinput identifier="Polygons" uid="137830633" type="0" value="0.501" />
+  <presetinput identifier="Halos" uid="137830646" type="0" value="0.647" />
+  <presetinput identifier="Dots" uid="137830697" type="0" value="0.771" />
+  <presetinput identifier="Stars" uid="137830710" type="0" value="0.396" />
+  <presetinput identifier="Star_Branches" uid="137839009" type="4" value="11" />
+  <presetinput identifier="Color_Variation" uid="137843844" type="0" value="0.612" />
+  <presetinput identifier="Color2Hue" uid="137843846" type="0" value="0.337" />
+  <presetinput identifier="Color1Hue" uid="137843961" type="0" value="0.283" />
+  <presetinput identifier="Anim_Direction" uid="137859844" type="0" value="161.367" />
+  <presetinput identifier="$outputsize" uid="231910535" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Defocused_Light/Defocused_Light" label="var03" >
+  <presetinput identifier="Polygons" uid="137830633" type="0" value="0.871" />
+  <presetinput identifier="Halos" uid="137830646" type="0" value="0.982" />
+  <presetinput identifier="Dots" uid="137830697" type="0" value="0.771" />
+  <presetinput identifier="Stars" uid="137830710" type="0" value="0.396" />
+  <presetinput identifier="Star_Branches" uid="137839009" type="4" value="11" />
+  <presetinput identifier="Color_Variation" uid="137843844" type="0" value="0.776" />
+  <presetinput identifier="Color2Hue" uid="137843846" type="0" value="0.527" />
+  <presetinput identifier="Color1Hue" uid="137843961" type="0" value="0.455" />
+  <presetinput identifier="Anim_Direction" uid="137859844" type="0" value="218.672" />
+  <presetinput identifier="$outputsize" uid="231910535" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

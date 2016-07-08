@@ -1,0 +1,44 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Tree_Slice/Tree_Slice" label="var01" >
+  <presetinput identifier="$outputsize" uid="2874115290" type="8" value="9,9" />
+  <presetinput identifier="Saw_Cut" uid="2934630354" type="0" value="0.176" />
+  <presetinput identifier="Border" uid="2935592042" type="4" value="1" />
+  <presetinput identifier="Notches" uid="2935635282" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Slice/Tree_Slice" label="var02" >
+  <presetinput identifier="$outputsize" uid="2874115290" type="8" value="9,9" />
+  <presetinput identifier="Saw_Cut_Angle" uid="2934630351" type="4" value="36" />
+  <presetinput identifier="Saw_Cut" uid="2934630354" type="0" value="1" />
+  <presetinput identifier="Rings_Variation" uid="2935591309" type="0" value="0.495" />
+  <presetinput identifier="Border" uid="2935592042" type="4" value="1" />
+  <presetinput identifier="Color" uid="2935634961" type="4" value="2" />
+  <presetinput identifier="Notches" uid="2935635282" type="0" value="0.077" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Slice/Tree_Slice" label="var03" >
+  <presetinput identifier="$outputsize" uid="2874115290" type="8" value="9,9" />
+  <presetinput identifier="Saw_Cut_Angle" uid="2934630351" type="4" value="36" />
+  <presetinput identifier="Saw_Cut" uid="2934630354" type="0" value="1" />
+  <presetinput identifier="Rings_Variation" uid="2935591309" type="0" value="1" />
+  <presetinput identifier="Rings" uid="2935592437" type="4" value="36" />
+  <presetinput identifier="Roughness" uid="2935604635" type="0" value="1" />
+  <presetinput identifier="Notches" uid="2935635282" type="0" value="0.229" />
+  <presetinput identifier="Luminosity" uid="2948430317" type="0" value="0.52" />
+  <presetinput identifier="Saturation" uid="2948430318" type="0" value="0.531" />
+  <presetinput identifier="$randomseed" uid="4231893640" type="4" value="1986910522" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tree_Slice/Tree_Slice" label="var04" >
+  <presetinput identifier="$outputsize" uid="2874115290" type="8" value="9,9" />
+  <presetinput identifier="Saw_Cut_Angle" uid="2934630351" type="4" value="82" />
+  <presetinput identifier="Saw_Cut" uid="2934630354" type="0" value="1" />
+  <presetinput identifier="Rings_Variation" uid="2935591309" type="0" value="0.027" />
+  <presetinput identifier="Border" uid="2935592042" type="4" value="1" />
+  <presetinput identifier="Rings" uid="2935592437" type="4" value="6" />
+  <presetinput identifier="Roughness" uid="2935604635" type="0" value="0.144" />
+  <presetinput identifier="Color" uid="2935634961" type="4" value="2" />
+  <presetinput identifier="Notches" uid="2935635282" type="0" value="1" />
+  <presetinput identifier="Depth" uid="2939173632" type="0" value="0.686" />
+  <presetinput identifier="Luminosity" uid="2948430317" type="0" value="0.52" />
+  <presetinput identifier="Saturation" uid="2948430318" type="0" value="0.531" />
+  <presetinput identifier="$randomseed" uid="4231893640" type="4" value="1986910522" />
+ </sbspreset>
+</sbspresets>

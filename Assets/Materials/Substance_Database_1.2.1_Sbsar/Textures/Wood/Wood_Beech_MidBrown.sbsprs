@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Wood_Beech_MidBrown/Wood_Beech_MidBrown" label="var01" >
+  <presetinput identifier="$outputsize" uid="3010481666" type="8" value="9,9" />
+  <presetinput identifier="Angle" uid="3070741799" type="0" value="0.642" />
+  <presetinput identifier="$randomseed" uid="3825358928" type="4" value="392137576" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Beech_MidBrown/Wood_Beech_MidBrown" label="var02" >
+  <presetinput identifier="$outputsize" uid="3010481666" type="8" value="9,9" />
+  <presetinput identifier="Knots" uid="3062276561" type="0" value="0.377" />
+  <presetinput identifier="Normal" uid="3070673474" type="0" value="0.41" />
+  <presetinput identifier="Contrast" uid="3070673696" type="0" value="0.15" />
+  <presetinput identifier="Angle" uid="3070741799" type="0" value="0.247" />
+  <presetinput identifier="Depth" uid="3071275480" type="0" value="0.746" />
+  <presetinput identifier="Relief_Balance" uid="3076330895" type="0" value="30.75" />
+  <presetinput identifier="Saturation" uid="3078796086" type="0" value="0.636" />
+  <presetinput identifier="$randomseed" uid="3825358928" type="4" value="-1145622089" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wood_Beech_MidBrown/Wood_Beech_MidBrown" label="var03" >
+  <presetinput identifier="$outputsize" uid="3010481666" type="8" value="9,9" />
+  <presetinput identifier="Knots" uid="3062276561" type="0" value="1" />
+  <presetinput identifier="Fibers" uid="3062722647" type="0" value="1" />
+  <presetinput identifier="Normal" uid="3070673474" type="0" value="0.41" />
+  <presetinput identifier="Contrast" uid="3070673696" type="0" value="0.15" />
+  <presetinput identifier="Emboss" uid="3070741787" type="0" value="-6.719" />
+  <presetinput identifier="Angle" uid="3070741799" type="0" value="0.611" />
+  <presetinput identifier="Depth" uid="3071275480" type="0" value="0.746" />
+  <presetinput identifier="Relief_Balance" uid="3076330895" type="0" value="30.75" />
+  <presetinput identifier="Luminosity" uid="3078796085" type="0" value="0.56" />
+  <presetinput identifier="Saturation" uid="3078796086" type="0" value="0.495" />
+  <presetinput identifier="$randomseed" uid="3825358928" type="4" value="912754719" />
+ </sbspreset>
+</sbspresets>

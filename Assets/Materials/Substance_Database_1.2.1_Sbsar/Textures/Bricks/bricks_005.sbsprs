@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_005/bricks_005" label="var03" >
+  <presetinput identifier="$outputsize" uid="2586097311" type="8" value="9,9" />
+  <presetinput identifier="Edges_Bricks_Amount" uid="2668211361" type="4" value="5" />
+  <presetinput identifier="Damaged_Edges" uid="2668726972" type="0" value="1" />
+  <presetinput identifier="Interstices_Shape" uid="2672690241" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="2672783734" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2675568666" type="0" value="0.874" />
+  <presetinput identifier="Normal" uid="2675568709" type="0" value="0.995" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_005/bricks_005" label="var01" >
+  <presetinput identifier="$outputsize" uid="2586097311" type="8" value="9,9" />
+  <presetinput identifier="Tile_Color" uid="2667855209" type="2" value="0.243,0.188,0.133" />
+  <presetinput identifier="Damaged_Edges" uid="2668726972" type="0" value="0.137" />
+  <presetinput identifier="Interstices_Shape" uid="2672690241" type="0" value="0.077" />
+  <presetinput identifier="Dirtiness" uid="2672783734" type="0" value="0.198" />
+  <presetinput identifier="Emboss" uid="2675568666" type="0" value="0.57" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_005/bricks_005" label="var02" >
+  <presetinput identifier="$outputsize" uid="2586097311" type="8" value="9,9" />
+  <presetinput identifier="Edges_Bricks_Amount" uid="2668211361" type="4" value="3" />
+  <presetinput identifier="Damaged_Edges" uid="2668726972" type="0" value="1" />
+  <presetinput identifier="Interstices_Shape" uid="2672690241" type="0" value="0.722" />
+  <presetinput identifier="Dirtiness" uid="2672783734" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2675568666" type="0" value="0.57" />
+ </sbspreset>
+</sbspresets>

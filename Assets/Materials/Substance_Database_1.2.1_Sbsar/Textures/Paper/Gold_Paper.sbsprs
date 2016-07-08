@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Gold_Paper/Gold_Paper" label="var01" >
+  <presetinput identifier="$randomseed" uid="899468718" type="4" value="1028458537" />
+  <presetinput identifier="Saturation" uid="1725939404" type="0" value="0.536" />
+  <presetinput identifier="Luminosity" uid="1725939406" type="0" value="0.469" />
+  <presetinput identifier="Crumple" uid="1725939566" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Gold_Paper/Gold_Paper" label="var02" >
+  <presetinput identifier="$randomseed" uid="899468718" type="4" value="-24652295" />
+  <presetinput identifier="Erosion" uid="1725930644" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="1725939400" type="0" value="-0.102" />
+  <presetinput identifier="Saturation" uid="1725939404" type="0" value="0.033" />
+  <presetinput identifier="Luminosity" uid="1725939406" type="0" value="0.409" />
+  <presetinput identifier="Depth" uid="1725939541" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="1725939552" type="0" value="0.938" />
+  <presetinput identifier="Crumple" uid="1725939566" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

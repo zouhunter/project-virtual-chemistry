@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Asphalt_02/Asphalt_02" label="var01" >
+  <presetinput identifier="$outputsize" uid="3126326088" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="3189796945" type="0" value="-10" />
+  <presetinput identifier="Contrast" uid="3189866090" type="0" value="0.184" />
+  <presetinput identifier="Saturation" uid="3198488188" type="0" value="0.504" />
+  <presetinput identifier="$randomseed" uid="3978683674" type="4" value="693611667" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Asphalt_02/Asphalt_02" label="var02" >
+  <presetinput identifier="$outputsize" uid="3126326088" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="3189796945" type="0" value="10" />
+  <presetinput identifier="Angle" uid="3189796973" type="0" value="0.272" />
+  <presetinput identifier="Contrast" uid="3189866090" type="0" value="-0.184" />
+  <presetinput identifier="Normal" uid="3189866248" type="0" value="0.71" />
+  <presetinput identifier="Depth" uid="3190312082" type="0" value="1" />
+  <presetinput identifier="Cracks" uid="3194428392" type="0" value="1" />
+  <presetinput identifier="Damage" uid="3194428495" type="0" value="0" />
+  <presetinput identifier="Saturation" uid="3198488188" type="0" value="0.504" />
+  <presetinput identifier="$randomseed" uid="3978683674" type="4" value="200960664" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Asphalt_02/Asphalt_02" label="var03" >
+  <presetinput identifier="$outputsize" uid="3126326088" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="3189796945" type="0" value="10" />
+  <presetinput identifier="Angle" uid="3189796973" type="0" value="0.592" />
+  <presetinput identifier="Contrast" uid="3189866090" type="0" value="-0.184" />
+  <presetinput identifier="Normal" uid="3189866248" type="0" value="0.71" />
+  <presetinput identifier="Depth" uid="3190312082" type="0" value="-1" />
+  <presetinput identifier="Cracks" uid="3194428392" type="0" value="1" />
+  <presetinput identifier="Damage" uid="3194428495" type="0" value="1" />
+  <presetinput identifier="Damage_Scale" uid="3194433301" type="4" value="18" />
+  <presetinput identifier="Relief_Balance" uid="3195543781" type="0" value="31.875" />
+  <presetinput identifier="Saturation" uid="3198488188" type="0" value="0.504" />
+  <presetinput identifier="$randomseed" uid="3978683674" type="4" value="1009184114" />
+ </sbspreset>
+</sbspresets>

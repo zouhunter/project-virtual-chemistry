@@ -1,0 +1,13 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_039/concrete_039" label="var01" >
+  <presetinput identifier="$randomseed" uid="2600868429" type="4" value="13485408" />
+  <presetinput identifier="Moisture" uid="3377797089" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3430157343" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_039/concrete_039" label="var02" >
+  <presetinput identifier="$randomseed" uid="2600868429" type="4" value="-282911847" />
+  <presetinput identifier="Base_Color" uid="3377797049" type="2" value="0.353,0.325,0.306" />
+  <presetinput identifier="Moisture" uid="3377797089" type="0" value="0.735" />
+  <presetinput identifier="$outputsize" uid="3430157343" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

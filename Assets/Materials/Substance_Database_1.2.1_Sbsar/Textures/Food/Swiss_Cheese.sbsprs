@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Swiss_Cheese/Swiss_Cheese" label="var01" >
+  <presetinput identifier="Age" uid="2610656958" type="0" value="0.742" />
+  <presetinput identifier="$outputsize" uid="2651553904" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3380188706" type="4" value="-123539059" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Swiss_Cheese/Swiss_Cheese" label="var02" >
+  <presetinput identifier="Depth" uid="2591309738" type="0" value="-0.346" />
+  <presetinput identifier="Holes" uid="2610586428" type="0" value="1" />
+  <presetinput identifier="Age" uid="2610656958" type="0" value="0.964" />
+  <presetinput identifier="$outputsize" uid="2651553904" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3380188706" type="4" value="170540072" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Swiss_Cheese/Swiss_Cheese" label="var03" >
+  <presetinput identifier="Depth" uid="2591309738" type="0" value="-0.346" />
+  <presetinput identifier="Luminosity" uid="2600041799" type="0" value="0.53" />
+  <presetinput identifier="Holes" uid="2610586428" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2651553904" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3380188706" type="4" value="-674742576" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Swiss_Cheese/Swiss_Cheese" label="var04" >
+  <presetinput identifier="Depth" uid="2591309738" type="0" value="0.461" />
+  <presetinput identifier="Emboss" uid="2591818601" type="0" value="-0.449" />
+  <presetinput identifier="Holes" uid="2610586428" type="0" value="0.104" />
+  <presetinput identifier="$outputsize" uid="2651553904" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3380188706" type="4" value="1589151605" />
+ </sbspreset>
+</sbspresets>

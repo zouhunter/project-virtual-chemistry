@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood025/wood025" label="var01">
+  <presetinput identifier="$randomseed" uid="2374019627" type="4" value="1559902331"/>
+  <presetinput identifier="$outputsize" uid="3673341049" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3752723927" type="0" value="0.415"/>
+  <presetinput identifier="Emboss" uid="3752852220" type="0" value="0.713"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood025/wood025" label="var02">
+  <presetinput identifier="$randomseed" uid="2374019627" type="4" value="1559902331"/>
+  <presetinput identifier="Peeling" uid="2688188252" type="0" value="0.832"/>
+  <presetinput identifier="$outputsize" uid="3673341049" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3752723906" type="0" value="0.514"/>
+  <presetinput identifier="Saturation" uid="3752723927" type="0" value="0.389"/>
+  <presetinput identifier="Emboss" uid="3752852220" type="0" value="0.713"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood025/wood025" label="var03">
+  <presetinput identifier="$randomseed" uid="2374019627" type="4" value="1559902331"/>
+  <presetinput identifier="Battens" uid="2686980360" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="2686980453" type="4" value="2"/>
+  <presetinput identifier="Wood_Color" uid="2686996881" type="2" value="0.318,0.314,0.173"/>
+  <presetinput identifier="Peeling" uid="2688188252" type="0" value="0.666"/>
+  <presetinput identifier="$outputsize" uid="3673341049" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3752723906" type="0" value="0.514"/>
+  <presetinput identifier="Saturation" uid="3752723927" type="0" value="0.389"/>
+  <presetinput identifier="Emboss" uid="3752852220" type="0" value="0.713"/>
+ </sbspreset>
+</sbspresets>

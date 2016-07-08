@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://bark_006/bark_006" label="var01">
+  <presetinput identifier="$outputsize" uid="573442750" type="8" value="9,9"/>
+  <presetinput identifier="Cracks_01" uid="1489669592" type="0" value="0"/>
+  <presetinput identifier="Bark_Color" uid="1489685122" type="2" value="0.212,0.153,0.141"/>
+  <presetinput identifier="Wood_Color" uid="1489686811" type="2" value="0.49,0.467,0.459"/>
+  <presetinput identifier="Cracks_02" uid="1489811470" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="1968970988" type="4" value="-157448561"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_006/bark_006" label="var02">
+  <presetinput identifier="$outputsize" uid="573442750" type="8" value="9,9"/>
+  <presetinput identifier="Roughness" uid="1489634577" type="0" value="0.61"/>
+  <presetinput identifier="Bumps" uid="1489669347" type="0" value="0"/>
+  <presetinput identifier="Cracks_01" uid="1489669592" type="0" value="0"/>
+  <presetinput identifier="Bark_Color" uid="1489685122" type="2" value="0.212,0.196,0.161"/>
+  <presetinput identifier="Wood_Color" uid="1489686811" type="2" value="0.49,0.467,0.459"/>
+  <presetinput identifier="Cracks_02" uid="1489811470" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="1968970988" type="4" value="610506069"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_006/bark_006" label="var03">
+  <presetinput identifier="$outputsize" uid="573442750" type="8" value="9,9"/>
+  <presetinput identifier="Normal" uid="661867620" type="0" value="0.567"/>
+  <presetinput identifier="Light_Angle" uid="661867683" type="0" value="0.142"/>
+  <presetinput identifier="Roughness" uid="1489634577" type="0" value="0.61"/>
+  <presetinput identifier="Cracks_01" uid="1489669592" type="0" value="0"/>
+  <presetinput identifier="Bark_Color" uid="1489685122" type="2" value="0.188,0.196,0.122"/>
+  <presetinput identifier="Wood_Color" uid="1489686811" type="2" value="0.49,0.467,0.459"/>
+  <presetinput identifier="Holes" uid="1489799742" type="0" value="1"/>
+  <presetinput identifier="Cracks_02" uid="1489811470" type="0" value="0"/>
+  <presetinput identifier="$randomseed" uid="1968970988" type="4" value="914832203"/>
+ </sbspreset>
+</sbspresets>

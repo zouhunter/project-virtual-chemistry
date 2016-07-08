@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://ground_006/ground_006" label="var02" >
+  <presetinput identifier="Sand_Bump" uid="146588066" type="0" value="0.082" />
+  <presetinput identifier="Rock_Disorder" uid="146588069" type="0" value="0.743" />
+  <presetinput identifier="$outputsize" uid="229032463" type="8" value="9,9" />
+  <presetinput identifier="Snow" uid="2002849169" type="0" value="0.229" />
+  <presetinput identifier="Ice_Details" uid="2002849183" type="0" value="0.126" />
+  <presetinput identifier="Water_Flow" uid="2002849234" type="0" value="0.424" />
+  <presetinput identifier="Water_Level" uid="2002849297" type="0" value="0.57" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_006/ground_006" label="var01" >
+  <presetinput identifier="Sand_Bump" uid="146588066" type="0" value="0.082" />
+  <presetinput identifier="Rock_Disorder" uid="146588069" type="0" value="0.743" />
+  <presetinput identifier="$outputsize" uid="229032463" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1523897437" type="4" value="-1797677679" />
+  <presetinput identifier="Water_Level" uid="2002849297" type="0" value="0.514" />
+  <presetinput identifier="Sand_Color" uid="2002859145" type="2" value="0.843,0.804,0.604" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_006/ground_006" label="var03" >
+  <presetinput identifier="Sand_Bump" uid="146588066" type="0" value="0.225" />
+  <presetinput identifier="Rock_Disorder" uid="146588069" type="0" value="0.825" />
+  <presetinput identifier="$outputsize" uid="229032463" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1523897437" type="4" value="-297983921" />
+  <presetinput identifier="Water_Moss" uid="2002846529" type="0" value="0.318" />
+  <presetinput identifier="Water_To_Ice" uid="2002849159" type="0" value="0.704" />
+  <presetinput identifier="Snow" uid="2002849169" type="0" value="0.229" />
+  <presetinput identifier="Ice_Details" uid="2002849183" type="0" value="1" />
+  <presetinput identifier="Water_Flow" uid="2002849234" type="0" value="0.424" />
+  <presetinput identifier="Water_Level" uid="2002849297" type="0" value="0.57" />
+  <presetinput identifier="Sand_Color" uid="2002859145" type="2" value="0.843,0.776,0.71" />
+ </sbspreset>
+</sbspresets>

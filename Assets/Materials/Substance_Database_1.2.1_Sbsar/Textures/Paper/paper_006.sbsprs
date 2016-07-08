@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://paper_006/paper_006" label="var01">
+  <presetinput identifier="$outputsize" uid="830043149" type="8" value="9,9"/>
+  <presetinput identifier="Lines" uid="1264594832" type="0" value="0.247"/>
+  <presetinput identifier="Crumpling" uid="1265163510" type="0" value="0"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_006/paper_006" label="var02">
+  <presetinput identifier="$outputsize" uid="830043149" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="874787464" type="0" value="1"/>
+  <presetinput identifier="Depth" uid="874788901" type="0" value="-0.008"/>
+  <presetinput identifier="Lines" uid="1264594832" type="0" value="0"/>
+  <presetinput identifier="Dirt" uid="1265160735" type="0" value="0.962"/>
+  <presetinput identifier="Crumpling" uid="1265163510" type="0" value="0.727"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_006/paper_006" label="var03">
+  <presetinput identifier="$outputsize" uid="830043149" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="874787464" type="0" value="0.509"/>
+  <presetinput identifier="Depth" uid="874788901" type="0" value="-0.008"/>
+  <presetinput identifier="Lines" uid="1264594832" type="0" value="0.509"/>
+  <presetinput identifier="Lines_Color" uid="1264594833" type="2" value="0.702,0.22,0.22"/>
+  <presetinput identifier="Dirt" uid="1265160735" type="0" value="1"/>
+  <presetinput identifier="Crumpling" uid="1265163510" type="0" value="0.229"/>
+  <presetinput identifier="$randomseed" uid="1712022111" type="4" value="227674298"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Sand_01/Sand_01" label="var01" >
+  <presetinput identifier="Wave_Steepness" uid="438866808" type="0" value="0" />
+  <presetinput identifier="Wave" uid="444825181" type="0" value="0.822" />
+  <presetinput identifier="$outputsize" uid="507246471" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1229578709" type="4" value="-2090059147" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Sand_01/Sand_01" label="var02" >
+  <presetinput identifier="Wave_Steepness" uid="438866808" type="0" value="10" />
+  <presetinput identifier="Emboss" uid="439330023" type="0" value="10" />
+  <presetinput identifier="Luminosity" uid="439330055" type="0" value="0.514" />
+  <presetinput identifier="Normal" uid="444822173" type="0" value="1" />
+  <presetinput identifier="Wave" uid="444825181" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="507246471" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1229578709" type="4" value="-2090059147" />
+ </sbspreset>
+</sbspresets>

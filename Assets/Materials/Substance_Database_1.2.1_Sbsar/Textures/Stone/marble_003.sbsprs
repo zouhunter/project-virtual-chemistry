@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://marble_003/marble_003" label="var01">
+  <presetinput identifier="$randomseed" uid="2255061890" type="4" value="133927570"/>
+  <presetinput identifier="$outputsize" uid="3508245968" type="8" value="9,9"/>
+  <presetinput identifier="Age" uid="3560019894" type="0" value="0"/>
+  <presetinput identifier="Marble_Color" uid="3560041570" type="2" value="0.486,0.486,0.439"/>
+  <presetinput identifier="Cracks" uid="3560057600" type="0" value="0"/>
+  <presetinput identifier="Dirtiness" uid="3560065313" type="0" value="0"/>
+  <presetinput identifier="Emboss" uid="3561411413" type="0" value="0.209"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://marble_003/marble_003" label="var02">
+  <presetinput identifier="$randomseed" uid="2255061890" type="4" value="-451912088"/>
+  <presetinput identifier="Dirtiness_Color" uid="2882381730" type="2" value="0.455,0.325,0.239"/>
+  <presetinput identifier="$outputsize" uid="3508245968" type="8" value="9,9"/>
+  <presetinput identifier="Age" uid="3560019894" type="0" value="1"/>
+  <presetinput identifier="Marble_Color" uid="3560041570" type="2" value="0.486,0.467,0.431"/>
+  <presetinput identifier="Cracks" uid="3560057600" type="0" value="0"/>
+  <presetinput identifier="Emboss" uid="3561411413" type="0" value="0.209"/>
+  <presetinput identifier="Depth" uid="3561413112" type="0" value="0.025"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://marble_003/marble_003" label="var03">
+  <presetinput identifier="$randomseed" uid="2255061890" type="4" value="333423572"/>
+  <presetinput identifier="Dirtiness_Color" uid="2882381730" type="2" value="0.455,0.325,0.239"/>
+  <presetinput identifier="$outputsize" uid="3508245968" type="8" value="9,9"/>
+  <presetinput identifier="Age" uid="3560019894" type="0" value="0.487"/>
+  <presetinput identifier="Marble_Color" uid="3560041570" type="2" value="0.475,0.482,0.486"/>
+  <presetinput identifier="Dirtiness" uid="3560065313" type="0" value="0"/>
+  <presetinput identifier="Tube_Offset" uid="3560108214" type="0" value="1"/>
+  <presetinput identifier="Emboss" uid="3561411413" type="0" value="0"/>
+  <presetinput identifier="Depth" uid="3561413112" type="0" value="1"/>
+ </sbspreset>
+</sbspresets>

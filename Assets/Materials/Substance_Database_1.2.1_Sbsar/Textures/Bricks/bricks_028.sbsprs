@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://bricks_028/bricks_028" label="var01">
+  <presetinput identifier="$outputsize" uid="676338693" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="755803563" type="0" value="0.461"/>
+  <presetinput identifier="Hue_Shift" uid="755803596" type="0" value="0.106"/>
+  <presetinput identifier="Tiles_Amount" uid="762338116" type="8" value="0,0"/>
+  <presetinput identifier="Bumps" uid="763301149" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="2132937303" type="4" value="565709319"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_028/bricks_028" label="var02">
+  <presetinput identifier="$outputsize" uid="676338693" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="755803563" type="0" value="0.445"/>
+  <presetinput identifier="Luminosity" uid="755803582" type="0" value="0.502"/>
+  <presetinput identifier="Hue_Shift" uid="755803596" type="0" value="0.629"/>
+  <presetinput identifier="Color_Variations" uid="762316763" type="0" value="0.479"/>
+  <presetinput identifier="Tiles_Amount" uid="762338116" type="8" value="10,10"/>
+  <presetinput identifier="Bumps" uid="763301149" type="0" value="0.419"/>
+  <presetinput identifier="$randomseed" uid="2132937303" type="4" value="-227125096"/>
+ </sbspreset>
+</sbspresets>

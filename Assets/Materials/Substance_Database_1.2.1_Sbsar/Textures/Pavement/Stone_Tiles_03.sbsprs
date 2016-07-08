@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Stone_Tiles_03/Stone_Tiles_03" label="var01" >
+  <presetinput identifier="$outputsize" uid="713899796" type="8" value="9,9" />
+  <presetinput identifier="Spacing" uid="783183437" type="0" value="0" />
+  <presetinput identifier="Depth" uid="783304732" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="783304811" type="0" value="5.605" />
+  <presetinput identifier="Scale" uid="794505747" type="4" value="4" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Stone_Tiles_03/Stone_Tiles_03" label="var02" >
+  <presetinput identifier="$outputsize" uid="713899796" type="8" value="9,9" />
+  <presetinput identifier="Spacing" uid="783183437" type="0" value="1" />
+  <presetinput identifier="Saturation" uid="783304726" type="0" value="0.503" />
+  <presetinput identifier="Depth" uid="783304732" type="0" value="0.078" />
+  <presetinput identifier="Emboss" uid="783304811" type="0" value="3.594" />
+  <presetinput identifier="Scale" uid="794505747" type="4" value="6" />
+  <presetinput identifier="Tiles_Color" uid="1347681806" type="2" value="0.906,0.906,0.922" />
+  <presetinput identifier="$randomseed" uid="2113874246" type="4" value="-1137010917" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Stone_Tiles_03/Stone_Tiles_03" label="var03" >
+  <presetinput identifier="$outputsize" uid="713899796" type="8" value="9,9" />
+  <presetinput identifier="Spacing" uid="783183437" type="0" value="0" />
+  <presetinput identifier="Saturation" uid="783304726" type="0" value="0.503" />
+  <presetinput identifier="Depth" uid="783304732" type="0" value="-0.037" />
+  <presetinput identifier="Emboss" uid="783304811" type="0" value="-4.082" />
+  <presetinput identifier="Scale" uid="794505747" type="4" value="8" />
+  <presetinput identifier="Tiles_Color" uid="1347681806" type="2" value="0.424,0.427,0.439" />
+  <presetinput identifier="$randomseed" uid="2113874246" type="4" value="296052971" />
+ </sbspreset>
+</sbspresets>

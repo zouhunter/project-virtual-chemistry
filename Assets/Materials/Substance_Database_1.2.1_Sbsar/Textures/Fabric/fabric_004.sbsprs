@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://fabric_004/fabric_004" label="var02" >
+  <presetinput identifier="Dirtiness" uid="629475899" type="0" value="1" />
+  <presetinput identifier="Creases" uid="629485641" type="0" value="0.512" />
+  <presetinput identifier="Scale" uid="629501211" type="0" value="0.521" />
+  <presetinput identifier="Color_03" uid="630007848" type="2" value="1,0.635,0.6" />
+  <presetinput identifier="Color_01" uid="630007853" type="2" value="0.996,0.059,0.075" />
+  <presetinput identifier="Color_02" uid="630007854" type="2" value="1,1,1" />
+  <presetinput identifier="Normal" uid="1511903759" type="0" value="0.751" />
+  <presetinput identifier="Emboss" uid="1511903824" type="0" value="0.584" />
+  <presetinput identifier="$outputsize" uid="1598067925" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_004/fabric_004" label="var03" >
+  <presetinput identifier="Dirtiness" uid="629475899" type="0" value="1" />
+  <presetinput identifier="Creases" uid="629485641" type="0" value="0.458" />
+  <presetinput identifier="Scale" uid="629501211" type="0" value="0" />
+  <presetinput identifier="Color_03" uid="630007848" type="2" value="1,0.635,0.6" />
+  <presetinput identifier="Color_01" uid="630007853" type="2" value="0.996,0.059,0.075" />
+  <presetinput identifier="Color_02" uid="630007854" type="2" value="0.306,1,1" />
+  <presetinput identifier="Normal" uid="1511903759" type="0" value="0.751" />
+  <presetinput identifier="Emboss" uid="1511903824" type="0" value="0.622" />
+  <presetinput identifier="$outputsize" uid="1598067925" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_004/fabric_004" label="var01" >
+  <presetinput identifier="$randomseed" uid="137527943" type="4" value="525274748" />
+  <presetinput identifier="Creases" uid="629485641" type="0" value="0.687" />
+  <presetinput identifier="Scale" uid="629501211" type="0" value="0.072" />
+  <presetinput identifier="Color_01" uid="630007853" type="2" value="1,0.576,0.576" />
+  <presetinput identifier="Normal" uid="1511903759" type="0" value="0.751" />
+  <presetinput identifier="Emboss" uid="1511903824" type="0" value="0.584" />
+  <presetinput identifier="$outputsize" uid="1598067925" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

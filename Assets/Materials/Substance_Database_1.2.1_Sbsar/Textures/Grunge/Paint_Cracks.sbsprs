@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Paint_Cracks/Paint_Cracks" label="var01" >
+  <presetinput identifier="$randomseed" uid="3118193378" type="4" value="722183957" />
+  <presetinput identifier="Paint_Chipping" uid="3926219437" type="0" value="0.115" />
+  <presetinput identifier="Paint_Color" uid="3934394057" type="2" value="0.733,0.988,1" />
+  <presetinput identifier="Rust_Opacity" uid="3938935198" type="0" value="0.263" />
+  <presetinput identifier="$outputsize" uid="4004105392" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Paint_Cracks/Paint_Cracks" label="var02" >
+  <presetinput identifier="$randomseed" uid="3118193378" type="4" value="920391462" />
+  <presetinput identifier="Paint_Chipping" uid="3926219437" type="0" value="0.892" />
+  <presetinput identifier="Emboss" uid="3926224579" type="0" value="9.57" />
+  <presetinput identifier="Paint_Color" uid="3934394057" type="2" value="0.612,0.678,0.608" />
+  <presetinput identifier="$outputsize" uid="4004105392" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

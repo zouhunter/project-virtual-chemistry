@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Rusty_Paint/Rusty_Paint" label="var01" >
+  <presetinput identifier="$outputsize" uid="1093436696" type="8" value="9,9" />
+  <presetinput identifier="Paint_Hue" uid="1158067252" type="0" value="0.416" />
+  <presetinput identifier="Scratches" uid="1161917551" type="0" value="0" />
+  <presetinput identifier="Rust" uid="1165946340" type="0" value="0.008" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Rusty_Paint/Rusty_Paint" label="var02" >
+  <presetinput identifier="$outputsize" uid="1093436696" type="8" value="9,9" />
+  <presetinput identifier="Paint_Hue" uid="1158067252" type="0" value="0.416" />
+  <presetinput identifier="Scratches" uid="1161917551" type="0" value="0" />
+  <presetinput identifier="Rust" uid="1165946340" type="0" value="0.773" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Rusty_Paint/Rusty_Paint" label="var03" >
+  <presetinput identifier="$outputsize" uid="1093436696" type="8" value="9,9" />
+  <presetinput identifier="Paint_Hue" uid="1158067252" type="0" value="0.411" />
+  <presetinput identifier="Rust" uid="1165946340" type="0" value="0.647" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://Wall_Steel_Sheet/Wall_Steel_Sheet" label="var01" >
+  <presetinput identifier="$outputsize" uid="454884232" type="8" value="10,10" />
+  <presetinput identifier="Sheet_Height" uid="520994838" type="0" value="0.331" />
+  <presetinput identifier="Wall_Color" uid="1640196147" type="2" value="0.522,0.498,0.467" />
+  <presetinput identifier="Steel_Color" uid="1640196295" type="2" value="0.788,0.871,0.886" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wall_Steel_Sheet/Wall_Steel_Sheet" label="var02" >
+  <presetinput identifier="$outputsize" uid="454884232" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="520661224" type="0" value="2.344" />
+  <presetinput identifier="Sheet_Height" uid="520994838" type="0" value="1" />
+  <presetinput identifier="Age" uid="530870866" type="0" value="0.09" />
+  <presetinput identifier="Wall_Color" uid="1640196147" type="2" value="0.329,0.325,0.306" />
+  <presetinput identifier="Steel_Color" uid="1640196295" type="2" value="0.788,0.871,0.886" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wall_Steel_Sheet/Wall_Steel_Sheet" label="var03" >
+  <presetinput identifier="$outputsize" uid="454884232" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="520661224" type="0" value="2.344" />
+  <presetinput identifier="Sheet_Height" uid="520994838" type="0" value="0" />
+  <presetinput identifier="Age" uid="530870866" type="0" value="1" />
+  <presetinput identifier="Wall_Color" uid="1640196147" type="2" value="0.329,0.325,0.306" />
+  <presetinput identifier="Steel_Color" uid="1640196295" type="2" value="0.706,0.761,0.659" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wall_Steel_Sheet/Wall_Steel_Sheet" label="var04" >
+  <presetinput identifier="$outputsize" uid="454884232" type="8" value="10,10" />
+  <presetinput identifier="Light_Angle" uid="520661142" type="0" value="0.153" />
+  <presetinput identifier="Emboss" uid="520661224" type="0" value="1.777" />
+  <presetinput identifier="Sheet_Height" uid="520994838" type="0" value="0.463" />
+  <presetinput identifier="Age" uid="530870866" type="0" value="1" />
+  <presetinput identifier="Wall_Color" uid="1640196147" type="2" value="0.667,0.624,0.545" />
+  <presetinput identifier="Steel_Color" uid="1640196295" type="2" value="0.361,0.396,0.408" />
+ </sbspreset>
+</sbspresets>

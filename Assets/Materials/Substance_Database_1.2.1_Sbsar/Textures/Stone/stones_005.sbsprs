@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stones_005/stones_005" label="var01" >
+  <presetinput identifier="$randomseed" uid="2497448559" type="4" value="1513160273" />
+  <presetinput identifier="Bumps" uid="3108570357" type="0" value="0.996" />
+  <presetinput identifier="Moss" uid="3109738325" type="0" value="0.164" />
+  <presetinput identifier="Rock_Color" uid="3109739980" type="2" value="0.565,0.541,0.506" />
+  <presetinput identifier="$outputsize" uid="3282967613" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="3337837240" type="0" value="0.74" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_005/stones_005" label="var02" >
+  <presetinput identifier="$randomseed" uid="2497448559" type="4" value="-698901543" />
+  <presetinput identifier="Bumps" uid="3108570357" type="0" value="0" />
+  <presetinput identifier="Moss" uid="3109738325" type="0" value="0.34" />
+  <presetinput identifier="Moss_Color" uid="3109739970" type="2" value="0.184,0.227,0.161" />
+  <presetinput identifier="Rock_Color" uid="3109739980" type="2" value="0.565,0.541,0.506" />
+  <presetinput identifier="$outputsize" uid="3282967613" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="3337834517" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_005/stones_005" label="var03" >
+  <presetinput identifier="$randomseed" uid="2497448559" type="4" value="1415134856" />
+  <presetinput identifier="Moss" uid="3109738325" type="0" value="0.036" />
+  <presetinput identifier="Moss_Color" uid="3109739970" type="2" value="0.184,0.227,0.161" />
+  <presetinput identifier="Rock_Color" uid="3109739980" type="2" value="0.565,0.447,0.341" />
+  <presetinput identifier="Contrast" uid="3111529076" type="0" value="0.188" />
+  <presetinput identifier="$outputsize" uid="3282967613" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="3337834517" type="0" value="-0.016" />
+ </sbspreset>
+</sbspresets>

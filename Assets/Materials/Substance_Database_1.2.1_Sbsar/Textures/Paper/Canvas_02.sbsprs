@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Canvas_02/Canvas_02" label="var01" >
+  <presetinput identifier="$outputsize" uid="972745334" type="8" value="10,10" />
+  <presetinput identifier="Luminosity" uid="1023940417" type="0" value="0.423" />
+  <presetinput identifier="Saturation" uid="1023940418" type="0" value="0.586" />
+  <presetinput identifier="Light_Angle" uid="1032677715" type="0" value="0.164" />
+  <presetinput identifier="$randomseed" uid="1854471204" type="4" value="-1153483009" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Canvas_02/Canvas_02" label="var02" >
+  <presetinput identifier="$outputsize" uid="972745334" type="8" value="10,10" />
+  <presetinput identifier="Dirt" uid="1013641673" type="0" value="0.736" />
+  <presetinput identifier="Luminosity" uid="1023940417" type="0" value="0.423" />
+  <presetinput identifier="Saturation" uid="1023940418" type="0" value="0.586" />
+  <presetinput identifier="Depth" uid="1032148396" type="0" value="0.234" />
+  <presetinput identifier="Light_Angle" uid="1032677715" type="0" value="0.683" />
+  <presetinput identifier="Emboss" uid="1032677743" type="0" value="8.379" />
+  <presetinput identifier="$randomseed" uid="1854471204" type="4" value="1043910965" />
+ </sbspreset>
+</sbspresets>

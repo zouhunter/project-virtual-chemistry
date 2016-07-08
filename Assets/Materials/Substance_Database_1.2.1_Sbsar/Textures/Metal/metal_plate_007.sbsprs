@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://metal_plate_008/metal_plate_008" label="var01" >
+  <presetinput identifier="$randomseed" uid="646073298" type="4" value="-594652433" />
+  <presetinput identifier="$outputsize" uid="1911577984" type="8" value="9,9" />
+  <presetinput identifier="Metal_Panel_Color_1" uid="1959823372" type="2" value="0.384,0.384,0.384" />
+  <presetinput identifier="Metal_Panel_Color_2" uid="1959827387" type="2" value="0.541,0.541,0.541" />
+  <presetinput identifier="White_Stains" uid="1959851469" type="0" value="0.722" />
+  <presetinput identifier="Rust" uid="1959869844" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_008/metal_plate_008" label="var02" >
+  <presetinput identifier="$randomseed" uid="646073298" type="4" value="1407276985" />
+  <presetinput identifier="$outputsize" uid="1911577984" type="8" value="9,9" />
+  <presetinput identifier="Light_Angle" uid="1957501853" type="0" value="0.531" />
+  <presetinput identifier="Metal_Panel_Color_1" uid="1959823372" type="2" value="0.384,0.176,0.114" />
+  <presetinput identifier="Metal_Panel_Color_2" uid="1959827387" type="2" value="0.541,0.337,0.255" />
+  <presetinput identifier="Rust" uid="1959869844" type="0" value="0.396" />
+ </sbspreset>
+</sbspresets>

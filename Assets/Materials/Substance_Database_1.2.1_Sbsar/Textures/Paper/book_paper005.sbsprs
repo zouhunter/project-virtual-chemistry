@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://book_paper005/book_paper005" label="var01">
+  <presetinput identifier="Cover_Age" uid="2654403968" type="0" value="0.396"/>
+  <presetinput identifier="$randomseed" uid="3015568767" type="4" value="-769404084"/>
+  <presetinput identifier="Emboss" uid="3784490408" type="0" value="0.776"/>
+  <presetinput identifier="Saturation" uid="3784524419" type="0" value="0.634"/>
+  <presetinput identifier="Luminosity" uid="3784524438" type="0" value="0.507"/>
+  <presetinput identifier="Hue_Shift" uid="3784524516" type="0" value="0.036"/>
+  <presetinput identifier="$outputsize" uid="3838835501" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper005/book_paper005" label="var02">
+  <presetinput identifier="Contrast" uid="2654313485" type="0" value="-0.121"/>
+  <presetinput identifier="Holes" uid="2654403920" type="0" value="0.552"/>
+  <presetinput identifier="Cover_Age" uid="2654403968" type="0" value="0.677"/>
+  <presetinput identifier="$randomseed" uid="3015568767" type="4" value="1529507707"/>
+  <presetinput identifier="Emboss" uid="3784490408" type="0" value="0.776"/>
+  <presetinput identifier="Saturation" uid="3784524419" type="0" value="0.634"/>
+  <presetinput identifier="Luminosity" uid="3784524438" type="0" value="0.507"/>
+  <presetinput identifier="$outputsize" uid="3838835501" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper005/book_paper005" label="var03">
+  <presetinput identifier="Contrast" uid="2654313485" type="0" value="-0.121"/>
+  <presetinput identifier="Holes" uid="2654403920" type="0" value="0.814"/>
+  <presetinput identifier="Cover_Age" uid="2654403968" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="3015568767" type="4" value="1529507707"/>
+  <presetinput identifier="Emboss" uid="3784490408" type="0" value="0.776"/>
+  <presetinput identifier="Saturation" uid="3784524419" type="0" value="0.634"/>
+  <presetinput identifier="Luminosity" uid="3784524438" type="0" value="0.507"/>
+  <presetinput identifier="$outputsize" uid="3838835501" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

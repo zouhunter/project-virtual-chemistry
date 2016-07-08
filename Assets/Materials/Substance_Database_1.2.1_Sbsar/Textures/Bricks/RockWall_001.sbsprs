@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://RockWall_001/RockWall_001" label="var01">
+  <presetinput identifier="Contrast" uid="238982319" type="0" value="0.094"/>
+  <presetinput identifier="Luminosity" uid="1906131812" type="0" value="0.581"/>
+  <presetinput identifier="Saturation" uid="1906131825" type="0" value="0.459"/>
+  <presetinput identifier="Bricks_Amount_X" uid="1911331146" type="4" value="1"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="1911331147" type="4" value="1"/>
+  <presetinput identifier="Brick_Color" uid="1911332625" type="2" value="0.341,0.255,0.259"/>
+  <presetinput identifier="$outputsize" uid="1958869727" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://RockWall_001/RockWall_001" label="var02">
+  <presetinput identifier="Contrast" uid="238982319" type="0" value="0.094"/>
+  <presetinput identifier="$randomseed" uid="598994061" type="4" value="-516596662"/>
+  <presetinput identifier="Luminosity" uid="1906131812" type="0" value="0.581"/>
+  <presetinput identifier="Saturation" uid="1906131825" type="0" value="0.459"/>
+  <presetinput identifier="Bricks_Shape" uid="1911166804" type="0" value="0.349"/>
+  <presetinput identifier="Bricks_Color_Variation" uid="1911170919" type="0" value="1"/>
+  <presetinput identifier="Bricks_Amount_X" uid="1911331146" type="4" value="11"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="1911331147" type="4" value="6"/>
+  <presetinput identifier="Brick_Color" uid="1911332625" type="2" value="0.231,0.2,0.196"/>
+  <presetinput identifier="$outputsize" uid="1958869727" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

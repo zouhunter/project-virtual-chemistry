@@ -1,0 +1,43 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood017/wood017" label="var01">
+  <presetinput identifier="$randomseed" uid="2372012865" type="4" value="-465756302"/>
+  <presetinput identifier="Age" uid="2697544337" type="0" value="0.265"/>
+  <presetinput identifier="Contrast" uid="2697648430" type="0" value="-0.078"/>
+  <presetinput identifier="$outputsize" uid="3658489107" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3746342056" type="0" value="0.508"/>
+  <presetinput identifier="Saturation" uid="3746342077" type="0" value="0.33"/>
+  <presetinput identifier="Depth" uid="3746386235" type="0" value="0.096"/>
+  <presetinput identifier="Light_Angle" uid="3746388750" type="0" value="0.242"/>
+  <presetinput identifier="Emboss" uid="3746388886" type="0" value="0.28"/>
+  <presetinput identifier="Normal" uid="3746388937" type="0" value="0.634"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood017/wood017" label="var02">
+  <presetinput identifier="$randomseed" uid="2372012865" type="4" value="97974489"/>
+  <presetinput identifier="Age" uid="2697544337" type="0" value="0.474"/>
+  <presetinput identifier="Contrast" uid="2697648430" type="0" value="0.262"/>
+  <presetinput identifier="Battens_Gap" uid="2716197136" type="0" value="0.019"/>
+  <presetinput identifier="Battens_Chamfer" uid="2716197137" type="0" value="0.191"/>
+  <presetinput identifier="$outputsize" uid="3658489107" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3746342056" type="0" value="0.508"/>
+  <presetinput identifier="Saturation" uid="3746342077" type="0" value="0.33"/>
+  <presetinput identifier="Depth" uid="3746386235" type="0" value="0.096"/>
+  <presetinput identifier="Light_Angle" uid="3746388750" type="0" value="0.242"/>
+  <presetinput identifier="Emboss" uid="3746388886" type="0" value="0.28"/>
+  <presetinput identifier="Normal" uid="3746388937" type="0" value="0.634"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood017/wood017" label="var03">
+  <presetinput identifier="$randomseed" uid="2372012865" type="4" value="-86026808"/>
+  <presetinput identifier="Age" uid="2697544337" type="0" value="0.474"/>
+  <presetinput identifier="Battens" uid="2697637986" type="4" value="1"/>
+  <presetinput identifier="Contrast" uid="2697648430" type="0" value="0.262"/>
+  <presetinput identifier="Battens_Gap" uid="2716197136" type="0" value="0.006"/>
+  <presetinput identifier="Battens_Chamfer" uid="2716197137" type="0" value="0.031"/>
+  <presetinput identifier="$outputsize" uid="3658489107" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3746342056" type="0" value="0.508"/>
+  <presetinput identifier="Saturation" uid="3746342077" type="0" value="0.272"/>
+  <presetinput identifier="Depth" uid="3746386235" type="0" value="0.096"/>
+  <presetinput identifier="Light_Angle" uid="3746388750" type="0" value="0.419"/>
+  <presetinput identifier="Emboss" uid="3746388886" type="0" value="0.688"/>
+  <presetinput identifier="Normal" uid="3746388937" type="0" value="0.634"/>
+ </sbspreset>
+</sbspresets>

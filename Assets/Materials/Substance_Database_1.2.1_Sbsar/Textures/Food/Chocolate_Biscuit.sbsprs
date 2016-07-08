@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Chocolate_Biscuit/Chocolate_Biscuit" label="var01" >
+  <presetinput identifier="$outputsize" uid="426428864" type="8" value="10,10" />
+  <presetinput identifier="Border" uid="483811504" type="4" value="0" />
+  <presetinput identifier="Depth" uid="487945754" type="0" value="-0.014" />
+  <presetinput identifier="Light_Angle" uid="488458981" type="0" value="0.092" />
+  <presetinput identifier="Hue_Shift" uid="496514290" type="0" value="0.021" />
+  <presetinput identifier="$randomseed" uid="1310252946" type="4" value="-1044178651" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Chocolate_Biscuit/Chocolate_Biscuit" label="var02" >
+  <presetinput identifier="$outputsize" uid="426428864" type="8" value="10,10" />
+  <presetinput identifier="Pattern" uid="484335547" type="4" value="1" />
+  <presetinput identifier="Depth" uid="487945754" type="0" value="-0.014" />
+  <presetinput identifier="Light_Angle" uid="488458981" type="0" value="0.092" />
+  <presetinput identifier="Hue_Shift" uid="496514290" type="0" value="0.021" />
+  <presetinput identifier="$randomseed" uid="1310252946" type="4" value="-1044178651" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Chocolate_Biscuit/Chocolate_Biscuit" label="var03" >
+  <presetinput identifier="$outputsize" uid="426428864" type="8" value="10,10" />
+  <presetinput identifier="Side" uid="484831907" type="4" value="1" />
+  <presetinput identifier="Depth" uid="487945754" type="0" value="-0.014" />
+  <presetinput identifier="Light_Angle" uid="488458981" type="0" value="0.092" />
+  <presetinput identifier="Relief_Balance" uid="491229773" type="0" value="31.688" />
+  <presetinput identifier="Hue_Shift" uid="496514290" type="0" value="0.021" />
+  <presetinput identifier="$randomseed" uid="1310252946" type="4" value="-1044178651" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,61 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://roofing_009/roofing_009" label="var01" >
+  <presetinput identifier="Luminosity" uid="2701927535" type="0" value="0.57" />
+  <presetinput identifier="Saturation" uid="2701927546" type="0" value="0.41" />
+  <presetinput identifier="Normal" uid="2702039822" type="0" value="0.574" />
+  <presetinput identifier="Emboss" uid="2702039889" type="0" value="0.659" />
+  <presetinput identifier="Light_Angle" uid="2702040009" type="0" value="0.128" />
+  <presetinput identifier="Dirtiness" uid="2706257394" type="0" value="0.059" />
+  <presetinput identifier="$outputsize" uid="2756746708" type="8" value="9,9" />
+  <presetinput identifier="Tiles_Amount_X" uid="3735733080" type="4" value="15" />
+  <presetinput identifier="Tiles_Amount_Y" uid="3735733179" type="4" value="11" />
+  <presetinput identifier="Contrast" uid="3735825028" type="0" value="-0.023" />
+  <presetinput identifier="$randomseed" uid="4079127430" type="4" value="-1030688098" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_009/roofing_009" label="var02" >
+  <presetinput identifier="Luminosity" uid="2701927535" type="0" value="0.57" />
+  <presetinput identifier="Saturation" uid="2701927546" type="0" value="0.41" />
+  <presetinput identifier="Normal" uid="2702039822" type="0" value="0.574" />
+  <presetinput identifier="Emboss" uid="2702039889" type="0" value="0.659" />
+  <presetinput identifier="Light_Angle" uid="2702040009" type="0" value="0.128" />
+  <presetinput identifier="Cracks" uid="2706257355" type="0" value="0.981" />
+  <presetinput identifier="Age" uid="2706257365" type="0" value="0.071" />
+  <presetinput identifier="Moss" uid="2706257373" type="0" value="0.073" />
+  <presetinput identifier="Dirtiness" uid="2706257394" type="0" value="0.059" />
+  <presetinput identifier="$outputsize" uid="2756746708" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="3735825028" type="0" value="-0.023" />
+  <presetinput identifier="$randomseed" uid="4079127430" type="4" value="-300249120" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_009/roofing_009" label="var03" >
+  <presetinput identifier="Luminosity" uid="2701927535" type="0" value="0.57" />
+  <presetinput identifier="Saturation" uid="2701927546" type="0" value="0.41" />
+  <presetinput identifier="Normal" uid="2702039822" type="0" value="0.574" />
+  <presetinput identifier="Emboss" uid="2702039889" type="0" value="0.659" />
+  <presetinput identifier="Light_Angle" uid="2702040009" type="0" value="0.128" />
+  <presetinput identifier="Cracks" uid="2706257355" type="0" value="0.39" />
+  <presetinput identifier="Age" uid="2706257365" type="0" value="0.523" />
+  <presetinput identifier="Dirtiness" uid="2706257394" type="0" value="0.691" />
+  <presetinput identifier="$outputsize" uid="2756746708" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="3735825028" type="0" value="-0.023" />
+  <presetinput identifier="Rain_Level" uid="3736589218" type="0" value="0.316" />
+  <presetinput identifier="Rain_Flow" uid="3736596149" type="0" value="0.426" />
+  <presetinput identifier="$randomseed" uid="4079127430" type="4" value="-300249120" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_009/roofing_009" label="var04" >
+  <presetinput identifier="Luminosity" uid="2701927535" type="0" value="0.57" />
+  <presetinput identifier="Saturation" uid="2701927546" type="0" value="0.41" />
+  <presetinput identifier="Normal" uid="2702039822" type="0" value="0.574" />
+  <presetinput identifier="Emboss" uid="2702039889" type="0" value="0.659" />
+  <presetinput identifier="Light_Angle" uid="2702040009" type="0" value="0.128" />
+  <presetinput identifier="Cracks" uid="2706257355" type="0" value="0.39" />
+  <presetinput identifier="Age" uid="2706257365" type="0" value="0.864" />
+  <presetinput identifier="Moss" uid="2706257373" type="0" value="0.716" />
+  <presetinput identifier="Dirtiness" uid="2706257394" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2756746708" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="3735825028" type="0" value="-0.023" />
+  <presetinput identifier="Rain" uid="3736571404" type="4" value="1" />
+  <presetinput identifier="Rain_Level" uid="3736589218" type="0" value="0.414" />
+  <presetinput identifier="Rain_Flow" uid="3736596149" type="0" value="0.226" />
+  <presetinput identifier="$randomseed" uid="4079127430" type="4" value="-1801716635" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://Old_Painted_Planks/Old_Painted_Planks" label="var01">
+  <presetinput identifier="Paint_Hue" uid="2334172846" type="2" value="0.612,0.502,0.455"/>
+  <presetinput identifier="Paint_Age" uid="2335445697" type="0" value="0.864"/>
+  <presetinput identifier="Screws" uid="2335448077" type="0" value="0.98"/>
+  <presetinput identifier="$outputsize" uid="2399824946" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3631774304" type="4" value="242482604"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Old_Painted_Planks/Old_Painted_Planks" label="var02">
+  <presetinput identifier="Paint_Hue" uid="2334172846" type="2" value="0.239,0.278,0.275"/>
+  <presetinput identifier="Planks" uid="2335124920" type="4" value="9"/>
+  <presetinput identifier="Screws" uid="2335448077" type="0" value="0.548"/>
+  <presetinput identifier="Emboss" uid="2335458456" type="0" value="10"/>
+  <presetinput identifier="$outputsize" uid="2399824946" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3631774304" type="4" value="-2138754779"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Old_Painted_Planks/Old_Painted_Planks" label="var03">
+  <presetinput identifier="Paint_Hue" uid="2334172846" type="2" value="0.796,0.745,0.671"/>
+  <presetinput identifier="Planks" uid="2335124920" type="4" value="8"/>
+  <presetinput identifier="Paint_Age" uid="2335445697" type="0" value="0.916"/>
+  <presetinput identifier="Contrast" uid="2335458432" type="0" value="-0.121"/>
+  <presetinput identifier="Luminosity" uid="2335458433" type="0" value="0.452"/>
+  <presetinput identifier="Saturation" uid="2335458434" type="0" value="0.504"/>
+  <presetinput identifier="Hue_Shift" uid="2335458435" type="0" value="0.984"/>
+  <presetinput identifier="Depth" uid="2335458437" type="0" value="0.023"/>
+  <presetinput identifier="Emboss" uid="2335458456" type="0" value="10"/>
+  <presetinput identifier="$outputsize" uid="2399824946" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3631774304" type="4" value="-1613520607"/>
+ </sbspreset>
+</sbspresets>

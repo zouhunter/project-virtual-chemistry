@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Moss_Rock/Moss_Rock" label="var01" >
+  <presetinput identifier="$randomseed" uid="2296893644" type="4" value="1933373375" />
+  <presetinput identifier="Normal" uid="3685265816" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="3685265817" type="0" value="0.186" />
+  <presetinput identifier="Saturation" uid="3685265820" type="0" value="0.424" />
+  <presetinput identifier="Hue_Shift" uid="3685265821" type="0" value="0.12" />
+  <presetinput identifier="Mud" uid="3686357670" type="0" value="0.038" />
+  <presetinput identifier="Moss" uid="3686530037" type="0" value="0.012" />
+  <presetinput identifier="$outputsize" uid="3751134878" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Moss_Rock/Moss_Rock" label="var02" >
+  <presetinput identifier="$randomseed" uid="2296893644" type="4" value="-1529224415" />
+  <presetinput identifier="Depth" uid="3685265814" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="3685265816" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="3685265817" type="0" value="0.346" />
+  <presetinput identifier="Luminosity" uid="3685265819" type="0" value="0.486" />
+  <presetinput identifier="Saturation" uid="3685265820" type="0" value="0.526" />
+  <presetinput identifier="Mud" uid="3686357670" type="0" value="0.038" />
+  <presetinput identifier="Moss" uid="3686530037" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3751134878" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

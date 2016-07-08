@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://bark_005/bark_005" label="var01" >
+  <presetinput identifier="$randomseed" uid="123926101" type="4" value="-190344751" />
+  <presetinput identifier="Bark_Color" uid="720067948" type="2" value="0.388,0.357,0.31" />
+  <presetinput identifier="$outputsize" uid="1343283207" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="1427277301" type="0" value="0.598" />
+  <presetinput identifier="Bark_Roughness" uid="1427307653" type="0" value="0.982" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_005/bark_005" label="var02" >
+  <presetinput identifier="$randomseed" uid="123926101" type="4" value="-764386893" />
+  <presetinput identifier="Bark_Color" uid="720067948" type="2" value="0.388,0.357,0.31" />
+  <presetinput identifier="Moss_Color" uid="720068136" type="2" value="0.243,0.357,0.173" />
+  <presetinput identifier="Contrast" uid="720125907" type="0" value="0.08" />
+  <presetinput identifier="$outputsize" uid="1343283207" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="1427277301" type="0" value="0.645" />
+  <presetinput identifier="Bark_Roughness" uid="1427307653" type="0" value="0" />
+  <presetinput identifier="Light_Angle" uid="1431152154" type="0" value="0.65" />
+ </sbspreset>
+</sbspresets>

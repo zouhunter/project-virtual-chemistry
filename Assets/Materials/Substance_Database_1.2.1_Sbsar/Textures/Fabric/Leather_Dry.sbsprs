@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Leather_Dry/Leather_Dry" label="var01" >
+  <presetinput identifier="Leather_Color" uid="515048202" type="2" value="0.267,0.216,0.169" />
+  <presetinput identifier="$randomseed" uid="857458529" type="4" value="1104195100" />
+  <presetinput identifier="Emboss" uid="1612599850" type="0" value="9.902" />
+  <presetinput identifier="Crackles_Big" uid="1638563225" type="0" value="0.157" />
+  <presetinput identifier="$outputsize" uid="1684656435" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Leather_Dry/Leather_Dry" label="var02" >
+  <presetinput identifier="Leather_Color" uid="515048202" type="2" value="0.69,0.475,0.176" />
+  <presetinput identifier="$randomseed" uid="857458529" type="4" value="-320516015" />
+  <presetinput identifier="Emboss" uid="1612599850" type="0" value="5.918" />
+  <presetinput identifier="Normal" uid="1612668275" type="0" value="0.956" />
+  <presetinput identifier="$outputsize" uid="1684656435" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

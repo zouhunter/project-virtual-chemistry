@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Space_01/Space_01" label="var01" >
+  <presetinput identifier="$randomseed" uid="532194616" type="4" value="-1838620277" />
+  <presetinput identifier="$outputsize" uid="1221243754" type="8" value="9,9" />
+  <presetinput identifier="Contrast" uid="1287405128" type="0" value="0.123" />
+  <presetinput identifier="Nebula_Color" uid="1293945708" type="0" value="0.278" />
+  <presetinput identifier="Nebula_Type" uid="1293953568" type="0" value="1" />
+  <presetinput identifier="Nebula" uid="1294364645" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Space_01/Space_01" label="var02" >
+  <presetinput identifier="$randomseed" uid="532194616" type="4" value="1647886405" />
+  <presetinput identifier="$outputsize" uid="1221243754" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="1278758488" type="0" value="0.376" />
+  <presetinput identifier="Luminosity" uid="1278758493" type="0" value="0.494" />
+  <presetinput identifier="Nebula_Saturation" uid="1278758494" type="0" value="0.58" />
+  <presetinput identifier="Contrast" uid="1287405128" type="0" value="0.004" />
+  <presetinput identifier="Bright_Stars" uid="1293945586" type="0" value="0.262" />
+  <presetinput identifier="Nebula_Color" uid="1293945708" type="0" value="0.564" />
+  <presetinput identifier="Star_Density" uid="1293950515" type="0" value="0.522" />
+  <presetinput identifier="Nebula_Type" uid="1293953568" type="0" value="1" />
+  <presetinput identifier="Nebula" uid="1294364645" type="0" value="0.442" />
+  <presetinput identifier="Bright_Stars_Hue" uid="1298218832" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

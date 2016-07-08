@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood027/wood027" label="var01">
+  <presetinput identifier="$outputsize" uid="436925907" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="525749352" type="0" value="0.502"/>
+  <presetinput identifier="Saturation" uid="525749373" type="0" value="0.352"/>
+  <presetinput identifier="$randomseed" uid="1299768193" type="4" value="579744815"/>
+  <presetinput identifier="Dirtiness" uid="1623886417" type="0" value="0.666"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood027/wood027" label="var02">
+  <presetinput identifier="$outputsize" uid="436925907" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="525749352" type="0" value="0.502"/>
+  <presetinput identifier="Saturation" uid="525749373" type="0" value="0.177"/>
+  <presetinput identifier="$randomseed" uid="1299768193" type="4" value="472629860"/>
+  <presetinput identifier="Dirtiness" uid="1623886417" type="0" value="0.998"/>
+  <presetinput identifier="Lines_Intensity" uid="1623886419" type="0" value="0.874"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood027/wood027" label="var03">
+  <presetinput identifier="$outputsize" uid="985471258" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="1071668999" type="0" value="0.083"/>
+  <presetinput identifier="Luminosity" uid="1071751329" type="0" value="0.515"/>
+  <presetinput identifier="Saturation" uid="1071751348" type="0" value="0.053"/>
+  <presetinput identifier="Battens" uid="1080538219" type="4" value="1"/>
+  <presetinput identifier="Dirtiness" uid="1081960088" type="0" value="0.998"/>
+  <presetinput identifier="Lines_Intensity" uid="1081960090" type="0" value="0.874"/>
+  <presetinput identifier="$randomseed" uid="1842286408" type="4" value="472629860"/>
+ </sbspreset>
+</sbspresets>

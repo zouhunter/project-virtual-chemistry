@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_041/concrete_041" label="var01">
+  <presetinput identifier="Balance" uid="547137216" type="0" value="0.36"/>
+  <presetinput identifier="Calcareousness_Color" uid="547175760" type="2" value="0.604,0.604,0.62"/>
+  <presetinput identifier="Age" uid="547312450" type="0" value="0"/>
+  <presetinput identifier="$outputsize" uid="632685510" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1598734257" type="0" value="0.143"/>
+  <presetinput identifier="$randomseed" uid="1925453204" type="4" value="-39096381"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_041/concrete_041" label="var02">
+  <presetinput identifier="Balance" uid="547137216" type="0" value="1"/>
+  <presetinput identifier="Calcareousness_Color" uid="547175760" type="2" value="0.604,0.604,0.62"/>
+  <presetinput identifier="Dirtiness" uid="547303165" type="0" value="0.773"/>
+  <presetinput identifier="Age" uid="547312450" type="0" value="0"/>
+  <presetinput identifier="$outputsize" uid="632685510" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1598734257" type="0" value="-0.002"/>
+  <presetinput identifier="$randomseed" uid="1925453204" type="4" value="-1410695369"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_041/concrete_041" label="var03">
+  <presetinput identifier="Balance" uid="547137216" type="0" value="0"/>
+  <presetinput identifier="Paint_Color" uid="547175810" type="2" value="0.137,0.137,0.149"/>
+  <presetinput identifier="$outputsize" uid="632685510" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="1925453204" type="4" value="-796813521"/>
+ </sbspreset>
+</sbspresets>

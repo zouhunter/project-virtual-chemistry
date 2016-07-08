@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Granitoid/Granitoid" label="var01" >
+  <presetinput identifier="Sharpen" uid="146604361" type="0" value="0.11" />
+  <presetinput identifier="Quartz_Amount" uid="146618401" type="0" value="0.078" />
+  <presetinput identifier="Depth" uid="154313805" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="154900149" type="0" value="-0.234" />
+  <presetinput identifier="Normal" uid="154900439" type="0" value="0.886" />
+  <presetinput identifier="Saturation" uid="163571363" type="0" value="0.43" />
+  <presetinput identifier="Hue_SHift" uid="163571365" type="0" value="0.162" />
+  <presetinput identifier="$outputsize" uid="223157143" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1514081733" type="4" value="-153316997" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Granitoid/Granitoid" label="var02" >
+  <presetinput identifier="Sharpen" uid="146604361" type="0" value="0.642" />
+  <presetinput identifier="Quartz_Amount" uid="146618401" type="0" value="0.896" />
+  <presetinput identifier="Depth" uid="154313805" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="154900149" type="0" value="-0.234" />
+  <presetinput identifier="Normal" uid="154900439" type="0" value="0.886" />
+  <presetinput identifier="Luminosity" uid="163571360" type="0" value="0.536" />
+  <presetinput identifier="Saturation" uid="163571363" type="0" value="0.484" />
+  <presetinput identifier="Hue_SHift" uid="163571365" type="0" value="0.47" />
+  <presetinput identifier="$outputsize" uid="223157143" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1514081733" type="4" value="-332378230" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_003/metal_003" label="var01" >
+  <presetinput identifier="Age" uid="44102038" type="0" value="0.28" />
+  <presetinput identifier="Tube" uid="44125862" type="4" value="0" />
+  <presetinput identifier="Rivet" uid="44137084" type="4" value="0" />
+  <presetinput identifier="$outputsize" uid="2019973307" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_003/metal_003" label="var02" >
+  <presetinput identifier="Rivet_Size" uid="43602007" type="0" value="1" />
+  <presetinput identifier="Age" uid="44102038" type="0" value="1" />
+  <presetinput identifier="Tube" uid="44125862" type="4" value="0" />
+  <presetinput identifier="$outputsize" uid="2019973307" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_003/metal_003" label="var03" >
+  <presetinput identifier="Rivet_Size" uid="43602007" type="0" value="1" />
+  <presetinput identifier="Tube_Offset" uid="44067381" type="0" value="0.37" />
+  <presetinput identifier="Rivet_Offset" uid="44067397" type="0" value="0.257" />
+  <presetinput identifier="Rivet_Color" uid="44073446" type="2" value="0.6,0.608,0.09" />
+  <presetinput identifier="Age" uid="44102038" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2019973307" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_021/concrete_021" label="var02" >
+  <presetinput identifier="$randomseed" uid="107243232" type="4" value="1896587209" />
+  <presetinput identifier="Dirtiness" uid="734245359" type="0" value="0.562" />
+  <presetinput identifier="01_Balance" uid="734245451" type="0" value="0" />
+  <presetinput identifier="Age" uid="734507863" type="0" value="0.933" />
+  <presetinput identifier="$outputsize" uid="1360425138" type="8" value="9,9" />
+  <presetinput identifier="Part_1_Color" uid="1413231587" type="2" value="0.384,0.404,0.388" />
+  <presetinput identifier="Base_Color" uid="1413233619" type="2" value="0.486,0.486,0.486" />
+  <presetinput identifier="03_Balance" uid="1413277827" type="0" value="0.095" />
+  <presetinput identifier="Part_2_Color" uid="1413471031" type="2" value="0.557,0.533,0.514" />
+  <presetinput identifier="Part_3_Color" uid="1413472013" type="2" value="0.447,0.455,0.459" />
+  <presetinput identifier="02_Balance" uid="1413475163" type="0" value="0.179" />
+  <presetinput identifier="Light_Angle" uid="1414215343" type="0" value="0.103" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_021/concrete_021" label="var01" >
+  <presetinput identifier="Dirtiness" uid="734245359" type="0" value="0.854" />
+  <presetinput identifier="Age" uid="734507863" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1360425138" type="8" value="9,9" />
+  <presetinput identifier="Part_1_Color" uid="1413231587" type="2" value="0.384,0.404,0.388" />
+  <presetinput identifier="Base_Color" uid="1413233619" type="2" value="0.486,0.486,0.486" />
+  <presetinput identifier="03_Balance" uid="1413277827" type="0" value="1" />
+  <presetinput identifier="Part_2_Color" uid="1413471031" type="2" value="0.557,0.533,0.514" />
+  <presetinput identifier="Part_3_Color" uid="1413472013" type="2" value="0.447,0.455,0.459" />
+  <presetinput identifier="Luminosity" uid="1414187273" type="0" value="0.446" />
+  <presetinput identifier="Light_Angle" uid="1414215343" type="0" value="0.103" />
+ </sbspreset>
+</sbspresets>

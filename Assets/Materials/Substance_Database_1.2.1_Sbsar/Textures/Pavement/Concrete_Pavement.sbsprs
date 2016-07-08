@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Concrete_Pavement/Concrete_Pavement" label="var01" >
+  <presetinput identifier="$outputsize" uid="993445033" type="8" value="10,10" />
+  <presetinput identifier="Edge_Warp" uid="1062131437" type="0" value="0" />
+  <presetinput identifier="Age" uid="1062388767" type="0" value="0" />
+  <presetinput identifier="Normal_Detail" uid="1062390905" type="0" value="0.611" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_Pavement/Concrete_Pavement" label="var02" >
+  <presetinput identifier="$outputsize" uid="993445033" type="8" value="10,10" />
+  <presetinput identifier="Edge_Warp" uid="1062131437" type="0" value="0.72" />
+  <presetinput identifier="Emboss" uid="1062372113" type="0" value="10" />
+  <presetinput identifier="Saturation" uid="1062372143" type="0" value="0.512" />
+  <presetinput identifier="Luminosity" uid="1062372157" type="0" value="0.475" />
+  <presetinput identifier="Depth" uid="1062372257" type="0" value="0.762" />
+  <presetinput identifier="Angle" uid="1062372322" type="0" value="0.247" />
+  <presetinput identifier="Age" uid="1062388767" type="0" value="0.79" />
+  <presetinput identifier="Normal_Detail" uid="1062390905" type="0" value="0.611" />
+  <presetinput identifier="$randomseed" uid="1816449787" type="4" value="-2005295778" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_Pavement/Concrete_Pavement" label="var03" >
+  <presetinput identifier="$outputsize" uid="993445033" type="8" value="10,10" />
+  <presetinput identifier="Edge_Warp" uid="1062131437" type="0" value="0.72" />
+  <presetinput identifier="Emboss" uid="1062372113" type="0" value="10" />
+  <presetinput identifier="Saturation" uid="1062372143" type="0" value="0.522" />
+  <presetinput identifier="Luminosity" uid="1062372157" type="0" value="0.466" />
+  <presetinput identifier="Depth" uid="1062372257" type="0" value="0.762" />
+  <presetinput identifier="Angle" uid="1062372322" type="0" value="0.247" />
+  <presetinput identifier="Contrast" uid="1062372339" type="0" value="0.113" />
+  <presetinput identifier="Tile_Y" uid="1062372993" type="4" value="10" />
+  <presetinput identifier="Tile_X" uid="1062373003" type="4" value="10" />
+  <presetinput identifier="Age" uid="1062388767" type="0" value="0.79" />
+  <presetinput identifier="Normal_Detail" uid="1062390905" type="0" value="0.611" />
+  <presetinput identifier="$randomseed" uid="1816449787" type="4" value="-1403273957" />
+ </sbspreset>
+</sbspresets>

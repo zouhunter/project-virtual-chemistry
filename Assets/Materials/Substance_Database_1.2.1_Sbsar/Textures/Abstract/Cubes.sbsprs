@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Cubes/Cubes" label="var01" >
+  <presetinput identifier="Density" uid="3902443718" type="4" value="3" />
+  <presetinput identifier="Bevel" uid="3904012173" type="0" value="0.74" />
+  <presetinput identifier="Offset" uid="3904056078" type="0" value="1" />
+  <presetinput identifier="AO" uid="3904056708" type="0" value="0.764" />
+  <presetinput identifier="Emboss" uid="3915199540" type="0" value="3.672" />
+  <presetinput identifier="$outputsize" uid="3978999597" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cubes/Cubes" label="var02" >
+  <presetinput identifier="Bevel" uid="3904012173" type="0" value="0.324" />
+  <presetinput identifier="Offset" uid="3904056078" type="0" value="0.52" />
+  <presetinput identifier="AO" uid="3904056708" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3915199540" type="0" value="0.664" />
+  <presetinput identifier="$outputsize" uid="3978999597" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cubes/Cubes" label="var03" >
+  <presetinput identifier="Density" uid="3902443718" type="4" value="4" />
+  <presetinput identifier="Bevel" uid="3904012173" type="0" value="-0.486" />
+  <presetinput identifier="Offset" uid="3904056078" type="0" value="0.52" />
+  <presetinput identifier="AO" uid="3904056708" type="0" value="0.674" />
+  <presetinput identifier="Depth" uid="3914664183" type="0" value="0.336" />
+  <presetinput identifier="Contrast" uid="3915135503" type="0" value="0.205" />
+  <presetinput identifier="Normal" uid="3915135853" type="0" value="0.854" />
+  <presetinput identifier="Emboss" uid="3915199540" type="0" value="0.664" />
+  <presetinput identifier="$outputsize" uid="3978999597" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

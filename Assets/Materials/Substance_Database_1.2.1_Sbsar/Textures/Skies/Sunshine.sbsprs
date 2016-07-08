@@ -1,0 +1,53 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Sunshine/Sunshine" label="var01" >
+  <presetinput identifier="$randomseed" uid="686295661" type="4" value="-1133563813" />
+  <presetinput identifier="Clouds" uid="2051231486" type="0" value="0.497" />
+  <presetinput identifier="Sun_Position_X" uid="2052071797" type="0" value="0.342" />
+  <presetinput identifier="Clouds_Shapes_Variation" uid="2052338153" type="0" value="0.203" />
+  <presetinput identifier="Sun_Size" uid="2052425523" type="0" value="0.551" />
+  <presetinput identifier="Vol_Diffusion" uid="2052627262" type="0" value="0.401" />
+  <presetinput identifier="Vol_Sharpness" uid="2052627264" type="0" value="0.407" />
+  <presetinput identifier="Clouds_Scale" uid="2052701224" type="0" value="0.207" />
+  <presetinput identifier="Sun_Intensity" uid="2052710751" type="0" value="0.89" />
+  <presetinput identifier="Depth" uid="2052714324" type="0" value="-0.055" />
+  <presetinput identifier="Vol_Rays_Lenght" uid="2052953489" type="0" value="0.575" />
+  <presetinput identifier="Emboss" uid="2053932735" type="0" value="9.326" />
+  <presetinput identifier="$outputsize" uid="2140806207" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Sunshine/Sunshine" label="var02" >
+  <presetinput identifier="$randomseed" uid="686295661" type="4" value="-1587421406" />
+  <presetinput identifier="Clouds" uid="2051231486" type="0" value="0.281" />
+  <presetinput identifier="Sun_Position_Y" uid="2052071794" type="0" value="0.242" />
+  <presetinput identifier="Sun_Position_X" uid="2052071797" type="0" value="0.342" />
+  <presetinput identifier="Clouds_Shapes_Variation" uid="2052338153" type="0" value="0.841" />
+  <presetinput identifier="Sun_Size" uid="2052425523" type="0" value="0.419" />
+  <presetinput identifier="Vol_Diffusion" uid="2052627262" type="0" value="0.94" />
+  <presetinput identifier="Vol_Sharpness" uid="2052627264" type="0" value="0.32" />
+  <presetinput identifier="Clouds_Scale" uid="2052701224" type="0" value="0" />
+  <presetinput identifier="Sun_Intensity" uid="2052710751" type="0" value="0.817" />
+  <presetinput identifier="Hue_Shift" uid="2052712170" type="0" value="0.955" />
+  <presetinput identifier="Depth" uid="2052714324" type="0" value="-0.109" />
+  <presetinput identifier="Vol_Rays_Lenght" uid="2052953489" type="0" value="0.554" />
+  <presetinput identifier="Volumetrics" uid="2052963080" type="0" value="0.938" />
+  <presetinput identifier="Emboss" uid="2053932735" type="0" value="2.773" />
+  <presetinput identifier="$outputsize" uid="2140806207" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Sunshine/Sunshine" label="var03" >
+  <presetinput identifier="$randomseed" uid="686295661" type="4" value="-1587421406" />
+  <presetinput identifier="Clouds" uid="2051231486" type="0" value="1" />
+  <presetinput identifier="Sun_Position_Y" uid="2052071794" type="0" value="0.599" />
+  <presetinput identifier="Sun_Position_X" uid="2052071797" type="0" value="0.662" />
+  <presetinput identifier="Clouds_Shapes_Variation" uid="2052338153" type="0" value="0.841" />
+  <presetinput identifier="Sun_Size" uid="2052425523" type="0" value="0.419" />
+  <presetinput identifier="Vol_Diffusion" uid="2052627262" type="0" value="0.006" />
+  <presetinput identifier="Vol_Sharpness" uid="2052627264" type="0" value="0.138" />
+  <presetinput identifier="Clouds_Scale" uid="2052701224" type="0" value="0" />
+  <presetinput identifier="Sun_Intensity" uid="2052710751" type="0" value="0.377" />
+  <presetinput identifier="Hue_Shift" uid="2052712170" type="0" value="0.964" />
+  <presetinput identifier="Depth" uid="2052714324" type="0" value="-1" />
+  <presetinput identifier="Vol_Rays_Lenght" uid="2052953489" type="0" value="0.53" />
+  <presetinput identifier="Volumetrics" uid="2052963080" type="0" value="0.761" />
+  <presetinput identifier="Emboss" uid="2053932735" type="0" value="2.773" />
+  <presetinput identifier="$outputsize" uid="2140806207" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

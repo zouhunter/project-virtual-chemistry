@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Sponge/Sponge" label="var01" >
+  <presetinput identifier="$outputsize" uid="3543727086" type="8" value="9,9" />
+  <presetinput identifier="Dirt" uid="3591335360" type="0" value="0.542" />
+  <presetinput identifier="Type" uid="3604860394" type="4" value="2" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Sponge/Sponge" label="var02" >
+  <presetinput identifier="$randomseed" uid="2219503036" type="4" value="1632161371" />
+  <presetinput identifier="Sponge_Color_2" uid="2850507101" type="2" value="0.322,0.51,0.463" />
+  <presetinput identifier="Sponge_Color_1" uid="2850507102" type="2" value="0.98,0.659,0.373" />
+  <presetinput identifier="$outputsize" uid="3543727086" type="8" value="9,9" />
+  <presetinput identifier="Dirt" uid="3591335360" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3612309751" type="0" value="10" />
+ </sbspreset>
+</sbspresets>

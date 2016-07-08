@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Painted_Fence/Painted_Fence" label="var01" >
+  <presetinput identifier="Paint_Age" uid="2724039252" type="0" value="0" />
+  <presetinput identifier="Wood_Age" uid="2724039850" type="0" value="0.896" />
+  <presetinput identifier="Depth" uid="2724043233" type="0" value="0.65" />
+  <presetinput identifier="Nails" uid="2724052345" type="0" value="0" />
+  <presetinput identifier="Painting_Colour" uid="2746623846" type="2" value="0.608,0.612,0.431" />
+  <presetinput identifier="$outputsize" uid="2791528151" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Fence/Painted_Fence" label="var02" >
+  <presetinput identifier="Planks" uid="2724037516" type="4" value="12" />
+  <presetinput identifier="Paint_Age" uid="2724039252" type="0" value="0.392" />
+  <presetinput identifier="Emboss" uid="2724043193" type="0" value="1.191" />
+  <presetinput identifier="Nails" uid="2724052345" type="0" value="1" />
+  <presetinput identifier="Painting_Colour" uid="2746623846" type="2" value="0.478,0.518,0.612" />
+  <presetinput identifier="$outputsize" uid="2791528151" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="4044439685" type="4" value="1186618342" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Fence/Painted_Fence" label="var03" >
+  <presetinput identifier="Planks" uid="2724037516" type="4" value="6" />
+  <presetinput identifier="Paint_Age" uid="2724039252" type="0" value="1" />
+  <presetinput identifier="Wood_Age" uid="2724039850" type="0" value="0.392" />
+  <presetinput identifier="Angle" uid="2724043174" type="0" value="0.175" />
+  <presetinput identifier="Emboss" uid="2724043193" type="0" value="4.531" />
+  <presetinput identifier="Depth" uid="2724043233" type="0" value="-0.812" />
+  <presetinput identifier="Nails" uid="2724052345" type="0" value="0.412" />
+  <presetinput identifier="Painting_Colour" uid="2746623846" type="2" value="0.816,0.816,0.816" />
+  <presetinput identifier="$outputsize" uid="2791528151" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="4044439685" type="4" value="325861044" />
+ </sbspreset>
+</sbspresets>

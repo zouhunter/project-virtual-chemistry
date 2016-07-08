@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Cardboard/Cardboard" label="var02" >
+  <presetinput identifier="$randomseed" uid="3155023963" type="4" value="1578274122" />
+  <presetinput identifier="$outputsize" uid="3951021577" type="8" value="10,10" />
+  <presetinput identifier="Tearing" uid="4014629454" type="0" value="0.466" />
+  <presetinput identifier="Depth" uid="4016345218" type="0" value="0.256" />
+  <presetinput identifier="Lines" uid="4016348117" type="0" value="0.923" />
+  <presetinput identifier="Angle" uid="4016354937" type="0" value="0.153" />
+  <presetinput identifier="Saturation" uid="4016354966" type="0" value="0.433" />
+  <presetinput identifier="Luminosity" uid="4016354980" type="0" value="0.476" />
+  <presetinput identifier="Hue_Shift" uid="4016355104" type="0" value="0.019" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cardboard/Cardboard" label="var03" >
+  <presetinput identifier="$randomseed" uid="3155023963" type="4" value="-1306587352" />
+  <presetinput identifier="$outputsize" uid="3951021577" type="8" value="10,10" />
+  <presetinput identifier="Tearing" uid="4014629454" type="0" value="0.536" />
+  <presetinput identifier="Tearing_Layer" uid="4015643560" type="0" value="0" />
+  <presetinput identifier="Depth" uid="4016345218" type="0" value="-0.301" />
+  <presetinput identifier="Lines" uid="4016348117" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="4016354921" type="0" value="5.098" />
+  <presetinput identifier="Angle" uid="4016354937" type="0" value="0.703" />
+  <presetinput identifier="Saturation" uid="4016354966" type="0" value="0.373" />
+  <presetinput identifier="Luminosity" uid="4016354980" type="0" value="0.476" />
+  <presetinput identifier="Contrast" uid="4016354992" type="0" value="0.148" />
+  <presetinput identifier="Hue_Shift" uid="4016355104" type="0" value="0.019" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cardboard/Cardboard" label="var01" >
+  <presetinput identifier="$randomseed" uid="3155023963" type="4" value="2116270776" />
+  <presetinput identifier="$outputsize" uid="3951021577" type="8" value="10,10" />
+  <presetinput identifier="Tearing" uid="4014629454" type="0" value="0.005" />
+  <presetinput identifier="Depth" uid="4016345218" type="0" value="0.256" />
+  <presetinput identifier="Normal" uid="4016345494" type="0" value="1" />
+  <presetinput identifier="Lines" uid="4016348117" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="4016354921" type="0" value="10" />
+  <presetinput identifier="Angle" uid="4016354937" type="0" value="0.153" />
+  <presetinput identifier="Saturation" uid="4016354966" type="0" value="0.538" />
+  <presetinput identifier="Luminosity" uid="4016354980" type="0" value="0.476" />
+  <presetinput identifier="Contrast" uid="4016354992" type="0" value="0.152" />
+  <presetinput identifier="Hue_Shift" uid="4016355104" type="0" value="0.014" />
+ </sbspreset>
+</sbspresets>

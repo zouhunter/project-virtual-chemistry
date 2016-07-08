@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://book_paper001/book_paper001" label="var01">
+  <presetinput identifier="Creases" uid="322012870" type="0" value="0"/>
+  <presetinput identifier="Age" uid="322095987" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="322602592" type="0" value="0.023"/>
+  <presetinput identifier="$outputsize" uid="1776179799" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1820517356" type="0" value="0.491"/>
+  <presetinput identifier="Saturation" uid="1820517369" type="0" value="0.317"/>
+  <presetinput identifier="Depth" uid="1820530303" type="0" value="0.094"/>
+  <presetinput identifier="Normal" uid="1820531853" type="0" value="0.524"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper001/book_paper001" label="var02">
+  <presetinput identifier="Creases" uid="322012870" type="0" value="0.396"/>
+  <presetinput identifier="$outputsize" uid="1776179799" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1820517356" type="0" value="0.585"/>
+  <presetinput identifier="Saturation" uid="1820517369" type="0" value="0.368"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://book_paper001/book_paper001" label="var03">
+  <presetinput identifier="Creases" uid="322012870" type="0" value="0"/>
+  <presetinput identifier="Wet_Color" uid="322095674" type="2" value="0.902,0.745,0.541"/>
+  <presetinput identifier="$randomseed" uid="1051479045" type="4" value="-1588153628"/>
+  <presetinput identifier="$outputsize" uid="1776179799" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1820517356" type="0" value="0.585"/>
+  <presetinput identifier="Saturation" uid="1820517369" type="0" value="0.567"/>
+  <presetinput identifier="Wet" uid="1827259023" type="0" value="0.424"/>
+ </sbspreset>
+</sbspresets>

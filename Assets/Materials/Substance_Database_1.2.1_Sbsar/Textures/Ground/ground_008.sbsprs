@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://ground_008/ground_008" label="var01" >
+  <presetinput identifier="$outputsize" uid="53427222" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1415391812" type="4" value="-205091239" />
+  <presetinput identifier="Concrete_Color" uid="2046241409" type="2" value="0.275,0.267,0.267" />
+  <presetinput identifier="Pebbles_Color_2" uid="2046241422" type="2" value="0.216,0.231,0.263" />
+  <presetinput identifier="Pebbles_Color_1" uid="2046241423" type="2" value="0.329,0.365,0.322" />
+  <presetinput identifier="Pebbles_Color_4" uid="2046241463" type="2" value="0.345,0.4,0.325" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_008/ground_008" label="var02" >
+  <presetinput identifier="$outputsize" uid="53427222" type="8" value="9,9" />
+  <presetinput identifier="Cracks" uid="2046233145" type="0" value="0.605" />
+  <presetinput identifier="Concrete_Color" uid="2046241409" type="2" value="0.561,0.549,0.549" />
+ </sbspreset>
+</sbspresets>

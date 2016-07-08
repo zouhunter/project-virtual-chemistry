@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://rock_007/rock_007" label="var01">
+  <presetinput identifier="Color" uid="573892280" type="2" value="0.702,0.753,0.753"/>
+  <presetinput identifier="$outputsize" uid="1489963261" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1569866965" type="0" value="-0.025"/>
+  <presetinput identifier="Fleck" uid="1576849837" type="0" value="0"/>
+  <presetinput identifier="Weathering" uid="1576857804" type="0" value="0"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_007/rock_007" label="var02">
+  <presetinput identifier="$randomseed" uid="264052399" type="4" value="-25649834"/>
+  <presetinput identifier="Color" uid="573892280" type="2" value="0.69,0.753,0.624"/>
+  <presetinput identifier="$outputsize" uid="1489963261" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1569866965" type="0" value="-0.025"/>
+  <presetinput identifier="Fleck" uid="1576849837" type="0" value="1"/>
+  <presetinput identifier="Weathering" uid="1576857804" type="0" value="0"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_007/rock_007" label="var03">
+  <presetinput identifier="$randomseed" uid="264052399" type="4" value="-25649834"/>
+  <presetinput identifier="Color" uid="573892280" type="2" value="0.753,0.725,0.678"/>
+  <presetinput identifier="$outputsize" uid="1489963261" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1569866965" type="0" value="-1"/>
+  <presetinput identifier="Emboss" uid="1569869432" type="0" value="1"/>
+  <presetinput identifier="Light_Angle" uid="1569869536" type="0" value="0.208"/>
+  <presetinput identifier="Fleck" uid="1576849837" type="0" value="0.474"/>
+  <presetinput identifier="Weathering" uid="1576857804" type="0" value="0.625"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_007/rock_007" label="var04">
+  <presetinput identifier="$randomseed" uid="264052399" type="4" value="1847102305"/>
+  <presetinput identifier="Color" uid="573892280" type="2" value="0.702,0.718,0.753"/>
+  <presetinput identifier="$outputsize" uid="1489963261" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1569866965" type="0" value="1"/>
+  <presetinput identifier="Emboss" uid="1569869432" type="0" value="0.586"/>
+  <presetinput identifier="Light_Angle" uid="1569869536" type="0" value="0.208"/>
+  <presetinput identifier="Fleck" uid="1576849837" type="0" value="0.474"/>
+  <presetinput identifier="Weathering" uid="1576857804" type="0" value="0.625"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://bricks_020/bricks_020" label="var01" >
+  <presetinput identifier="$outputsize" uid="545776329" type="8" value="9,9" />
+  <presetinput identifier="Bricks_Amount_X" uid="632022310" type="4" value="2" />
+  <presetinput identifier="Bricks_Amount_Y" uid="632022311" type="4" value="4" />
+  <presetinput identifier="Bricks_Color" uid="632022520" type="2" value="0.329,0.227,0.2" />
+  <presetinput identifier="$randomseed" uid="2012607643" type="4" value="-1469452677" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_020/bricks_020" label="var02" >
+  <presetinput identifier="$outputsize" uid="545776329" type="8" value="9,9" />
+  <presetinput identifier="Bricks_Amount_X" uid="632022310" type="4" value="8" />
+  <presetinput identifier="Bricks_Amount_Y" uid="632022311" type="4" value="14" />
+  <presetinput identifier="Bricks_Color_Variation" uid="632022505" type="0" value="0.837" />
+  <presetinput identifier="Bricks_Color" uid="632022520" type="2" value="0.439,0.31,0.314" />
+  <presetinput identifier="Age" uid="632843912" type="0" value="0.493" />
+  <presetinput identifier="$randomseed" uid="2012607643" type="4" value="389587024" />
+ </sbspreset>
+</sbspresets>

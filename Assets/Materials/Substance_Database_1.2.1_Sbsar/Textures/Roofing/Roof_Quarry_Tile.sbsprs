@@ -1,0 +1,43 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Roof_Quarry_Tile/Roof_Quarry_Tile" label="var01" >
+  <presetinput identifier="$outputsize" uid="2293766394" type="8" value="9,9" />
+  <presetinput identifier="Variation" uid="2357574948" type="0" value="0.654" />
+  <presetinput identifier="Dirt_Cover" uid="2358981098" type="0" value="0.198" />
+  <presetinput identifier="Dirt_Amount" uid="2358981118" type="0" value="0.606" />
+  <presetinput identifier="Slate_Overlap" uid="2359179299" type="0" value="0.142" />
+  <presetinput identifier="Contrast" uid="2362349016" type="0" value="0.199" />
+  <presetinput identifier="$randomseed" uid="3754561192" type="4" value="-1699830623" />
+  <presetinput identifier="Slates_Colour" uid="4065489443" type="2" value="0.737,0.545,0.388" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Roof_Quarry_Tile/Roof_Quarry_Tile" label="var02" >
+  <presetinput identifier="$outputsize" uid="2293766394" type="8" value="9,9" />
+  <presetinput identifier="Variation" uid="2357574948" type="0" value="0.654" />
+  <presetinput identifier="Dirt_Cover" uid="2358981098" type="0" value="0.198" />
+  <presetinput identifier="Dirt_Amount" uid="2358981118" type="0" value="0.606" />
+  <presetinput identifier="Shadow_Blur" uid="2359119647" type="0" value="10" />
+  <presetinput identifier="Size_Random" uid="2359179275" type="0" value="0.268" />
+  <presetinput identifier="Slate_Overlap" uid="2359179299" type="0" value="0.142" />
+  <presetinput identifier="Slate_Type" uid="2359179712" type="4" value="2" />
+  <presetinput identifier="Offset" uid="2359182011" type="0" value="0.824" />
+  <presetinput identifier="Depth" uid="2361894688" type="0" value="0.166" />
+  <presetinput identifier="Contrast" uid="2362349016" type="0" value="0.199" />
+  <presetinput identifier="$randomseed" uid="3754561192" type="4" value="-1699830623" />
+  <presetinput identifier="Slates_Colour" uid="4065489443" type="2" value="0.369,0.369,0.369" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Roof_Quarry_Tile/Roof_Quarry_Tile" label="var03" >
+  <presetinput identifier="$outputsize" uid="2293766394" type="8" value="9,9" />
+  <presetinput identifier="Variation" uid="2357574948" type="0" value="0.654" />
+  <presetinput identifier="Dirt_Cover" uid="2358981098" type="0" value="0.198" />
+  <presetinput identifier="Dirt_Amount" uid="2358981118" type="0" value="0.606" />
+  <presetinput identifier="Shadow_Blur" uid="2359119647" type="0" value="10" />
+  <presetinput identifier="Slates_X" uid="2359169347" type="4" value="12" />
+  <presetinput identifier="Slates_Y" uid="2359169470" type="4" value="7" />
+  <presetinput identifier="Slate_Overlap" uid="2359179299" type="0" value="0.142" />
+  <presetinput identifier="Slate_Type" uid="2359179712" type="4" value="4" />
+  <presetinput identifier="Offset" uid="2359182011" type="0" value="1" />
+  <presetinput identifier="Depth" uid="2361894688" type="0" value="0.166" />
+  <presetinput identifier="Contrast" uid="2362349016" type="0" value="0.199" />
+  <presetinput identifier="$randomseed" uid="3754561192" type="4" value="-1699830623" />
+  <presetinput identifier="Slates_Colour" uid="4065489443" type="2" value="0.463,0.275,0.176" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Bamboo_Fence/Bamboo_Fence" label="var01" >
+  <presetinput identifier="$outputsize" uid="2439328278" type="8" value="10,10" />
+  <presetinput identifier="Hue_Shift" uid="2505598907" type="0" value="0.127" />
+  <presetinput identifier="Angle" uid="2505598910" type="0" value="0.219" />
+  <presetinput identifier="$randomseed" uid="3323405380" type="4" value="1648955599" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bamboo_Fence/Bamboo_Fence" label="var02" >
+  <presetinput identifier="$outputsize" uid="2439328278" type="8" value="10,10" />
+  <presetinput identifier="Depth" uid="2505598885" type="0" value="0.389" />
+  <presetinput identifier="Contrast" uid="2505598904" type="0" value="0.203" />
+  <presetinput identifier="Luminosity" uid="2505598905" type="0" value="0.464" />
+  <presetinput identifier="Angle" uid="2505598910" type="0" value="0.761" />
+  <presetinput identifier="Sticks_Nb" uid="2505602104" type="4" value="22" />
+  <presetinput identifier="$randomseed" uid="3323405380" type="4" value="1641224911" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bamboo_Fence/Bamboo_Fence" label="var03" >
+  <presetinput identifier="$outputsize" uid="2439328278" type="8" value="10,10" />
+  <presetinput identifier="Depth" uid="2505598885" type="0" value="0.389" />
+  <presetinput identifier="Contrast" uid="2505598904" type="0" value="0.203" />
+  <presetinput identifier="Luminosity" uid="2505598905" type="0" value="0.464" />
+  <presetinput identifier="Saturation" uid="2505598906" type="0" value="0.405" />
+  <presetinput identifier="Angle" uid="2505598910" type="0" value="0.236" />
+  <presetinput identifier="Emboss" uid="2505598911" type="0" value="9.59" />
+  <presetinput identifier="Sticks_Nb" uid="2505602104" type="4" value="27" />
+  <presetinput identifier="$randomseed" uid="3323405380" type="4" value="1641224911" />
+ </sbspreset>
+</sbspresets>

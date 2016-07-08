@@ -1,0 +1,11 @@
+<sbspresets formatversion="1.0" count="1" >
+ <sbspreset pkgurl="pkg://Slate_Tiles/Slate_Tiles" label="var01" >
+  <presetinput identifier="Tiles_Color" uid="2306017297" type="2" value="0.137,0.141,0.094" />
+  <presetinput identifier="$randomseed" uid="2766117726" type="4" value="599179960" />
+  <presetinput identifier="$outputsize" uid="4088237324" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="4144025704" type="0" value="0" />
+  <presetinput identifier="Tile_Y" uid="4144372153" type="4" value="24" />
+  <presetinput identifier="Tile_X" uid="4144373362" type="4" value="12" />
+  <presetinput identifier="Contrast" uid="4158363272" type="0" value="0.08" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood024/wood024" label="var01">
+  <presetinput identifier="$outputsize" uid="3129907372" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3218219266" type="0" value="0.411"/>
+  <presetinput identifier="Luminosity" uid="3218219287" type="0" value="0.572"/>
+  <presetinput identifier="Contrast" uid="3226754193" type="0" value="-0.105"/>
+  <presetinput identifier="$randomseed" uid="3992751870" type="4" value="1597097972"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood024/wood024" label="var03">
+  <presetinput identifier="$outputsize" uid="3129907372" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3218219266" type="0" value="0.587"/>
+  <presetinput identifier="Luminosity" uid="3218219287" type="0" value="0.446"/>
+  <presetinput identifier="Age" uid="3226396462" type="0" value="0.729"/>
+  <presetinput identifier="Battens" uid="3226744285" type="4" value="1"/>
+  <presetinput identifier="Contrast" uid="3226754193" type="0" value="-0.186"/>
+  <presetinput identifier="$randomseed" uid="3992751870" type="4" value="-183163989"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood024/wood024" label="var02">
+  <presetinput identifier="Luminosity" uid="837509732" type="0" value="0.427"/>
+  <presetinput identifier="Saturation" uid="837509745" type="0" value="0.827"/>
+  <presetinput identifier="$outputsize" uid="884464607" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="1315774434" type="0" value="-0.105"/>
+  <presetinput identifier="$randomseed" uid="1673907597" type="4" value="-104624225"/>
+ </sbspreset>
+</sbspresets>

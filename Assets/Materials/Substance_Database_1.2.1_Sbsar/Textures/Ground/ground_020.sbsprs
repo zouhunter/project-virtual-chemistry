@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://ground_020/ground_020" label="var01">
+  <presetinput identifier="$randomseed" uid="249561921" type="4" value="-1769599424"/>
+  <presetinput identifier="Contrast" uid="593961806" type="0" value="0.297"/>
+  <presetinput identifier="$outputsize" uid="1502745875" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="1557048509" type="0" value="0.432"/>
+  <presetinput identifier="Hue_Shift" uid="1557048538" type="0" value="0.113"/>
+  <presetinput identifier="Light_Angle" uid="1557091086" type="0" value="0.744"/>
+  <presetinput identifier="Emboss" uid="1557091222" type="0" value="0.672"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_020/ground_020" label="var02">
+  <presetinput identifier="$randomseed" uid="249561921" type="4" value="495182753"/>
+  <presetinput identifier="Contrast" uid="593961806" type="0" value="0.297"/>
+  <presetinput identifier="Ground_Color" uid="594010696" type="2" value="0.471,0.506,0.443"/>
+  <presetinput identifier="Weathering" uid="595048469" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1502745875" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="1557048509" type="0" value="0.495"/>
+  <presetinput identifier="Light_Angle" uid="1557091086" type="0" value="0.744"/>
+  <presetinput identifier="Emboss" uid="1557091222" type="0" value="0.672"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_020/ground_020" label="var03">
+  <presetinput identifier="$randomseed" uid="249561921" type="4" value="495182753"/>
+  <presetinput identifier="Dust_Color" uid="593928228" type="2" value="0.224,0.357,0.208"/>
+  <presetinput identifier="Dust" uid="593961748" type="0" value="0.803"/>
+  <presetinput identifier="Contrast" uid="593961806" type="0" value="0.297"/>
+  <presetinput identifier="Ground_Color" uid="594010696" type="2" value="0.451,0.506,0.506"/>
+  <presetinput identifier="Weathering" uid="595048469" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1502745875" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="1557048509" type="0" value="0.495"/>
+  <presetinput identifier="Light_Angle" uid="1557091086" type="0" value="0.744"/>
+  <presetinput identifier="Emboss" uid="1557091222" type="0" value="0.672"/>
+ </sbspreset>
+</sbspresets>

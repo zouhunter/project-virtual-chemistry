@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Egg_Sunny_Side_Up/Egg_Sunny_Side_Up" label="var01" >
+  <presetinput identifier="$outputsize" uid="4060335464" type="8" value="9,9" />
+  <presetinput identifier="Spread" uid="4150244780" type="0" value="0.609" />
+  <presetinput identifier="Pepper" uid="4153670466" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Egg_Sunny_Side_Up/Egg_Sunny_Side_Up" label="var02" >
+  <presetinput identifier="$randomseed" uid="2775702330" type="4" value="1060179118" />
+  <presetinput identifier="$outputsize" uid="4060335464" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="4134817393" type="0" value="4.59" />
+  <presetinput identifier="Normal" uid="4134879528" type="0" value="0.954" />
+  <presetinput identifier="Cooking_Time" uid="4153612643" type="0" value="1" />
+  <presetinput identifier="Pepper" uid="4153670466" type="0" value="0.679" />
+ </sbspreset>
+</sbspresets>

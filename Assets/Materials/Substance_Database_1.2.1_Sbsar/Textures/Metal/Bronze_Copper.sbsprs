@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Bronze_Copper/BronzeCopper" label="var01" >
+  <presetinput identifier="$outputsize" uid="2309147851" type="8" value="10,10" />
+  <presetinput identifier="Hue_Shift" uid="2370843129" type="0" value="0.032" />
+  <presetinput identifier="Luminosity" uid="2370843132" type="0" value="0.455" />
+  <presetinput identifier="Saturation" uid="2370843135" type="0" value="0.672" />
+  <presetinput identifier="Angle" uid="2379567086" type="0" value="0.733" />
+  <presetinput identifier="$randomseed" uid="3738229401" type="4" value="1265168570" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bronze_Copper/BronzeCopper" label="var02" >
+  <presetinput identifier="$outputsize" uid="2309147851" type="8" value="10,10" />
+  <presetinput identifier="Hue_Shift" uid="2370843129" type="0" value="0.032" />
+  <presetinput identifier="Luminosity" uid="2370843132" type="0" value="0.455" />
+  <presetinput identifier="Saturation" uid="2370843135" type="0" value="0.672" />
+  <presetinput identifier="Contrast" uid="2379497961" type="0" value="0.17" />
+  <presetinput identifier="Age" uid="2379501065" type="0" value="0.624" />
+  <presetinput identifier="Emboss" uid="2379567058" type="0" value="-1.738" />
+  <presetinput identifier="Angle" uid="2379567086" type="0" value="0.061" />
+  <presetinput identifier="$randomseed" uid="3738229401" type="4" value="-1283007152" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Bronze_Copper/BronzeCopper" label="var03" >
+  <presetinput identifier="$outputsize" uid="2309147851" type="8" value="10,10" />
+  <presetinput identifier="Tile" uid="2363421595" type="4" value="4" />
+  <presetinput identifier="Hue_Shift" uid="2370843129" type="0" value="0.032" />
+  <presetinput identifier="Luminosity" uid="2370843132" type="0" value="0.498" />
+  <presetinput identifier="Saturation" uid="2370843135" type="0" value="0.543" />
+  <presetinput identifier="Contrast" uid="2379497961" type="0" value="0.17" />
+  <presetinput identifier="Age" uid="2379501065" type="0" value="0.911" />
+  <presetinput identifier="Emboss" uid="2379567058" type="0" value="-1.738" />
+  <presetinput identifier="Angle" uid="2379567086" type="0" value="0.375" />
+  <presetinput identifier="Depth" uid="2380100369" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="3738229401" type="4" value="-1283007152" />
+ </sbspreset>
+</sbspresets>

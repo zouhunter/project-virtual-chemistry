@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://bricks_021/bricks_021" label="var01" >
+  <presetinput identifier="Color" uid="3067311319" type="2" value="0.475,0.475,0.486" />
+  <presetinput identifier="Bricks_Amount_X" uid="3067885412" type="4" value="1" />
+  <presetinput identifier="Bricks_Amount_Y" uid="3067885414" type="4" value="5" />
+  <presetinput identifier="$outputsize" uid="3425017392" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_021/bricks_021" label="var02" >
+  <presetinput identifier="$randomseed" uid="2606205026" type="4" value="-1073802004" />
+  <presetinput identifier="Dirtiness" uid="3067311318" type="0" value="0.473" />
+  <presetinput identifier="Color" uid="3067311319" type="2" value="0.459,0.494,0.455" />
+  <presetinput identifier="Bricks_Amount_X" uid="3067885412" type="4" value="18" />
+  <presetinput identifier="Bricks_Amount_Y" uid="3067885414" type="4" value="10" />
+  <presetinput identifier="Small_Bricks_Ratio" uid="3067885417" type="0" value="0.675" />
+  <presetinput identifier="Color_Variation" uid="3375893298" type="0" value="0.519" />
+  <presetinput identifier="$outputsize" uid="3425017392" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

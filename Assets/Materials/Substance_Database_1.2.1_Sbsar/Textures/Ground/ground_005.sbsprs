@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://ground_005/ground_005" label="var01" >
+  <presetinput identifier="Peebles" uid="2582998303" type="0" value="0.663" />
+  <presetinput identifier="$outputsize" uid="3811656005" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_005/ground_005" label="var02" >
+  <presetinput identifier="Water_Level" uid="2582185123" type="0" value="0.198" />
+  <presetinput identifier="Bumps" uid="2582221555" type="0" value="0.573" />
+  <presetinput identifier="Peebles" uid="2582998303" type="0" value="0.221" />
+  <presetinput identifier="$outputsize" uid="3811656005" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_005/ground_005" label="var03" >
+  <presetinput identifier="Water_Level" uid="2582185123" type="0" value="0.192" />
+  <presetinput identifier="Water_Refraction" uid="2582185164" type="0" value="0.486" />
+  <presetinput identifier="Water_Flow" uid="2582185190" type="0" value="0.647" />
+  <presetinput identifier="Snow" uid="2582185846" type="0" value="0.458" />
+  <presetinput identifier="Sand_Color" uid="2582216022" type="2" value="0.38,0.31,0.227" />
+  <presetinput identifier="Bumps" uid="2582221555" type="0" value="0.573" />
+  <presetinput identifier="Peebles" uid="2582998303" type="0" value="0.221" />
+  <presetinput identifier="Water_Moss" uid="2583099580" type="0" value="0.219" />
+  <presetinput identifier="$outputsize" uid="3811656005" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

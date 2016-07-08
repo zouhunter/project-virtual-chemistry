@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://ground_017/ground_017" label="var01" >
+  <presetinput identifier="Mortar_Color" uid="548111358" type="2" value="0.627,0.635,0.62" />
+  <presetinput identifier="Rocks_Color" uid="548117961" type="2" value="0.443,0.424,0.388" />
+  <presetinput identifier="Cracks" uid="552950331" type="0" value="0.428" />
+  <presetinput identifier="$outputsize" uid="629757490" type="8" value="9,9" />
+  <presetinput identifier="Stones_Amount" uid="1602096525" type="8" value="2,3" />
+  <presetinput identifier="$randomseed" uid="1929068640" type="4" value="1432592747" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_017/ground_017" label="var02" >
+  <presetinput identifier="Mortar_Color" uid="548111358" type="2" value="0.627,0.635,0.62" />
+  <presetinput identifier="Rocks_Color" uid="548117961" type="2" value="0.443,0.424,0.388" />
+  <presetinput identifier="Cracks" uid="552950331" type="0" value="0.428" />
+  <presetinput identifier="$outputsize" uid="629757490" type="8" value="9,9" />
+  <presetinput identifier="Stones_Amount" uid="1602096525" type="8" value="9,9" />
+  <presetinput identifier="Water_Refraction" uid="1602098208" type="0" value="1" />
+  <presetinput identifier="Water_Level" uid="1602098209" type="0" value="0.814" />
+  <presetinput identifier="Water_To_Ice" uid="1602098213" type="0" value="0.098" />
+  <presetinput identifier="Snow" uid="1602098219" type="0" value="0.44" />
+  <presetinput identifier="$randomseed" uid="1929068640" type="4" value="1616246201" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,13 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Gravel/Gravel" label="var01" >
+  <presetinput identifier="Scale" uid="1123572996" type="0" value="0.355" />
+  <presetinput identifier="Amount" uid="1140459282" type="0" value="0.093" />
+  <presetinput identifier="Layers" uid="1140521006" type="4" value="0" />
+  <presetinput identifier="$outputsize" uid="1200372922" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Gravel/Gravel" label="var02" >
+  <presetinput identifier="Scale" uid="1123572996" type="0" value="1.984" />
+  <presetinput identifier="Amount" uid="1140459282" type="0" value="0.679" />
+  <presetinput identifier="$outputsize" uid="1200372922" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

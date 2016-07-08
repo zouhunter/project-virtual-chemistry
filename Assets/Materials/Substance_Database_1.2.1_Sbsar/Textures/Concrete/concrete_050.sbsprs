@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_050/concrete_050" label="var01">
+  <presetinput identifier="Saturation" uid="1778549025" type="0" value="0.547"/>
+  <presetinput identifier="Depth" uid="1778611367" type="0" value="0.291"/>
+  <presetinput identifier="Emboss" uid="1778613770" type="0" value="0"/>
+  <presetinput identifier="Normal" uid="1778613845" type="0" value="0.618"/>
+  <presetinput identifier="Light_Angle" uid="1778613906" type="0" value="0.656"/>
+  <presetinput identifier="$outputsize" uid="1868445839" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_050/concrete_050" label="var02">
+  <presetinput identifier="Contrast" uid="365497160" type="0" value="0.336"/>
+  <presetinput identifier="$randomseed" uid="942419677" type="4" value="-178680825"/>
+  <presetinput identifier="Saturation" uid="1778549025" type="0" value="0.547"/>
+  <presetinput identifier="Luminosity" uid="1778549044" type="0" value="0.496"/>
+  <presetinput identifier="Depth" uid="1778611367" type="0" value="0.291"/>
+  <presetinput identifier="Emboss" uid="1778613770" type="0" value="0.801"/>
+  <presetinput identifier="Normal" uid="1778613845" type="0" value="0.618"/>
+  <presetinput identifier="Light_Angle" uid="1778613906" type="0" value="0.244"/>
+  <presetinput identifier="Concrete" uid="1786398443" type="0" value="0.615"/>
+  <presetinput identifier="$outputsize" uid="1868445839" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_050/concrete_050" label="var03">
+  <presetinput identifier="Contrast" uid="365497160" type="0" value="0.449"/>
+  <presetinput identifier="$randomseed" uid="942419677" type="4" value="267006420"/>
+  <presetinput identifier="Saturation" uid="1778549025" type="0" value="0.496"/>
+  <presetinput identifier="Luminosity" uid="1778549044" type="0" value="0.507"/>
+  <presetinput identifier="Depth" uid="1778611367" type="0" value="0.291"/>
+  <presetinput identifier="Emboss" uid="1778613770" type="0" value="0.801"/>
+  <presetinput identifier="Normal" uid="1778613845" type="0" value="0.618"/>
+  <presetinput identifier="Light_Angle" uid="1778613906" type="0" value="0.244"/>
+  <presetinput identifier="Concrete" uid="1786398443" type="0" value="0.615"/>
+  <presetinput identifier="Cracks" uid="1786501615" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1868445839" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

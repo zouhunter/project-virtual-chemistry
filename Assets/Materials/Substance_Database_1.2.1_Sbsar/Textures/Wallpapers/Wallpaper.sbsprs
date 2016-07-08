@@ -1,0 +1,58 @@
+<sbspresets formatversion="1.0" count="5" >
+ <sbspreset pkgurl="pkg://Wallpaper/Wallpaper" label="var01" >
+  <presetinput identifier="$outputsize" uid="2026648941" type="8" value="10,10" />
+  <presetinput identifier="Saturation" uid="2084489305" type="0" value="0.344" />
+  <presetinput identifier="Luminosity" uid="2084489306" type="0" value="0.603" />
+  <presetinput identifier="Hue_Shift" uid="2084489311" type="0" value="0.257" />
+  <presetinput identifier="Grain_Type" uid="2104376621" type="4" value="7" />
+  <presetinput identifier="Grain_Intensity" uid="2106450760" type="0" value="0.961" />
+  <presetinput identifier="Pattern" uid="2106457182" type="4" value="2" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wallpaper/Wallpaper" label="var02" >
+  <presetinput identifier="$outputsize" uid="2026648941" type="8" value="10,10" />
+  <presetinput identifier="Saturation" uid="2084489305" type="0" value="0.451" />
+  <presetinput identifier="Luminosity" uid="2084489306" type="0" value="0.603" />
+  <presetinput identifier="Hue_Shift" uid="2084489311" type="0" value="0.062" />
+  <presetinput identifier="Grain_Type" uid="2104376621" type="4" value="7" />
+  <presetinput identifier="Sharpness" uid="2106336455" type="0" value="0.597" />
+  <presetinput identifier="Tiling" uid="2106364895" type="4" value="8" />
+  <presetinput identifier="Outline" uid="2106367785" type="0" value="0.009" />
+  <presetinput identifier="Grain_Intensity" uid="2106450760" type="0" value="0.505" />
+  <presetinput identifier="Pattern" uid="2106457182" type="4" value="4" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wallpaper/Wallpaper" label="var03" >
+  <presetinput identifier="$outputsize" uid="2026648941" type="8" value="10,10" />
+  <presetinput identifier="Saturation" uid="2084489305" type="0" value="0.511" />
+  <presetinput identifier="Luminosity" uid="2084489306" type="0" value="0.603" />
+  <presetinput identifier="Hue_Shift" uid="2084489311" type="0" value="0.018" />
+  <presetinput identifier="Grain_Type" uid="2104376621" type="4" value="6" />
+  <presetinput identifier="Tiling" uid="2106364895" type="4" value="4" />
+  <presetinput identifier="Outline" uid="2106367785" type="0" value="1" />
+  <presetinput identifier="Grain_Intensity" uid="2106450760" type="0" value="0.505" />
+  <presetinput identifier="Pattern" uid="2106457182" type="4" value="10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wallpaper/Wallpaper" label="var04" >
+  <presetinput identifier="$outputsize" uid="2026648941" type="8" value="10,10" />
+  <presetinput identifier="Saturation" uid="2084489305" type="0" value="0.438" />
+  <presetinput identifier="Luminosity" uid="2084489306" type="0" value="0.603" />
+  <presetinput identifier="Hue_Shift" uid="2084489311" type="0" value="0.018" />
+  <presetinput identifier="Grain_Type" uid="2104376621" type="4" value="4" />
+  <presetinput identifier="Sharpness" uid="2106336455" type="0" value="0.707" />
+  <presetinput identifier="Tiling" uid="2106364895" type="4" value="13" />
+  <presetinput identifier="Outline" uid="2106367785" type="0" value="1" />
+  <presetinput identifier="Grain_Intensity" uid="2106450760" type="0" value="0.505" />
+  <presetinput identifier="Pattern" uid="2106457182" type="4" value="7" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Wallpaper/Wallpaper" label="var05" >
+  <presetinput identifier="$outputsize" uid="2026648941" type="8" value="10,10" />
+  <presetinput identifier="Saturation" uid="2084489305" type="0" value="0.403" />
+  <presetinput identifier="Luminosity" uid="2084489306" type="0" value="0.687" />
+  <presetinput identifier="Hue_Shift" uid="2084489311" type="0" value="0.606" />
+  <presetinput identifier="Grain_Type" uid="2104376621" type="4" value="10" />
+  <presetinput identifier="Sharpness" uid="2106336455" type="0" value="0.146" />
+  <presetinput identifier="Tiling" uid="2106364895" type="4" value="19" />
+  <presetinput identifier="Outline" uid="2106367785" type="0" value="0.093" />
+  <presetinput identifier="Grain_Intensity" uid="2106450760" type="0" value="0.235" />
+  <presetinput identifier="Pattern" uid="2106457182" type="4" value="3" />
+ </sbspreset>
+</sbspresets>

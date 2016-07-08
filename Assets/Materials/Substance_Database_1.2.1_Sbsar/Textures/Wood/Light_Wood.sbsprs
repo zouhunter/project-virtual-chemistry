@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://Light_Wood/Light_Wood" label="var01">
+  <presetinput identifier="Bumps" uid="718608755" type="0" value="0.602"/>
+  <presetinput identifier="$outputsize" uid="786904403" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="2039816961" type="4" value="135944270"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Light_Wood/Light_Wood" label="var02">
+  <presetinput identifier="Age" uid="718608729" type="0" value="0.381"/>
+  <presetinput identifier="$outputsize" uid="786904403" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="2039816961" type="4" value="-1317847016"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Light_Wood/Light_Wood" label="var03">
+  <presetinput identifier="Age" uid="718608729" type="0" value="1"/>
+  <presetinput identifier="Bumps" uid="718608755" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="786904403" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="2039816961" type="4" value="2123164875"/>
+ </sbspreset>
+</sbspresets>

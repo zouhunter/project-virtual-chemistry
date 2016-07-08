@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://paper_002/paper_002" label="var01" >
+  <presetinput identifier="$outputsize" uid="2261631894" type="8" value="9,9" />
+  <presetinput identifier="Creases" uid="4227912358" type="0" value="0.137" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_002/paper_002" label="var02" >
+  <presetinput identifier="$outputsize" uid="2261631894" type="8" value="9,9" />
+  <presetinput identifier="Creases" uid="4227912358" type="0" value="0.715" />
+  <presetinput identifier="Color" uid="4227912380" type="2" value="0.949,0.949,0.949" />
+  <presetinput identifier="Pattern" uid="4228768040" type="0" value="0.288" />
+  <presetinput identifier="Pattern_Scale" uid="4228768346" type="4" value="3" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_002/paper_002" label="var03" >
+  <presetinput identifier="$outputsize" uid="2261631894" type="8" value="9,9" />
+  <presetinput identifier="Creases" uid="4227912358" type="0" value="0.041" />
+  <presetinput identifier="Color" uid="4227912380" type="2" value="0.949,0.875,0.929" />
+ </sbspreset>
+</sbspresets>

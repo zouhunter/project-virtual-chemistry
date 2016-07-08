@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood044/wood044" label="var02">
+  <presetinput identifier="$outputsize" uid="3788132205" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3835098819" type="0" value="0.21"/>
+  <presetinput identifier="Stains" uid="3836316179" type="0" value="0.624"/>
+  <presetinput identifier="Small_Vertical_Veins" uid="3836316215" type="0" value="0"/>
+  <presetinput identifier="Veins_Warping" uid="3836316252" type="0" value="1"/>
+  <presetinput identifier="Bumps" uid="3836316284" type="0" value="0.789"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood044/wood044" label="var03">
+  <presetinput identifier="Battens" uid="2600897618" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="3065534783" type="4" value="-1735043424"/>
+  <presetinput identifier="$outputsize" uid="3788132205" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3835098819" type="0" value="0.21"/>
+  <presetinput identifier="Luminosity" uid="3835098838" type="0" value="0.407"/>
+  <presetinput identifier="Stains" uid="3836316179" type="0" value="0.624"/>
+  <presetinput identifier="Small_Vertical_Veins" uid="3836316215" type="0" value="0"/>
+  <presetinput identifier="Veins_Warping" uid="3836316252" type="0" value="1"/>
+  <presetinput identifier="Bumps" uid="3836316284" type="0" value="0.789"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood044/wood044" label="var01">
+  <presetinput identifier="$outputsize" uid="855674557" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="912013075" type="0" value="0.21"/>
+  <presetinput identifier="Bumps" uid="912477100" type="0" value="0.653"/>
+  <presetinput identifier="Small_Vertical_Veins" uid="912477159" type="0" value="0"/>
+  <presetinput identifier="Wood_Color" uid="1238125687" type="2" value="0.529,0.255,0.145"/>
+  <presetinput identifier="$randomseed" uid="1685231855" type="4" value="-706021433"/>
+ </sbspreset>
+</sbspresets>

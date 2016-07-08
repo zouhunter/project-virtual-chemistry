@@ -1,0 +1,43 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood009/wood009" label="var01">
+  <presetinput identifier="Luminosity" uid="3152473197" type="0" value="0.502"/>
+  <presetinput identifier="Saturation" uid="3152473208" type="0" value="0.418"/>
+  <presetinput identifier="Emboss" uid="3152483155" type="0" value="0.804"/>
+  <presetinput identifier="Light_Angle" uid="3152483275" type="0" value="0.425"/>
+  <presetinput identifier="$outputsize" uid="3199882710" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="3294663147" type="0" value="0.217"/>
+  <presetinput identifier="Wood_Color" uid="3294672958" type="2" value="0.373,0.282,0.188"/>
+  <presetinput identifier="Dirtiness" uid="3296513543" type="0" value="0.095"/>
+  <presetinput identifier="$randomseed" uid="3922215812" type="4" value="1868008500"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood009/wood009" label="var02">
+  <presetinput identifier="Luminosity" uid="3152473197" type="0" value="0.462"/>
+  <presetinput identifier="Saturation" uid="3152473208" type="0" value="0.418"/>
+  <presetinput identifier="Emboss" uid="3152483155" type="0" value="0.804"/>
+  <presetinput identifier="Light_Angle" uid="3152483275" type="0" value="0.117"/>
+  <presetinput identifier="$outputsize" uid="3199882710" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="3294663147" type="0" value="0.086"/>
+  <presetinput identifier="Battens_Offset" uid="3294670814" type="0" value="0.589"/>
+  <presetinput identifier="Wood_Color" uid="3294672958" type="2" value="0.71,0.612,0.51"/>
+  <presetinput identifier="Battens" uid="3294689447" type="4" value="1"/>
+  <presetinput identifier="Dirtiness" uid="3296513543" type="0" value="0.627"/>
+  <presetinput identifier="Battens_Chamfer" uid="3310341491" type="0" value="0.071"/>
+  <presetinput identifier="$randomseed" uid="3922215812" type="4" value="1783441867"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood009/wood009" label="var03">
+  <presetinput identifier="Luminosity" uid="3152473197" type="0" value="0.462"/>
+  <presetinput identifier="Saturation" uid="3152473208" type="0" value="0.441"/>
+  <presetinput identifier="Emboss" uid="3152483155" type="0" value="0.804"/>
+  <presetinput identifier="Light_Angle" uid="3152483275" type="0" value="0.117"/>
+  <presetinput identifier="$outputsize" uid="3199882710" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="3294663147" type="0" value="-0.047"/>
+  <presetinput identifier="Battens_Color_Variation" uid="3294668880" type="0" value="1"/>
+  <presetinput identifier="Battens_Offset" uid="3294670814" type="0" value="0.589"/>
+  <presetinput identifier="Battens_Random_Offset" uid="3294670833" type="0" value="1"/>
+  <presetinput identifier="Wood_Color" uid="3294672958" type="2" value="0.208,0.2,0.192"/>
+  <presetinput identifier="Battens" uid="3294689447" type="4" value="1"/>
+  <presetinput identifier="Cracks" uid="3294825044" type="0" value="1"/>
+  <presetinput identifier="Battens_Chamfer" uid="3310341491" type="0" value="0.08"/>
+  <presetinput identifier="$randomseed" uid="3922215812" type="4" value="-1590537054"/>
+ </sbspreset>
+</sbspresets>

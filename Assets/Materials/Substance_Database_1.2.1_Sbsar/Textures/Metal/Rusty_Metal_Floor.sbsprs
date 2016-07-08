@@ -1,0 +1,14 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Rusty_Metal_Floor/Rusty_Metal_Floor" label="var01" >
+  <presetinput identifier="$randomseed" uid="2555015649" type="4" value="1973547795" />
+  <presetinput identifier="Age" uid="3407574994" type="0" value="0.29" />
+  <presetinput identifier="Emboss" uid="3411010730" type="0" value="9.414" />
+  <presetinput identifier="$outputsize" uid="3476580275" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Rusty_Metal_Floor/Rusty_Metal_Floor" label="var02" >
+  <presetinput identifier="$randomseed" uid="2555015649" type="4" value="1973547795" />
+  <presetinput identifier="Age" uid="3407574994" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3411010730" type="0" value="9.414" />
+  <presetinput identifier="$outputsize" uid="3476580275" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

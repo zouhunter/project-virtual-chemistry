@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://metal_plate_004/metal_plate_004" label="var01" >
+  <presetinput identifier="Rust" uid="3894672111" type="0" value="0" />
+  <presetinput identifier="Rust_Scratches" uid="3894711428" type="0" value="0.2" />
+  <presetinput identifier="Rust_Drips" uid="3896945667" type="0" value="0.479" />
+  <presetinput identifier="Paint_Peeling" uid="3896948263" type="0" value="0" />
+  <presetinput identifier="Roll_Scale" uid="3898176059" type="4" value="1" />
+  <presetinput identifier="$outputsize" uid="3982391802" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_004/metal_plate_004" label="var02" >
+  <presetinput identifier="Rust" uid="3894672111" type="0" value="1" />
+  <presetinput identifier="Rust_Scratches" uid="3894711428" type="0" value="0.687" />
+  <presetinput identifier="Rust_Drips" uid="3896945667" type="0" value="0.622" />
+  <presetinput identifier="Paint_Peeling" uid="3896948263" type="0" value="0.216" />
+  <presetinput identifier="Roll_Scale" uid="3898176059" type="4" value="4" />
+  <presetinput identifier="$outputsize" uid="3982391802" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_plate_004/metal_plate_004" label="var03" >
+  <presetinput identifier="Bullets_Impacts_Cracks" uid="2542803484" type="0" value="0.489" />
+  <presetinput identifier="Bullets_Impacts_Size" uid="2542803485" type="0" value="0.359" />
+  <presetinput identifier="Bullets_Impacts_Amount" uid="2542803486" type="0" value="0.052" />
+  <presetinput identifier="Rust" uid="3894672111" type="0" value="1" />
+  <presetinput identifier="Rust_Scratches" uid="3894711428" type="0" value="0.687" />
+  <presetinput identifier="Rust_Drips" uid="3896945667" type="0" value="0.164" />
+  <presetinput identifier="Paint_Peeling" uid="3896948263" type="0" value="0.375" />
+  <presetinput identifier="Roll_Scale" uid="3898176059" type="4" value="4" />
+  <presetinput identifier="$outputsize" uid="3982391802" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

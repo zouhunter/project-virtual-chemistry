@@ -1,0 +1,26 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://sci_fi_002/sci_fi_002" label="var01" >
+  <presetinput identifier="$randomseed" uid="2480506957" type="4" value="-96225414" />
+  <presetinput identifier="Edge_Pattern_Type" uid="3195620913" type="4" value="3" />
+  <presetinput identifier="Middle_Pattern" uid="3195641636" type="0" value="0.806" />
+  <presetinput identifier="Middle_Patterns_Amount_Y" uid="3195641648" type="4" value="53" />
+  <presetinput identifier="Middle_Patterns_Amount_X" uid="3195641706" type="4" value="62" />
+  <presetinput identifier="Edge_Color" uid="3195685664" type="2" value="0.373,0.314,0.282" />
+  <presetinput identifier="Light_Color" uid="3195688103" type="2" value="1,0.89,0.322" />
+  <presetinput identifier="Side_Color" uid="3195692526" type="2" value="0.333,0.294,0.278" />
+  <presetinput identifier="$outputsize" uid="3299581471" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://sci_fi_002/sci_fi_002" label="var02" >
+  <presetinput identifier="$randomseed" uid="2480506957" type="4" value="-96225414" />
+  <presetinput identifier="Edge_Pattern_Type" uid="3195620913" type="4" value="4" />
+  <presetinput identifier="Middle_Pattern" uid="3195641636" type="0" value="0.233" />
+  <presetinput identifier="Middle_Patterns_Amount_Y" uid="3195641648" type="4" value="38" />
+  <presetinput identifier="Middle_Patterns_Amount_X" uid="3195641706" type="4" value="38" />
+  <presetinput identifier="Edge_Pattern_Amount_X" uid="3195644932" type="4" value="38" />
+  <presetinput identifier="Edge_Pattern_Amount_Y" uid="3195657812" type="4" value="48" />
+  <presetinput identifier="Edge_Color" uid="3195685664" type="2" value="0.275,0.286,0.373" />
+  <presetinput identifier="Light_Color" uid="3195688103" type="2" value="0.616,0.804,1" />
+  <presetinput identifier="Side_Color" uid="3195692526" type="2" value="0.29,0.298,0.333" />
+  <presetinput identifier="$outputsize" uid="3299581471" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

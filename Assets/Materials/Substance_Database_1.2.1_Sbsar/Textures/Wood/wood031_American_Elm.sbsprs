@@ -1,0 +1,42 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood031/wood031" label="var02">
+  <presetinput identifier="Scratches" uid="208276627" type="0" value="0.394"/>
+  <presetinput identifier="Contrast" uid="208713518" type="0" value="0.213"/>
+  <presetinput identifier="Scratches_Rotation" uid="223951980" type="0" value="0.742"/>
+  <presetinput identifier="$randomseed" uid="567829825" type="4" value="229786469"/>
+  <presetinput identifier="Luminosity" uid="1945553576" type="0" value="0.383"/>
+  <presetinput identifier="Saturation" uid="1945553597" type="0" value="0.362"/>
+  <presetinput identifier="Light_Angle" uid="1945580814" type="0" value="0.342"/>
+  <presetinput identifier="Emboss" uid="1945580950" type="0" value="0.842"/>
+  <presetinput identifier="Normal" uid="1945581001" type="0" value="0.506"/>
+  <presetinput identifier="Depth" uid="1945583419" type="0" value="0.045"/>
+  <presetinput identifier="$outputsize" uid="1990882067" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood031/wood031" label="var01">
+  <presetinput identifier="Scratches" uid="2315670817" type="0" value="0.05"/>
+  <presetinput identifier="Contrast" uid="2317151900" type="0" value="0.213"/>
+  <presetinput identifier="$randomseed" uid="2813607155" type="4" value="-2138948934"/>
+  <presetinput identifier="$outputsize" uid="4039518881" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="4120548111" type="0" value="0.496"/>
+  <presetinput identifier="Luminosity" uid="4120548122" type="0" value="0.353"/>
+  <presetinput identifier="Depth" uid="4120602249" type="0" value="-1"/>
+  <presetinput identifier="Emboss" uid="4120603684" type="0" value="0.574"/>
+  <presetinput identifier="Normal" uid="4120603771" type="0" value="0.536"/>
+  <presetinput identifier="Light_Angle" uid="4120603836" type="0" value="0.342"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood031/wood031" label="var03">
+  <presetinput identifier="Scratches" uid="2315670817" type="0" value="1"/>
+  <presetinput identifier="Battens" uid="2317125584" type="4" value="1"/>
+  <presetinput identifier="Battens_Random_Offset" uid="2317144198" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="2317151900" type="0" value="0.127"/>
+  <presetinput identifier="Scratches_Rotation" uid="2335532510" type="0" value="0.742"/>
+  <presetinput identifier="$randomseed" uid="2813607155" type="4" value="-824909202"/>
+  <presetinput identifier="$outputsize" uid="4039518881" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="4120548111" type="0" value="0.287"/>
+  <presetinput identifier="Luminosity" uid="4120548122" type="0" value="0.405"/>
+  <presetinput identifier="Depth" uid="4120602249" type="0" value="0.045"/>
+  <presetinput identifier="Emboss" uid="4120603684" type="0" value="0.842"/>
+  <presetinput identifier="Normal" uid="4120603771" type="0" value="0.506"/>
+  <presetinput identifier="Light_Angle" uid="4120603836" type="0" value="0.342"/>
+ </sbspreset>
+</sbspresets>

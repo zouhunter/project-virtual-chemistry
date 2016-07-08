@@ -1,0 +1,26 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_001/concrete_001" label="var02" >
+  <presetinput identifier="Concrete_Color" uid="2976561249" type="2" value="0.337,0.345,0.235" />
+  <presetinput identifier="Paint_Color" uid="2976725561" type="2" value="0.502,0.561,0.62" />
+  <presetinput identifier="$outputsize" uid="3416695713" type="8" value="9,9" />
+  <presetinput identifier="Peeling" uid="3465231764" type="0" value="0.784" />
+  <presetinput identifier="Dirtiness" uid="3465387271" type="0" value="0.684" />
+  <presetinput identifier="Emboss" uid="3472614692" type="0" value="0.822" />
+  <presetinput identifier="Normal" uid="3472614779" type="0" value="0.907" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_001/concrete_001" label="var03" >
+  <presetinput identifier="Concrete_Color" uid="2976561249" type="2" value="0.345,0.29,0.235" />
+  <presetinput identifier="Paint_Color" uid="2976725561" type="2" value="0.612,0.604,0.62" />
+  <presetinput identifier="$outputsize" uid="3416695713" type="8" value="9,9" />
+  <presetinput identifier="Peeling" uid="3465231764" type="0" value="0.622" />
+  <presetinput identifier="Dirtiness" uid="3465387271" type="0" value="0.633" />
+  <presetinput identifier="Emboss" uid="3472614692" type="0" value="0.822" />
+  <presetinput identifier="Normal" uid="3472614779" type="0" value="0.907" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_001/concrete_001" label="var01" >
+  <presetinput identifier="Concrete_Color" uid="2976561249" type="2" value="0.286,0.471,0.314" />
+  <presetinput identifier="Paint_Color" uid="2976725561" type="2" value="0.522,0.62,0.541" />
+  <presetinput identifier="$outputsize" uid="3416695713" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="3465387271" type="0" value="0.503" />
+ </sbspreset>
+</sbspresets>

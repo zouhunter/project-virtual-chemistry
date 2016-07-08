@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Painted_Wood_01/Painted_Wood_01" label="var01" >
+  <presetinput identifier="Age" uid="4071293978" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4128476608" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Wood_01/Painted_Wood_01" label="var02" >
+  <presetinput identifier="$randomseed" uid="2707528594" type="4" value="1066767995" />
+  <presetinput identifier="Depth" uid="4060600425" type="0" value="1" />
+  <presetinput identifier="Age" uid="4071293978" type="0" value="0.928" />
+  <presetinput identifier="Paint_Color" uid="4084191306" type="2" value="0.133,0.227,0.439" />
+  <presetinput identifier="$outputsize" uid="4128476608" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Wood_01/Painted_Wood_01" label="var03" >
+  <presetinput identifier="$randomseed" uid="2707528594" type="4" value="-2106163731" />
+  <presetinput identifier="Depth" uid="4060600425" type="0" value="0.121" />
+  <presetinput identifier="Age" uid="4071293978" type="0" value="0.484" />
+  <presetinput identifier="Paint_Color" uid="4084191306" type="2" value="0.353,0.439,0.424" />
+  <presetinput identifier="$outputsize" uid="4128476608" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

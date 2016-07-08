@@ -1,0 +1,42 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_014/bricks_014" label="var01" >
+  <presetinput identifier="$outputsize" uid="2987074210" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="3075892263" type="0" value="0.652" />
+  <presetinput identifier="Light_Angle" uid="3075892415" type="0" value="0.217" />
+  <presetinput identifier="Saturation" uid="3075971852" type="0" value="0.498" />
+  <presetinput identifier="Luminosity" uid="3075971865" type="0" value="0.428" />
+  <presetinput identifier="Bricks_Amount_X" uid="3371978062" type="4" value="12" />
+  <presetinput identifier="$randomseed" uid="3849925872" type="4" value="-1254745852" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_014/bricks_014" label="var02" >
+  <presetinput identifier="$outputsize" uid="2987074210" type="8" value="10,10" />
+  <presetinput identifier="Color_Balance_1" uid="3071806677" type="0" value="0" />
+  <presetinput identifier="Emboss" uid="3075892263" type="0" value="0.652" />
+  <presetinput identifier="Light_Angle" uid="3075892415" type="0" value="0.217" />
+  <presetinput identifier="Saturation" uid="3075971852" type="0" value="0.498" />
+  <presetinput identifier="Luminosity" uid="3075971865" type="0" value="0.428" />
+  <presetinput identifier="Hue_Shift" uid="3075971947" type="0" value="0.085" />
+  <presetinput identifier="Bricks_Amount_Y" uid="3371978061" type="4" value="16" />
+  <presetinput identifier="Bricks_Amount_X" uid="3371978062" type="4" value="12" />
+  <presetinput identifier="Bricks_Offset" uid="3371978093" type="0" value="0.79" />
+  <presetinput identifier="Bricks_Ratio_Balance" uid="3371978094" type="0" value="0.65" />
+  <presetinput identifier="$randomseed" uid="3849925872" type="4" value="1142381482" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_014/bricks_014" label="var03" >
+  <presetinput identifier="$outputsize" uid="2987074210" type="8" value="10,10" />
+  <presetinput identifier="Color_Balance_1" uid="3071806677" type="0" value="0" />
+  <presetinput identifier="Color_Balance_2" uid="3071824259" type="0" value="0.866" />
+  <presetinput identifier="Dirtiness" uid="3071825880" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="3075892263" type="0" value="0.652" />
+  <presetinput identifier="Light_Angle" uid="3075892415" type="0" value="0.247" />
+  <presetinput identifier="Saturation" uid="3075971852" type="0" value="0.498" />
+  <presetinput identifier="Luminosity" uid="3075971865" type="0" value="0.428" />
+  <presetinput identifier="Hue_Shift" uid="3075971947" type="0" value="0.085" />
+  <presetinput identifier="Bricks_Amount_Y" uid="3371978061" type="4" value="16" />
+  <presetinput identifier="Bricks_Amount_X" uid="3371978062" type="4" value="12" />
+  <presetinput identifier="Bricks_Offset" uid="3371978093" type="0" value="0.79" />
+  <presetinput identifier="Bricks_Ratio_Balance" uid="3371978094" type="0" value="0.65" />
+  <presetinput identifier="Concrete_Color" uid="3371986984" type="2" value="0.58,0.612,0.608" />
+  <presetinput identifier="$randomseed" uid="3849925872" type="4" value="-874984557" />
+ </sbspreset>
+</sbspresets>

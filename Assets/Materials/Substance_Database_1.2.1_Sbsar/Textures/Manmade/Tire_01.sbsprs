@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Tire_01/Tire_01" label="var01" >
+  <presetinput identifier="Fst_Warp" uid="854630999" type="0" value="7.848" />
+  <presetinput identifier="Sc_Warp" uid="854631001" type="0" value="8" />
+  <presetinput identifier="Trd_Warp" uid="854631003" type="0" value="8" />
+  <presetinput identifier="Dirt" uid="856481565" type="0" value="0.017" />
+  <presetinput identifier="$outputsize" uid="925045984" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tire_01/Tire_01" label="var02" >
+  <presetinput identifier="Fst_Warp" uid="854630999" type="0" value="3.822" />
+  <presetinput identifier="Sc_Warp" uid="854631001" type="0" value="5.404" />
+  <presetinput identifier="Trd_Warp" uid="854631003" type="0" value="4.092" />
+  <presetinput identifier="Dirt" uid="856481565" type="0" value="1" />
+  <presetinput identifier="Angle" uid="857711697" type="0" value="0.294" />
+  <presetinput identifier="$outputsize" uid="925045984" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tire_01/Tire_01" label="var03" >
+  <presetinput identifier="Fst_Warp" uid="854630999" type="0" value="2" />
+  <presetinput identifier="Sc_Warp" uid="854631001" type="0" value="2" />
+  <presetinput identifier="Trd_Warp" uid="854631003" type="0" value="2" />
+  <presetinput identifier="Relief_Balance" uid="854632078" type="0" value="8.844" />
+  <presetinput identifier="Dirt" uid="856481565" type="0" value="0" />
+  <presetinput identifier="Angle" uid="857711697" type="0" value="0.494" />
+  <presetinput identifier="Luminosity" uid="857711700" type="0" value="0.51" />
+  <presetinput identifier="Depth" uid="857711705" type="0" value="-0.68" />
+  <presetinput identifier="$outputsize" uid="925045984" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1615921842" type="4" value="-1030896151" />
+ </sbspreset>
+</sbspresets>

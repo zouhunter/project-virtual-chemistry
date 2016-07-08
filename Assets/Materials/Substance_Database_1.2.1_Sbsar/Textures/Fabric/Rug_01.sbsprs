@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Rug_01/Rug_01" label="var02" >
+  <presetinput identifier="Emboss" uid="311077441" type="0" value="2.441" />
+  <presetinput identifier="Normal" uid="311141656" type="0" value="0.647" />
+  <presetinput identifier="$outputsize" uid="385689944" type="8" value="9,9" />
+  <presetinput identifier="Rug_Color" uid="1814537350" type="2" value="0.831,0.831,0.831" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Rug_01/Rug_01" label="var01" >
+  <presetinput identifier="Emboss" uid="311077441" type="0" value="8.34" />
+  <presetinput identifier="Normal" uid="311141656" type="0" value="0.647" />
+  <presetinput identifier="$outputsize" uid="385689944" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1099906826" type="4" value="-257691939" />
+  <presetinput identifier="Rug_Color" uid="1814537350" type="2" value="0.035,0.086,0.831" />
+ </sbspreset>
+</sbspresets>

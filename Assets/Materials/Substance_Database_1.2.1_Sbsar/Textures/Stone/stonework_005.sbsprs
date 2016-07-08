@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stonework_005/stonework_005" label="var01" >
+  <presetinput identifier="$outputsize" uid="717207871" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="803403031" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="803405797" type="0" value="1" />
+  <presetinput identifier="Scale" uid="1345189847" type="4" value="2" />
+  <presetinput identifier="Stones_Color" uid="1350396757" type="2" value="0.725,0.71,0.702" />
+  <presetinput identifier="$randomseed" uid="2110631789" type="4" value="1003645292" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_005/stonework_005" label="var02" >
+  <presetinput identifier="$outputsize" uid="717207871" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="803403031" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="803405797" type="0" value="1" />
+  <presetinput identifier="Scale" uid="1345189847" type="4" value="7" />
+  <presetinput identifier="Contrast" uid="1350370759" type="0" value="0.174" />
+  <presetinput identifier="Concrete_Color" uid="1350396753" type="2" value="0.525,0.525,0.525" />
+  <presetinput identifier="Stones_Color" uid="1350396757" type="2" value="0.235,0.2,0.239" />
+  <presetinput identifier="$randomseed" uid="2110631789" type="4" value="649893698" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stonework_005/stonework_005" label="var03" >
+  <presetinput identifier="$outputsize" uid="717207871" type="8" value="9,9" />
+  <presetinput identifier="Depth" uid="803403031" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="803405797" type="0" value="1" />
+  <presetinput identifier="Scale" uid="1345189847" type="4" value="6" />
+  <presetinput identifier="Contrast" uid="1350370759" type="0" value="0.174" />
+  <presetinput identifier="Concrete_Color" uid="1350396753" type="2" value="0.525,0.525,0.525" />
+  <presetinput identifier="Stones_Color" uid="1350396757" type="2" value="0.427,0.42,0.231" />
+  <presetinput identifier="Stones_Color_Variation" uid="1350396759" type="0" value="0.732" />
+  <presetinput identifier="Dirtiness" uid="1350399941" type="0" value="0.63" />
+  <presetinput identifier="$randomseed" uid="2110631789" type="4" value="-508048433" />
+ </sbspreset>
+</sbspresets>

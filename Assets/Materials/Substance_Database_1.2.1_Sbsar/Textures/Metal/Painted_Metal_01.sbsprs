@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Painted_Metal_01/Painted_Metal_01" label="var01" >
+  <presetinput identifier="Metal_Color" uid="354006217" type="2" value="0.8,0,0.012" />
+  <presetinput identifier="$randomseed" uid="951145175" type="4" value="1517145008" />
+  <presetinput identifier="Emboss" uid="1807009692" type="0" value="9.785" />
+  <presetinput identifier="Normal" uid="1807075525" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1875068037" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Painted_Metal_01/Painted_Metal_01" label="var02" >
+  <presetinput identifier="Metal_Color" uid="354006217" type="2" value="0.392,0.467,0.8" />
+  <presetinput identifier="$randomseed" uid="951145175" type="4" value="1517145008" />
+  <presetinput identifier="Emboss" uid="1807009692" type="0" value="9.785" />
+  <presetinput identifier="Normal" uid="1807075525" type="0" value="1" />
+  <presetinput identifier="Age" uid="1810711399" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1875068037" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

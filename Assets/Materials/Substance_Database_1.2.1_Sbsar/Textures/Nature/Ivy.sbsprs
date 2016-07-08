@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Ivy/Ivy" label="var01" >
+  <presetinput identifier="$outputsize" uid="2184946948" type="8" value="9,9" />
+  <presetinput identifier="Colour_Variation" uid="2249505264" type="0" value="0" />
+  <presetinput identifier="Density" uid="2276150123" type="0" value="0.411" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ivy/Ivy" label="var02" >
+  <presetinput identifier="$outputsize" uid="2184946948" type="8" value="9,9" />
+  <presetinput identifier="Colour_Variation" uid="2249505264" type="0" value="1" />
+  <presetinput identifier="Branches" uid="2273784323" type="4" value="0" />
+  <presetinput identifier="Density" uid="2276150123" type="0" value="0.558" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ivy/Ivy" label="var03" >
+  <presetinput identifier="$outputsize" uid="2184946948" type="8" value="9,9" />
+  <presetinput identifier="Colour_Variation" uid="2249505264" type="0" value="0.602" />
+  <presetinput identifier="Emboss" uid="2253137437" type="0" value="7.754" />
+  <presetinput identifier="Normal" uid="2253203780" type="0" value="0.81" />
+  <presetinput identifier="Saturation" uid="2261342256" type="0" value="0.565" />
+  <presetinput identifier="Luminosity" uid="2261342259" type="0" value="0.507" />
+  <presetinput identifier="$randomseed" uid="3578377046" type="4" value="-691833957" />
+ </sbspreset>
+</sbspresets>

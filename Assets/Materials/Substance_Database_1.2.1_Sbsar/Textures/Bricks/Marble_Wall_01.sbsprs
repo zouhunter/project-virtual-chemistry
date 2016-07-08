@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Marble_Wall_01/Marble_Wall_01" label="var01" >
+  <presetinput identifier="$randomseed" uid="96890443" type="4" value="-1504467546" />
+  <presetinput identifier="Marble_Color" uid="678339464" type="2" value="0.333,0.471,0.455" />
+  <presetinput identifier="$outputsize" uid="1387558937" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="1447462189" type="0" value="0.472" />
+  <presetinput identifier="Tile_X" uid="1453881356" type="4" value="2" />
+  <presetinput identifier="Tile_Y" uid="1453881386" type="4" value="4" />
+  <presetinput identifier="Depth" uid="1456195523" type="0" value="-0.051" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Marble_Wall_01/Marble_Wall_01" label="var02" >
+  <presetinput identifier="$randomseed" uid="96890443" type="4" value="-1504467546" />
+  <presetinput identifier="Marble_Color" uid="678339464" type="2" value="0.455,0.471,0.286" />
+  <presetinput identifier="$outputsize" uid="1387558937" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="1447462189" type="0" value="0.524" />
+  <presetinput identifier="Luminosity" uid="1447462190" type="0" value="0.462" />
+  <presetinput identifier="Tile_X" uid="1453881356" type="4" value="9" />
+  <presetinput identifier="Tile_Y" uid="1453881386" type="4" value="11" />
+  <presetinput identifier="Depth" uid="1456195523" type="0" value="-0.051" />
+ </sbspreset>
+</sbspresets>

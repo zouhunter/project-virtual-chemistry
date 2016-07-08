@@ -1,0 +1,46 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://rock_pavement_001/rock_pavement_001" label="var01" >
+  <presetinput identifier="Stones_To_Rock" uid="2453927848" type="0" value="0.173" />
+  <presetinput identifier="Contrast" uid="2454048580" type="0" value="0.068" />
+  <presetinput identifier="$randomseed" uid="3217902498" type="4" value="-1240269285" />
+  <presetinput identifier="$outputsize" uid="3904855536" type="8" value="9,9" />
+  <presetinput identifier="Interstices_Size" uid="3989126454" type="0" value="0.113" />
+  <presetinput identifier="Normal" uid="3991018282" type="0" value="0.544" />
+  <presetinput identifier="Emboss" uid="3991018357" type="0" value="0.734" />
+  <presetinput identifier="Light_Angle" uid="3991018477" type="0" value="0.628" />
+  <presetinput identifier="Luminosity" uid="3991135307" type="0" value="0.505" />
+  <presetinput identifier="Saturation" uid="3991135326" type="0" value="0.546" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_pavement_001/rock_pavement_001" label="var02" >
+  <presetinput identifier="Interstices_Color" uid="2453923092" type="2" value="0.106,0.078,0.039" />
+  <presetinput identifier="Moss_Color" uid="2453923732" type="2" value="0.278,0.506,0.243" />
+  <presetinput identifier="Stones_To_Rock" uid="2453927848" type="0" value="0.105" />
+  <presetinput identifier="Contrast" uid="2454048580" type="0" value="0.129" />
+  <presetinput identifier="Stones_Balance" uid="2454173342" type="0" value="0.653" />
+  <presetinput identifier="$randomseed" uid="3217902498" type="4" value="-897871534" />
+  <presetinput identifier="$outputsize" uid="3904855536" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="3989126452" type="0" value="0.852" />
+  <presetinput identifier="Interstices_Size" uid="3989126454" type="0" value="0.015" />
+  <presetinput identifier="Dirtiness" uid="3989236123" type="0" value="0.516" />
+  <presetinput identifier="Normal" uid="3991018282" type="0" value="0.544" />
+  <presetinput identifier="Emboss" uid="3991018357" type="0" value="0.734" />
+  <presetinput identifier="Light_Angle" uid="3991018477" type="0" value="0.631" />
+  <presetinput identifier="Luminosity" uid="3991135307" type="0" value="0.546" />
+  <presetinput identifier="Saturation" uid="3991135326" type="0" value="0.542" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://rock_pavement_001/rock_pavement_001" label="var03" >
+  <presetinput identifier="Interstices_Color" uid="2453923092" type="2" value="0.106,0.078,0.039" />
+  <presetinput identifier="Moss_Color" uid="2453923732" type="2" value="0.278,0.506,0.243" />
+  <presetinput identifier="Contrast" uid="2454048580" type="0" value="0.129" />
+  <presetinput identifier="Stones_Balance" uid="2454173342" type="0" value="0.024" />
+  <presetinput identifier="$randomseed" uid="3217902498" type="4" value="1779453527" />
+  <presetinput identifier="$outputsize" uid="3904855536" type="8" value="9,9" />
+  <presetinput identifier="Interstices_Size" uid="3989126454" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="3989236123" type="0" value="0.688" />
+  <presetinput identifier="Normal" uid="3991018282" type="0" value="0.544" />
+  <presetinput identifier="Emboss" uid="3991018357" type="0" value="0.734" />
+  <presetinput identifier="Light_Angle" uid="3991018477" type="0" value="0.253" />
+  <presetinput identifier="Luminosity" uid="3991135307" type="0" value="0.546" />
+  <presetinput identifier="Saturation" uid="3991135326" type="0" value="0.542" />
+ </sbspreset>
+</sbspresets>

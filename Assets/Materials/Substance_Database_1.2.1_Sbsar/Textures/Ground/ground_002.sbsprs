@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://ground_002/ground_002" label="var01" >
+  <presetinput identifier="$outputsize" uid="164445545" type="8" value="9,9" />
+  <presetinput identifier="Stones_Amount" uid="216404318" type="0" value="0" />
+  <presetinput identifier="Moss" uid="216414522" type="0" value="0.604" />
+  <presetinput identifier="Ground_Roughness" uid="216421196" type="0" value="0.46" />
+  <presetinput identifier="$randomseed" uid="1589586747" type="4" value="1632495659" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_002/ground_002" label="var02" >
+  <presetinput identifier="$outputsize" uid="164445545" type="8" value="9,9" />
+  <presetinput identifier="Stones_Amount" uid="216404318" type="0" value="0.244" />
+  <presetinput identifier="Stones_Shape" uid="216412131" type="0" value="0.241" />
+  <presetinput identifier="Moss" uid="216414522" type="0" value="0.825" />
+  <presetinput identifier="Ground_Roughness" uid="216421196" type="0" value="0.65" />
+  <presetinput identifier="$randomseed" uid="1589586747" type="4" value="1632495659" />
+  <presetinput identifier="Color_Variation" uid="1932108044" type="0" value="0.604" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_002/ground_002" label="var03" >
+  <presetinput identifier="$outputsize" uid="164445545" type="8" value="9,9" />
+  <presetinput identifier="Stones_Amount" uid="216404318" type="0" value="0.542" />
+  <presetinput identifier="Stones_Scale" uid="216408314" type="0" value="0.707" />
+  <presetinput identifier="Stones_Shape" uid="216412131" type="0" value="0" />
+  <presetinput identifier="Moss" uid="216414522" type="0" value="0.825" />
+  <presetinput identifier="Ground_Roughness" uid="216421196" type="0" value="0.65" />
+  <presetinput identifier="$randomseed" uid="1589586747" type="4" value="1632495659" />
+  <presetinput identifier="Color_Variation" uid="1932108044" type="0" value="0.928" />
+ </sbspreset>
+</sbspresets>

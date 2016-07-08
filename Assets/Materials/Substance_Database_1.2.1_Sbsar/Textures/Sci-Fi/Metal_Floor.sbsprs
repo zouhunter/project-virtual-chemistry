@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Metal_Floor/Metal_Floor" label="var01" >
+  <presetinput identifier="$outputsize" uid="548822281" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="608477243" type="0" value="0.072" />
+  <presetinput identifier="Saturation" uid="608477245" type="0" value="0.532" />
+  <presetinput identifier="Contrast" uid="616615979" type="0" value="0.154" />
+  <presetinput identifier="Age" uid="622177890" type="0" value="1" />
+  <presetinput identifier="Scratches" uid="622196447" type="0" value="1" />
+  <presetinput identifier="Border_wear" uid="622196888" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="2009353051" type="4" value="-1664657657" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Metal_Floor/Metal_Floor" label="var02" >
+  <presetinput identifier="$outputsize" uid="548822281" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="608477243" type="0" value="0.5" />
+  <presetinput identifier="Saturation" uid="608477245" type="0" value="0.516" />
+  <presetinput identifier="Contrast" uid="616615979" type="0" value="0.154" />
+  <presetinput identifier="Normal" uid="616616265" type="0" value="0.926" />
+  <presetinput identifier="Outline" uid="621815052" type="4" value="1" />
+  <presetinput identifier="Pattern_Size_Y" uid="622008664" type="0" value="15.723" />
+  <presetinput identifier="Pattern_Size_X" uid="622008742" type="0" value="15.527" />
+  <presetinput identifier="Age" uid="622177890" type="0" value="0" />
+  <presetinput identifier="Scratches" uid="622196447" type="0" value="1" />
+  <presetinput identifier="Border_wear" uid="622196888" type="0" value="0.566" />
+  <presetinput identifier="$randomseed" uid="2009353051" type="4" value="-1664657657" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Metal_Floor/Metal_Floor" label="var03" >
+  <presetinput identifier="$outputsize" uid="548822281" type="8" value="9,9" />
+  <presetinput identifier="Hue_Shift" uid="608477243" type="0" value="0.034" />
+  <presetinput identifier="Saturation" uid="608477245" type="0" value="0.624" />
+  <presetinput identifier="Contrast" uid="616615979" type="0" value="0.23" />
+  <presetinput identifier="Normal" uid="616616265" type="0" value="0.926" />
+  <presetinput identifier="Outline" uid="621815052" type="4" value="1" />
+  <presetinput identifier="Pattern_Size_Y" uid="622008664" type="0" value="32.812" />
+  <presetinput identifier="Pattern_Size_X" uid="622008742" type="0" value="33.594" />
+  <presetinput identifier="Age" uid="622177890" type="0" value="0.448" />
+  <presetinput identifier="Scratches" uid="622196447" type="0" value="0.04" />
+  <presetinput identifier="Border_wear" uid="622196888" type="0" value="0" />
+  <presetinput identifier="Border" uid="635637508" type="4" value="0" />
+  <presetinput identifier="$randomseed" uid="2009353051" type="4" value="558972079" />
+ </sbspreset>
+</sbspresets>

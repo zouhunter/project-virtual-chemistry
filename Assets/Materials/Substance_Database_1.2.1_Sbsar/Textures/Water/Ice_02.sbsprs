@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Ice_02/Ice_02" label="var01" >
+  <presetinput identifier="$randomseed" uid="2453068038" type="4" value="-20847785" />
+  <presetinput identifier="Cracks" uid="3230095398" type="0" value="1" />
+  <presetinput identifier="Details" uid="3233072871" type="0" value="0.924" />
+  <presetinput identifier="$outputsize" uid="3309621076" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ice_02/Ice_02" label="var02" >
+  <presetinput identifier="$randomseed" uid="2453068038" type="4" value="-20847785" />
+  <presetinput identifier="Cracks" uid="3230095398" type="0" value="0.134" />
+  <presetinput identifier="Details" uid="3233072871" type="0" value="0" />
+  <presetinput identifier="Depth" uid="3241898126" type="0" value="0.023" />
+  <presetinput identifier="$outputsize" uid="3309621076" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

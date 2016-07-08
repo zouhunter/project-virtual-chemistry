@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Amethyst/Amethyst" label="var01" >
+  <presetinput identifier="$outputsize" uid="140382526" type="8" value="10,10" />
+  <presetinput identifier="Angle" uid="204050971" type="0" value="0.308" />
+  <presetinput identifier="Emboss" uid="204050983" type="0" value="10" />
+  <presetinput identifier="Luminosity" uid="212659209" type="0" value="0.507" />
+  <presetinput identifier="Saturation" uid="212659210" type="0" value="0.6" />
+  <presetinput identifier="Hue_Shift" uid="212659212" type="0" value="0.151" />
+  <presetinput identifier="$randomseed" uid="1596721004" type="4" value="1934788122" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Amethyst/Amethyst" label="var02" >
+  <presetinput identifier="$outputsize" uid="140382526" type="8" value="10,10" />
+  <presetinput identifier="Contrast" uid="203987996" type="0" value="-0.031" />
+  <presetinput identifier="Angle" uid="204050971" type="0" value="0.736" />
+  <presetinput identifier="Emboss" uid="204050983" type="0" value="10" />
+  <presetinput identifier="Luminosity" uid="212659209" type="0" value="0.507" />
+  <presetinput identifier="Saturation" uid="212659210" type="0" value="0.684" />
+  <presetinput identifier="Hue_Shift" uid="212659212" type="0" value="0.084" />
+  <presetinput identifier="Stone_Type" uid="226902635" type="0" value="0.063" />
+  <presetinput identifier="Impurities" uid="226903507" type="0" value="0.548" />
+  <presetinput identifier="Variations" uid="232169556" type="0" value="0.229" />
+  <presetinput identifier="$randomseed" uid="1596721004" type="4" value="980558915" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Amethyst/Amethyst" label="var03" >
+  <presetinput identifier="$outputsize" uid="140382526" type="8" value="10,10" />
+  <presetinput identifier="Contrast" uid="203987996" type="0" value="-0.098" />
+  <presetinput identifier="Angle" uid="204050971" type="0" value="0.983" />
+  <presetinput identifier="Emboss" uid="204050983" type="0" value="10" />
+  <presetinput identifier="Luminosity" uid="212659209" type="0" value="0.507" />
+  <presetinput identifier="Saturation" uid="212659210" type="0" value="0.684" />
+  <presetinput identifier="Hue_Shift" uid="212659212" type="0" value="0.061" />
+  <presetinput identifier="Stone_Type" uid="226902635" type="0" value="0.179" />
+  <presetinput identifier="Impurities" uid="226903507" type="0" value="0.911" />
+  <presetinput identifier="Variations" uid="232169556" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="1596721004" type="4" value="-1664531653" />
+ </sbspreset>
+</sbspresets>

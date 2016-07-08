@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_005/concrete_005" label="var01" >
+  <presetinput identifier="White_Stains" uid="2945705566" type="0" value="0" />
+  <presetinput identifier="Holes_Amount" uid="2945836166" type="0" value="0.008" />
+  <presetinput identifier="Cracks" uid="2947245675" type="0" value="0.334" />
+  <presetinput identifier="Frame" uid="2947272341" type="4" value="0" />
+  <presetinput identifier="Cement_Balance" uid="2947347153" type="0" value="0.923" />
+  <presetinput identifier="Holes_Size" uid="2947360704" type="0" value="0.318" />
+  <presetinput identifier="Wet" uid="2947541514" type="0" value="0.329" />
+  <presetinput identifier="$outputsize" uid="3580356771" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_005/concrete_005" label="var02" >
+  <presetinput identifier="White_Stains" uid="2945705566" type="0" value="0.622" />
+  <presetinput identifier="Holes_Amount" uid="2945836166" type="0" value="0.558" />
+  <presetinput identifier="Cracks" uid="2947245675" type="0" value="0.962" />
+  <presetinput identifier="Frame" uid="2947272341" type="4" value="0" />
+  <presetinput identifier="Cement_Balance" uid="2947347153" type="0" value="0.923" />
+  <presetinput identifier="Holes_Size" uid="2947360704" type="0" value="0.318" />
+  <presetinput identifier="Wet" uid="2947541514" type="0" value="0.792" />
+  <presetinput identifier="$outputsize" uid="3580356771" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_005/concrete_005" label="var03" >
+  <presetinput identifier="White_Stains" uid="2945705566" type="0" value="1" />
+  <presetinput identifier="Holes_Amount" uid="2945836166" type="0" value="0.326" />
+  <presetinput identifier="Cracks" uid="2947245675" type="0" value="0.962" />
+  <presetinput identifier="Cement_Balance" uid="2947347153" type="0" value="0.353" />
+  <presetinput identifier="Holes_Size" uid="2947360704" type="0" value="0.318" />
+  <presetinput identifier="Wet" uid="2947541514" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3580356771" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

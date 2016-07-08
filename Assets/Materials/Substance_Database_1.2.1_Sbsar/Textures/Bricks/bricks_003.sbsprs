@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_003/bricks_003" label="var01" >
+  <presetinput identifier="Luminosity" uid="2569408497" type="0" value="0.509" />
+  <presetinput identifier="Normal" uid="2569531536" type="0" value="0.982" />
+  <presetinput identifier="Emboss" uid="2569531599" type="0" value="0.851" />
+  <presetinput identifier="$outputsize" uid="2625287754" type="8" value="9,9" />
+  <presetinput identifier="Color_Variation" uid="3868047708" type="0" value="0" />
+  <presetinput identifier="Concrete_Balance" uid="3870380674" type="0" value="1" />
+  <presetinput identifier="Age" uid="3870381613" type="0" value="0.488" />
+  <presetinput identifier="Bricks_Amount_Y" uid="3870401731" type="4" value="9" />
+  <presetinput identifier="Bricks_Offset" uid="3870401741" type="0" value="0.403" />
+  <presetinput identifier="Contrast" uid="3870821042" type="0" value="0.076" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_003/bricks_003" label="var02" >
+  <presetinput identifier="Luminosity" uid="2569408497" type="0" value="0.509" />
+  <presetinput identifier="Normal" uid="2569531536" type="0" value="0.982" />
+  <presetinput identifier="Emboss" uid="2569531599" type="0" value="0.316" />
+  <presetinput identifier="$outputsize" uid="2625287754" type="8" value="9,9" />
+  <presetinput identifier="Color_Variation" uid="3868047708" type="0" value="0.447" />
+  <presetinput identifier="Concrete_Balance" uid="3870380674" type="0" value="0.885" />
+  <presetinput identifier="Age" uid="3870381613" type="0" value="0.712" />
+  <presetinput identifier="Dirtiness" uid="3870381614" type="0" value="0.353" />
+  <presetinput identifier="Bricks_Offset" uid="3870401741" type="0" value="0.435" />
+  <presetinput identifier="Contrast" uid="3870821042" type="0" value="0.076" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_003/bricks_003" label="var03" >
+  <presetinput identifier="Luminosity" uid="2569408497" type="0" value="0.521" />
+  <presetinput identifier="Normal" uid="2569531536" type="0" value="0.982" />
+  <presetinput identifier="Emboss" uid="2569531599" type="0" value="0.316" />
+  <presetinput identifier="$outputsize" uid="2625287754" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3406340120" type="4" value="-1723378974" />
+  <presetinput identifier="Color_Variation" uid="3868047708" type="0" value="0.887" />
+  <presetinput identifier="Concrete_Balance" uid="3870380674" type="0" value="0.931" />
+  <presetinput identifier="Age" uid="3870381613" type="0" value="0.614" />
+  <presetinput identifier="Dirtiness" uid="3870381614" type="0" value="0.646" />
+  <presetinput identifier="Bricks_Offset" uid="3870401741" type="0" value="0.435" />
+  <presetinput identifier="Bricks_02_Color" uid="3870458321" type="2" value="0.231,0.247,0.239" />
+  <presetinput identifier="Bricks_01_Color" uid="3870458322" type="2" value="0.38,0.392,0.4" />
+  <presetinput identifier="Contrast" uid="3870821042" type="0" value="0.064" />
+ </sbspreset>
+</sbspresets>

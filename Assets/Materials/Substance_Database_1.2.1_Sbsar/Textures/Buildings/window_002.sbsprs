@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://window_002/window_002" label="var01" >
+  <presetinput identifier="Normal" uid="599688923" type="0" value="0.396" />
+  <presetinput identifier="Peeling" uid="601098369" type="0" value="0.326" />
+  <presetinput identifier="$outputsize" uid="652460033" type="8" value="9,9" />
+  <presetinput identifier="Color_Variation" uid="1546423257" type="0" value="0.339" />
+  <presetinput identifier="Impacts" uid="1546515528" type="0" value="0.098" />
+  <presetinput identifier="Mesh_Density" uid="1546554987" type="4" value="5" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://window_002/window_002" label="var02" >
+  <presetinput identifier="Normal" uid="599688923" type="0" value="0.396" />
+  <presetinput identifier="Metal_Color" uid="600703921" type="2" value="0.208,0.141,0.216" />
+  <presetinput identifier="Glass_Color" uid="600708769" type="2" value="0.608,0.69,0.522" />
+  <presetinput identifier="Windows_Color" uid="600716560" type="2" value="0.196,0.196,0.196" />
+  <presetinput identifier="Peeling" uid="601098369" type="0" value="0.849" />
+  <presetinput identifier="$outputsize" uid="652460033" type="8" value="9,9" />
+  <presetinput identifier="Color_Variation" uid="1546423257" type="0" value="0.814" />
+  <presetinput identifier="Impacts" uid="1546515528" type="0" value="0.64" />
+  <presetinput identifier="Mesh_Density" uid="1546554987" type="4" value="5" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://window_002/window_002" label="var03" >
+  <presetinput identifier="Normal" uid="599688923" type="0" value="0.396" />
+  <presetinput identifier="Metal_Color" uid="600703921" type="2" value="0.208,0.141,0.216" />
+  <presetinput identifier="Glass_Color" uid="600708769" type="2" value="0.498,0.686,0.69" />
+  <presetinput identifier="Windows_Color" uid="600716560" type="2" value="1,1,1" />
+  <presetinput identifier="Peeling" uid="601098369" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="652460033" type="8" value="9,9" />
+  <presetinput identifier="Color_Variation" uid="1546423257" type="0" value="1" />
+  <presetinput identifier="Impacts" uid="1546515528" type="0" value="0.854" />
+  <presetinput identifier="Mesh_Density" uid="1546554987" type="4" value="13" />
+ </sbspreset>
+</sbspresets>

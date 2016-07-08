@@ -1,0 +1,28 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://metal_001/metal_001" label="var01" >
+  <presetinput identifier="Peeling" uid="3033211635" type="0" value="0.529" />
+  <presetinput identifier="Rust_Drips_Width" uid="3414072825" type="0" value="0.301" />
+  <presetinput identifier="Rust_Drips_Lenght" uid="3414081338" type="0" value="0" />
+  <presetinput identifier="Age" uid="3414094814" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3456401494" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_001/metal_001" label="var02" >
+  <presetinput identifier="Peeling" uid="3033211635" type="0" value="0.438" />
+  <presetinput identifier="Rust_Drips_Width" uid="3414072825" type="0" value="0.702" />
+  <presetinput identifier="Rust_Drips_Lenght" uid="3414081338" type="0" value="0.231" />
+  <presetinput identifier="Age" uid="3414094814" type="0" value="0.849" />
+  <presetinput identifier="$outputsize" uid="3456401494" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_001/metal_001" label="var03" >
+  <presetinput identifier="Peeling" uid="3033211635" type="0" value="0.756" />
+  <presetinput identifier="Rust_Drips_Lenght" uid="3414081338" type="0" value="0.604" />
+  <presetinput identifier="Age" uid="3414094814" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3456401494" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_001/metal_001" label="var04" >
+  <presetinput identifier="Peeling" uid="3033211635" type="0" value="1" />
+  <presetinput identifier="Rust_Drips_Lenght" uid="3414081338" type="0" value="1" />
+  <presetinput identifier="Age" uid="3414094814" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3456401494" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_020/concrete_020" label="var02" >
+  <presetinput identifier="$outputsize" uid="3139346770" type="8" value="9,9" />
+  <presetinput identifier="Sandstone_Color" uid="3191043908" type="2" value="0.365,0.255,0.255" />
+  <presetinput identifier="Bumps" uid="3191046148" type="0" value="0.014" />
+  <presetinput identifier="Smudge_Color" uid="3191050266" type="2" value="0.137,0.098,0.098" />
+  <presetinput identifier="Smudge" uid="3191054079" type="0" value="1" />
+  <presetinput identifier="Contrast" uid="3253504512" type="0" value="0.004" />
+  <presetinput identifier="$randomseed" uid="3966547712" type="4" value="488543107" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_020/concrete_020" label="var01" >
+  <presetinput identifier="$outputsize" uid="3139346770" type="8" value="9,9" />
+  <presetinput identifier="Sandstone_Color" uid="3191043908" type="2" value="0.365,0.365,0.365" />
+  <presetinput identifier="Bumps" uid="3191046148" type="0" value="0.574" />
+  <presetinput identifier="Smudge_Color" uid="3191050266" type="2" value="0.133,0.137,0.122" />
+  <presetinput identifier="Smudge" uid="3191054079" type="0" value="0.955" />
+  <presetinput identifier="$randomseed" uid="3966547712" type="4" value="-255972504" />
+ </sbspreset>
+</sbspresets>

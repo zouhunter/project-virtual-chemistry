@@ -1,0 +1,38 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://paper_002/paper_002" label="var01" >
+  <presetinput identifier="Emboss" uid="2207286547" type="0" value="0.386" />
+  <presetinput identifier="Normal" uid="2207286604" type="0" value="0.65" />
+  <presetinput identifier="Light_Angle" uid="2207286667" type="0" value="0.742" />
+  <presetinput identifier="Luminosity" uid="2207349293" type="0" value="0.499" />
+  <presetinput identifier="Saturation" uid="2207349304" type="0" value="0.467" />
+  <presetinput identifier="$outputsize" uid="2261631894" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3519010244" type="4" value="1519489622" />
+  <presetinput identifier="Contrast" uid="4231298861" type="0" value="0.105" />
+  <presetinput identifier="Creases" uid="4231298870" type="0" value="0.169" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_002/paper_002" label="var02" >
+  <presetinput identifier="Emboss" uid="2207286547" type="0" value="0.386" />
+  <presetinput identifier="Normal" uid="2207286604" type="0" value="0.65" />
+  <presetinput identifier="Light_Angle" uid="2207286667" type="0" value="0.739" />
+  <presetinput identifier="Luminosity" uid="2207349293" type="0" value="0.499" />
+  <presetinput identifier="Saturation" uid="2207349304" type="0" value="0.467" />
+  <presetinput identifier="$outputsize" uid="2261631894" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3519010244" type="4" value="1519489622" />
+  <presetinput identifier="Base_Color" uid="4230708414" type="2" value="0.851,0.863,0.592" />
+  <presetinput identifier="Contrast" uid="4231298861" type="0" value="0.105" />
+  <presetinput identifier="Creases" uid="4231298870" type="0" value="0.81" />
+  <presetinput identifier="Holes" uid="4231372726" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_002/paper_002" label="var03" >
+  <presetinput identifier="Emboss" uid="2207286547" type="0" value="0.704" />
+  <presetinput identifier="Normal" uid="2207286604" type="0" value="0.777" />
+  <presetinput identifier="Light_Angle" uid="2207286667" type="0" value="0.597" />
+  <presetinput identifier="Luminosity" uid="2207349293" type="0" value="0.499" />
+  <presetinput identifier="Saturation" uid="2207349304" type="0" value="0.467" />
+  <presetinput identifier="$outputsize" uid="2261631894" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3519010244" type="4" value="-1677953290" />
+  <presetinput identifier="Base_Color" uid="4230708414" type="2" value="0.863,0.784,0.58" />
+  <presetinput identifier="Contrast" uid="4231298861" type="0" value="0.139" />
+  <presetinput identifier="Creases" uid="4231298870" type="0" value="0" />
+ </sbspreset>
+</sbspresets>

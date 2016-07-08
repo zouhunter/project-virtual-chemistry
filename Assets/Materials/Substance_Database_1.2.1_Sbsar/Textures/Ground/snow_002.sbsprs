@@ -1,0 +1,41 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://snow_002/snow_002" label="var01" >
+  <presetinput identifier="$outputsize" uid="2594124097" type="8" value="9,9" />
+  <presetinput identifier="Light_Angle" uid="2680321884" type="0" value="0.144" />
+  <presetinput identifier="Emboss" uid="2680321988" type="0" value="0.919" />
+  <presetinput identifier="Hue_Shift" uid="2680391816" type="0" value="0.046" />
+  <presetinput identifier="Saturation" uid="2680391919" type="0" value="0.524" />
+  <presetinput identifier="Luminosity" uid="2680391930" type="0" value="0.555" />
+  <presetinput identifier="$randomseed" uid="3454871315" type="4" value="619302844" />
+  <presetinput identifier="Contrast" uid="3762751240" type="0" value="0.123" />
+  <presetinput identifier="Snow_Melting" uid="3764595111" type="0" value="0.551" />
+  <presetinput identifier="Moss" uid="3764749605" type="0" value="0.125" />
+  <presetinput identifier="Snow_Amount" uid="3764995010" type="0" value="0.702" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://snow_002/snow_002" label="var02" >
+  <presetinput identifier="$outputsize" uid="2594124097" type="8" value="9,9" />
+  <presetinput identifier="Light_Angle" uid="2680321884" type="0" value="0.144" />
+  <presetinput identifier="Emboss" uid="2680321988" type="0" value="0.919" />
+  <presetinput identifier="Hue_Shift" uid="2680391816" type="0" value="0.046" />
+  <presetinput identifier="Saturation" uid="2680391919" type="0" value="0.524" />
+  <presetinput identifier="Luminosity" uid="2680391930" type="0" value="0.555" />
+  <presetinput identifier="$randomseed" uid="3454871315" type="4" value="-641369542" />
+  <presetinput identifier="Contrast" uid="3762751240" type="0" value="0.123" />
+  <presetinput identifier="Snow_Melting" uid="3764595111" type="0" value="0.392" />
+  <presetinput identifier="Moss" uid="3764749605" type="0" value="0.125" />
+  <presetinput identifier="Snow_Amount" uid="3764995010" type="0" value="0.251" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://snow_002/snow_002" label="var03" >
+  <presetinput identifier="$outputsize" uid="2594124097" type="8" value="9,9" />
+  <presetinput identifier="Light_Angle" uid="2680321884" type="0" value="0.144" />
+  <presetinput identifier="Emboss" uid="2680321988" type="0" value="0.919" />
+  <presetinput identifier="Hue_Shift" uid="2680391816" type="0" value="0.046" />
+  <presetinput identifier="Saturation" uid="2680391919" type="0" value="0.524" />
+  <presetinput identifier="Luminosity" uid="2680391930" type="0" value="0.555" />
+  <presetinput identifier="$randomseed" uid="3454871315" type="4" value="-678103966" />
+  <presetinput identifier="Contrast" uid="3762751240" type="0" value="0.123" />
+  <presetinput identifier="Snow_Melting" uid="3764595111" type="0" value="0.144" />
+  <presetinput identifier="Moss" uid="3764749605" type="0" value="0.762" />
+  <presetinput identifier="Snow_Amount" uid="3764995010" type="0" value="0.073" />
+ </sbspreset>
+</sbspresets>

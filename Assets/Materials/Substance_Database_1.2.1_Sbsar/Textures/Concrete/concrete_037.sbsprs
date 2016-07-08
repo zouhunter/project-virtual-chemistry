@@ -1,0 +1,13 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://concrete_037/concrete_037" label="var01" >
+  <presetinput identifier="Weathering" uid="2594325150" type="0" value="0" />
+  <presetinput identifier="Concrete_Color" uid="2594341827" type="2" value="0.6,0.565,0.525" />
+  <presetinput identifier="$outputsize" uid="3763827864" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_037/concrete_037" label="var02" >
+  <presetinput identifier="Weathering" uid="2594325150" type="0" value="0.362" />
+  <presetinput identifier="Concrete_Color" uid="2594341827" type="2" value="0.569,0.573,0.6" />
+  <presetinput identifier="$randomseed" uid="3072680650" type="4" value="462106216" />
+  <presetinput identifier="$outputsize" uid="3763827864" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

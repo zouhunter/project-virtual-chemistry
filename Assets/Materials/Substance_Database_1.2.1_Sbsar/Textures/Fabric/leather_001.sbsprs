@@ -1,0 +1,38 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://leather_001/leather_001" label="var01" >
+  <presetinput identifier="Quicunx_Fasteners" uid="3088375964" type="4" value="1" />
+  <presetinput identifier="Fasteners" uid="3088910690" type="4" value="1" />
+  <presetinput identifier="Contrast" uid="3088918920" type="0" value="0.076" />
+  <presetinput identifier="Leather_Color" uid="3088918950" type="2" value="0.388,0.235,0.11" />
+  <presetinput identifier="$outputsize" uid="3269048448" type="8" value="9,9" />
+  <presetinput identifier="Cracks" uid="3354214176" type="0" value="0.701" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://leather_001/leather_001" label="var02" >
+  <presetinput identifier="$randomseed" uid="2511056594" type="4" value="815767506" />
+  <presetinput identifier="Quicunx_Fasteners" uid="3088375964" type="4" value="1" />
+  <presetinput identifier="Leather_Color" uid="3088918950" type="2" value="0.133,0.114,0.114" />
+  <presetinput identifier="Fasteners_Color" uid="3088919289" type="2" value="1,1,1" />
+  <presetinput identifier="Fasteners_Number" uid="3091925943" type="4" value="3" />
+  <presetinput identifier="$outputsize" uid="3269048448" type="8" value="9,9" />
+  <presetinput identifier="Cracks" uid="3354214176" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://leather_001/leather_001" label="var04" >
+  <presetinput identifier="$randomseed" uid="2511056594" type="4" value="-684226921" />
+  <presetinput identifier="Quicunx_Fasteners" uid="3088375964" type="4" value="1" />
+  <presetinput identifier="Leather_Color" uid="3088918950" type="2" value="0.314,0.212,0.176" />
+  <presetinput identifier="Fasteners_Color" uid="3088919289" type="2" value="0.106,0.106,0.09" />
+  <presetinput identifier="Fasteners_Number" uid="3091925943" type="4" value="4" />
+  <presetinput identifier="$outputsize" uid="3269048448" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="3347381850" type="0" value="0.892" />
+  <presetinput identifier="Fasteners_Depth" uid="3354218338" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://leather_001/leather_001" label="var03" >
+  <presetinput identifier="$randomseed" uid="2511056594" type="4" value="-1465246154" />
+  <presetinput identifier="Leather_Color" uid="3088918950" type="2" value="0.114,0.165,0.122" />
+  <presetinput identifier="Fasteners_Color" uid="3088919289" type="2" value="1,1,1" />
+  <presetinput identifier="Fasteners_Number" uid="3091925943" type="4" value="3" />
+  <presetinput identifier="$outputsize" uid="3269048448" type="8" value="9,9" />
+  <presetinput identifier="Cracks" uid="3354214176" type="0" value="0.515" />
+  <presetinput identifier="Fasteners_Depth" uid="3354218338" type="0" value="0.366" />
+ </sbspreset>
+</sbspresets>

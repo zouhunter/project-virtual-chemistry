@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Fiber_Glass/Fiber_Glass" label="var01" >
+  <presetinput identifier="$randomseed" uid="2560044660" type="4" value="-1881320395" />
+  <presetinput identifier="Fiber_Color" uid="3040517972" type="2" value="0.69,0.639,0.435" />
+  <presetinput identifier="Contrast" uid="3421596932" type="0" value="-0.064" />
+  <presetinput identifier="Depth" uid="3421597071" type="0" value="-0.039" />
+  <presetinput identifier="Bumpiness" uid="3421920473" type="0" value="0.938" />
+  <presetinput identifier="$outputsize" uid="3487905830" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Fiber_Glass/Fiber_Glass" label="var02" >
+  <presetinput identifier="$randomseed" uid="2560044660" type="4" value="1253595397" />
+  <presetinput identifier="Fiber_Color" uid="3040517972" type="2" value="0.576,0.69,0.659" />
+  <presetinput identifier="Luminosity" uid="3421596326" type="0" value="0.462" />
+  <presetinput identifier="Contrast" uid="3421596932" type="0" value="-0.064" />
+  <presetinput identifier="Depth" uid="3421597071" type="0" value="-1" />
+  <presetinput identifier="Bumpiness" uid="3421920473" type="0" value="0.128" />
+  <presetinput identifier="$outputsize" uid="3487905830" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

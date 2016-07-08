@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Diamond_Plate/Diamond_Plate" label="var01" >
+  <presetinput identifier="$outputsize" uid="678487348" type="8" value="9,9" />
+  <presetinput identifier="Oil_Smoothness" uid="744187872" type="0" value="0" />
+  <presetinput identifier="Age" uid="744394773" type="0" value="0" />
+  <presetinput identifier="Oil" uid="758526121" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="2130899814" type="4" value="429388545" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Diamond_Plate/Diamond_Plate" label="var02" >
+  <presetinput identifier="$outputsize" uid="678487348" type="8" value="9,9" />
+  <presetinput identifier="Oil_Smoothness" uid="744187872" type="0" value="0" />
+  <presetinput identifier="Oil" uid="758526121" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="2130899814" type="4" value="429388545" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Diamond_Plate/Diamond_Plate" label="var03" >
+  <presetinput identifier="$outputsize" uid="678487348" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="738682413" type="0" value="8.711" />
+  <presetinput identifier="Oil_Smoothness" uid="744187872" type="0" value="0" />
+  <presetinput identifier="Oil" uid="758526121" type="0" value="0.92" />
+  <presetinput identifier="$randomseed" uid="2130899814" type="4" value="-48721950" />
+ </sbspreset>
+</sbspresets>

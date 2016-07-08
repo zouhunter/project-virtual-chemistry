@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Satin/Satin" label="var01" >
+  <presetinput identifier="$outputsize" uid="2338728595" type="8" value="9,9" />
+  <presetinput identifier="Satin_Color" uid="4055663306" type="2" value="0.651,0.675,0.647" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Satin/Satin" label="var02" >
+  <presetinput identifier="$outputsize" uid="2338728595" type="8" value="9,9" />
+  <presetinput identifier="Emboss" uid="2401184279" type="0" value="10" />
+  <presetinput identifier="Normal" uid="2401185537" type="0" value="1" />
+  <presetinput identifier="Satin_Color" uid="4055663306" type="2" value="0.675,0.075,0.133" />
+ </sbspreset>
+</sbspresets>

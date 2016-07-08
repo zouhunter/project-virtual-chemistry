@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood045/wood045" label="var01">
+  <presetinput identifier="$outputsize" uid="2176215992" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="2229981718" type="0" value="0.361"/>
+  <presetinput identifier="Emboss" uid="2230005053" type="0" value="0.933"/>
+  <presetinput identifier="$randomseed" uid="3603201514" type="4" value="41078237"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood045/wood045" label="var02">
+  <presetinput identifier="$outputsize" uid="953876339" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="1032210141" type="0" value="0.361"/>
+  <presetinput identifier="Emboss" uid="1032305142" type="0" value="0.933"/>
+  <presetinput identifier="Warp" uid="1033572745" type="0" value="0.986"/>
+  <presetinput identifier="Roughness" uid="1033579880" type="0" value="0.847"/>
+  <presetinput identifier="Wood_Color" uid="1107301019" type="2" value="0.502,0.31,0.212"/>
+  <presetinput identifier="Battens" uid="1107317250" type="4" value="1"/>
+  <presetinput identifier="Battens_Amount_X" uid="1107317359" type="4" value="2"/>
+  <presetinput identifier="Battens_Amount_Y" uid="1107317685" type="4" value="12"/>
+  <presetinput identifier="Battens_Chamfer" uid="1127185476" type="0" value="0.118"/>
+  <presetinput identifier="$randomseed" uid="1873340705" type="4" value="-1064738190"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood045/wood045" label="var03">
+  <presetinput identifier="$randomseed" uid="2183289955" type="4" value="-1064738190"/>
+  <presetinput identifier="Battens_Gap" uid="2930100485" type="0" value="0.07"/>
+  <presetinput identifier="Battens_Chamfer" uid="2930100486" type="0" value="0.035"/>
+  <presetinput identifier="Wood_Color" uid="2945099737" type="2" value="0.243,0.251,0.275"/>
+  <presetinput identifier="Battens_Amount_Y" uid="2945115895" type="4" value="5"/>
+  <presetinput identifier="Battens" uid="2945115968" type="4" value="1"/>
+  <presetinput identifier="Luminosity" uid="3490509706" type="0" value="0.479"/>
+  <presetinput identifier="Saturation" uid="3490509727" type="0" value="0.504"/>
+  <presetinput identifier="Emboss" uid="3490516148" type="0" value="0.933"/>
+  <presetinput identifier="Roughness" uid="3490813994" type="0" value="0.847"/>
+  <presetinput identifier="Warp" uid="3490817227" type="0" value="0.445"/>
+  <presetinput identifier="$outputsize" uid="3578808881" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

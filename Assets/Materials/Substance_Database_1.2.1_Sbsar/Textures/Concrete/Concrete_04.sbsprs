@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Concrete_04/Concrete_04" label="var01" >
+  <presetinput identifier="$randomseed" uid="3078816578" type="4" value="-1605484700" />
+  <presetinput identifier="$outputsize" uid="3773895952" type="8" value="10,10" />
+  <presetinput identifier="Angle" uid="3840568672" type="0" value="0.353" />
+  <presetinput identifier="Emboss" uid="3840568688" type="0" value="-2.93" />
+  <presetinput identifier="Saturation" uid="3840568719" type="0" value="0.396" />
+  <presetinput identifier="Contrast" uid="3840568745" type="0" value="0.053" />
+  <presetinput identifier="Luminosity" uid="3840568765" type="0" value="0.584" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_04/Concrete_04" label="var02" >
+  <presetinput identifier="$randomseed" uid="3078816578" type="4" value="38913353" />
+  <presetinput identifier="$outputsize" uid="3773895952" type="8" value="10,10" />
+  <presetinput identifier="Age" uid="3840557260" type="0" value="0.522" />
+  <presetinput identifier="Normal" uid="3840559759" type="0" value="0.525" />
+  <presetinput identifier="Depth" uid="3840560027" type="0" value="1" />
+  <presetinput identifier="Angle" uid="3840568672" type="0" value="0.181" />
+  <presetinput identifier="Emboss" uid="3840568688" type="0" value="8.906" />
+  <presetinput identifier="Saturation" uid="3840568719" type="0" value="0.396" />
+  <presetinput identifier="Contrast" uid="3840568745" type="0" value="0.053" />
+  <presetinput identifier="Luminosity" uid="3840568765" type="0" value="0.584" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_04/Concrete_04" label="var03" >
+  <presetinput identifier="$randomseed" uid="3078816578" type="4" value="190758540" />
+  <presetinput identifier="$outputsize" uid="3773895952" type="8" value="10,10" />
+  <presetinput identifier="Streaks" uid="3837916765" type="0" value="0.859" />
+  <presetinput identifier="Age" uid="3840557260" type="0" value="0.692" />
+  <presetinput identifier="Normal" uid="3840559759" type="0" value="0.525" />
+  <presetinput identifier="Depth" uid="3840560027" type="0" value="1" />
+  <presetinput identifier="Hue_Shift" uid="3840568377" type="0" value="0.111" />
+  <presetinput identifier="Angle" uid="3840568672" type="0" value="0.158" />
+  <presetinput identifier="Emboss" uid="3840568688" type="0" value="3.887" />
+  <presetinput identifier="Saturation" uid="3840568719" type="0" value="0.396" />
+  <presetinput identifier="Contrast" uid="3840568745" type="0" value="0.053" />
+  <presetinput identifier="Luminosity" uid="3840568765" type="0" value="0.584" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Energy_Waves/Energy_Waves" label="var01" >
+  <presetinput identifier="$outputsize" uid="586897582" type="8" value="9,9" />
+  <presetinput identifier="Waves" uid="659283358" type="4" value="7" />
+  <presetinput identifier="Frequency" uid="661935590" type="0" value="1" />
+  <presetinput identifier="Shape" uid="661938546" type="0" value="1" />
+  <presetinput identifier="Disorder" uid="662393063" type="0" value="0.512" />
+  <presetinput identifier="Amplitude" uid="662429137" type="0" value="3.227" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Energy_Waves/Energy_Waves" label="var02" >
+  <presetinput identifier="$outputsize" uid="586897582" type="8" value="9,9" />
+  <presetinput identifier="Waves" uid="659283358" type="4" value="0" />
+  <presetinput identifier="Opacity" uid="660784269" type="0" value="1" />
+  <presetinput identifier="Interferences" uid="660786617" type="0" value="0.797" />
+  <presetinput identifier="Frequency" uid="661935590" type="0" value="1" />
+  <presetinput identifier="Shape" uid="661938546" type="0" value="0.51" />
+  <presetinput identifier="Thickness" uid="661946736" type="0" value="1" />
+  <presetinput identifier="Fading" uid="661951895" type="0" value="0" />
+  <presetinput identifier="Disorder" uid="662393063" type="0" value="0.512" />
+  <presetinput identifier="Amplitude" uid="662429137" type="0" value="2.387" />
+  <presetinput identifier="Energy_Color" uid="1479253309" type="2" value="0.255,0.773,0.318" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Energy_Waves/Energy_Waves" label="var03" >
+  <presetinput identifier="$outputsize" uid="586897582" type="8" value="9,9" />
+  <presetinput identifier="Waves" uid="659283358" type="4" value="7" />
+  <presetinput identifier="Opacity" uid="660784269" type="0" value="1" />
+  <presetinput identifier="Interferences" uid="660786617" type="0" value="0.472" />
+  <presetinput identifier="Frequency" uid="661935590" type="0" value="0.938" />
+  <presetinput identifier="Shape" uid="661938546" type="0" value="0.528" />
+  <presetinput identifier="Thickness" uid="661946736" type="0" value="0.615" />
+  <presetinput identifier="Fading" uid="661951895" type="0" value="0.553" />
+  <presetinput identifier="Disorder" uid="662393063" type="0" value="1" />
+  <presetinput identifier="Amplitude" uid="662429137" type="0" value="2.625" />
+  <presetinput identifier="Energy_Color" uid="1479253309" type="2" value="0.773,0.404,0.282" />
+ </sbspreset>
+</sbspresets>

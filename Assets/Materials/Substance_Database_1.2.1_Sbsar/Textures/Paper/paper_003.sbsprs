@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://paper_003/paper_003" label="var01" >
+  <presetinput identifier="$outputsize" uid="809774272" type="8" value="10,10" />
+  <presetinput identifier="Burn" uid="894207774" type="0" value="0" />
+  <presetinput identifier="Creases_2" uid="894230783" type="0" value="0.819" />
+  <presetinput identifier="Dirtiness" uid="1253075573" type="0" value="0.919" />
+  <presetinput identifier="Creases_1" uid="1253473716" type="0" value="0.559" />
+  <presetinput identifier="$randomseed" uid="1731607186" type="4" value="-955056856" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://paper_003/paper_003" label="var02" >
+  <presetinput identifier="$outputsize" uid="809774272" type="8" value="10,10" />
+  <presetinput identifier="Emboss" uid="890858053" type="0" value="0.837" />
+  <presetinput identifier="Burn" uid="894207774" type="0" value="0" />
+  <presetinput identifier="Creases_2" uid="894230783" type="0" value="0.024" />
+  <presetinput identifier="Paper_Color" uid="1250692175" type="2" value="0.776,0.765,0.694" />
+  <presetinput identifier="Dirtiness" uid="1253075573" type="0" value="0.019" />
+  <presetinput identifier="Creases_1" uid="1253473716" type="0" value="0" />
+  <presetinput identifier="Contrast" uid="1253546146" type="0" value="0.018" />
+  <presetinput identifier="$randomseed" uid="1731607186" type="4" value="-955056856" />
+ </sbspreset>
+</sbspresets>

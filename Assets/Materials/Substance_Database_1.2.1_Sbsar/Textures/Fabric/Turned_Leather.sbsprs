@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Turned_Leather/Turned_Leather" label="var01" >
+  <presetinput identifier="$outputsize" uid="135434744" type="8" value="9,9" />
+  <presetinput identifier="Wear_and_Tear" uid="203482142" type="0" value="0" />
+  <presetinput identifier="Age" uid="203482684" type="0" value="0.015" />
+  <presetinput identifier="Emboss" uid="203568298" type="0" value="-1.289" />
+  <presetinput identifier="Leather_Color" uid="1925712139" type="2" value="0.522,0.373,0.263" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Turned_Leather/Turned_Leather" label="var02" >
+  <presetinput identifier="$outputsize" uid="135434744" type="8" value="9,9" />
+  <presetinput identifier="Wear_and_Tear" uid="203482142" type="0" value="0.478" />
+  <presetinput identifier="Age" uid="203482684" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="203568298" type="0" value="5.605" />
+  <presetinput identifier="Depth" uid="203568405" type="0" value="-0.01" />
+  <presetinput identifier="Leather_Color" uid="1925712139" type="2" value="0.318,0.302,0.243" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Turned_Leather/Turned_Leather" label="var03" >
+  <presetinput identifier="$outputsize" uid="135434744" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="203482684" type="0" value="0.313" />
+  <presetinput identifier="Emboss" uid="203568298" type="0" value="2.734" />
+  <presetinput identifier="Depth" uid="203568405" type="0" value="0.631" />
+  <presetinput identifier="$randomseed" uid="1600161706" type="4" value="546159642" />
+  <presetinput identifier="Leather_Color" uid="1925712139" type="2" value="0.655,0.447,0.31" />
+ </sbspreset>
+</sbspresets>

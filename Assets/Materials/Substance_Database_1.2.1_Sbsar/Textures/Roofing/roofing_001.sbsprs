@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://roofing_001/roofing_001" label="var01" >
+  <presetinput identifier="Tiles_Amount_X" uid="2319706372" type="4" value="3" />
+  <presetinput identifier="Tiles_Amount_Y" uid="2319706394" type="4" value="15" />
+  <presetinput identifier="$outputsize" uid="4035495563" type="8" value="9,9" />
+  <presetinput identifier="Roof_Frame" uid="4120578447" type="4" value="0" />
+  <presetinput identifier="Moss_Amount" uid="4120601930" type="0" value="0" />
+  <presetinput identifier="Dust" uid="4120602261" type="0" value="0.19" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_001/roofing_001" label="var02" >
+  <presetinput identifier="Tiles_Amount_X" uid="2319706372" type="4" value="4" />
+  <presetinput identifier="Tiles_Amount_Y" uid="2319706394" type="4" value="18" />
+  <presetinput identifier="Frame_Tiles_Amount" uid="2319881089" type="4" value="7" />
+  <presetinput identifier="$outputsize" uid="4035495563" type="8" value="9,9" />
+  <presetinput identifier="Roof_Frame" uid="4120578447" type="4" value="0" />
+  <presetinput identifier="Moss_Amount" uid="4120601930" type="0" value="0.609" />
+  <presetinput identifier="Dust" uid="4120602261" type="0" value="0.977" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_001/roofing_001" label="var03" >
+  <presetinput identifier="Tiles_Amount_X" uid="2319706372" type="4" value="4" />
+  <presetinput identifier="Tiles_Amount_Y" uid="2319706394" type="4" value="18" />
+  <presetinput identifier="Frame_Tiles_Amount" uid="2319881089" type="4" value="4" />
+  <presetinput identifier="$outputsize" uid="4035495563" type="8" value="9,9" />
+  <presetinput identifier="Moss_Amount" uid="4120601930" type="0" value="0.609" />
+  <presetinput identifier="Dust" uid="4120602261" type="0" value="0.977" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://roofing_001/roofing_001" label="var04" >
+  <presetinput identifier="Tiles_Amount_X" uid="2319706372" type="4" value="4" />
+  <presetinput identifier="Tiles_Amount_Y" uid="2319706394" type="4" value="12" />
+  <presetinput identifier="Frame_Tiles_Amount" uid="2319881089" type="4" value="7" />
+  <presetinput identifier="$outputsize" uid="4035495563" type="8" value="9,9" />
+  <presetinput identifier="Moss_Amount" uid="4120601930" type="0" value="0.928" />
+  <presetinput identifier="Dust" uid="4120602261" type="0" value="0.912" />
+ </sbspreset>
+</sbspresets>

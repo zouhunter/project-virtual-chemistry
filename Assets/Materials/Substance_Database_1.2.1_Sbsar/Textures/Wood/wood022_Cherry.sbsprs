@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood022/wood022" label="var01">
+  <presetinput identifier="$outputsize" uid="553075731" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="632028584" type="0" value="0.466"/>
+  <presetinput identifier="Saturation" uid="632028605" type="0" value="0.386"/>
+  <presetinput identifier="Contrast" uid="1512931374" type="0" value="0.264"/>
+  <presetinput identifier="$randomseed" uid="2005226049" type="4" value="953404668"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood022/wood022" label="var03">
+  <presetinput identifier="$outputsize" uid="553075731" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="631898774" type="0" value="0.878"/>
+  <presetinput identifier="Luminosity" uid="632028584" type="0" value="0.467"/>
+  <presetinput identifier="Saturation" uid="632028605" type="0" value="0.36"/>
+  <presetinput identifier="Contrast" uid="1512931374" type="0" value="0.264"/>
+  <presetinput identifier="Battens_Height_Variation" uid="1512946173" type="0" value="0.198"/>
+  <presetinput identifier="Battens_Amount_X" uid="1512958223" type="4" value="2"/>
+  <presetinput identifier="Battens" uid="1512958306" type="4" value="1"/>
+  <presetinput identifier="Peeling" uid="1514115932" type="0" value="0.966"/>
+  <presetinput identifier="Battens_Gap" uid="1526972281" type="0" value="0.025"/>
+  <presetinput identifier="$randomseed" uid="2005226049" type="4" value="953404668"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood022/wood022" label="var02">
+  <presetinput identifier="Peeling" uid="231229321" type="0" value="0.492"/>
+  <presetinput identifier="Contrast" uid="232412411" type="0" value="0.264"/>
+  <presetinput identifier="$randomseed" uid="544376468" type="4" value="-424588886"/>
+  <presetinput identifier="Saturation" uid="1918642536" type="0" value="0.36"/>
+  <presetinput identifier="Luminosity" uid="1918642557" type="0" value="0.467"/>
+  <presetinput identifier="Emboss" uid="1918752323" type="0" value="0.878"/>
+  <presetinput identifier="$outputsize" uid="1996525766" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

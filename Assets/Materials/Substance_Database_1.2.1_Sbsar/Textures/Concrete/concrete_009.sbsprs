@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_009/concrete_009" label="var01" >
+  <presetinput identifier="Lines_Scale" uid="2363647122" type="0" value="0.172" />
+  <presetinput identifier="Dirtiness" uid="2363647329" type="0" value="0.265" />
+  <presetinput identifier="Dirtiness_Drips_Lenght" uid="2363647348" type="0" value="0.425" />
+  <presetinput identifier="Pebbles" uid="2363647349" type="0" value="0.016" />
+  <presetinput identifier="$outputsize" uid="4129568165" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_009/concrete_009" label="var02" >
+  <presetinput identifier="Concrete_Color" uid="2363594322" type="2" value="0.678,0.675,0.525" />
+  <presetinput identifier="Lines_Scale" uid="2363647122" type="0" value="0.342" />
+  <presetinput identifier="Dirtiness" uid="2363647329" type="0" value="0.625" />
+  <presetinput identifier="Dirtiness_Drips_Lenght" uid="2363647348" type="0" value="0.425" />
+  <presetinput identifier="Pebbles" uid="2363647349" type="0" value="0.521" />
+  <presetinput identifier="$outputsize" uid="4129568165" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_009/concrete_009" label="var03" >
+  <presetinput identifier="Concrete_Color" uid="2363594322" type="2" value="0.631,0.592,0.494" />
+  <presetinput identifier="Lines_Scale" uid="2363647122" type="0" value="0.591" />
+  <presetinput identifier="Dirtiness" uid="2363647329" type="0" value="0.934" />
+  <presetinput identifier="Dirtiness_Drips_Lenght" uid="2363647348" type="0" value="1" />
+  <presetinput identifier="Pebbles" uid="2363647349" type="0" value="0.759" />
+  <presetinput identifier="$outputsize" uid="4129568165" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

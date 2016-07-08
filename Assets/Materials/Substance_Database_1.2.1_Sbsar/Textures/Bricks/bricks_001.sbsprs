@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_001/bricks_001" label="var02" >
+  <presetinput identifier="Normal" uid="2601652003" type="0" value="0.674" />
+  <presetinput identifier="Emboss" uid="2601652092" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2655996409" type="8" value="9,9" />
+  <presetinput identifier="Bricks_Amount_Y" uid="3835041754" type="4" value="6" />
+  <presetinput identifier="Age" uid="3835118075" type="0" value="0.655" />
+  <presetinput identifier="Bricks_Offset_Random" uid="3835128261" type="0" value="0.359" />
+  <presetinput identifier="Bricks_Balance" uid="3835142286" type="0" value="0" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_001/bricks_001" label="var03" >
+  <presetinput identifier="Normal" uid="2601652003" type="0" value="0.674" />
+  <presetinput identifier="Emboss" uid="2601652092" type="0" value="0.312" />
+  <presetinput identifier="Luminosity" uid="2601775170" type="0" value="0.479" />
+  <presetinput identifier="Saturation" uid="2601775191" type="0" value="0.48" />
+  <presetinput identifier="$outputsize" uid="2655996409" type="8" value="9,9" />
+  <presetinput identifier="Bricks_Amount_X" uid="3835041753" type="4" value="2" />
+  <presetinput identifier="Bricks_Amount_Y" uid="3835041754" type="4" value="1" />
+  <presetinput identifier="Contrast" uid="3835050336" type="0" value="-0.014" />
+  <presetinput identifier="Bricks_Offset_Random" uid="3835128261" type="0" value="0.489" />
+  <presetinput identifier="Bricks_Balance" uid="3835142286" type="0" value="0.869" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_001/bricks_001" label="var01" >
+  <presetinput identifier="Normal" uid="2601652003" type="0" value="0.521" />
+  <presetinput identifier="Emboss" uid="2601652092" type="0" value="0.671" />
+  <presetinput identifier="$outputsize" uid="2655996409" type="8" value="9,9" />
+  <presetinput identifier="Age" uid="3835118075" type="0" value="0.021" />
+  <presetinput identifier="Bricks_Offset_Random" uid="3835128261" type="0" value="0.359" />
+  <presetinput identifier="Bricks_Balance" uid="3835142286" type="0" value="0.576" />
+ </sbspreset>
+</sbspresets>

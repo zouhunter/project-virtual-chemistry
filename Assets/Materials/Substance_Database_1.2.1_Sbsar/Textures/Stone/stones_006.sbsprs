@@ -1,0 +1,39 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://stones_006/stones_006" label="var01" >
+  <presetinput identifier="Emboss" uid="677698034" type="0" value="0.504" />
+  <presetinput identifier="$outputsize" uid="758751095" type="8" value="9,9" />
+  <presetinput identifier="Blend" uid="1468012299" type="0" value="0.464" />
+  <presetinput identifier="Dirt_Dirps" uid="1472405869" type="0" value="1" />
+  <presetinput identifier="Base_Color_01" uid="1472407940" type="2" value="0.816,0.792,0.808" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_006/stones_006" label="var02" >
+  <presetinput identifier="$outputsize" uid="758751095" type="8" value="9,9" />
+  <presetinput identifier="Blend" uid="1468012299" type="0" value="1" />
+  <presetinput identifier="Rock_Shape" uid="1472345302" type="0" value="0" />
+  <presetinput identifier="Dirt_Dirps" uid="1472405869" type="0" value="0.512" />
+  <presetinput identifier="Base_Color_01" uid="1472407940" type="2" value="0.816,0.773,0.706" />
+  <presetinput identifier="Base_Color_02" uid="1472412008" type="2" value="0.78,0.741,0.678" />
+  <presetinput identifier="Cracks" uid="1472458428" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_006/stones_006" label="var03" >
+  <presetinput identifier="Emboss" uid="677698034" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="758751095" type="8" value="9,9" />
+  <presetinput identifier="Rock_Shape" uid="1472345302" type="0" value="1" />
+  <presetinput identifier="Dirt_Dirps" uid="1472405869" type="0" value="1" />
+  <presetinput identifier="Base_Color_01" uid="1472407940" type="2" value="0.416,0.463,0.42" />
+  <presetinput identifier="Base_Color_02" uid="1472412008" type="2" value="0.357,0.416,0.357" />
+  <presetinput identifier="Cracks" uid="1472458428" type="0" value="1" />
+  <presetinput identifier="$randomseed" uid="2051770661" type="4" value="1305185162" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_006/stones_006" label="var04" >
+  <presetinput identifier="Emboss" uid="677698034" type="0" value="0.508" />
+  <presetinput identifier="Saturation" uid="677717721" type="0" value="0.452" />
+  <presetinput identifier="$outputsize" uid="758751095" type="8" value="9,9" />
+  <presetinput identifier="Rock_Shape" uid="1472345302" type="0" value="1" />
+  <presetinput identifier="Base_Color_01" uid="1472407940" type="2" value="0.6,0.545,0.463" />
+  <presetinput identifier="Base_Color_02" uid="1472412008" type="2" value="0.416,0.396,0.365" />
+  <presetinput identifier="Cracks" uid="1472458428" type="0" value="0.52" />
+  <presetinput identifier="Contrast" uid="1472592582" type="0" value="-0.023" />
+  <presetinput identifier="$randomseed" uid="2051770661" type="4" value="297806200" />
+ </sbspreset>
+</sbspresets>

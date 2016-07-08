@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://ground_004/ground_004" label="var02" >
+  <presetinput identifier="Weathering" uid="178572848" type="0" value="0.11" />
+  <presetinput identifier="Pebbles_Amount" uid="178575152" type="0" value="0.962" />
+  <presetinput identifier="$outputsize" uid="261307836" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_004/ground_004" label="var03" >
+  <presetinput identifier="Weathering" uid="178572848" type="0" value="0.781" />
+  <presetinput identifier="Pebbles_Amount" uid="178575152" type="0" value="0.962" />
+  <presetinput identifier="$outputsize" uid="261307836" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_004/ground_004" label="var04" >
+  <presetinput identifier="Pebbles_Amount" uid="178575152" type="0" value="0.789" />
+  <presetinput identifier="$outputsize" uid="261307836" type="8" value="9,9" />
+  <presetinput identifier="Dirt_Color" uid="1968686709" type="2" value="0.475,0.42,0.337" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_004/ground_004" label="var01" >
+  <presetinput identifier="Weathering" uid="178572848" type="0" value="0.11" />
+  <presetinput identifier="Pebbles_Amount" uid="178575152" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="261307836" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="1491151854" type="4" value="82893159" />
+ </sbspreset>
+</sbspresets>

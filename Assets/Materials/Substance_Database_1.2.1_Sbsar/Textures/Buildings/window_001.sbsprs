@@ -1,0 +1,39 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://window_001/window_001" label="var02" >
+  <presetinput identifier="$randomseed" uid="2667992345" type="4" value="-25412158" />
+  <presetinput identifier="Glass_Color" uid="2998168945" type="2" value="0.302,0.306,0.325" />
+  <presetinput identifier="Glass_Color_Variations" uid="2998624938" type="0" value="0.842" />
+  <presetinput identifier="$outputsize" uid="3363062603" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="3442017681" type="0" value="0.715" />
+  <presetinput identifier="Emboss" uid="3442017742" type="0" value="0.589" />
+  <presetinput identifier="Glass_Cracks" uid="3444652730" type="0" value="1" />
+  <presetinput identifier="Glass_Shining" uid="3444677110" type="0" value="0.013" />
+  <presetinput identifier="Rust_Leaks" uid="3444706292" type="0" value="0.439" />
+  <presetinput identifier="Rust" uid="3444738483" type="0" value="0.658" />
+  <presetinput identifier="Window_Color" uid="3445031344" type="2" value="0.349,0.349,0.349" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://window_001/window_001" label="var03" >
+  <presetinput identifier="Contrast" uid="2998183924" type="0" value="0.141" />
+  <presetinput identifier="Glass_Color_Variations" uid="2998624938" type="0" value="0.659" />
+  <presetinput identifier="$outputsize" uid="3363062603" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="3442017681" type="0" value="0.715" />
+  <presetinput identifier="Emboss" uid="3442017742" type="0" value="0.589" />
+  <presetinput identifier="Depth" uid="3442020195" type="0" value="0.404" />
+  <presetinput identifier="Glass_Cracks" uid="3444652730" type="0" value="1" />
+  <presetinput identifier="Glass_Shining" uid="3444677110" type="0" value="0.024" />
+  <presetinput identifier="Rust_Leaks" uid="3444706292" type="0" value="1" />
+  <presetinput identifier="Rust" uid="3444738483" type="0" value="0.902" />
+  <presetinput identifier="Window_Color" uid="3445031344" type="2" value="0.824,0.745,0.655" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://window_001/window_001" label="var01" >
+  <presetinput identifier="Glass_Color" uid="2998168945" type="2" value="0.765,0.839,0.945" />
+  <presetinput identifier="Glass_Color_Variations" uid="2998624938" type="0" value="0.611" />
+  <presetinput identifier="$outputsize" uid="3363062603" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="3442017681" type="0" value="0.715" />
+  <presetinput identifier="Emboss" uid="3442017742" type="0" value="0.589" />
+  <presetinput identifier="Glass_Shining" uid="3444677110" type="0" value="0.565" />
+  <presetinput identifier="Rust_Leaks" uid="3444706292" type="0" value="1" />
+  <presetinput identifier="Rust" uid="3444738483" type="0" value="0.664" />
+  <presetinput identifier="Window_Color" uid="3445031344" type="2" value="0.255,0.275,0.329" />
+ </sbspreset>
+</sbspresets>

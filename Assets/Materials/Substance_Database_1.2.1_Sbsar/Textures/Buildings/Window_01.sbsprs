@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Window_01/Window_01" label="var01" >
+  <presetinput identifier="Normal" uid="432485137" type="0" value="0.561" />
+  <presetinput identifier="Opacity" uid="436036152" type="0" value="0.044" />
+  <presetinput identifier="Border_Color" uid="436043226" type="0" value="0.92" />
+  <presetinput identifier="Rain" uid="436060152" type="0" value="0" />
+  <presetinput identifier="Age" uid="436090874" type="0" value="0.08" />
+  <presetinput identifier="Freeze" uid="436097963" type="0" value="0.306" />
+  <presetinput identifier="$outputsize" uid="498551764" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Window_01/Window_01" label="var02" >
+  <presetinput identifier="Normal" uid="432485137" type="0" value="0.561" />
+  <presetinput identifier="Opacity" uid="436036152" type="0" value="0.717" />
+  <presetinput identifier="Border_Color" uid="436043226" type="0" value="0.691" />
+  <presetinput identifier="Rain" uid="436060152" type="0" value="0.812" />
+  <presetinput identifier="Back_Color" uid="436090243" type="0" value="0.688" />
+  <presetinput identifier="Age" uid="436090874" type="0" value="1" />
+  <presetinput identifier="Freeze" uid="436097963" type="0" value="0.712" />
+  <presetinput identifier="$outputsize" uid="498551764" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Window_01/Window_01" label="var03" >
+  <presetinput identifier="Normal" uid="432485137" type="0" value="0.561" />
+  <presetinput identifier="Contrast" uid="432491965" type="0" value="-0.061" />
+  <presetinput identifier="Opacity" uid="436036152" type="0" value="0.728" />
+  <presetinput identifier="Border_Color" uid="436043226" type="0" value="0.871" />
+  <presetinput identifier="Rain" uid="436060152" type="0" value="0.846" />
+  <presetinput identifier="Luminosity" uid="436089871" type="0" value="0.373" />
+  <presetinput identifier="Saturation" uid="436089873" type="0" value="0.545" />
+  <presetinput identifier="Back_Color" uid="436090243" type="0" value="0.312" />
+  <presetinput identifier="Hue_Shift" uid="436090849" type="0" value="0.021" />
+  <presetinput identifier="Age" uid="436090874" type="0" value="0.951" />
+  <presetinput identifier="Freeze" uid="436097963" type="0" value="0.221" />
+  <presetinput identifier="$outputsize" uid="498551764" type="8" value="9,9" />
+  <presetinput identifier="Pane_Color" uid="1734766216" type="2" value="0.427,0.455,0.529" />
+ </sbspreset>
+</sbspresets>

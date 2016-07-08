@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_010/concrete_010" label="var01" >
+  <presetinput identifier="$outputsize" uid="2169411816" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="4220992759" type="0" value="0.192" />
+  <presetinput identifier="Concrete_Color" uid="4220993595" type="2" value="0.502,0.506,0.498" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_010/concrete_010" label="var02" >
+  <presetinput identifier="$outputsize" uid="2169411816" type="8" value="9,9" />
+  <presetinput identifier="Bumps" uid="4220992734" type="0" value="0.633" />
+  <presetinput identifier="Dirtiness" uid="4220992759" type="0" value="0.699" />
+  <presetinput identifier="Concrete_Color" uid="4220993595" type="2" value="0.506,0.439,0.396" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_010/concrete_010" label="var03" >
+  <presetinput identifier="$outputsize" uid="2169411816" type="8" value="9,9" />
+  <presetinput identifier="Cracks" uid="4220992720" type="0" value="1" />
+  <presetinput identifier="Bumps" uid="4220992734" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="4220992759" type="0" value="0.931" />
+  <presetinput identifier="Concrete_Color" uid="4220993595" type="2" value="0.839,0.839,0.839" />
+ </sbspreset>
+</sbspresets>

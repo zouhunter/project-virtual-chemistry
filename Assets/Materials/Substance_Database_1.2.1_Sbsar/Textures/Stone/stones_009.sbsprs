@@ -1,0 +1,27 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://stones_009/stones_009" label="var01" >
+  <presetinput identifier="$randomseed" uid="2556431301" type="4" value="-345483159" />
+  <presetinput identifier="Color" uid="3052008402" type="2" value="0.71,0.753,0.639" />
+  <presetinput identifier="Fleck" uid="3391210695" type="0" value="0.164" />
+  <presetinput identifier="Weathering" uid="3391219110" type="0" value="0" />
+  <presetinput identifier="Depth" uid="3394195903" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3474070935" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_009/stones_009" label="var02" >
+  <presetinput identifier="$randomseed" uid="2556431301" type="4" value="-1970524293" />
+  <presetinput identifier="Color" uid="3052008402" type="2" value="0.573,0.592,0.604" />
+  <presetinput identifier="Fleck" uid="3391210695" type="0" value="1" />
+  <presetinput identifier="Weathering" uid="3391219110" type="0" value="0.6" />
+  <presetinput identifier="Depth" uid="3394195903" type="0" value="-1" />
+  <presetinput identifier="$outputsize" uid="3474070935" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://stones_009/stones_009" label="var03" >
+  <presetinput identifier="$randomseed" uid="2556431301" type="4" value="-835231335" />
+  <presetinput identifier="Color" uid="3052008402" type="2" value="0.839,0.804,0.792" />
+  <presetinput identifier="Fleck" uid="3391210695" type="0" value="0" />
+  <presetinput identifier="Weathering" uid="3391219110" type="0" value="1" />
+  <presetinput identifier="Depth" uid="3394195903" type="0" value="1" />
+  <presetinput identifier="Normal" uid="3394198349" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3474070935" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

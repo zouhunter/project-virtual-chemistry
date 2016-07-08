@@ -1,0 +1,21 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Ocean_01/Ocean_01" label="var01" >
+  <presetinput identifier="$randomseed" uid="2511860821" type="4" value="81243392" />
+  <presetinput identifier="Water_Color" uid="3089062793" type="2" value="0.075,0.259,0.271" />
+  <presetinput identifier="$outputsize" uid="3267748359" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="3325501235" type="0" value="0.55" />
+  <presetinput identifier="Foam_Warp" uid="3340550852" type="0" value="1" />
+  <presetinput identifier="Foam_Soften" uid="3340552514" type="0" value="0" />
+  <presetinput identifier="Foam" uid="3340552706" type="0" value="1" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ocean_01/Ocean_01" label="var02" >
+  <presetinput identifier="$randomseed" uid="2511860821" type="4" value="654670136" />
+  <presetinput identifier="Water_Color" uid="3089062793" type="2" value="0.09,0.141,0.271" />
+  <presetinput identifier="$outputsize" uid="3267748359" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="3325501235" type="0" value="0.55" />
+  <presetinput identifier="Depth" uid="3334102493" type="0" value="-1" />
+  <presetinput identifier="Foam_Warp" uid="3340550852" type="0" value="0.19" />
+  <presetinput identifier="Foam_Soften" uid="3340552514" type="0" value="1" />
+  <presetinput identifier="Foam" uid="3340552706" type="0" value="0.52" />
+ </sbspreset>
+</sbspresets>

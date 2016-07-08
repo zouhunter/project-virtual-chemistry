@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Chocolate/Chocolate" label="var02" >
+  <presetinput identifier="Saturation" uid="2390748911" type="0" value="0.425" />
+  <presetinput identifier="Depth" uid="2398268417" type="0" value="-0.869" />
+  <presetinput identifier="Chocolate_Type" uid="2400557764" type="4" value="2" />
+  <presetinput identifier="Bites" uid="2404130856" type="0" value="0.316" />
+  <presetinput identifier="$randomseed" uid="3724477833" type="4" value="-665726593" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Chocolate/Chocolate" label="var03" >
+  <presetinput identifier="Luminosity" uid="2390748908" type="0" value="0.476" />
+  <presetinput identifier="Saturation" uid="2390748911" type="0" value="0.444" />
+  <presetinput identifier="Depth" uid="2398268417" type="0" value="-0.869" />
+  <presetinput identifier="Emboss" uid="2398785730" type="0" value="10" />
+  <presetinput identifier="Contrast" uid="2398854905" type="0" value="-0.092" />
+  <presetinput identifier="Normal" uid="2398855067" type="0" value="0.866" />
+  <presetinput identifier="Chocolate_Type" uid="2400557764" type="4" value="5" />
+  <presetinput identifier="Choco_X" uid="2403655454" type="4" value="6" />
+  <presetinput identifier="Choco_Y" uid="2403655455" type="4" value="4" />
+  <presetinput identifier="Pattern" uid="2404124183" type="0" value="1.172" />
+  <presetinput identifier="Bites" uid="2404130856" type="0" value="0.28" />
+  <presetinput identifier="$randomseed" uid="3724477833" type="4" value="-664054457" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Chocolate/Chocolate" label="var01" >
+  <presetinput identifier="Luminosity" uid="2390748908" type="0" value="0.561" />
+  <presetinput identifier="Saturation" uid="2390748911" type="0" value="0.425" />
+  <presetinput identifier="Depth" uid="2398268417" type="0" value="-0.869" />
+  <presetinput identifier="Emboss" uid="2398785730" type="0" value="10" />
+  <presetinput identifier="Contrast" uid="2398854905" type="0" value="0.137" />
+  <presetinput identifier="Normal" uid="2398855067" type="0" value="0.856" />
+  <presetinput identifier="$randomseed" uid="3724477833" type="4" value="-1285892614" />
+ </sbspreset>
+</sbspresets>

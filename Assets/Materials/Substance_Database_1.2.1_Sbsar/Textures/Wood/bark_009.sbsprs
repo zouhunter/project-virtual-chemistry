@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://bark_009/bark_009" label="var01">
+  <presetinput identifier="$randomseed" uid="350771952" type="4" value="-1589020196"/>
+  <presetinput identifier="Moss" uid="963693094" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1134185634" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_009/bark_009" label="var02">
+  <presetinput identifier="$randomseed" uid="350771952" type="4" value="-1664903688"/>
+  <presetinput identifier="Bark_Color" uid="963686992" type="2" value="0.129,0.125,0.094"/>
+  <presetinput identifier="Moss_Color" uid="963689354" type="2" value="0,0,0"/>
+  <presetinput identifier="Moss" uid="963693094" type="0" value="0.326"/>
+  <presetinput identifier="$outputsize" uid="1134185634" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1187446922" type="0" value="0.484"/>
+  <presetinput identifier="Light_Angle" uid="1187449535" type="0" value="0.564"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_009/bark_009" label="var03">
+  <presetinput identifier="$randomseed" uid="350771952" type="4" value="283402772"/>
+  <presetinput identifier="Bark_Color" uid="963686992" type="2" value="0.427,0.322,0.231"/>
+  <presetinput identifier="Moss_Color" uid="963689354" type="2" value="0.275,0.263,0.247"/>
+  <presetinput identifier="Moss" uid="963693094" type="0" value="0.514"/>
+  <presetinput identifier="$outputsize" uid="1134185634" type="8" value="9,9"/>
+  <presetinput identifier="Depth" uid="1187446922" type="0" value="-0.336"/>
+  <presetinput identifier="Light_Angle" uid="1187449535" type="0" value="0.564"/>
+ </sbspreset>
+</sbspresets>

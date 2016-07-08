@@ -1,0 +1,14 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://fabric_014/fabric_014" label="var01" >
+  <presetinput identifier="$outputsize" uid="2613935121" type="8" value="9,9" />
+  <presetinput identifier="Pattern_Scale" uid="3778976838" type="8" value="2,5" />
+  <presetinput identifier="Color" uid="3779019533" type="2" value="0.4,0.392,0.455" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_014/fabric_014" label="var02" >
+  <presetinput identifier="$outputsize" uid="2613935121" type="8" value="9,9" />
+  <presetinput identifier="$randomseed" uid="3435096643" type="4" value="-1824391368" />
+  <presetinput identifier="Pattern_Scale" uid="3778976838" type="8" value="10,10" />
+  <presetinput identifier="Color" uid="3779019533" type="2" value="0.455,0.349,0.349" />
+  <presetinput identifier="Creases" uid="3779055084" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

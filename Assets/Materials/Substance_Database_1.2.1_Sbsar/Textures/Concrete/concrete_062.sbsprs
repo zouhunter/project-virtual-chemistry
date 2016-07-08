@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://concrete_062/concrete_062" label="var01">
+  <presetinput identifier="$randomseed" uid="219984614" type="4" value="761983117"/>
+  <presetinput identifier="White_Molds_Amount" uid="546416934" type="0" value="0"/>
+  <presetinput identifier="Yellow_Molds_Amount" uid="546519214" type="0" value="0"/>
+  <presetinput identifier="$outputsize" uid="1517200564" type="8" value="9,9"/>
+  <presetinput identifier="Moss" uid="1600522565" type="0" value="0.787"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_062/concrete_062" label="var02">
+  <presetinput identifier="$randomseed" uid="219984614" type="4" value="698101076"/>
+  <presetinput identifier="Dirt_Color" uid="546415649" type="2" value="0.369,0.325,0.275"/>
+  <presetinput identifier="White_Molds_Color" uid="546415650" type="2" value="0.455,0.404,0.31"/>
+  <presetinput identifier="Concrete_Color" uid="546415651" type="2" value="0.686,0.561,0.475"/>
+  <presetinput identifier="Yellow_Molds_Color" uid="546416583" type="2" value="0.631,0.78,0.678"/>
+  <presetinput identifier="White_Molds_Amount" uid="546416934" type="0" value="0.701"/>
+  <presetinput identifier="Yellow_Molds_Amount" uid="546519214" type="0" value="0.656"/>
+  <presetinput identifier="$outputsize" uid="1517200564" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_062/concrete_062" label="var03">
+  <presetinput identifier="$randomseed" uid="219984614" type="4" value="-1898264214"/>
+  <presetinput identifier="Dirt_Color" uid="546415649" type="2" value="0.741,0.694,0.635"/>
+  <presetinput identifier="White_Molds_Color" uid="546415650" type="2" value="0.455,0.439,0.373"/>
+  <presetinput identifier="Concrete_Color" uid="546415651" type="2" value="0.58,0.663,0.686"/>
+  <presetinput identifier="Moss_Color" uid="546416381" type="2" value="1,1,1"/>
+  <presetinput identifier="Yellow_Molds_Color" uid="546416583" type="2" value="0.78,0.584,0.549"/>
+  <presetinput identifier="Yellow_Molds_Amount" uid="546519214" type="0" value="0.004"/>
+  <presetinput identifier="$outputsize" uid="1517200564" type="8" value="9,9"/>
+  <presetinput identifier="Moss" uid="1600522565" type="0" value="0.816"/>
+ </sbspreset>
+</sbspresets>

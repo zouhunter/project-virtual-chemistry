@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Cartoon_Stones/Cartoon_Stones" label="var01" >
+  <presetinput identifier="$randomseed" uid="630261097" type="4" value="-1241266964" />
+  <presetinput identifier="$outputsize" uid="1927484219" type="8" value="9,9" />
+  <presetinput identifier="Size" uid="1988497097" type="0" value="0.364" />
+  <presetinput identifier="Contrast" uid="1989861174" type="0" value="0.146" />
+  <presetinput identifier="Luminosity" uid="1991588726" type="0" value="0.482" />
+  <presetinput identifier="Saturation" uid="1991588731" type="0" value="0.514" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Cartoon_Stones/Cartoon_Stones" label="var02" >
+  <presetinput identifier="$randomseed" uid="630261097" type="4" value="898002462" />
+  <presetinput identifier="$outputsize" uid="1927484219" type="8" value="9,9" />
+  <presetinput identifier="Size" uid="1988497097" type="0" value="0.736" />
+  <presetinput identifier="Depth" uid="1989860879" type="0" value="-1" />
+  <presetinput identifier="Contrast" uid="1989861174" type="0" value="0.146" />
+  <presetinput identifier="Luminosity" uid="1991588726" type="0" value="0.482" />
+  <presetinput identifier="Saturation" uid="1991588731" type="0" value="0.514" />
+ </sbspreset>
+</sbspresets>

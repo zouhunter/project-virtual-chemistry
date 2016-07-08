@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bark_001/bark_001" label="var01" >
+  <presetinput identifier="Peeling" uid="609010029" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="1586922596" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_001/bark_001" label="var02" >
+  <presetinput identifier="Wood_Color" uid="609168781" type="2" value="0.42,0.333,0.322" />
+  <presetinput identifier="Bark_Color" uid="609168813" type="2" value="0.443,0.443,0.427" />
+  <presetinput identifier="$outputsize" uid="1586922596" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bark_001/bark_001" label="var03" >
+  <presetinput identifier="Peeling" uid="609010029" type="0" value="0.398" />
+  <presetinput identifier="Wood_Color" uid="609168781" type="2" value="0.42,0.333,0.322" />
+  <presetinput identifier="Bark_Color" uid="609168813" type="2" value="0.784,0.784,0.757" />
+  <presetinput identifier="Normal" uid="1540080318" type="0" value="0.737" />
+  <presetinput identifier="Emboss" uid="1540080353" type="0" value="0.858" />
+  <presetinput identifier="$outputsize" uid="1586922596" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

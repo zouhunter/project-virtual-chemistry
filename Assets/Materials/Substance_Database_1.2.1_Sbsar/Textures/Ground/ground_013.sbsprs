@@ -1,0 +1,18 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://ground_013/ground_013" label="var02" >
+  <presetinput identifier="$outputsize" uid="568502612" type="8" value="9,9" />
+  <presetinput identifier="Melting" uid="1528146254" type="0" value="0.795" />
+  <presetinput identifier="Snow_Color" uid="1528146630" type="2" value="0.675,0.659,0.761" />
+  <presetinput identifier="$randomseed" uid="1989197574" type="4" value="980631624" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://ground_013/ground_013" label="var01" >
+  <presetinput identifier="$outputsize" uid="568502612" type="8" value="9,9" />
+  <presetinput identifier="Dirtiness" uid="1528146248" type="0" value="0.654" />
+  <presetinput identifier="Footprints" uid="1528146250" type="4" value="1" />
+  <presetinput identifier="Grass" uid="1528146251" type="0" value="0.681" />
+  <presetinput identifier="Footprints_Offset" uid="1528146255" type="1" value="0.312,0.026" />
+  <presetinput identifier="Grass_Color" uid="1528146625" type="2" value="0.231,0.345,0.192" />
+  <presetinput identifier="Snow_Color" uid="1528146630" type="2" value="0.835,0.831,0.788" />
+  <presetinput identifier="$randomseed" uid="1989197574" type="4" value="1967756194" />
+ </sbspreset>
+</sbspresets>

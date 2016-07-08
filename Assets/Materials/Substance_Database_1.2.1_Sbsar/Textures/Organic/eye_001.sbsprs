@@ -1,0 +1,60 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://eye_001/eye_001" label="var01">
+  <presetinput identifier="$randomseed" uid="2229677001" type="4" value="-61515761"/>
+  <presetinput identifier="Contrast" uid="2840333266" type="0" value="0.023"/>
+  <presetinput identifier="Highlight" uid="2842600641" type="0" value="1"/>
+  <presetinput identifier="Aperture" uid="2842607300" type="0" value="0.237"/>
+  <presetinput identifier="Size" uid="2842623111" type="1" value="0.748,0.743"/>
+  <presetinput identifier="Border_Color" uid="2842648452" type="2" value="0.541,0.376,0.263"/>
+  <presetinput identifier="Center_Color" uid="2842648471" type="2" value="0.843,0.91,0.588"/>
+  <presetinput identifier="$outputsize" uid="3549707675" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3603465248" type="0" value="0.489"/>
+  <presetinput identifier="Saturation" uid="3603465269" type="0" value="0.467"/>
+  <presetinput identifier="Hue_Shift" uid="3603465298" type="0" value="0.175"/>
+  <presetinput identifier="Emboss" uid="3603528478" type="0" value="0.544"/>
+  <presetinput identifier="Light_Angle" uid="3603528582" type="0" value="0.253"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://eye_001/eye_001" label="var03">
+  <presetinput identifier="$randomseed" uid="2229677001" type="4" value="-765323268"/>
+  <presetinput identifier="Contrast" uid="2840333266" type="0" value="0.023"/>
+  <presetinput identifier="Cataract" uid="2842594427" type="0" value="0.637"/>
+  <presetinput identifier="Highlight" uid="2842600641" type="0" value="1"/>
+  <presetinput identifier="Veins" uid="2842603833" type="0" value="0.465"/>
+  <presetinput identifier="Red_Eyes" uid="2842606882" type="0" value="0"/>
+  <presetinput identifier="Aperture" uid="2842607300" type="0" value="0.511"/>
+  <presetinput identifier="Type" uid="2842616902" type="4" value="3"/>
+  <presetinput identifier="Size" uid="2842623111" type="1" value="0.748,0.743"/>
+  <presetinput identifier="Border_Color" uid="2842648452" type="2" value="0.984,1,0.031"/>
+  <presetinput identifier="Middle_Line_Color" uid="2842648458" type="2" value="1,0.969,0.027"/>
+  <presetinput identifier="Center_Color" uid="2842648471" type="2" value="0.953,1,0"/>
+  <presetinput identifier="Noise_Intensity" uid="2842651549" type="0" value="0.205"/>
+  <presetinput identifier="Stains" uid="2842653496" type="0" value="0"/>
+  <presetinput identifier="Stains_Color" uid="2842654767" type="2" value="1,1,0.008"/>
+  <presetinput identifier="$outputsize" uid="3549707675" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3603465248" type="0" value="0.525"/>
+  <presetinput identifier="Saturation" uid="3603465269" type="0" value="0.52"/>
+  <presetinput identifier="Hue_Shift" uid="3603465298" type="0" value="0.921"/>
+  <presetinput identifier="Emboss" uid="3603528478" type="0" value="0.544"/>
+  <presetinput identifier="Light_Angle" uid="3603528582" type="0" value="0.139"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://eye_001/eye_001" label="var02">
+  <presetinput identifier="$randomseed" uid="2229677001" type="4" value="-765323268"/>
+  <presetinput identifier="Contrast" uid="2840333266" type="0" value="0.023"/>
+  <presetinput identifier="Cataract" uid="2842594427" type="0" value="0.637"/>
+  <presetinput identifier="Highlight" uid="2842600641" type="0" value="0.523"/>
+  <presetinput identifier="Veins" uid="2842603833" type="0" value="0"/>
+  <presetinput identifier="Red_Eyes" uid="2842606882" type="0" value="0"/>
+  <presetinput identifier="Aperture" uid="2842607300" type="0" value="0.549"/>
+  <presetinput identifier="Type" uid="2842616902" type="4" value="3"/>
+  <presetinput identifier="Size" uid="2842623111" type="1" value="0.748,0.743"/>
+  <presetinput identifier="Border_Color" uid="2842648452" type="2" value="0.549,0.553,0.243"/>
+  <presetinput identifier="Middle_Line_Color" uid="2842648458" type="2" value="0.58,0.624,0.078"/>
+  <presetinput identifier="Center_Color" uid="2842648471" type="2" value="0.745,0.663,0.027"/>
+  <presetinput identifier="Stains_Color" uid="2842654767" type="2" value="0.796,0.808,0.137"/>
+  <presetinput identifier="$outputsize" uid="3549707675" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3603465248" type="0" value="0.525"/>
+  <presetinput identifier="Saturation" uid="3603465269" type="0" value="0.52"/>
+  <presetinput identifier="Emboss" uid="3603528478" type="0" value="0.506"/>
+  <presetinput identifier="Light_Angle" uid="3603528582" type="0" value="0.253"/>
+ </sbspreset>
+</sbspresets>

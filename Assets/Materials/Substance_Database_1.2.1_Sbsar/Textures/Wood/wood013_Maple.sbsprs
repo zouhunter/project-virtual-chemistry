@@ -1,0 +1,44 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://wood013/wood013" label="var01">
+  <presetinput identifier="$outputsize" uid="2157021190" type="8" value="9,9"/>
+  <presetinput identifier="Emboss" uid="2244791939" type="0" value="0.947"/>
+  <presetinput identifier="Saturation" uid="2244817320" type="0" value="0.395"/>
+  <presetinput identifier="Luminosity" uid="2244817341" type="0" value="0.467"/>
+  <presetinput identifier="$randomseed" uid="3622018644" type="4" value="881616024"/>
+  <presetinput identifier="Contrast" uid="4199238715" type="0" value="0.215"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood013/wood013" label="var02">
+  <presetinput identifier="$randomseed" uid="512891116" type="4" value="-1356926802"/>
+  <presetinput identifier="Battens_Chamfer" uid="840277491" type="0" value="0.068"/>
+  <presetinput identifier="Wormhole" uid="858176870" type="4" value="1"/>
+  <presetinput identifier="Roughness" uid="859394364" type="0" value="0.954"/>
+  <presetinput identifier="Wormhole_Scale" uid="859394385" type="0" value="0.59"/>
+  <presetinput identifier="Battens_Amount_Y" uid="859480696" type="4" value="12"/>
+  <presetinput identifier="Contrast" uid="859490947" type="0" value="0.215"/>
+  <presetinput identifier="Wood_Color" uid="859497302" type="2" value="0.612,0.427,0.267"/>
+  <presetinput identifier="Battens_Offset" uid="859501750" type="0" value="0.338"/>
+  <presetinput identifier="$outputsize" uid="1239420606" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1287436037" type="0" value="0.467"/>
+  <presetinput identifier="Saturation" uid="1287436048" type="0" value="0.395"/>
+  <presetinput identifier="Emboss" uid="1287473211" type="0" value="0.947"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://wood013/wood013" label="var03">
+  <presetinput identifier="$randomseed" uid="512891116" type="4" value="-400658655"/>
+  <presetinput identifier="Battens_Chamfer" uid="840277491" type="0" value="0.068"/>
+  <presetinput identifier="Wormhole" uid="858176870" type="4" value="1"/>
+  <presetinput identifier="Pattern" uid="858176886" type="0" value="1"/>
+  <presetinput identifier="Roughness" uid="859394364" type="0" value="1"/>
+  <presetinput identifier="Wormhole_Scale" uid="859394385" type="0" value="1"/>
+  <presetinput identifier="Battens_Amount_Y" uid="859480696" type="4" value="12"/>
+  <presetinput identifier="Battens" uid="859481039" type="4" value="1"/>
+  <presetinput identifier="Contrast" uid="859490947" type="0" value="0.09"/>
+  <presetinput identifier="Wood_Color" uid="859497302" type="2" value="0.435,0.282,0.173"/>
+  <presetinput identifier="Battens_Color_Variation" uid="859501368" type="0" value="0.423"/>
+  <presetinput identifier="Battens_Height_Variation" uid="859501392" type="0" value="0.163"/>
+  <presetinput identifier="Battens_Offset" uid="859501750" type="0" value="0.338"/>
+  <presetinput identifier="$outputsize" uid="1239420606" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="1287436037" type="0" value="0.506"/>
+  <presetinput identifier="Saturation" uid="1287436048" type="0" value="0.303"/>
+  <presetinput identifier="Emboss" uid="1287473211" type="0" value="0.947"/>
+ </sbspreset>
+</sbspresets>

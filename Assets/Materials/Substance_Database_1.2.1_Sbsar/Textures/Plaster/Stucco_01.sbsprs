@@ -1,0 +1,15 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Stucco_01/Stucco_01" label="var01" >
+  <presetinput identifier="Stucco_Color" uid="2397497257" type="2" value="1,0.929,0.843" />
+  <presetinput identifier="Age" uid="4028850622" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="4097324130" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Stucco_01/Stucco_01" label="var02" >
+  <presetinput identifier="Stucco_Color" uid="2397497257" type="2" value="0.761,0.729,0.722" />
+  <presetinput identifier="$randomseed" uid="2739544624" type="4" value="56515043" />
+  <presetinput identifier="Emboss" uid="4028845058" type="0" value="-5.605" />
+  <presetinput identifier="Age" uid="4028850622" type="0" value="0.551" />
+  <presetinput identifier="Depth" uid="4028852969" type="0" value="-0.012" />
+  <presetinput identifier="$outputsize" uid="4097324130" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

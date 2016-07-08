@@ -1,0 +1,19 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://concrete_007/concrete_007" label="var01" >
+  <presetinput identifier="$outputsize" uid="3657911586" type="8" value="9,9" />
+  <presetinput identifier="Rocks" uid="3745021141" type="0" value="0.676" />
+  <presetinput identifier="Dust" uid="3745026039" type="0" value="0.599" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_007/concrete_007" label="var02" >
+  <presetinput identifier="$outputsize" uid="3657911586" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="3744994510" type="0" value="0" />
+  <presetinput identifier="Rocks" uid="3745021141" type="0" value="0.676" />
+  <presetinput identifier="Dust" uid="3745026039" type="0" value="0.011" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://concrete_007/concrete_007" label="var03" >
+  <presetinput identifier="Concrete_Color" uid="2698993333" type="2" value="0.624,0.643,0.576" />
+  <presetinput identifier="$outputsize" uid="3657911586" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="3744994510" type="0" value="0" />
+  <presetinput identifier="Dust" uid="3745026039" type="0" value="1" />
+ </sbspreset>
+</sbspresets>

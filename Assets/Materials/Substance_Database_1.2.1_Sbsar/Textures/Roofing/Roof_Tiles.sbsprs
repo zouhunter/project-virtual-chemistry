@@ -1,0 +1,13 @@
+<sbspresets formatversion="1.0" count="1" >
+ <sbspreset pkgurl="pkg://Roof_Tiles/Roof_Tiles" label="var01" >
+  <presetinput identifier="$randomseed" uid="320564392" type="4" value="1074448118" />
+  <presetinput identifier="ColorVar" uid="1074565175" type="0" value="0" />
+  <presetinput identifier="Depth" uid="1075305687" type="0" value="-0.012" />
+  <presetinput identifier="Contrast" uid="1075807852" type="0" value="0.043" />
+  <presetinput identifier="Age" uid="1078204133" type="0" value="0.94" />
+  <presetinput identifier="Tile_X" uid="1086790872" type="4" value="10" />
+  <presetinput identifier="Tile_Y" uid="1086790878" type="4" value="10" />
+  <presetinput identifier="Curvature" uid="1086793541" type="0" value="4.707" />
+  <presetinput identifier="$outputsize" uid="1147763450" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

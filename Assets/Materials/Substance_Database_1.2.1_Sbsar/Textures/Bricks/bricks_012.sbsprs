@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://bricks_012/bricks_012" label="var01" >
+  <presetinput identifier="Light_Angle" uid="2970117226" type="0" value="0.264" />
+  <presetinput identifier="Emboss" uid="2970117362" type="0" value="0.095" />
+  <presetinput identifier="Hue_Shift" uid="2970196926" type="0" value="0.02" />
+  <presetinput identifier="Saturation" uid="2970196953" type="0" value="0.436" />
+  <presetinput identifier="$outputsize" uid="3025478263" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3810997285" type="4" value="145403289" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_012/bricks_012" label="var02" >
+  <presetinput identifier="Light_Angle" uid="2970117226" type="0" value="0.269" />
+  <presetinput identifier="Emboss" uid="2970117362" type="0" value="0.771" />
+  <presetinput identifier="Hue_Shift" uid="2970196926" type="0" value="0.02" />
+  <presetinput identifier="Saturation" uid="2970196953" type="0" value="0.384" />
+  <presetinput identifier="Bricks_Offset_Disorder" uid="2973860316" type="0" value="0.521" />
+  <presetinput identifier="Bricks_Amount" uid="2973875755" type="8" value="6,7" />
+  <presetinput identifier="$outputsize" uid="3025478263" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3810997285" type="4" value="145403289" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://bricks_012/bricks_012" label="var03" >
+  <presetinput identifier="Light_Angle" uid="2970117226" type="0" value="0.261" />
+  <presetinput identifier="Emboss" uid="2970117362" type="0" value="0.771" />
+  <presetinput identifier="Hue_Shift" uid="2970196926" type="0" value="0.941" />
+  <presetinput identifier="Saturation" uid="2970196953" type="0" value="0.384" />
+  <presetinput identifier="Bricks_Offset_Disorder" uid="2973860316" type="0" value="0.521" />
+  <presetinput identifier="Bricks_Ratio" uid="2973861339" type="0" value="0.411" />
+  <presetinput identifier="Bricks_Amount" uid="2973875755" type="8" value="6,7" />
+  <presetinput identifier="Age" uid="2974440959" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="3025478263" type="8" value="10,10" />
+  <presetinput identifier="Weathering" uid="3465773955" type="0" value="0.523" />
+  <presetinput identifier="Calcareousness" uid="3465776027" type="0" value="0.99" />
+  <presetinput identifier="$randomseed" uid="3810997285" type="4" value="145403289" />
+ </sbspreset>
+</sbspresets>

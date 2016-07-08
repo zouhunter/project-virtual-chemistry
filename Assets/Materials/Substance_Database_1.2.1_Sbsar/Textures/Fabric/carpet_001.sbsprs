@@ -1,0 +1,51 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://carpet_001/carpet_001" label="var01" >
+  <presetinput identifier="$outputsize" uid="183832307" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="262686761" type="0" value="0.822" />
+  <presetinput identifier="Emboss" uid="262686838" type="0" value="0.684" />
+  <presetinput identifier="Creases" uid="1882235678" type="0" value="0.121" />
+  <presetinput identifier="Lines_Amount" uid="1882244708" type="4" value="1" />
+  <presetinput identifier="Lines_Offset" uid="1882244712" type="0" value="0.491" />
+  <presetinput identifier="Lines_Size" uid="1882244713" type="0" value="0.863" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://carpet_001/carpet_001" label="var03" >
+  <presetinput identifier="$outputsize" uid="183832307" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="262686761" type="0" value="0.822" />
+  <presetinput identifier="Emboss" uid="262686838" type="0" value="0.684" />
+  <presetinput identifier="Creases" uid="1882235678" type="0" value="0.926" />
+  <presetinput identifier="Dirtiness" uid="1882238004" type="0" value="1" />
+  <presetinput identifier="Lines_Amount" uid="1882244708" type="4" value="2" />
+  <presetinput identifier="Lines_Offset" uid="1882244712" type="0" value="0.668" />
+  <presetinput identifier="Lines_Size" uid="1882244713" type="0" value="0.609" />
+  <presetinput identifier="Color_02" uid="1882411045" type="2" value="0.792,0.098,0.11" />
+  <presetinput identifier="Color_01" uid="1882412160" type="2" value="0.071,0.286,0.565" />
+  <presetinput identifier="Pattern_Scale" uid="1882592859" type="4" value="3" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://carpet_001/carpet_001" label="var02" >
+  <presetinput identifier="$outputsize" uid="183832307" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="262686761" type="0" value="0.822" />
+  <presetinput identifier="Emboss" uid="262686838" type="0" value="0.684" />
+  <presetinput identifier="$randomseed" uid="1569134753" type="4" value="-404175846" />
+  <presetinput identifier="Creases" uid="1882235678" type="0" value="0.638" />
+  <presetinput identifier="Dirtiness" uid="1882238004" type="0" value="0.321" />
+  <presetinput identifier="Lines_Amount" uid="1882244708" type="4" value="1" />
+  <presetinput identifier="Lines_Offset" uid="1882244712" type="0" value="0.507" />
+  <presetinput identifier="Lines_Size" uid="1882244713" type="0" value="0.609" />
+  <presetinput identifier="Color_02" uid="1882411045" type="2" value="0.447,0.604,0.792" />
+  <presetinput identifier="Color_01" uid="1882412160" type="2" value="0.565,0.298,0.082" />
+  <presetinput identifier="Pattern_Scale" uid="1882592859" type="4" value="2" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://carpet_001/carpet_001" label="var04" >
+  <presetinput identifier="$outputsize" uid="183832307" type="8" value="9,9" />
+  <presetinput identifier="Normal" uid="262686761" type="0" value="0.822" />
+  <presetinput identifier="Emboss" uid="262686838" type="0" value="0.684" />
+  <presetinput identifier="Creases" uid="1882235678" type="0" value="0.501" />
+  <presetinput identifier="Dirtiness" uid="1882238004" type="0" value="0.345" />
+  <presetinput identifier="Lines_Amount" uid="1882244708" type="4" value="6" />
+  <presetinput identifier="Lines_Offset" uid="1882244712" type="0" value="0.447" />
+  <presetinput identifier="Lines_Size" uid="1882244713" type="0" value="0.26" />
+  <presetinput identifier="Color_02" uid="1882411045" type="2" value="0.957,0.957,0.957" />
+  <presetinput identifier="Color_01" uid="1882412160" type="2" value="0.106,0.106,0.106" />
+  <presetinput identifier="Pattern_Scale" uid="1882592859" type="4" value="5" />
+ </sbspreset>
+</sbspresets>

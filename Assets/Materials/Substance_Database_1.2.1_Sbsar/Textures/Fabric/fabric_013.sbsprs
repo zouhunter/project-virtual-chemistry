@@ -1,0 +1,20 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://fabric_013/fabric_013" label="var01" >
+  <presetinput identifier="Dirtiness" uid="197516733" type="0" value="0.957" />
+  <presetinput identifier="Color_1" uid="197524180" type="2" value="0.282,0.239,0.42" />
+  <presetinput identifier="Color_2" uid="197524181" type="2" value="0.561,0.596,0.678" />
+  <presetinput identifier="Color_3" uid="197524183" type="2" value="0.62,0.169,0.169" />
+  <presetinput identifier="$randomseed" uid="641930863" type="4" value="513401699" />
+  <presetinput identifier="$outputsize" uid="1899036733" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://fabric_013/fabric_013" label="var02" >
+  <presetinput identifier="Stains" uid="197290401" type="0" value="0" />
+  <presetinput identifier="Dirtiness" uid="197516733" type="0" value="0" />
+  <presetinput identifier="Creases" uid="197521716" type="0" value="1" />
+  <presetinput identifier="Color_1" uid="197524180" type="2" value="0.251,0.404,0.42" />
+  <presetinput identifier="Color_2" uid="197524181" type="2" value="0.525,0.678,0.655" />
+  <presetinput identifier="Color_3" uid="197524183" type="2" value="0.565,0.263,0" />
+  <presetinput identifier="$randomseed" uid="641930863" type="4" value="48919086" />
+  <presetinput identifier="$outputsize" uid="1899036733" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://metal_floor_006/metal_floor_006" label="var01">
+  <presetinput identifier="Hue_Shift" uid="863299477" type="0" value="0.093"/>
+  <presetinput identifier="Luminosity" uid="863299559" type="0" value="0.524"/>
+  <presetinput identifier="Saturation" uid="863299570" type="0" value="0.438"/>
+  <presetinput identifier="Normal" uid="863312006" type="0" value="0.529"/>
+  <presetinput identifier="Emboss" uid="863312089" type="0" value="0.688"/>
+  <presetinput identifier="$outputsize" uid="908615260" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="1633306638" type="4" value="1994055994"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_006/metal_floor_006" label="var02">
+  <presetinput identifier="Hue_Shift" uid="863299477" type="0" value="0.444"/>
+  <presetinput identifier="Luminosity" uid="863299559" type="0" value="0.524"/>
+  <presetinput identifier="Saturation" uid="863299570" type="0" value="0.438"/>
+  <presetinput identifier="Normal" uid="863312006" type="0" value="0.529"/>
+  <presetinput identifier="Emboss" uid="863312089" type="0" value="0.688"/>
+  <presetinput identifier="$outputsize" uid="908615260" type="8" value="9,9"/>
+  <presetinput identifier="Rust" uid="1288293955" type="0" value="0.934"/>
+  <presetinput identifier="Stains" uid="1288293970" type="0" value="0.062"/>
+  <presetinput identifier="Contrast" uid="1290823701" type="0" value="0.225"/>
+  <presetinput identifier="$randomseed" uid="1633306638" type="4" value="1994055994"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://metal_floor_006/metal_floor_006" label="var03">
+  <presetinput identifier="Hue_Shift" uid="863299477" type="0" value="1"/>
+  <presetinput identifier="Luminosity" uid="863299559" type="0" value="0.524"/>
+  <presetinput identifier="Saturation" uid="863299570" type="0" value="0.343"/>
+  <presetinput identifier="Normal" uid="863312006" type="0" value="0.529"/>
+  <presetinput identifier="Emboss" uid="863312089" type="0" value="0.688"/>
+  <presetinput identifier="$outputsize" uid="908615260" type="8" value="9,9"/>
+  <presetinput identifier="Rust" uid="1288293955" type="0" value="1"/>
+  <presetinput identifier="Contrast" uid="1290823701" type="0" value="0.225"/>
+  <presetinput identifier="$randomseed" uid="1633306638" type="4" value="1613397571"/>
+ </sbspreset>
+</sbspresets>
