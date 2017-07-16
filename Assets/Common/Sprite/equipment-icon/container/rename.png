@@ -1,0 +1,4 @@
+for %i in ("C:\Users\Administrator\Desktop\equipment-icon\container\*.*") do (
+   echo %~fi
+   ren %~fi %~ni.png
+) 

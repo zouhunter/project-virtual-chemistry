@@ -1,0 +1,3 @@
+﻿nodeID,inType,outType,information,action,outFailInformation,outFailAction
+0,含水氯气,纯净氯气,除去水蒸汽,无现象,氯气泄露,黄绿色气体从导管出口喷出
+0,含水HCL氯气 ,含HCL氯气,除去水蒸汽,无现象,氯气泄露,黄绿色气体从导管出口喷出

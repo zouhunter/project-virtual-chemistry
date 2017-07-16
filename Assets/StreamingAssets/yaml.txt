@@ -1,0 +1,124 @@
+%YAML 1.2
+---
+!<!System.Collections.Generic.List%601[[ReceiveSystem,+Assembly-CSharp,+Version=0.0.0.0,+Culture=neutral,+PublicKeyToken=null]]>
+ICollection.Items: 
+  - perfabInfos: 
+      ICollection.Items: 
+        - rotation: 
+            eulerAngles: 
+              x: 0
+              y: 0
+              z: 0
+            x: 0
+            y: 0
+            z: 0
+            w: 1
+          elementName: Erlenmeyer Big
+          position: 
+            x: -0.003572583
+            y: 0.01300001
+            z: 0.004628181
+          index: 0
+          scale: 
+            x: 1
+            y: 1
+            z: 1
+        - rotation: 
+            eulerAngles: 
+              x: 0
+              y: 0
+              z: 0
+            x: 0
+            y: 0
+            z: 0
+            w: 1
+          elementName: Thistle-tube
+          position: 
+            x: -0.01657259
+            y: 0.1289999
+            z: 0.02262819
+          index: 1
+          scale: 
+            x: 1
+            y: 0.5712431
+            z: 1
+        - rotation: 
+            eulerAngles: 
+              x: 0
+              y: 0
+              z: 0
+            x: 0
+            y: 0
+            z: 0
+            w: 1
+          elementName: piston
+          position: 
+            x: -0.001772583
+            y: 0.3549999
+            z: 0.00802815
+          index: 2
+          scale: 
+            x: 0.08
+            y: 0.04
+            z: 0.08
+        - rotation: 
+            eulerAngles: 
+              x: 0
+              y: 0
+              z: 0
+            x: 0
+            y: 0
+            z: 0
+            w: 1
+          elementName: Stirring-rod
+          position: 
+            x: 0.01145256
+            y: 0.2601894
+            z: 0.01762819
+          index: 3
+          scale: 
+            x: 1
+            y: 0.58
+            z: 1
+        - rotation: 
+            eulerAngles: 
+              x: 0
+              y: 0
+              z: 0
+            x: 0
+            y: 0
+            z: 0
+            w: 1
+          elementName: water2
+          position: 
+            x: 0.407
+            y: -1.219234
+            z: -1.144
+          index: 4
+          scale: 
+            x: 1
+            y: 1
+            z: 1
+        - rotation: 
+            eulerAngles: 
+              x: 0
+              y: 0
+              z: 0
+            x: 0
+            y: 0
+            z: 0
+            w: 1
+          elementName: water1
+          position: 
+            x: 0.407
+            y: -1.219234
+            z: -1.144
+          index: 5
+          scale: 
+            x: 1
+            y: 1
+            z: 1
+      Capacity: 6
+    systemName: 正确稀释浓硫酸
+Capacity: 1
+...

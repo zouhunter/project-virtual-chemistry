@@ -1,0 +1,5 @@
+LineStartState.cs     行开始
+QuotedValueState.cs   引号内内容
+QuoteState.cs         引号
+ValueStartState.cs    内容开始
+ValueState.cs         内容

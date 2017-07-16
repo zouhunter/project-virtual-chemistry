@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b51dc89d61889bc44983656b8060fba2, type: 3}
+  m_Name: PerferSystem
+  m_EditorClassIdentifier: 
+  systems:
+  - systemName: "\u6B63\u786E\u7A00\u91CA\u6D53\u786B\u9178"
+    perfabInfos:
+    - index: 0
+      position: {x: -0.0035725832, y: 0.013000011, z: 0.0046281815}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      elementName: Erlenmeyer Big
+    - index: 1
+      position: {x: -0.016572595, y: 0.12899995, z: 0.022628188}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.5712431, z: 1}
+      elementName: Thistle-tube
+    - index: 2
+      position: {x: -0.0017725825, y: 0.3549999, z: 0.00802815}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.08, y: 0.04, z: 0.08}
+      elementName: piston
+    - index: 3
+      position: {x: 0.011452556, y: 0.2601894, z: 0.017628193}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.58, z: 1}
+      elementName: Stirring-rod
+    - index: 4
+      position: {x: 0.407, y: -1.2192342, z: -1.144}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      elementName: water2
+    - index: 5
+      position: {x: 0.407, y: -1.2192342, z: -1.144}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      elementName: water1

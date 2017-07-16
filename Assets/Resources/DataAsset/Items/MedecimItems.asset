@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933d56af9ade2414faa26672036e6cb8, type: 3}
+  m_Name: MedecimItems
+  m_EditorClassIdentifier: 
+  prefabItem:
+  - prefabName: "\u6728\u70AD"
+    sprite: {fileID: 21300000, guid: f2b6d5e6caed7314d9783f7015157201, type: 3}
+  - prefabName: "\u6C34"
+    sprite: {fileID: 21300000, guid: 3c91710998994fe4fba3fda9fd9ba964, type: 3}

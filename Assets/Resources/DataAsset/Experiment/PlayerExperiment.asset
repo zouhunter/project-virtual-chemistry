@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781db598903e45847b7634acb2107e6d, type: 3}
+  m_Name: PlayerExperiment
+  m_EditorClassIdentifier: 
+  experiments:
+  - name: "\u865A\u62DF\u5B9E\u9A8C"
+    staps:
+    - index: 0
+      name: "\u663E\u793A\u4FE1\u606F\u6D4B\u8BD5"
+      tipInfo: tip01
+      infomation: "\u4FE1\u606F\u663E\u793A\u5728\u7A7A\u95F4\u4E2D\uFF0C\u5229\u7528dotween\u52A8\u753B"
+      showTime: 0
+      needOperate: 0
+      installs: []
+    - index: 1
+      name: "\u79FB\u52A8\u5BF9\u8C61"
+      tipInfo: "\u70B9\u51FB\u6267\u884C\u5F00\u59CB\u79FB\u52A8"
+      infomation: 
+      showTime: 2
+      needOperate: 1
+      installs:
+      - name: "\u5769\u57DA"
+        clearNext: 0
+        haveAnim: 0
+        moveQuick: 0
+        translation:
+          position: {x: 0, y: 0, z: 0}
+          rotation: {x: 0, y: 0, z: 0}
+    - index: 2
+      name: "\u5B8C\u6210"
+      tipInfo: "\u5B8C\u6210\u79FB\u52A8"
+      infomation: 
+      showTime: 2
+      needOperate: 1
+      installs:
+      - name: "\u5769\u57DA"
+        clearNext: 1
+        haveAnim: 0
+        moveQuick: 0
+        translation:
+          position: {x: 2, y: 2, z: 2}
+          rotation: {x: 0, y: 0, z: 0}
+      - name: "\u5769\u57DA"
+        clearNext: 0
+        haveAnim: 0
+        moveQuick: 0
+        translation:
+          position: {x: 3, y: 3, z: 3}
+          rotation: {x: 0, y: 0, z: 0}
+    - index: 3
+      name: "\u6D4B\u8BD5\u5B8C\u6210"
+      tipInfo: "\u5B8C\u6210\u79FB\u52A8"
+      infomation: "\u6D4B\u8BD5\u6210\u529F\uFF0C\u7ED3\u675F"
+      showTime: 2
+      needOperate: 0
+      installs:
+      - name: "\u5769\u57DA"
+        clearNext: 1
+        haveAnim: 0
+        moveQuick: 0
+        translation:
+          position: {x: 2, y: 2, z: 2}
+          rotation: {x: 0, y: 0, z: 0}
+      - name: "\u5769\u57DA"
+        clearNext: 0
+        haveAnim: 0
+        moveQuick: 0
+        translation:
+          position: {x: 3, y: 3, z: 3}
+          rotation: {x: 0, y: 0, z: 0}

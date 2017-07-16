@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fc86d98986a1e42bff386aa914a4b0, type: 3}
+  m_Name: ConfigGroupObject
+  m_EditorClassIdentifier: 
+  groupList:
+  - name: defult
+    elements:
+    - name: Support
+      id: 0
+      position: {x: -0.5568476, y: 1.01, z: -0.588}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071067}
+      element: {fileID: 149738, guid: cad87d5694f79e14c93d0f19caea504a, type: 2}
+      autoReact: 0
+    - name: Hooper
+      id: 1
+      position: {x: -0.536, y: 1.53, z: -0.588}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 139678, guid: 6c06375d7e8baa14e986447ec6337d49, type: 2}
+      autoReact: 0
+    - name: Flask
+      id: 2
+      position: {x: -0.51399994, y: 1.32, z: -0.585}
+      rotation: {x: 0.00000008196624, y: 0.31833124, z: -0.000000011805377, w: 0.94797957}
+      element: {fileID: 197254, guid: f102a2e3a53411648b3212901a550cdb, type: 2}
+      autoReact: 0
+    - name: LongTube
+      id: 3
+      position: {x: -0.142, y: 1.7108, z: -0.565}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 138526, guid: 3d9b688625880c04891a399db30f3a83, type: 2}
+      autoReact: 0
+    - name: NaCl
+      id: 4
+      position: {x: 0.23799998, y: 0.97699994, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 113590, guid: a35c56f1c5277d64d8390217f3819eb4, type: 2}
+      autoReact: 0
+    - name: H2SO4
+      id: 5
+      position: {x: 0.639, y: 0.977, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 121304, guid: 6d9549418d3f5604d85dc479b6189b19, type: 2}
+      autoReact: 0
+    - name: CollectBattle
+      id: 6
+      position: {x: 1.022, y: 0.977, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 122684, guid: 31aeb11b881dd444da5a597176686ff0, type: 2}
+      autoReact: 0
+    - name: NaOH
+      id: 7
+      position: {x: 1.436, y: 0.977, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 144230, guid: 1b8b384ae3af2a148bcd3ce4a710f0b5, type: 2}
+      autoReact: 0
+  - name: tube
+    elements:
+    - name: LongTube
+      id: 0
+      position: {x: -0.12200004, y: 1.7107999, z: -0.575}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 138526, guid: 3d9b688625880c04891a399db30f3a83, type: 2}
+      autoReact: 0
+    - name: NaCl
+      id: 1
+      position: {x: 0.23799998, y: 0.97699994, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 113590, guid: a35c56f1c5277d64d8390217f3819eb4, type: 2}
+      autoReact: 0
+    - name: H2SO4
+      id: 2
+      position: {x: 0.639, y: 0.977, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 121304, guid: 6d9549418d3f5604d85dc479b6189b19, type: 2}
+      autoReact: 0
+    - name: CollectBattle
+      id: 3
+      position: {x: 1.022, y: 0.977, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 122684, guid: 31aeb11b881dd444da5a597176686ff0, type: 2}
+      autoReact: 0
+    - name: NaOH
+      id: 4
+      position: {x: 1.436, y: 0.977, z: -0.587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      element: {fileID: 144230, guid: 1b8b384ae3af2a148bcd3ce4a710f0b5, type: 2}
+      autoReact: 0
