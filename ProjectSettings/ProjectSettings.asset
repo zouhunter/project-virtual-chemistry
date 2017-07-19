@@ -10,7 +10,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: VrLife
-  productName: Chemistry
+  productName: "\u5316\u5B66\u6A21\u62DF\u5B9E\u9A8C\u5E73\u53F0"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_ShowUnitySplashScreen: 0

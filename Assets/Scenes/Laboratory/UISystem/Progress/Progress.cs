@@ -8,13 +8,12 @@ public class Progress : MonoBehaviour
 {
     public GameObject Panel;
     public GameObject slider;
-    private Image image;
+    public Transform image;
 
     public float animTime;
 
     void OnEnable()
     {
-        image = Panel.GetComponent<Image>();
         GameManager.onSceneLoad += OnSceneLoad;
     }
     void Start(){
@@ -25,8 +24,7 @@ public class Progress : MonoBehaviour
         slider.SetActive(true);
 
         Panel.SetActive(true);
-        image.color = new Color(1, 1, 1, 1);
-        image.DOFade(0, animTime).SetEase(Ease.Linear).OnComplete(() => { image.DORewind(); image.gameObject.SetActive(false); });
+        image.DORotate(Vector3.forward * 360, 10, RotateMode.LocalAxisAdd).SetLoops(-1);
     }
     void OnDestroy()
     {

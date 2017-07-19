@@ -5,22 +5,17 @@ using UnityEngine.EventSystems;
 using System.Collections;
 using System.Collections.Generic;
 using System;
+using DG.Tweening;
 
 public class EntryScene : UIBehaviour {
     public Button startBtn;
-    public Button quitBtn;
 
     protected override void Awake()
     {
         base.Awake();
         startBtn.onClick.AddListener(LoadScene);
-        quitBtn.onClick.AddListener(QuitGame);
         GameManager.LunchFrameWork();
-    }
-
-    private void QuitGame()
-    {
-        Application.Quit();
+        startBtn.transform.DOShakeScale(3, 0.5f).SetLoops(-1);
     }
 
     private void LoadScene()
