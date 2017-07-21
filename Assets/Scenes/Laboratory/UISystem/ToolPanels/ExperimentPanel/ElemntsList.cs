@@ -36,7 +36,7 @@ public partial class ElemntsList
 }
 
 public partial class ElemntsList : MonoBehaviour {
-    private Transform installParent { get { return Laboratory.Main.installParent; } }
+    private Transform installParent { get { return Laboratory.Current.installParent; } }
     private List<ElementInstall> installsHandle;
     public DetailPanel detailPanel;
     public GameObject itemPfb;

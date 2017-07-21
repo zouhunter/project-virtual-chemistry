@@ -10,7 +10,7 @@ using BundleUISystem;
 
 public class PrefabItemPanel : UIPanelTemp
 {
-    private Transform createParent { get { return Laboratory.Main.installParent; } }
+    private Transform createParent { get { return Laboratory.Current.installParent; } }
     //private Toggle open;
     public GameObject panel;
     public PrefabItemObject items;

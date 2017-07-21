@@ -18,11 +18,11 @@ public class TextMediator : MonoBehaviour
     void Start()
     {
         textTween = text.DOText(infomation, animTime).SetAutoKill(false).Pause();
-        //EventFacade.Instance.RegisterEvent<string>(AppConfig.EventKey.TIP, GetTip);
+        SceneMain.Current.RegisterEvent<string>(AppConfig.EventKey.TIP, GetTip);
     }
-    public void GetTip(string infomation)
+    public void GetTip(object infomation)
     {
-        this.infomation = infomation;
+        this.infomation = (string)infomation;
         if (text != null && infomation != null)
         {
             if (showAnim)
@@ -32,13 +32,13 @@ public class TextMediator : MonoBehaviour
             }
             else
             {
-                text.text = infomation;
+                text.text = this.infomation;
             }
         }
     }
     void OnDestroy()
     {
-        //EventFacade.Instance.RemoveEvent<string>(AppConfig.EventKey.TIP, GetTip);
+        SceneMain.Current.RemoveEvent<string>(AppConfig.EventKey.TIP, GetTip);
     }
 }
 

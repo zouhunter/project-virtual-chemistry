@@ -54,7 +54,7 @@ public class SceneLoadCommond : ITimerBehaviour
     float progress;
     public void TimerUpdate()
     {
-        //EventFacade.Instance.SendNotification<float>("LoadProgress", progress);
+        SceneMain.Current.InvokeEvents<float>("LoadProgress", progress);
         if (operation.progress < 0.9f)
         {
             //追赶

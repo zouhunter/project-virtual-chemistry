@@ -16,14 +16,14 @@ public class LabPlayer : MonoBehaviour
     public float damp = 2f;
     private float cameraSpeed
     {
-        get { return 200;/* Laboratory.Main!=null ? Laboratory.Main.settingData.playerLab.cameraMoveSpeed:1; */}
+        get { return 200;/* Laboratory.Current!=null ? Laboratory.Current.settingData.playerLab.cameraMoveSpeed:1; */}
     }
 
     private float minView = 11;
     private float maxView = 40;
     //private float wasdSpeed
     //{
-    //    get { return Laboratory.Main != null ? Laboratory.Main.settingData.playerLab.playerMoveSpeed : 1; }
+    //    get { return Laboratory.Current != null ? Laboratory.Current.settingData.playerLab.playerMoveSpeed : 1; }
     //}
     private Transform target;
     private bool isPlaying;
@@ -57,17 +57,17 @@ public class LabPlayer : MonoBehaviour
 
     void Start()
     {
-        //if (Laboratory.Main)
+        //if (Laboratory.Current)
         //{
         //    //动态修改人物速度
-        //    Laboratory.Main.playerSpeedChanged += ChangePlayerSpeed;
+        //    Laboratory.Current.playerSpeedChanged += ChangePlayerSpeed;
         //}
         cameraTemp = new GameObject("temp").transform;
         cameraTemp.SetParent(transform);
     }
     void OnDestroy()
     {
-        //if(Laboratory.Main) Laboratory.Main.playerSpeedChanged -= ChangePlayerSpeed;
+        //if(Laboratory.Current) Laboratory.Current.playerSpeedChanged -= ChangePlayerSpeed;
     }
     void SetPlayerHight(float value)
     {

@@ -12,12 +12,9 @@ public class AppConfig {
         public const string elementperfabPath = "Prefabs/Element/";
         public const string medicineperfabPath = "Prefabs/Medicine/";
     }
-
     public static class EventKey
     {
-        public const string OPEN_PLAYEHELP = "openPlayerHelp";
-        public const string OPEN_PRESENTATION = "PresentationData";
-        public const string TIP = "tipInfo";
+        public const string TIP = "tipinformation";
     }
 }
 

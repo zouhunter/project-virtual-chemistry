@@ -8,7 +8,7 @@ public class HitCamera : MonoBehaviour {
     {
         if (Input.GetMouseButtonDown(2) && HitCtrl.GetHitPoint(ref pos))
         {
-            //Laboratory.Main.Camera.SetTarget(pos);
+            //Laboratory.Current.Camera.SetTarget(pos);
         }
     }
 }

@@ -26,7 +26,7 @@ public class ElementPoses : MonoBehaviour {
     void Start()
     {
         //放置位置
-        //Laboratory.Main.display = GetEmptyPos;
+        //Laboratory.Current.display = GetEmptyPos;
     }
     /// <summary>
     /// 获取一个未使用的index

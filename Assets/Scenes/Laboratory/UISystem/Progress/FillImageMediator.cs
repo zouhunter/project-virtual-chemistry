@@ -12,15 +12,15 @@ public class FillImageMediator : MonoBehaviour {
     void Start()
     {
         slider = GetComponent<Image>();
-        //EventFacade.Instance.RegisterEvent<float>("LoadProgress", HandleNotification);
+        SceneMain.Current.RegisterEvent<float>("LoadProgress", HandleNotification);
     }
     void OnDestroy()
     {
-        //EventFacade.Instance.RemoveEvent<float>("LoadProgress", HandleNotification);
+        SceneMain.Current.RemoveEvent<float>("LoadProgress", HandleNotification);
     }
-    public void HandleNotification(float progress)
+    public void HandleNotification(object progress)
     {
-        slider.fillAmount = progress;
+        slider.fillAmount = (float)progress;
         if (textShow != null) textShow.text = string.Format(formatString, (slider.fillAmount * total).ToString("00"));
     }
 

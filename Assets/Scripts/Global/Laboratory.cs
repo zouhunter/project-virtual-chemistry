@@ -4,6 +4,8 @@ using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using System.Collections;
 using System;
+using BundleUISystem;
+
 public enum OperateType
 {
     Nil,

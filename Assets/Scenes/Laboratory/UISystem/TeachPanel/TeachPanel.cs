@@ -104,14 +104,14 @@ public class TeachPanel : MonoBehaviour {
             //PresentationData data = PresentationData.Allocate(currStap.name, currStap.infomation, currStap.tipInfo);
             //Facade.Instance.SendNotification<PresentationData>("PresentationData", data);
 
-            //Laboratory.Main.panelSelect = OnPresentationDataSelected;
+            //Laboratory.Current.panelSelect = OnPresentationDataSelected;
             SetActives(true, false, true);
         }
     }
 
     void OnPresentationDataSelected()
     {
-        //Laboratory.Main.panelSelect = null;
+        //Laboratory.Current.panelSelect = null;
         currIndex++;
         SetActives(true, true, true);
     }

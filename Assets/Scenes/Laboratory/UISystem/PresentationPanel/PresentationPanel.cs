@@ -17,7 +17,6 @@ public class PresentationPanel : UIPanelTemp
     public Button conferBtn;
     
 
-    //public ToggleDoTweenPanel tweenCtrl;
 
     void Start()
     {
@@ -52,7 +51,7 @@ public class PresentationPanel : UIPanelTemp
         {
             PresentationData stapInfo =(PresentationData)message;
             LoadInfoToUI(stapInfo);
-            //EventFacade.Instance.SendNotification<string>( AppConfig.EventKey.TIP, stapInfo.tip);
+            SceneMain.Current.InvokeEvents<string>( AppConfig.EventKey.TIP, stapInfo.tip);
         }
     }
 }

@@ -97,12 +97,12 @@ namespace FlowSystem
             if (activeRact != null)
             {
                 activeRact.Interact.Invoke();
-                //EventFacade.Instance.SendNotification(AppConfig.EventKey.TIP, activeRact.Information);
+                SceneMain.Current.InvokeEvents(AppConfig.EventKey.TIP, activeRact.Information);
             }
             else
             {
-                //PresentationData data = PresentationData.Allocate("<color=red>警告</color>", name + "没有配制对应的输入类型" + type, "");
-                //EventFacade.Instance.SendNotification(AppConfig.EventKey.OPEN_PRESENTATION, data);
+                PresentationData data = PresentationData.Allocate("<color=red>警告</color>", name + "没有配制对应的输入类型" + type, "");
+                BundleUISystem.UIGroup.Open<PresentationPanel>(data);
             }
         }
 
@@ -118,7 +118,7 @@ namespace FlowSystem
             autoRact.autoExportEvent.Invoke();
             if (!string.IsNullOrEmpty(activeRact.OutType))
             {
-                //EventFacade.Instance.SendNotification(AppConfig.EventKey.TIP, autoRact.information);
+                SceneMain.Current.InvokeEvents(AppConfig.EventKey.TIP, autoRact.information);
                 return true;
             }
             return false;
@@ -154,8 +154,8 @@ namespace FlowSystem
                 else 
                 {
                     activeRact.InteractOutPutFiled.Invoke();
-                    //PresentationData data = PresentationData.Allocate("警告", activeRact.outPutFiledinformation, "");
-                    //EventFacade.Instance.SendNotification(AppConfig.EventKey.OPEN_PRESENTATION, data);
+                    PresentationData data = PresentationData.Allocate("警告", activeRact.outPutFiledinformation, "");
+                    BundleUISystem.UIGroup.Open<PresentationPanel>(data);
                 }
             }
         }
