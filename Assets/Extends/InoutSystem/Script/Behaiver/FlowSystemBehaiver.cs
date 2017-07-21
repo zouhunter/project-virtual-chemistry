@@ -42,8 +42,9 @@ namespace FlowSystem
 
             if (!_systemCtrl.NextContainer(StartExperiment))
             {
-                PresentationData data = PresentationData.Allocate("警告", "实验结束", "实验成功与否？");
-                BundleUISystem.UIGroup.Open<PresentationPanel>(data);
+                //PresentationData data = PresentationData.Allocate("警告", "实验结束", "实验成功与否？");
+                //BundleUISystem.UIGroup.Open<PresentationPanel>(data);
+                SceneMain.Current.InvokeEvents<string>(AppConfig.EventKey.TIP, "实验结束");
             }
         }
     }

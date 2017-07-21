@@ -52,7 +52,7 @@ namespace FlowSystem
             }
         }
 
-        void Update()
+        void FixedUpdate()
         {
             if (activeRact == null){
                 return;
@@ -126,7 +126,6 @@ namespace FlowSystem
 
         public void RecordReactInfo(IFlowSystemCtrl ctrl)
         {
-            Debug.Log(name);
             ///没有反应对象，直接跳过
             if (activeRact == null){
                 return;
@@ -154,7 +153,7 @@ namespace FlowSystem
                 else 
                 {
                     activeRact.InteractOutPutFiled.Invoke();
-                    PresentationData data = PresentationData.Allocate("警告", activeRact.outPutFiledinformation, "");
+                    PresentationData data = PresentationData.Allocate("警告", activeRact.outPutFiledinformation, "",()=> { });
                     BundleUISystem.UIGroup.Open<PresentationPanel>(data);
                 }
             }

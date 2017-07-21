@@ -103,7 +103,6 @@ namespace FlowSystem
         public bool NextContainer(UnityAction onComplete)
         {
             if (ActiveItem == null) return false;
-
             ActiveItem.RecordReactInfo(this);
 
             if (reactTuple.Count > 0)
@@ -113,6 +112,7 @@ namespace FlowSystem
                 activeItem.FunctionIn(item.Element2, item.Element3,onComplete);
                 return true;
             }
+
             return false;
         }
 
