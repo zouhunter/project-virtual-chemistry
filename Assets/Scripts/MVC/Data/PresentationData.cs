@@ -5,7 +5,6 @@ using UnityEngine.EventSystems;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Collections;
 
 public class PresentationData {
     public string title;

@@ -4,8 +4,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System;
 using UnityEngine.Events;
+using BundleUISystem;
 
-public class FlipBookPanel :MonoBehaviour,IRunTimeButton
+public class FlipBookPanel :UIPanelTemp
 {
     public Button openBtn;
     public Button closeButton;
@@ -15,17 +16,6 @@ public class FlipBookPanel :MonoBehaviour,IRunTimeButton
 
     public GameObject panel;
     private List<Sprite> sprites;
-
-    public event UnityAction OnDelete;
-
-    public Button Btn
-    {
-        set
-        {
-            openBtn = value;
-        }
-    }
-
     void Start()
     {
         closeButton.onClick.AddListener(delegate()
@@ -55,14 +45,6 @@ public class FlipBookPanel :MonoBehaviour,IRunTimeButton
         else
         {
             DownLandUtility.DownLandSprites("Book", (x) => { sprites = x; ShowBook(); });
-        }
-    }
-
-    void OnDestroy()
-    {
-        if (OnDelete != null)
-        {
-            OnDelete();
         }
     }
 }

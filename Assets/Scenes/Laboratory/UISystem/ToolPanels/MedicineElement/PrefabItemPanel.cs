@@ -6,31 +6,25 @@ using System.Collections;
 using System.Collections.Generic;
 using System;
 
-public class PrefabItemPanel : MonoBehaviour,IRunTimeToggle
+using BundleUISystem;
+
+public class PrefabItemPanel : UIPanelTemp
 {
     private Transform createParent { get { return Laboratory.Main.installParent; } }
-    private Toggle open;
+    //private Toggle open;
     public GameObject panel;
     public PrefabItemObject items;
     public GameObject btnPfb;
     public BuildingCtrl buildCtrl { get { return GameManager.buildCtrl; } }
 
-    public Toggle toggle
-    {
-        set
-        {
-            open = value;
-        }
-    }
 
     public string perfabPath;
 
     private List<GameObject> created = new List<GameObject>();
 
-    public event UnityAction OnDelete;
-    
-    void OnEnable()
+    protected override  void OnEnable()
     {
+        base.OnEnable();
         Laboratory.onOperateTypeChanged += OnOperateTypeChanged;
     }
     void Start()
@@ -56,7 +50,7 @@ public class PrefabItemPanel : MonoBehaviour,IRunTimeToggle
         }
         Destroy(btnPfb);
 
-        open.onValueChanged.AddListener((x) => { panel.SetActive(x); });
+        m_Tog.onValueChanged.AddListener((x) => { panel.SetActive(x); });
     }
 
     void OnDisable()
@@ -64,14 +58,9 @@ public class PrefabItemPanel : MonoBehaviour,IRunTimeToggle
         Laboratory.onOperateTypeChanged -= OnOperateTypeChanged;
     }
 
-    void OnDestroy()
-    {
-        OnDelete();
-    }
-
     void OnItemButtonClicked(GameObject perfab)
     {
-        open.isOn = false;
+        m_Tog.isOn = false;
 
         switch (Laboratory.operateType)
         {

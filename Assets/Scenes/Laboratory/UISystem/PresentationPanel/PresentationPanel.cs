@@ -6,8 +6,9 @@ using System.Collections;
 using DG.Tweening;
 using System;
 using UnityEngine.Events;
+using BundleUISystem;
 
-public class PresentationPanel : MonoBehaviour,IRunTimeMessage
+public class PresentationPanel : UIPanelTemp
 {
     public bool loadSprteFromResource = true;
     public Transform presentation;
@@ -18,8 +19,6 @@ public class PresentationPanel : MonoBehaviour,IRunTimeMessage
 
     //public ToggleDoTweenPanel tweenCtrl;
 
-    public event UnityAction OnDelete;
-
     void Start()
     {
         conferBtn.onClick.AddListener(OnConferBtnClikded);
@@ -27,10 +26,6 @@ public class PresentationPanel : MonoBehaviour,IRunTimeMessage
 
     void OnConferBtnClikded()
     {
-        if (OnDelete != null)
-        {
-            OnDelete();
-        }
         Destroy(gameObject);
     }
 
@@ -51,13 +46,13 @@ public class PresentationPanel : MonoBehaviour,IRunTimeMessage
         target.GetComponent<LayoutElement>().preferredHeight = target.preferredHeight;
     }
 
-    public void HandleMessage(object message)
+    public override void HandleData(object message)
     {
         if (message is PresentationData)
         {
             PresentationData stapInfo =(PresentationData)message;
             LoadInfoToUI(stapInfo);
-            EventFacade.Instance.SendNotification<string>( AppConfig.EventKey.TIP, stapInfo.tip);
+            //EventFacade.Instance.SendNotification<string>( AppConfig.EventKey.TIP, stapInfo.tip);
         }
     }
 }

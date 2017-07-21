@@ -6,30 +6,23 @@ using DG.Tweening;
 using System;
 using UnityEngine.Events;
 
-public class PlayerHelpPanel : MonoBehaviour,IRunTimeToggle
+using BundleUISystem;
+public class PlayerHelpPanel : UIPanelTemp
 {
     public Button closeBtn;
     public PlayerHelpObject playerHelpObj;
     private List<PlayerHelp> playerHelp { get { return playerHelpObj.Data; } }
-    public Toggle toggle
-    {
-        set
-        {
-            tog = value;
-        }
-    }
-    private Toggle tog;
+   
     public GameObject itemPfb;
     public Transform itemParent;
     public Text infotext;
     private List<GameObject> items = new List<GameObject>();
 
-    public event UnityAction OnDelete;
-
-    void OnEnable()
+   protected override void OnEnable()
     {
+        base.OnEnable();
         LoadHelpInfo();
-        closeBtn.onClick.AddListener(()=> { tog.isOn = false; Destroy(gameObject); });
+        //closeBtn.onClick.AddListener(()=> { tog.isOn = false; Destroy(gameObject); });
     }
 
     /// <summary>
@@ -39,7 +32,8 @@ public class PlayerHelpPanel : MonoBehaviour,IRunTimeToggle
     {
         if (items.Count > 0)
         {
-            foreach (var go in items){
+            foreach (var go in items)
+            {
                 go.GetComponent<Toggle>().isOn = false;
                 ObjectManager.Instance.SavePoolObject(go);
             }
@@ -64,13 +58,6 @@ public class PlayerHelpPanel : MonoBehaviour,IRunTimeToggle
                 tog.isOn = true;
                 infotext.text = info;
             }
-        }
-    }
-    void OnDestroy()
-    {
-        if(OnDelete!= null)
-        {
-            OnDelete.Invoke();
         }
     }
 }

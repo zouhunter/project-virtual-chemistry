@@ -42,8 +42,8 @@ namespace FlowSystem
 
             if (!_systemCtrl.NextContainer(StartExperiment))
             {
-                PresentationData data = PresentationData.Allocate("警告", "实验结束", "实验成功与否？");
-                EventFacade.Instance.SendNotification(AppConfig.EventKey.OPEN_PRESENTATION, data);
+                //PresentationData data = PresentationData.Allocate("警告", "实验结束", "实验成功与否？");
+                //EventFacade.Instance.SendNotification(AppConfig.EventKey.OPEN_PRESENTATION, data);
             }
         }
     }

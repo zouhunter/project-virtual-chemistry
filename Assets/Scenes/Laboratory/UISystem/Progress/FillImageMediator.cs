@@ -12,11 +12,11 @@ public class FillImageMediator : MonoBehaviour {
     void Start()
     {
         slider = GetComponent<Image>();
-        EventFacade.Instance.RegisterEvent<float>("LoadProgress", HandleNotification);
+        //EventFacade.Instance.RegisterEvent<float>("LoadProgress", HandleNotification);
     }
     void OnDestroy()
     {
-        EventFacade.Instance.RemoveEvent<float>("LoadProgress", HandleNotification);
+        //EventFacade.Instance.RemoveEvent<float>("LoadProgress", HandleNotification);
     }
     public void HandleNotification(float progress)
     {

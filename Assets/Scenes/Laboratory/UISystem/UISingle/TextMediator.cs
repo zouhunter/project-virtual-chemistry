@@ -18,7 +18,7 @@ public class TextMediator : MonoBehaviour
     void Start()
     {
         textTween = text.DOText(infomation, animTime).SetAutoKill(false).Pause();
-        EventFacade.Instance.RegisterEvent<string>(AppConfig.EventKey.TIP, GetTip);
+        //EventFacade.Instance.RegisterEvent<string>(AppConfig.EventKey.TIP, GetTip);
     }
     public void GetTip(string infomation)
     {
@@ -38,7 +38,7 @@ public class TextMediator : MonoBehaviour
     }
     void OnDestroy()
     {
-        EventFacade.Instance.RemoveEvent<string>(AppConfig.EventKey.TIP, GetTip);
+        //EventFacade.Instance.RemoveEvent<string>(AppConfig.EventKey.TIP, GetTip);
     }
 }
 
