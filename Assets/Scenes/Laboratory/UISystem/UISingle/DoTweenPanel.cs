@@ -68,7 +68,7 @@ public class DoTweenPanel {
         {
             panel.gameObject.SetActive(true);
             if (autoClose) {
-                GameManager.closeEvent += CloseEvent;
+                SceneMain.Current.RegisterEvent(AppConfig.EventKey.ClickEmpty,CloseEvent);
             }
 
             open.Restart();

@@ -6,8 +6,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
-public class TeachPanel : MonoBehaviour {
-    public Toggle close;
+using BundleUISystem;
+public class TeachPanel : UIPanelTemp {
     /// <summary>
     /// 实验数据
     /// </summary>
@@ -30,6 +30,7 @@ public class TeachPanel : MonoBehaviour {
 
     void Start()
     {
+        parent = new GameObject("parent").transform;
         executeBtn.onClick.AddListener(StartAction);
         lastBtn.onClick.AddListener(Undo);
         nextBtn.onClick.AddListener(Skip);
@@ -38,8 +39,9 @@ public class TeachPanel : MonoBehaviour {
         nextBtn.gameObject.SetActive(false);
     }
 
-    public void OnEnableTeachPanel(List<StapInfo> experiments)
+    public override void HandleData(object obj)
     {
+        List<StapInfo> experiments = (List<StapInfo>)obj;
         Experiments = experiments;
         SetActives(false, true, false);
         executeBtn.gameObject.SetActive(true);
@@ -47,20 +49,7 @@ public class TeachPanel : MonoBehaviour {
 
         lastBtn.gameObject.SetActive(true);
         nextBtn.gameObject.SetActive(true);
-
-        close.onValueChanged.AddListener(ClosePanel);
-        close.isOn = false;
     }
-
-    void ClosePanel(bool x)
-    {
-        if (close.isOn == true)
-        {
-            BuildSuccess();
-            close.onValueChanged.RemoveListener(ClosePanel);
-        }
-    }
-
     void StartAction()
     {
         executeBtn.GetComponentInChildren<Text>().text = "执行";
@@ -101,9 +90,9 @@ public class TeachPanel : MonoBehaviour {
         }
         else
         {
-            //PresentationData data = PresentationData.Allocate(currStap.name, currStap.infomation, currStap.tipInfo);
+            PresentationData data = PresentationData.Allocate(currStap.name, currStap.infomation, currStap.tipInfo);
             //Facade.Instance.SendNotification<PresentationData>("PresentationData", data);
-
+            UIGroup.Open<PresentationPanel>(data);
             //Laboratory.Current.panelSelect = OnPresentationDataSelected;
             SetActives(true, false, true);
         }

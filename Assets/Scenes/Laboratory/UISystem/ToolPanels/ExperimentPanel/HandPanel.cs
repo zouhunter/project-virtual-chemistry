@@ -33,7 +33,7 @@ public class HandPanel : MonoBehaviour
     public Button leftR;
     public Button rightR;
 
-    public RecordCtrl recordCtrl { get { return GameManager.recordCtrl; } }
+    public RecordCtrl recordCtrl { get { return Laboratory.Current.recordCtrl; } }
     private bool selected;
     private Transform selectedObj;
     private bool pressed;
@@ -106,7 +106,7 @@ public class HandPanel : MonoBehaviour
 
     void OnDestroy()
     {
-        if (!GameManager.isQuit)
+        if (!program.isQuit)
         {
             recordCtrl.onActivePrefabChanged -= OnItemSelected;
         }

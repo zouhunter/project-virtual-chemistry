@@ -5,10 +5,9 @@ using UnityEngine.EventSystems;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-
+using BundleUISystem;
 public class MededPanel : MonoBehaviour
 {
-
     public Button add;//添加
     public Button config;//修改
     public Toggle intro;//介绍
@@ -184,7 +183,7 @@ public class MededPanel : MonoBehaviour
     void OnDemonButtonCliked()
     {
         Laboratory.ChangedOperateType(OperateType.Domon);
-        FindObjectOfType<TeachPanel>().OnEnableTeachPanel(m_Exeriments[selectedName].staps);
+        UIGroup.Open<TeachPanel>(m_Exeriments[selectedName].staps);
         //............tghk
         //GetComponentInParent<ToggleDoTweenPanel>().IsOn = false;
     }

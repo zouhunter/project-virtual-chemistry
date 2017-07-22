@@ -15,7 +15,7 @@ public class PrefabItemPanel : UIPanelTemp
     public GameObject panel;
     public PrefabItemObject items;
     public GameObject btnPfb;
-    public BuildingCtrl buildCtrl { get { return GameManager.buildCtrl; } }
+    public BuildingCtrl buildCtrl { get { return Laboratory.Current.buildCtrl; } }
 
 
     public string perfabPath;
@@ -31,7 +31,6 @@ public class PrefabItemPanel : UIPanelTemp
     {
         GameObject btn;
         PrefabItem item;
-
         for (int i = 0; i < items.prefabItem.Count; i++)
         {
             item = items.prefabItem[i];
@@ -49,8 +48,6 @@ public class PrefabItemPanel : UIPanelTemp
             }
         }
         Destroy(btnPfb);
-
-        m_Tog.onValueChanged.AddListener((x) => { panel.SetActive(x); });
     }
 
     void OnDisable()
@@ -60,28 +57,25 @@ public class PrefabItemPanel : UIPanelTemp
 
     void OnItemButtonClicked(GameObject perfab)
     {
-        m_Tog.isOn = false;
-
+        SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
+        
         switch (Laboratory.operateType)
         {
             case OperateType.Config:
                 created.Add(buildCtrl.OnCreateButtonClicked(perfab, createParent));
-
                 break;
             case OperateType.Domon:
                 created.Add(buildCtrl.OnCreateButtonClicked(perfab, createParent));
-                return;
                 //InstanceUtility.MouseBehavierInstance(perfab, createParent);
-                //break;
+                break;
             case OperateType.Operate:
                 created.Add(buildCtrl.OnCreateButtonClicked(perfab, createParent));
-                return;
                 //InstanceUtility.MouseBehavierInstance(perfab, createParent);
-                //break;
+                break;
             default:
                 break;
         }
-       
+        Destroy(gameObject);
     }
     /// <summary>
     /// 模式改变是清除创建的对象

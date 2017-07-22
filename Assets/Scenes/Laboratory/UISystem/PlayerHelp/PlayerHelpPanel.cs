@@ -5,26 +5,54 @@ using System.Collections.Generic;
 using DG.Tweening;
 using System;
 using UnityEngine.Events;
-
+using System.IO;
 using BundleUISystem;
 public class PlayerHelpPanel : UIPanelTemp
 {
     public Button closeBtn;
-    public PlayerHelpObject playerHelpObj;
-    private List<PlayerHelp> playerHelp { get { return playerHelpObj.Data; } }
-   
     public GameObject itemPfb;
     public Transform itemParent;
     public Text infotext;
     private List<GameObject> items = new List<GameObject>();
-
-   protected override void OnEnable()
+    private HelpTable _helpTable;
+    protected override void OnEnable()
     {
         base.OnEnable();
-        LoadHelpInfo();
-        //closeBtn.onClick.AddListener(()=> { tog.isOn = false; Destroy(gameObject); });
+        if (LoadTableData())
+        {
+            LoadHelpInfo();
+            closeBtn.onClick.AddListener(() => { Destroy(gameObject); });
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
-
+    private bool LoadTableData()
+    {
+        var path = Application.dataPath + "/Help.csv";
+        _helpTable = new HelpTable();
+        if (!File.Exists(path))
+        {
+            File.WriteAllText(path, "title,information");
+            SceneMain.Current.InvokeEvents(AppConfig.EventKey.TIP, "请先配制程序目录下的Help.csv");
+            return false;
+        }
+        else
+        {
+            try
+            {
+                var txt = File.ReadAllText(path, System.Text.Encoding.GetEncoding("gb2312"));
+                _helpTable.Load(txt);
+            }
+            catch (Exception e)
+            {
+                SceneMain.Current.InvokeEvents(AppConfig.EventKey.TIP, "数据加载错误：" + e);
+                return false;
+            }
+            return true;
+        }
+    }
     /// <summary>
     /// 加载出配制信息
     /// </summary>
@@ -41,15 +69,16 @@ public class PlayerHelpPanel : UIPanelTemp
         }
 
         Toggle tog;
-        PlayerHelp pitem;
+        HelpTable.Row pitem;
         GameObject item;
-        for (int i = 0; i < playerHelp.Count; i++)
+
+        for (int i = 0; i < _helpTable.GetRowList().Count; i++)
         {
-            pitem = playerHelp[i];
+            pitem = _helpTable.GetAt(i);
             item = ObjectManager.Instance.GetPoolObject(itemPfb, itemParent, true, true, true);
             tog = item.GetComponent<Toggle>();
             tog.GetComponentInChildren<Text>().text = pitem.title;
-            string info = pitem.infomation;
+            string info = pitem.information;
             tog.onValueChanged.AddListener((x) => { if (x) infotext.text = info; });
             items.Add(item);
 
@@ -59,7 +88,9 @@ public class PlayerHelpPanel : UIPanelTemp
                 infotext.text = info;
             }
         }
+        itemPfb.SetActive(false);
     }
+
 }
 
 /// <summary>
@@ -76,7 +107,7 @@ public class PlayerHelpPanel : UIPanelTemp
 
 //    public PlayerHelpObject playerHelpObj;
 //    private List<PlayerHelp> playerHelp { get { return playerHelpObj.playerHelps; } }
-  
+
 //    private int MaxNum {
 //        get { return int.Parse(m_MaxNum.text); }
 //        set { m_MaxNum.text = value.ToString();}

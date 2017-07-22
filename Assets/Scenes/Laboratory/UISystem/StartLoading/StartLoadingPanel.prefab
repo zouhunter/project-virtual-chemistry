@@ -127,7 +127,7 @@ GameObject:
   - 224: {fileID: 22471972}
   - 114: {fileID: 11429798}
   m_Layer: 5
-  m_Name: ProgressPanel
+  m_Name: StartLoadingPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -149,7 +149,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &11407770
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -224,6 +224,7 @@ MonoBehaviour:
   formatString: "\u8FDB\u5EA6  {0}  %"
   total: 100
   textShow: {fileID: 11470254}
+  slider: {fileID: 11473374}
 --- !u!114 &11429798
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -235,8 +236,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f15728023d6bfe041bf7bd971e8ff899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_OnOpen:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  m_OpenClose:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.Toggle+ToggleEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   Panel: {fileID: 182968}
-  slider: {fileID: 137014}
   image: {fileID: 22475482}
   animTime: 3
 --- !u!114 &11454954

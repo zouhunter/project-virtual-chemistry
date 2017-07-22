@@ -8,9 +8,7 @@ using BundleUISystem;
 
 public class FlipBookPanel :UIPanelTemp
 {
-    public Button openBtn;
     public Button closeButton;
-
     public Book m_Book;
     private AutoFlip m_Flip;
 
@@ -25,12 +23,9 @@ public class FlipBookPanel :UIPanelTemp
 
         panel.gameObject.SetActive(false);
         m_Flip = m_Book.GetComponent<AutoFlip>();
-
-        openBtn.onClick.AddListener(ShowBook);
-        openBtn.onClick.Invoke();
     }
 
-    private void ShowBook()
+    public override void HandleData(object data)
     {
         if (sprites!=null)
         {
@@ -44,7 +39,7 @@ public class FlipBookPanel :UIPanelTemp
         }
         else
         {
-            DownLandUtility.DownLandSprites("Book", (x) => { sprites = x; ShowBook(); });
+            DownLandUtility.DownLandSprites("Book", (x) => { sprites = x; HandleData(data); });
         }
     }
 }

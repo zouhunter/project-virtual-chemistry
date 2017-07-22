@@ -5,10 +5,10 @@ using UnityEngine.EventSystems;
 using System.Collections;
 using System.Collections.Generic;
 using System;
+using BundleUISystem;
 
-public class SelectPanel : MonoBehaviour
+public class SelectPanel : UIPanelTemp
 {
-    public Toggle toggle;
     public Transform panel;
     public DoTweenPanel deTween;
     void Start()
