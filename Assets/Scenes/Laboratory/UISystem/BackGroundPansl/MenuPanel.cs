@@ -45,19 +45,23 @@ public class MenuPanel :UIPanelTemp  {
 	private void OnPresentClicked()
 	{
         UIGroup.Open<ExperimentPanel>();
-	}
-	private void OnMedicineClicked()
+        SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
+    }
+    private void OnMedicineClicked()
 	{
         UIGroup.Open("MedicinePanel");
+        SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
     }
     private void OnElementClicked()
 	{
         UIGroup.Open("ElementPanel");
+        SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
     }
     private void OnPricticeClicked()
 	{
-
-	}
+        UIGroup.Open<FlowSystemPanel>();
+        SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
+    }
     protected override void OnDestroy()
     {
         base.OnDestroy();

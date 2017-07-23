@@ -19,16 +19,21 @@ abstract public class Singleton<T> :MonoBehaviour where T : MonoBehaviour
             {
                 lock (lockHelper)
                 {
-                    if (instance == null && !GameManager.isQuit)
+                    if (instance == null && !program.isQuit)
                     {
                         GameObject go = new GameObject(typeof(T).ToString());
-                        go.transform.SetParent(GameManager.Instance.transform);
+                        go.transform.SetParent(program.Instence.transform);
                         instance = go.AddComponent<T>();
                     }
                 }
             }
             return instance;
         }
+    }
+
+    protected virtual void Awake()
+    {
+        instance = GetComponent<T>();
     }
 
     protected void OnDestroy()

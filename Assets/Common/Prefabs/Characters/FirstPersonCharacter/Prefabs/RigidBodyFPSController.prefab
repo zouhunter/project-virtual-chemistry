@@ -11,6 +11,7 @@ GameObject:
   - 20: {fileID: 2000000}
   - 114: {fileID: 11494746}
   - 114: {fileID: 11477596}
+  - 114: {fileID: 11470838}
   m_Layer: 0
   m_Name: MainCamera
   m_TagString: MainCamera
@@ -33,6 +34,7 @@ GameObject:
   - 195: {fileID: 19531672}
   - 114: {fileID: 11438004}
   - 114: {fileID: 11485444}
+  - 114: {fileID: 11446592}
   m_Layer: 0
   m_Name: RigidBodyFPSController
   m_TagString: Untagged
@@ -59,7 +61,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100006}
   m_LocalRotation: {x: 0, y: -0.0013144809, z: 0, w: 0.99999917}
-  m_LocalPosition: {x: 0, y: 0.87, z: -4.55}
+  m_LocalPosition: {x: -0, y: 0.87, z: -4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400000}
@@ -83,14 +85,14 @@ Camera:
     height: 1
   near clip plane: 0.01
   far clip plane: 1000
-  field of view: 35
+  field of view: 46
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_RenderingPath: -1
+  m_RenderingPath: 2
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
   m_TargetEye: 3
@@ -107,8 +109,8 @@ Rigidbody:
   m_GameObject: {fileID: 100006}
   serializedVersion: 2
   m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
+  m_Drag: 0.01
+  m_AngularDrag: 0.01
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -158,13 +160,43 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   control: {fileID: 11485444}
+--- !u!114 &11446592
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92a2b2baaa925145a6154a457b11b4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scale: 1.5
+--- !u!114 &11470838
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b765e0b5af3bcf4a9deb5895e477da8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offsetFactor: -0.496
+  offsetUnits: -36.8
+  _downsampleFactor: 4
+  _iterations: 1
+  _blurMinSpread: 0.75
+  _blurSpread: 0
+  _blurIntensity: 0.35
 --- !u!114 &11477596
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100004}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a8a29acf14dbdf48bbc95116d59ce59, type: 3}
   m_Name: 

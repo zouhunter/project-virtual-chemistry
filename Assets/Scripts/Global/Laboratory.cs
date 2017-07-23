@@ -27,7 +27,24 @@ public class Laboratory : SceneMain<Laboratory> {
         if (onOperateTypeChanged != null) onOperateTypeChanged(type);
     }
 
-
+    public BuildingCtrl buildCtrl = new BuildingCtrl();
+    public RecordCtrl recordCtrl = new RecordCtrl();
+    public HitController hitCtrl = new global::HitController();
     public Transform installParent;
+
+    protected override void Awake()
+    {
+        program.StartGame();
+        Facade.SendNotification<bool>(typeof(SettingDataLoadSave).ToString(),true);
+        base.Awake();
+    }
+
+    private void Update()
+    {
+        if (Input.GetMouseButtonDown(0) && EventSystem.current != null && !EventSystem.current.IsPointerOverGameObject())
+        {
+            InvokeEvents(AppConfig.EventKey.ClickEmpty);
+        }
+    }
 }
 

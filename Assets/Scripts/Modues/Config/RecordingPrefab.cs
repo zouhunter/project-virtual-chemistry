@@ -12,7 +12,7 @@ public class RecordingPrefab : MonoBehaviour {
     public PrefabItem prefabItemInfo;
 
 
-    private RecordCtrl Record { get { return GameManager.recordCtrl; } }
+    private RecordCtrl Record { get { return Laboratory.Current.recordCtrl; } }
     void Start()
     {
         Record.SaveRecord(this);
@@ -55,9 +55,9 @@ public class RecordingPrefab : MonoBehaviour {
 
     void OnDestroy()
     {
-        if (!GameManager.isQuit)
+        if (!program.isQuit)
         {
-            GameManager.recordCtrl.RemoveRecord(this);
+            Laboratory.Current.recordCtrl.RemoveRecord(this);
         }
     }
 }

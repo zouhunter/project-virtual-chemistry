@@ -29,6 +29,7 @@ public class PrefabItemPanel : UIPanelTemp
     }
     void Start()
     {
+        SceneMain.Current.RegisterEvent(AppConfig.EventKey.ClickEmpty, Close);
         GameObject btn;
         PrefabItem item;
         for (int i = 0; i < items.prefabItem.Count; i++)
@@ -57,8 +58,6 @@ public class PrefabItemPanel : UIPanelTemp
 
     void OnItemButtonClicked(GameObject perfab)
     {
-        SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
-        
         switch (Laboratory.operateType)
         {
             case OperateType.Config:
@@ -75,6 +74,11 @@ public class PrefabItemPanel : UIPanelTemp
             default:
                 break;
         }
+        SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
+    }
+    void Close()
+    {
+        SceneMain.Current.RemoveEvent(AppConfig.EventKey.ClickEmpty, Close);
         Destroy(gameObject);
     }
     /// <summary>

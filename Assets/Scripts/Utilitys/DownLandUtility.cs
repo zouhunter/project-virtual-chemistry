@@ -12,7 +12,7 @@ public static class DownLandUtility {
     public static void DownLandSprites(string DirName,UnityAction<List<Sprite>> LoadSprite)
     {
         string path_ = string.Format("file:///{0}/{1}/",Application.streamingAssetsPath,DirName);
-        GameManager.Instance.StartCoroutine(LoadPics(path_, LoadSprite));
+        program.Instence.StartCoroutine(LoadPics(path_, LoadSprite));
     }
     static IEnumerator LoadPics(string path_, UnityAction<List<Sprite>> LoadSprite)
     {

@@ -12,7 +12,7 @@ public enum BuildState
 public class BuildingItem : MonoBehaviour
 {
 	public BuildingInfo buildingInfo;
-	private BuildingCtrl ctrl { get { return GameManager.buildCtrl; } }
+	private BuildingCtrl ctrl { get { return Laboratory.Current.buildCtrl; } }
 	private bool canBuild;
 	private bool reactive;
 	private string gikey;

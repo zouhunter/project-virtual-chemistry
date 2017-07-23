@@ -11,7 +11,7 @@ public class SelectablePlane : MonoBehaviour
     [Range(0, 1)]
     public float distence;
     public string audioName = "pickup";
-    HitController HitCtrl { get { return GameManager.hitCtrl; } }
+    HitController HitCtrl { get { return Laboratory.Current.hitCtrl; } }
     Vector3 hitpos;
     Collider m_Collider;
 

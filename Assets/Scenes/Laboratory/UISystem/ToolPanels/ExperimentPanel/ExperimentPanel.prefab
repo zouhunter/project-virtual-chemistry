@@ -1975,6 +1975,7 @@ GameObject:
   m_Component:
   - 224: {fileID: 22475948}
   - 114: {fileID: 11450552}
+  - 114: {fileID: 11470412}
   m_Layer: 5
   m_Name: ExperimentPanel
   m_TagString: Untagged
@@ -5717,6 +5718,27 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
+--- !u!114 &11470412
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 197870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20980b7b90cc3ab478f604b8db662b70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_OnOpen:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  m_OpenClose:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.Toggle+ToggleEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!114 &11470546
 MonoBehaviour:
   m_ObjectHideFlags: 1

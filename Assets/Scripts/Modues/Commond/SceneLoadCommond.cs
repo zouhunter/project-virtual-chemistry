@@ -25,19 +25,27 @@ public class SceneData : IDisposable
     }
 }
 
-public class SceneLoadCommond : ITimerBehaviour
+public class SceneLoadCommond :Command<SceneData>, ITimerBehaviour
 {
     //场景名
     public static string ExpSceneName = "Laboratory";
     UnityEngine.AsyncOperation operation;
     private const float operTime = 2f;
+
+    public override string Acceptor
+    {
+        get
+        {
+            return "sceneLoad";
+        }
+    }
     /// <summary>
     /// 下载资源，然后加载场景
     /// </summary>
     /// <param name="notification"></param>
-    public void Execute(SceneData sceneData)
+    public override void Execute(SceneData sceneData)
     {
-        GameManager.OnLoadScene(sceneData.SceneName);
+        BundleUISystem.UIGroup.Open<StartLoadingPanel>();
 
         //加载场景
         operation = SceneManager.LoadSceneAsync(sceneData.SceneName, sceneData.Mode);
@@ -52,9 +60,11 @@ public class SceneLoadCommond : ITimerBehaviour
     }
 
     float progress;
+
+
     public void TimerUpdate()
     {
-        SceneMain.Current.InvokeEvents<float>("LoadProgress", progress);
+        Facade.SendNotification<float>(AppConfig.EventKey.FillImage, progress);//.Current.InvokeEvents<float>("LoadProgress", progress);
         if (operation.progress < 0.9f)
         {
             //追赶

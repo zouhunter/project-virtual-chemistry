@@ -12,9 +12,21 @@ public class AppConfig {
         public const string elementperfabPath = "Prefabs/Element/";
         public const string medicineperfabPath = "Prefabs/Medicine/";
     }
+
     public static class EventKey
     {
-        public const string TIP = "tipinformation";
+        internal static string TIP;
+        internal static string FillImage;
+        internal static string ClickEmpty;
+        internal static string SettngData;
+
+        static EventKey()
+        {
+            TIP = System.Guid.NewGuid().ToString();
+            FillImage = System.Guid.NewGuid().ToString();
+            ClickEmpty = System.Guid.NewGuid().ToString();
+            SettngData = System.Guid.NewGuid().ToString();
+        }
     }
 }
 

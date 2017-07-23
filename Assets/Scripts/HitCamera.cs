@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class HitCamera : MonoBehaviour {
-    public HitController HitCtrl { get { return GameManager.hitCtrl; } }
+    public HitController HitCtrl { get { return Laboratory.Current.hitCtrl; } }
     private Vector3 pos;
     void Update()
     {

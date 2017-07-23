@@ -42,7 +42,7 @@ public class PlayerHelpPanel : UIPanelTemp
         {
             try
             {
-                var txt = File.ReadAllText(path, System.Text.Encoding.GetEncoding("gb2312"));
+                var txt = File.ReadAllText(path/*, System.Text.Encoding.GetEncoding("gb2312")*/);
                 _helpTable.Load(txt);
             }
             catch (Exception e)

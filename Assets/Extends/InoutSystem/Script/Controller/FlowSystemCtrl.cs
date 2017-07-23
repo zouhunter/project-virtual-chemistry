@@ -121,5 +121,9 @@ namespace FlowSystem
             reactTuple.Enqueue(new Tuple<IInOutItem, int, string>(item, nodeID, type));
         }
 
+        public void QuitSystem()
+        {
+            if (group != null) UnityEngine.Object.Destroy(group.gameObject);
+        }
     }
 }

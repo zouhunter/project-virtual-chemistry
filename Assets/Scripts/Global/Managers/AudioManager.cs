@@ -46,7 +46,8 @@ public class AudioManager : Singleton<AudioManager>
     private int backIndex = 0;
     private AudioClip[] backSound;
 
-    void Awake(){
+    protected override void Awake(){
+        base.Awake();
         m_audio = GetComponent<AudioSource>();
         backSound = Resources.LoadAll<AudioClip>(m_BackGround);
         Resources.UnloadUnusedAssets();

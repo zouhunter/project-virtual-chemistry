@@ -55,7 +55,7 @@ public class BuildingViewCamera : MonoBehaviour
     private Vector3 screenPoint;
     private Vector3 offset;
     //private Quaternion rotation = Quaternion.Euler(Vector3.zero);
-    private new Camera camera;
+    private Camera _camera;
     private Tweener move;
     private Vector3 targettargetPos;
     private float dotweenduration
@@ -63,8 +63,8 @@ public class BuildingViewCamera : MonoBehaviour
         get { return 1; }
     }
     void Awake(){
-        camera = GetComponent<Camera>();
-        targetView = camera.fieldOfView;
+        _camera = GetComponent<Camera>();
+        targetView = _camera.fieldOfView;
         transform.DetachChildren();
         SetSelf(transform.position,transform.eulerAngles);
         move = target.DOMove(transform.position, 1f).SetAutoKill(false);
@@ -169,13 +169,13 @@ public class BuildingViewCamera : MonoBehaviour
         {
             transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.Euler(targetRotate), Time.deltaTime * damping);
             transform.position = Vector3.Lerp(transform.position, targetPosition, Time.deltaTime * damping);
-            camera.fieldOfView = Mathf.Lerp(camera.fieldOfView,targetView, Time.deltaTime * damping);
+            _camera.fieldOfView = Mathf.Lerp(_camera.fieldOfView,targetView, Time.deltaTime * damping);
         }
         else
         {
             transform.rotation = Quaternion.Euler(targetRotate);
             transform.position = targetPosition;
-            camera.fieldOfView = targetView;
+            _camera.fieldOfView = targetView;
         }
     }
     /// <summary>
