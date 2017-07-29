@@ -274,8 +274,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 114820}
-  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
-  m_LocalPosition: {x: -0.007000059, y: -0, z: -0.24499999}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.006, y: -0.091, z: -0.101}
   m_LocalScale: {x: 0.1, y: 0.10000001, z: 0.10000001}
   m_Children: []
   m_Father: {fileID: 408472}
@@ -370,7 +370,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 113590}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.263, y: 0.97699994, z: -0.587}
+  m_LocalPosition: {x: 1.968, y: 0.977, z: -0.595}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 408472}
@@ -586,7 +586,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: 9570efa6ad8d4114c96191ae8f81bd09, type: 2}
+  - {fileID: 2100000, guid: 0570c968abe55f940ac0c724e2fffa24, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -1176,7 +1176,7 @@ MonoBehaviour:
   interact:
   - intype: "\u542BHCL\u6C2F\u6C14"
     nodeID: 0
-    outtype: "\u7EAF\u51C0\u6C2F\u6C14"
+    outtype: "\u542B\u6C34\u6C2F\u6C14"
     information: "\u9664\u53BBHCL\u6C14\u4F53"
     outPutFiledinformation: "\u6C2F\u6C14\u6CC4\u9732"
     hoadTime: 3

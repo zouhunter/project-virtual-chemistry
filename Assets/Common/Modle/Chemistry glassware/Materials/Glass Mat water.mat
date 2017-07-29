@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Glass Mat water
+  m_Shader: {fileID: 4800000, guid: 4dca0a248923e7a44af7a07d6ff79adc, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: -1203210871, guid: ee99a9c68079ce647aa0903b15121138,
+            type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NoiseMap
+        second:
+          m_Texture: {fileID: 250889135, guid: ee99a9c68079ce647aa0903b15121138, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ToonShade
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5178572
+      data:
+        first:
+          name: _Shininess
+        second: 1
+      data:
+        first:
+          name: _InvFade
+        second: 1
+      data:
+        first:
+          name: _FlowSpeed
+        second: 0.3
+      data:
+        first:
+          name: _Transp
+        second: 0.116071425
+      data:
+        first:
+          name: _ReflectPower
+        second: 1
+      data:
+        first:
+          name: _NormalStrenght
+        second: 0.287
+      data:
+        first:
+          name: _Bias
+        second: 1.9
+      data:
+        first:
+          name: _Narrow
+        second: 1.4
+      data:
+        first:
+          name: _WaveH
+        second: 0.01
+    m_Colors:
+      data:
+        first:
+          name: _BumpMap
+        second: {r: 0.49803922, g: 0.49803922, b: 1, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 0, g: 0, b: 0, a: 0.984}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 0.41911763, g: 0.41911763, b: 0.41911763, a: 0.647}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 0.47794116, g: 0.47794116, b: 0.47794116, a: 0.841}
+      data:
+        first:
+          name: _Bump
+        second: {r: 128, g: 128, b: 128, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
