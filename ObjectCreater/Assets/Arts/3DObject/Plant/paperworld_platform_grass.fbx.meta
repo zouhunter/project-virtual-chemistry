@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: c6b914c3df4f45f4d85489b2e9c969e9
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: grass1_Baumstamm
+    100002: grass1_ground
+    100004: grass1_ground.1
+    100006: grass1_ground.2
+    100008: grass1_ground.2.2
+    100010: grass1_ground.3
+    100012: grass1_Polygon-Objekt
+    100014: grass1_Polygon-Objekt.10
+    100016: grass1_Polygon-Objekt.11
+    100018: grass1_Polygon-Objekt.12
+    100020: grass1_Polygon-Objekt.13
+    100022: grass1_Polygon-Objekt.14
+    100024: grass1_Polygon-Objekt.15
+    100026: grass1_Polygon-Objekt.16
+    100028: grass1_Polygon-Objekt.17
+    100030: grass1_Polygon-Objekt.18
+    100032: grass1_Polygon-Objekt.2
+    100034: grass1_Polygon-Objekt.3
+    100036: grass1_Polygon-Objekt.4
+    100038: grass1_Polygon-Objekt.5
+    100040: grass1_Polygon-Objekt.6
+    100042: grass1_Polygon-Objekt.7
+    100044: grass1_Polygon-Objekt.8
+    100046: grass1_Polygon-Objekt.9
+    100048: //RootNode
+    400000: grass1_Baumstamm
+    400002: grass1_ground
+    400004: grass1_ground.1
+    400006: grass1_ground.2
+    400008: grass1_ground.2.2
+    400010: grass1_ground.3
+    400012: grass1_Polygon-Objekt
+    400014: grass1_Polygon-Objekt.10
+    400016: grass1_Polygon-Objekt.11
+    400018: grass1_Polygon-Objekt.12
+    400020: grass1_Polygon-Objekt.13
+    400022: grass1_Polygon-Objekt.14
+    400024: grass1_Polygon-Objekt.15
+    400026: grass1_Polygon-Objekt.16
+    400028: grass1_Polygon-Objekt.17
+    400030: grass1_Polygon-Objekt.18
+    400032: grass1_Polygon-Objekt.2
+    400034: grass1_Polygon-Objekt.3
+    400036: grass1_Polygon-Objekt.4
+    400038: grass1_Polygon-Objekt.5
+    400040: grass1_Polygon-Objekt.6
+    400042: grass1_Polygon-Objekt.7
+    400044: grass1_Polygon-Objekt.8
+    400046: grass1_Polygon-Objekt.9
+    400048: //RootNode
+    2300000: grass1_Baumstamm
+    2300002: grass1_ground
+    2300004: grass1_ground.1
+    2300006: grass1_ground.2
+    2300008: grass1_ground.2.2
+    2300010: grass1_ground.3
+    2300012: grass1_Polygon-Objekt
+    2300014: grass1_Polygon-Objekt.10
+    2300016: grass1_Polygon-Objekt.11
+    2300018: grass1_Polygon-Objekt.12
+    2300020: grass1_Polygon-Objekt.13
+    2300022: grass1_Polygon-Objekt.14
+    2300024: grass1_Polygon-Objekt.15
+    2300026: grass1_Polygon-Objekt.16
+    2300028: grass1_Polygon-Objekt.17
+    2300030: grass1_Polygon-Objekt.18
+    2300032: grass1_Polygon-Objekt.2
+    2300034: grass1_Polygon-Objekt.3
+    2300036: grass1_Polygon-Objekt.4
+    2300038: grass1_Polygon-Objekt.5
+    2300040: grass1_Polygon-Objekt.6
+    2300042: grass1_Polygon-Objekt.7
+    2300044: grass1_Polygon-Objekt.8
+    2300046: grass1_Polygon-Objekt.9
+    3300000: grass1_Baumstamm
+    3300002: grass1_ground
+    3300004: grass1_ground.1
+    3300006: grass1_ground.2
+    3300008: grass1_ground.2.2
+    3300010: grass1_ground.3
+    3300012: grass1_Polygon-Objekt
+    3300014: grass1_Polygon-Objekt.10
+    3300016: grass1_Polygon-Objekt.11
+    3300018: grass1_Polygon-Objekt.12
+    3300020: grass1_Polygon-Objekt.13
+    3300022: grass1_Polygon-Objekt.14
+    3300024: grass1_Polygon-Objekt.15
+    3300026: grass1_Polygon-Objekt.16
+    3300028: grass1_Polygon-Objekt.17
+    3300030: grass1_Polygon-Objekt.18
+    3300032: grass1_Polygon-Objekt.2
+    3300034: grass1_Polygon-Objekt.3
+    3300036: grass1_Polygon-Objekt.4
+    3300038: grass1_Polygon-Objekt.5
+    3300040: grass1_Polygon-Objekt.6
+    3300042: grass1_Polygon-Objekt.7
+    3300044: grass1_Polygon-Objekt.8
+    3300046: grass1_Polygon-Objekt.9
+    4300000: grass1_Polygon-Objekt
+    4300002: grass1_Baumstamm
+    4300004: grass1_Polygon-Objekt.2
+    4300006: grass1_Polygon-Objekt.3
+    4300008: grass1_Polygon-Objekt.4
+    4300010: grass1_Polygon-Objekt.5
+    4300012: grass1_Polygon-Objekt.6
+    4300014: grass1_Polygon-Objekt.7
+    4300016: grass1_ground.3
+    4300018: grass1_ground.2
+    4300020: grass1_ground.1
+    4300022: grass1_ground
+    4300024: grass1_Polygon-Objekt.8
+    4300026: grass1_Polygon-Objekt.9
+    4300028: grass1_Polygon-Objekt.10
+    4300030: grass1_Polygon-Objekt.11
+    4300032: grass1_Polygon-Objekt.12
+    4300034: grass1_Polygon-Objekt.13
+    4300036: grass1_Polygon-Objekt.14
+    4300038: grass1_Polygon-Objekt.15
+    4300040: grass1_Polygon-Objekt.16
+    4300042: grass1_Polygon-Objekt.17
+    4300044: grass1_Polygon-Objekt.18
+    4300046: grass1_ground.2.2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

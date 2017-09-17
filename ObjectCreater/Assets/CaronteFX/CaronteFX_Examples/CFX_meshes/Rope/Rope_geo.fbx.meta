@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: b602f9a2aec0e7c46af1508c73f05b08
+timeCreated: 1458123584
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bar_l
+    100002: Bar_l 1
+    100004: Hinge_l
+    100006: Hinge_r
+    100008: Hinges_group
+    100010: MastSoft_l
+    100012: MastSoft_r
+    100014: Plate_l
+    100016: Plate_l 1
+    100018: rope
+    100020: //RootNode
+    100022: Washer_group
+    100024: Washer_l
+    100026: Washer_r
+    100028: Bar_r
+    100030: Plate_r
+    100032: Joint_1
+    100034: Joint_2
+    100036: Joint_3
+    100038: Joint_4
+    100040: Joints_group
+    100042: Rope 1
+    100044: cloth
+    100046: Cloth_joint_1
+    100048: Cloth_joint_2
+    100050: Cloth_joint_3
+    100052: Cloth_joints_group
+    100054: Joints_Hinges_group
+    100056: Cloth_1
+    100058: Cloth_2
+    100060: Cloth_3
+    100062: Cloth_4
+    100064: Cloth_5
+    100066: Cloth_6
+    100068: Cloth_7
+    100070: Cloth_joint_10
+    100072: Cloth_joint_11
+    100074: Cloth_joint_12
+    100076: Cloth_joint_13
+    100078: Cloth_joint_14
+    100080: Cloth_joint_4
+    100082: Cloth_joint_5
+    100084: Cloth_joint_6
+    100086: Cloth_joint_7
+    100088: Cloth_joint_8
+    100090: Cloth_joint_9
+    100092: Cloths_group
+    100094: Cloth1
+    100096: Cloth2
+    100098: Cloth3
+    100100: Cloth4
+    100102: Cloth5
+    100104: Cloth6
+    100106: Cloth7
+    400000: Bar_l
+    400002: Bar_l 1
+    400004: Hinge_l
+    400006: Hinge_r
+    400008: Hinges_group
+    400010: MastSoft_l
+    400012: MastSoft_r
+    400014: Plate_l
+    400016: Plate_l 1
+    400018: rope
+    400020: //RootNode
+    400022: Washer_group
+    400024: Washer_l
+    400026: Washer_r
+    400028: Bar_r
+    400030: Plate_r
+    400032: Joint_1
+    400034: Joint_2
+    400036: Joint_3
+    400038: Joint_4
+    400040: Joints_group
+    400042: Rope 1
+    400044: cloth
+    400046: Cloth_joint_1
+    400048: Cloth_joint_2
+    400050: Cloth_joint_3
+    400052: Cloth_joints_group
+    400054: Joints_Hinges_group
+    400056: Cloth_1
+    400058: Cloth_2
+    400060: Cloth_3
+    400062: Cloth_4
+    400064: Cloth_5
+    400066: Cloth_6
+    400068: Cloth_7
+    400070: Cloth_joint_10
+    400072: Cloth_joint_11
+    400074: Cloth_joint_12
+    400076: Cloth_joint_13
+    400078: Cloth_joint_14
+    400080: Cloth_joint_4
+    400082: Cloth_joint_5
+    400084: Cloth_joint_6
+    400086: Cloth_joint_7
+    400088: Cloth_joint_8
+    400090: Cloth_joint_9
+    400092: Cloths_group
+    400094: Cloth1
+    400096: Cloth2
+    400098: Cloth3
+    400100: Cloth4
+    400102: Cloth5
+    400104: Cloth6
+    400106: Cloth7
+    2300000: Bar_l
+    2300002: Bar_l 1
+    2300004: Hinge_l
+    2300006: Hinge_r
+    2300008: Plate_l
+    2300010: Plate_l 1
+    2300012: rope
+    2300014: Washer_l
+    2300016: Washer_r
+    2300018: Bar_r
+    2300020: Plate_r
+    2300022: MastSoft_l
+    2300024: MastSoft_r
+    2300026: Joint_1
+    2300028: Joint_2
+    2300030: Joint_3
+    2300032: Joint_4
+    2300034: Rope 1
+    2300036: cloth
+    2300038: Cloth_joint_1
+    2300040: Cloth_joint_2
+    2300042: Cloth_joint_3
+    2300044: Cloth_1
+    2300046: Cloth_2
+    2300048: Cloth_3
+    2300050: Cloth_4
+    2300052: Cloth_5
+    2300054: Cloth_6
+    2300056: Cloth_7
+    2300058: Cloth_joint_10
+    2300060: Cloth_joint_11
+    2300062: Cloth_joint_12
+    2300064: Cloth_joint_13
+    2300066: Cloth_joint_14
+    2300068: Cloth_joint_4
+    2300070: Cloth_joint_5
+    2300072: Cloth_joint_6
+    2300074: Cloth_joint_7
+    2300076: Cloth_joint_8
+    2300078: Cloth_joint_9
+    2300080: Cloth1
+    2300082: Cloth2
+    2300084: Cloth3
+    2300086: Cloth4
+    2300088: Cloth5
+    2300090: Cloth6
+    2300092: Cloth7
+    3300000: Bar_l
+    3300002: Bar_l 1
+    3300004: Hinge_l
+    3300006: Hinge_r
+    3300008: Plate_l
+    3300010: Plate_l 1
+    3300012: rope
+    3300014: Washer_l
+    3300016: Washer_r
+    3300018: Bar_r
+    3300020: Plate_r
+    3300022: MastSoft_l
+    3300024: MastSoft_r
+    3300026: Joint_1
+    3300028: Joint_2
+    3300030: Joint_3
+    3300032: Joint_4
+    3300034: Rope 1
+    3300036: cloth
+    3300038: Cloth_joint_1
+    3300040: Cloth_joint_2
+    3300042: Cloth_joint_3
+    3300044: Cloth_1
+    3300046: Cloth_2
+    3300048: Cloth_3
+    3300050: Cloth_4
+    3300052: Cloth_5
+    3300054: Cloth_6
+    3300056: Cloth_7
+    3300058: Cloth_joint_10
+    3300060: Cloth_joint_11
+    3300062: Cloth_joint_12
+    3300064: Cloth_joint_13
+    3300066: Cloth_joint_14
+    3300068: Cloth_joint_4
+    3300070: Cloth_joint_5
+    3300072: Cloth_joint_6
+    3300074: Cloth_joint_7
+    3300076: Cloth_joint_8
+    3300078: Cloth_joint_9
+    3300080: Cloth1
+    3300082: Cloth2
+    3300084: Cloth3
+    3300086: Cloth4
+    3300088: Cloth5
+    3300090: Cloth6
+    3300092: Cloth7
+    4300000: rope
+    4300002: Bar_l
+    4300004: Plate_l
+    4300006: Bar_l
+    4300008: Plate_l
+    4300010: Washer_l
+    4300012: Washer_r
+    4300014: Hinge_r
+    4300016: Hinge_l
+    4300018: Bar_r
+    4300020: Plate_r
+    4300022: MastSoft_l
+    4300024: MastSoft_r
+    4300026: Rope
+    4300028: Joint_1
+    4300030: Joint_2
+    4300032: Joint_3
+    4300034: Joint_4
+    4300036: cloth
+    4300038: Cloth_joint_1
+    4300040: Cloth_joint_2
+    4300042: Cloth_joint_3
+    4300044: Cloth_joint_4
+    4300046: Cloth_joint_5
+    4300048: Cloth_joint_6
+    4300050: Cloth_joint_7
+    4300052: Cloth_joint_8
+    4300054: Cloth_joint_9
+    4300056: Cloth_joint_10
+    4300058: Cloth_joint_11
+    4300060: Cloth_joint_12
+    4300062: Cloth_joint_13
+    4300064: Cloth_joint_14
+    4300066: Cloth_1
+    4300068: Cloth_2
+    4300070: Cloth_3
+    4300072: Cloth_4
+    4300074: Cloth_5
+    4300076: Cloth_6
+    4300078: Cloth_7
+    4300080: Cloth1
+    4300082: Cloth2
+    4300084: Cloth3
+    4300086: Cloth4
+    4300088: Cloth5
+    4300090: Cloth6
+    4300092: Cloth7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

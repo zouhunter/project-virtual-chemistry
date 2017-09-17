@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 15fb7a20ae4c3ba4d814a2464389c1de
+timeCreated: 1456157013
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Jar
+    100004: PetalFlower
+    100006: PetalFlower1
+    100008: PetalFlower2
+    100010: PetalFlower3
+    100012: PetalFlower4
+    100014: pSphere1
+    100016: StemFlower
+    100018: PetalFlower_1
+    100020: PetalFlower_2
+    100022: PetalFlower_3
+    100024: PetalFlower_4
+    100026: PetalFlower_5
+    100028: Flower_1
+    100030: Flower_2
+    100032: Flower_3
+    100034: Flower_
+    100036: Petal_1
+    100038: Petal_2
+    100040: Petal_3
+    100042: Petal_4
+    100044: Petal_5
+    100046: Petal_group
+    100048: Stem
+    100050: Petals
+    400000: Jar
+    400002: //RootNode
+    400004: PetalFlower
+    400006: PetalFlower1
+    400008: PetalFlower2
+    400010: PetalFlower3
+    400012: PetalFlower4
+    400014: pSphere1
+    400016: StemFlower
+    400018: PetalFlower_1
+    400020: PetalFlower_2
+    400022: PetalFlower_3
+    400024: PetalFlower_4
+    400026: PetalFlower_5
+    400028: Flower_1
+    400030: Flower_2
+    400032: Flower_3
+    400034: Flower_
+    400036: Petal_1
+    400038: Petal_2
+    400040: Petal_3
+    400042: Petal_4
+    400044: Petal_5
+    400046: Petal_group
+    400048: Stem
+    400050: Petals
+    2300000: Jar
+    2300002: PetalFlower
+    2300004: PetalFlower1
+    2300006: PetalFlower2
+    2300008: PetalFlower3
+    2300010: PetalFlower4
+    2300012: pSphere1
+    2300014: StemFlower
+    2300016: PetalFlower_1
+    2300018: PetalFlower_2
+    2300020: PetalFlower_3
+    2300022: PetalFlower_4
+    2300024: PetalFlower_5
+    2300026: Flower_1
+    2300028: Flower_2
+    2300030: Flower_3
+    2300032: Flower_
+    2300034: Petal_1
+    2300036: Petal_2
+    2300038: Petal_3
+    2300040: Petal_4
+    2300042: Petal_5
+    2300044: Stem
+    2300046: Petals
+    3300000: Jar
+    3300002: PetalFlower
+    3300004: PetalFlower1
+    3300006: PetalFlower2
+    3300008: PetalFlower3
+    3300010: PetalFlower4
+    3300012: pSphere1
+    3300014: StemFlower
+    3300016: PetalFlower_1
+    3300018: PetalFlower_2
+    3300020: PetalFlower_3
+    3300022: PetalFlower_4
+    3300024: PetalFlower_5
+    3300026: Flower_1
+    3300028: Flower_2
+    3300030: Flower_3
+    3300032: Flower_
+    3300034: Petal_1
+    3300036: Petal_2
+    3300038: Petal_3
+    3300040: Petal_4
+    3300042: Petal_5
+    3300044: Stem
+    3300046: Petals
+    4300000: Jar
+    4300002: PetalFlower
+    4300004: pSphere1
+    4300006: PetalFlower1
+    4300008: PetalFlower4
+    4300010: PetalFlower2
+    4300012: PetalFlower3
+    4300014: StemFlower
+    4300016: PetalFlower_1
+    4300018: PetalFlower_2
+    4300020: PetalFlower_3
+    4300022: PetalFlower_4
+    4300024: PetalFlower_5
+    4300026: Flower_1
+    4300028: Flower_2
+    4300030: Flower_3
+    4300032: Flower_
+    4300034: Petal_4
+    4300036: Petal_3
+    4300038: Petal_5
+    4300040: Petal_1
+    4300042: Petal_2
+    4300044: Stem
+    4300046: Petals
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

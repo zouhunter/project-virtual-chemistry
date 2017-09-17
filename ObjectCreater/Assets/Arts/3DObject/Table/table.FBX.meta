@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: a087f6353e0e3fd49a83519800388825
+timeCreated: 1468034532
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Block:0123
+    100002: Block:10425
+    100004: Block:123
+    100006: Block:1U
+    100008: Block:1U 1
+    100010: Block:1U 2
+    100012: Block:1U 3
+    100014: Block:1U 4
+    100016: Block:2u
+    100018: Block:2u 1
+    100020: Block:2u 2
+    100022: Block:2u 3
+    100024: Block:2u 4
+    100026: Block:322
+    100028: Block:322 1
+    100030: Block:322 2
+    100032: Block:A$C047043B0
+    100034: Block:A$C047043B0 1
+    100036: Block:A$C047043B0 2
+    100038: Block:A$C0BAF331F
+    100040: Block:A$C0BAF331F 1
+    100042: Block:A$C0BAF331F 2
+    100044: Block:A$C0F5B3F69
+    100046: Block:A$C0F5B3F69 1
+    100048: Block:A$C0F5B3F69 2
+    100050: Block:A$C0F5B3F69 3
+    100052: Block:A$C0F5B3F69 4
+    100054: Block:A$C0F5B3F69 5
+    100056: Block:A$C13FC7012
+    100058: Block:A$C1AA121A0
+    100060: Block:A$C1AA121A0 1
+    100062: Block:A$C1AA121A0 2
+    100064: Block:A$C1D7C3788
+    100066: Block:A$C285B5E7F
+    100068: Block:A$C285B5E7F 1
+    100070: Block:A$C285B5E7F 2
+    100072: Block:A$C41C711F7
+    100074: Block:A$C41C711F7 1
+    100076: Block:A$C41C711F7 2
+    100078: Block:A$C43A5716B
+    100080: Block:A$C6A9349B5
+    100082: Block:A$C6A9349B5 1
+    100084: Block:A$C6A9349B5 2
+    100086: Block:DB-12L
+    100088: Block:sdsazj
+    100090: Block:tretr
+    100092: Block:truy
+    100094: Block:XG
+    100096: Block:XG 1
+    100098: Block:xsqzhij
+    100100: "Block:\u4EBA\u4E5F\u6709"
+    100102: "Block:\u8D85\u559C\u6B22\u8BA1\u7B97\u673A"
+    100104: "Block:\u8D85\u559C\u6B22\u8BA1\u7B97\u673A 1"
+    100106: Group01
+    100108: Group02
+    100110: Group03
+    100112: Group04
+    100114: Group13
+    100116: Group14
+    100118: Layer:0
+    100120: Layer:0 1
+    100122: Layer:0 10
+    100124: Layer:0 11
+    100126: Layer:0 12
+    100128: Layer:0 13
+    100130: Layer:0 14
+    100132: Layer:0 15
+    100134: Layer:0 16
+    100136: Layer:0 17
+    100138: Layer:0 18
+    100140: Layer:0 19
+    100142: Layer:0 2
+    100144: Layer:0 20
+    100146: Layer:0 21
+    100148: Layer:0 22
+    100150: Layer:0 23
+    100152: Layer:0 24
+    100154: Layer:0 25
+    100156: Layer:0 26
+    100158: Layer:0 27
+    100160: Layer:0 3
+    100162: Layer:0 4
+    100164: Layer:0 5
+    100166: Layer:0 6
+    100168: Layer:0 7
+    100170: Layer:0 8
+    100172: Layer:0 9
+    100174: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D"
+    100176: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D 1"
+    100178: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D 2"
+    100180: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D 3"
+    100182: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2"
+    100184: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2 1"
+    100186: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2 2"
+    100188: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2 3"
+    100190: "Layer:02\u5C42--\u7EC6\u5B9E\u7EBF--\u7D2B"
+    100192: "Layer:02\u5C42--\u7EC6\u5B9E\u7EBF--\u7D2B 1"
+    100194: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF"
+    100196: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 1"
+    100198: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 2"
+    100200: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 3"
+    100202: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 4"
+    100204: "Layer:05\u5C42--\u6253\u5F2F\u7EBF--\u7070"
+    100206: "Layer:05\u5C42--\u6253\u5F2F\u7EBF--\u7070 1"
+    100208: "Layer:05\u5C42--\u6253\u5F2F\u7EBF--\u7070 2"
+    100210: "Layer:06\u5C42--\u865A\u7EBF--\u7070"
+    100212: "Layer:06\u5C42--\u865A\u7EBF--\u7070 1"
+    100214: "Layer:06\u5C42--\u865A\u7EBF--\u7070 2"
+    100216: "Layer:06\u5C42--\u865A\u7EBF--\u7070 3"
+    100218: "Layer:07\u5C42--\u6587\u5B57\u6807\u6CE8-\u7EA2(\u5B57\u767D)"
+    100220: Layer:device
+    100222: Layer:device 1
+    100224: Layer:device 2
+    100226: Layer:RW
+    100228: Layer:SB
+    100230: "Layer:\u8BBE\u5907"
+    100232: "Layer:\u8BBE\u5907 1"
+    100234: "Layer:\u8BBE\u5907 10"
+    100236: "Layer:\u8BBE\u5907 11"
+    100238: "Layer:\u8BBE\u5907 12"
+    100240: "Layer:\u8BBE\u5907 13"
+    100242: "Layer:\u8BBE\u5907 14"
+    100244: "Layer:\u8BBE\u5907 2"
+    100246: "Layer:\u8BBE\u5907 3"
+    100248: "Layer:\u8BBE\u5907 4"
+    100250: "Layer:\u8BBE\u5907 5"
+    100252: "Layer:\u8BBE\u5907 6"
+    100254: "Layer:\u8BBE\u5907 7"
+    100256: "Layer:\u8BBE\u5907 8"
+    100258: "Layer:\u8BBE\u5907 9"
+    100260: Rectangle01
+    100262: Rectangle02
+    100264: Rectangle03
+    100266: Rectangle04
+    100268: Rectangle05
+    100270: Rectangle06
+    100272: Rectangle07
+    100274: Rectangle15
+    100276: Rectangle16
+    100278: Rectangle17
+    100280: Rectangle18
+    100282: Rectangle19
+    100284: Rectangle20
+    100286: Rectangle21
+    100288: Rectangle22
+    100290: Rectangle23
+    100292: Rectangle24
+    100294: Rectangle25
+    100296: Rectangle26
+    100298: Rectangle45
+    100300: Rectangle46
+    100302: Rectangle47
+    100304: Rectangle48
+    100306: Rectangle49
+    100308: Rectangle50
+    100310: Rectangle51
+    100312: Rectangle52
+    100314: Rectangle53
+    100316: Rectangle54
+    100318: Rectangle55
+    100320: Rectangle56
+    100322: Rectangle57
+    100324: Rectangle58
+    100326: Rectangle59
+    100328: Rectangle60
+    100330: Rectangle61
+    100332: Rectangle62
+    100334: Rectangle63
+    100336: Rectangle64
+    100338: //RootNode
+    400000: Block:0123
+    400002: Block:10425
+    400004: Block:123
+    400006: Block:1U
+    400008: Block:1U 1
+    400010: Block:1U 2
+    400012: Block:1U 3
+    400014: Block:1U 4
+    400016: Block:2u
+    400018: Block:2u 1
+    400020: Block:2u 2
+    400022: Block:2u 3
+    400024: Block:2u 4
+    400026: Block:322
+    400028: Block:322 1
+    400030: Block:322 2
+    400032: Block:A$C047043B0
+    400034: Block:A$C047043B0 1
+    400036: Block:A$C047043B0 2
+    400038: Block:A$C0BAF331F
+    400040: Block:A$C0BAF331F 1
+    400042: Block:A$C0BAF331F 2
+    400044: Block:A$C0F5B3F69
+    400046: Block:A$C0F5B3F69 1
+    400048: Block:A$C0F5B3F69 2
+    400050: Block:A$C0F5B3F69 3
+    400052: Block:A$C0F5B3F69 4
+    400054: Block:A$C0F5B3F69 5
+    400056: Block:A$C13FC7012
+    400058: Block:A$C1AA121A0
+    400060: Block:A$C1AA121A0 1
+    400062: Block:A$C1AA121A0 2
+    400064: Block:A$C1D7C3788
+    400066: Block:A$C285B5E7F
+    400068: Block:A$C285B5E7F 1
+    400070: Block:A$C285B5E7F 2
+    400072: Block:A$C41C711F7
+    400074: Block:A$C41C711F7 1
+    400076: Block:A$C41C711F7 2
+    400078: Block:A$C43A5716B
+    400080: Block:A$C6A9349B5
+    400082: Block:A$C6A9349B5 1
+    400084: Block:A$C6A9349B5 2
+    400086: Block:DB-12L
+    400088: Block:sdsazj
+    400090: Block:tretr
+    400092: Block:truy
+    400094: Block:XG
+    400096: Block:XG 1
+    400098: Block:xsqzhij
+    400100: "Block:\u4EBA\u4E5F\u6709"
+    400102: "Block:\u8D85\u559C\u6B22\u8BA1\u7B97\u673A"
+    400104: "Block:\u8D85\u559C\u6B22\u8BA1\u7B97\u673A 1"
+    400106: Group01
+    400108: Group02
+    400110: Group03
+    400112: Group04
+    400114: Group13
+    400116: Group14
+    400118: Layer:0
+    400120: Layer:0 1
+    400122: Layer:0 10
+    400124: Layer:0 11
+    400126: Layer:0 12
+    400128: Layer:0 13
+    400130: Layer:0 14
+    400132: Layer:0 15
+    400134: Layer:0 16
+    400136: Layer:0 17
+    400138: Layer:0 18
+    400140: Layer:0 19
+    400142: Layer:0 2
+    400144: Layer:0 20
+    400146: Layer:0 21
+    400148: Layer:0 22
+    400150: Layer:0 23
+    400152: Layer:0 24
+    400154: Layer:0 25
+    400156: Layer:0 26
+    400158: Layer:0 27
+    400160: Layer:0 3
+    400162: Layer:0 4
+    400164: Layer:0 5
+    400166: Layer:0 6
+    400168: Layer:0 7
+    400170: Layer:0 8
+    400172: Layer:0 9
+    400174: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D"
+    400176: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D 1"
+    400178: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D 2"
+    400180: "Layer:00\u5C42--\u4E3B\u8F6E\u5ED3\u7EBF--\u767D 3"
+    400182: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2"
+    400184: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2 1"
+    400186: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2 2"
+    400188: "Layer:01\u5C42--\u7EC6\u5B9E\u7EBF--\u7EA2 3"
+    400190: "Layer:02\u5C42--\u7EC6\u5B9E\u7EBF--\u7D2B"
+    400192: "Layer:02\u5C42--\u7EC6\u5B9E\u7EBF--\u7D2B 1"
+    400194: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF"
+    400196: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 1"
+    400198: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 2"
+    400200: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 3"
+    400202: "Layer:04\u5C42--\u4E2D\u5FC3\u7EBF--\u7EFF 4"
+    400204: "Layer:05\u5C42--\u6253\u5F2F\u7EBF--\u7070"
+    400206: "Layer:05\u5C42--\u6253\u5F2F\u7EBF--\u7070 1"
+    400208: "Layer:05\u5C42--\u6253\u5F2F\u7EBF--\u7070 2"
+    400210: "Layer:06\u5C42--\u865A\u7EBF--\u7070"
+    400212: "Layer:06\u5C42--\u865A\u7EBF--\u7070 1"
+    400214: "Layer:06\u5C42--\u865A\u7EBF--\u7070 2"
+    400216: "Layer:06\u5C42--\u865A\u7EBF--\u7070 3"
+    400218: "Layer:07\u5C42--\u6587\u5B57\u6807\u6CE8-\u7EA2(\u5B57\u767D)"
+    400220: Layer:device
+    400222: Layer:device 1
+    400224: Layer:device 2
+    400226: Layer:RW
+    400228: Layer:SB
+    400230: "Layer:\u8BBE\u5907"
+    400232: "Layer:\u8BBE\u5907 1"
+    400234: "Layer:\u8BBE\u5907 10"
+    400236: "Layer:\u8BBE\u5907 11"
+    400238: "Layer:\u8BBE\u5907 12"
+    400240: "Layer:\u8BBE\u5907 13"
+    400242: "Layer:\u8BBE\u5907 14"
+    400244: "Layer:\u8BBE\u5907 2"
+    400246: "Layer:\u8BBE\u5907 3"
+    400248: "Layer:\u8BBE\u5907 4"
+    400250: "Layer:\u8BBE\u5907 5"
+    400252: "Layer:\u8BBE\u5907 6"
+    400254: "Layer:\u8BBE\u5907 7"
+    400256: "Layer:\u8BBE\u5907 8"
+    400258: "Layer:\u8BBE\u5907 9"
+    400260: Rectangle01
+    400262: Rectangle02
+    400264: Rectangle03
+    400266: Rectangle04
+    400268: Rectangle05
+    400270: Rectangle06
+    400272: Rectangle07
+    400274: Rectangle15
+    400276: Rectangle16
+    400278: Rectangle17
+    400280: Rectangle18
+    400282: Rectangle19
+    400284: Rectangle20
+    400286: Rectangle21
+    400288: Rectangle22
+    400290: Rectangle23
+    400292: Rectangle24
+    400294: Rectangle25
+    400296: Rectangle26
+    400298: Rectangle45
+    400300: Rectangle46
+    400302: Rectangle47
+    400304: Rectangle48
+    400306: Rectangle49
+    400308: Rectangle50
+    400310: Rectangle51
+    400312: Rectangle52
+    400314: Rectangle53
+    400316: Rectangle54
+    400318: Rectangle55
+    400320: Rectangle56
+    400322: Rectangle57
+    400324: Rectangle58
+    400326: Rectangle59
+    400328: Rectangle60
+    400330: Rectangle61
+    400332: Rectangle62
+    400334: Rectangle63
+    400336: Rectangle64
+    400338: //RootNode
+    2300000: Rectangle01
+    2300002: Rectangle02
+    2300004: Rectangle03
+    2300006: Rectangle04
+    2300008: Rectangle05
+    2300010: Rectangle06
+    2300012: Rectangle07
+    2300014: Rectangle15
+    2300016: Rectangle16
+    2300018: Rectangle17
+    2300020: Rectangle18
+    2300022: Rectangle19
+    2300024: Rectangle20
+    2300026: Rectangle21
+    2300028: Rectangle22
+    2300030: Rectangle23
+    2300032: Rectangle24
+    2300034: Rectangle25
+    2300036: Rectangle26
+    2300038: Rectangle45
+    2300040: Rectangle46
+    2300042: Rectangle47
+    2300044: Rectangle48
+    2300046: Rectangle49
+    2300048: Rectangle50
+    2300050: Rectangle51
+    2300052: Rectangle52
+    2300054: Rectangle53
+    2300056: Rectangle54
+    2300058: Rectangle55
+    2300060: Rectangle56
+    2300062: Rectangle57
+    2300064: Rectangle58
+    2300066: Rectangle59
+    2300068: Rectangle60
+    2300070: Rectangle61
+    2300072: Rectangle62
+    2300074: Rectangle63
+    2300076: Rectangle64
+    3300000: Rectangle01
+    3300002: Rectangle02
+    3300004: Rectangle03
+    3300006: Rectangle04
+    3300008: Rectangle05
+    3300010: Rectangle06
+    3300012: Rectangle07
+    3300014: Rectangle15
+    3300016: Rectangle16
+    3300018: Rectangle17
+    3300020: Rectangle18
+    3300022: Rectangle19
+    3300024: Rectangle20
+    3300026: Rectangle21
+    3300028: Rectangle22
+    3300030: Rectangle23
+    3300032: Rectangle24
+    3300034: Rectangle25
+    3300036: Rectangle26
+    3300038: Rectangle45
+    3300040: Rectangle46
+    3300042: Rectangle47
+    3300044: Rectangle48
+    3300046: Rectangle49
+    3300048: Rectangle50
+    3300050: Rectangle51
+    3300052: Rectangle52
+    3300054: Rectangle53
+    3300056: Rectangle54
+    3300058: Rectangle55
+    3300060: Rectangle56
+    3300062: Rectangle57
+    3300064: Rectangle58
+    3300066: Rectangle59
+    3300068: Rectangle60
+    3300070: Rectangle61
+    3300072: Rectangle62
+    3300074: Rectangle63
+    3300076: Rectangle64
+    4300000: Rectangle15
+    4300002: Rectangle16
+    4300004: Rectangle07
+    4300006: Rectangle01
+    4300008: Rectangle02
+    4300010: Rectangle03
+    4300012: Rectangle04
+    4300014: Rectangle05
+    4300016: Rectangle06
+    4300018: Rectangle17
+    4300020: Rectangle18
+    4300022: Rectangle19
+    4300024: Rectangle20
+    4300026: Rectangle21
+    4300028: Rectangle22
+    4300030: Rectangle23
+    4300032: Rectangle24
+    4300034: Rectangle25
+    4300036: Rectangle26
+    4300038: Rectangle45
+    4300040: Rectangle46
+    4300042: Rectangle47
+    4300044: Rectangle48
+    4300046: Rectangle49
+    4300048: Rectangle50
+    4300050: Rectangle51
+    4300052: Rectangle52
+    4300054: Rectangle53
+    4300056: Rectangle54
+    4300058: Rectangle55
+    4300060: Rectangle56
+    4300062: Rectangle57
+    4300064: Rectangle58
+    4300066: Rectangle59
+    4300068: Rectangle60
+    4300070: Rectangle61
+    4300072: Rectangle62
+    4300074: Rectangle63
+    4300076: Rectangle64
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

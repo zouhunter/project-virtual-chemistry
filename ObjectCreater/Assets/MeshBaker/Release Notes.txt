@@ -1,0 +1,154 @@
+======================
+Version 3.3
+
+- Fixed a bug where list of objects to combine produced null pointer exception
+- Added BatchPrefabBaker
+- Generated normal maps (when no normal on source) are now neutral normal color
+
+======================
+Version 3.2.1
+
+- Fixed bug where creating source to combined mapping for multiple materials would add source mat multiple times
+- Added several examples and explantions with other Examples 
+- Optimization where uvs are not adjusted if there is only one texture in the atlas
+
+======================
+Version 3.2
+
+- Fix error creating new bakers
+- Fix error baking into prefab if have not baked scene object first.
+
+
+======================
+Version 3.1
+
+- Hides debug statment in multi-mesh-combiner
+- Sets default size of texture combiner to 2048
+- Removes references to legacy scripts in MB2_UpdateSkinnedMesh scripts.
+
+======================
+Version 3.0
+
+- Big refactor to simplify code.
+- Cleaned up API 
+- removed a number of unecessary parameters from function calls
+- Made method names more consistant
+- More code is shared between MeshBakerCommon and subclasses
+- Mesh combiners inherit from a proper superclass
+- Handles objects with negative scale
+- MeshCombiner now handles creation and storing of ResultSceneObject
+
+======================
+Version 2.11.8
+
+- Fixed bug with BuildSceneObject so it sets the targetRenderer in the MB2_MeshCombiner
+- Enforces expected structure of CombinedMesh scene object
+- Warning when using Unity's texture packer
+- better interface for AddDeleteGameObjectsByIDs
+
+======================
+Version 2.11.7
+
+- Fixed bug with generating UV2 for multi mesh baker
+
+======================
+Version 2.11.6
+
+- Fixed bug where meshes could not be combined if the original meshes had been deleted from the scene
+- Added warning if skinned mesh has been optimized.
+
+======================
+Version 2.11.5
+
+- Fixed bug where combining skinned meshes did not work correctly
+- Fixed bug with validation which required resultMaterial to be set when doing multi material
+
+======================
+Version 2.11.4
+
+- Improved update so developer has control over which channels are updated.
+
+======================
+Version 2.11.3
+
+- Fixed problem copying normal maps to atlases.
+
+======================
+Version 2.11.2
+
+- Better calculation of ideal atlas size.
+
+======================
+Version 2.11.1
+
+- Fixes error displaying suggested treatment for overlapping submeshes
+
+======================
+Version 2.11
+
+- Removed/fixed lines of code that generated warnings
+- Add feature that suggests what can be done if meshes don't bake
+- If only one texture in an atlas then original textures are re-used
+- Refactored much of the texture combining code
+
+======================
+Version 2.10
+
+- Changed the internal representation to store instanceIDs instead of GameObjects
+ this makes it possible to remove destroyed objects as long as the ID instance ID is remembered.
+- Added a flag to make validation optional.
+- Improved UpdateApproximateBounds and added two scripts that can be do this
+- Improved the logging class
+- Fixes errors when switching the output after a bake
+- Added a version field so dependent projects know the version
+
+======================
+Version 2.9.1
+
+Fixes a minor issue where a warning is displayed when skinned meshes
+contain no meshes.
+
+======================
+Version 2.9
+
+Moved all UnityEditor class usage to classes in the Editor folder
+To do this an interface MB2_EditorMethodsInterface and class MB2_EditorMethods were created.
+Created new Logging class for better debug tracing
+There were a number of changes to the API
+
+MB2_MeshCombiner.Apply takes a delegate function for Generating UV2. This should be null when called at runtime and set to Unwrapping.GenerateUV2 when called from the editor.
+
+
+These methods require an instance of MB2_EditorMethods when called from the editor. The parameter should be null or ommitted when called at runtime.
+	doCombinedValidate
+	CreateAndSaveAtlases
+
+These methods were moved to MB2_EditorMethods
+	SaveMeshsToAssetDatabase 
+	RebuildPrefab
+
+======================
+Version 2.8.3
+
+Fixed bug where can only create one result material when creating multiple result materials
+
+Fixed bug when baking all bakers in scene if one has no objects
+
+Cleaned up error message when have not created texture bake results
+
+======================
+Version 2.8.2
+
+Added Mesh Baker texture packer
+
+Added button to auto generate source to combined material mappings from objects to combine
+
+Changed texture format messages from warnings to info messages
+
+Fixed null pointer exception when baking assets in place
+
+cleaned up code in TextureCombiner
+
+Added Show/Hide to the API which just updates triangles
+
+
