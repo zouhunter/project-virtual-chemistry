@@ -15,9 +15,9 @@ public class PresentationPanel : UIPanelTemp
     public Text titleText;
     public Text textinfo;
     public Button conferBtn;
-
-    PresentationData data;
-
+    private bool isPresent;
+    private Queue<PresentationData> queueData = new Queue<PresentationData>();
+    private PresentationData activeData;
     void Start()
     {
         conferBtn.onClick.AddListener(OnConferBtnClikded);
@@ -25,12 +25,20 @@ public class PresentationPanel : UIPanelTemp
 
     void OnConferBtnClikded()
     {
-        if(data!= null &&data.onSelect != null)
-        {
-            data.onSelect.Invoke();
+        isPresent = false;
+         
+        if (activeData != null && activeData.onSelect != null) {
+            activeData.onSelect.Invoke();
         }
-        Time.timeScale = 1;
-        Destroy(gameObject);
+
+        if(queueData.Count > 0)
+        {
+            TryInvoke();
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
     void LoadInfoToUI(PresentationData currentPresent)
@@ -55,10 +63,19 @@ public class PresentationPanel : UIPanelTemp
         if (message is PresentationData)
         {
             Debug.Log(message);
-            data = (PresentationData)message;
-            LoadInfoToUI(data);
-            SceneMain.Current.InvokeEvents<string>( AppConfig.EventKey.TIP, data.tip);
-            Time.timeScale = 0;
+            var data = (PresentationData)message;
+            queueData.Enqueue(data);
+            TryInvoke();
+        }
+    }
+    private void TryInvoke()
+    {
+        if(!isPresent && queueData.Count > 0)
+        {
+            isPresent = true;
+            activeData = queueData.Dequeue();
+            LoadInfoToUI(activeData);
+            SceneMain.Current.InvokeEvents<string>(AppConfig.EventKey.TIP, activeData.tip);
         }
     }
 }

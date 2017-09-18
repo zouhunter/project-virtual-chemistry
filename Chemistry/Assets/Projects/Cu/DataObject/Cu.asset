@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc94832a4fcc294fbbf98e93541d53d, type: 3}
+  m_Name: Cu
+  m_EditorClassIdentifier: 
+  expName: 
+  elements:
+  - name: Support
+    id: 0
+    position: {x: -1.2034302, y: 1.0100098, z: -0.35599995}
+    rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071067}
+    element: {fileID: 103304, guid: 1b9d7d4fab70b504b96371b6c31b528f, type: 2}
+  - name: Flask
+    id: 1
+    position: {x: -0.11343384, y: 0.9844971, z: -0.36883402}
+    rotation: {x: 0.00000008196624, y: 0.31833124, z: -0.000000011805377, w: 0.94797957}
+    element: {fileID: 166488, guid: 6c96d020886de9448b317e2e5c59c273, type: 2}
+  - name: LongTube
+    id: 2
+    position: {x: 0.8555603, y: 1.2484741, z: -0.3598342}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    element: {fileID: 182812, guid: bf131dcfb8309a4469566e494a15ffe3, type: 2}
+  - name: Fuchsin
+    id: 3
+    position: {x: 0.72857666, y: 1.003479, z: -0.38500023}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    element: {fileID: 157908, guid: 250c3ac5f45e0bf40a4921b9108402bb, type: 2}
+  - name: NaOH
+    id: 4
+    position: {x: 1.193573, y: 0.97698975, z: -0.34983397}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    element: {fileID: 120688, guid: b97dc30f64853024d9ee7b268a257104, type: 2}
+  - name: LongTube
+    id: 5
+    position: {x: 0.8605652, y: 0.9914856, z: -0.3598342}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    element: {fileID: 182812, guid: bf131dcfb8309a4469566e494a15ffe3, type: 2}
+  - name: ShortTube
+    id: 6
+    position: {x: 1.2585754, y: 0.99349976, z: -0.3598342}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    element: {fileID: 150596, guid: 8eedcba0f2b31b44fa8cb652c052376e, type: 2}

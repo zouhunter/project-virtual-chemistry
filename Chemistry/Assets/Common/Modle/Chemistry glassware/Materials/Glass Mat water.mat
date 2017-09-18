@@ -104,7 +104,11 @@ Material:
       data:
         first:
           name: _SpecColor
-        second: {r: 0.41911763, g: 0.41911763, b: 0.41911763, a: 0.647}
+        second: {r: 0.08088237, g: 0.08088237, b: 0.08088237, a: 0.647}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
       data:
         first:
           name: _ReflectColor
@@ -113,7 +117,3 @@ Material:
         first:
           name: _Bump
         second: {r: 128, g: 128, b: 128, a: 1}
-      data:
-        first:
-          name: _TintColor
-        second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}

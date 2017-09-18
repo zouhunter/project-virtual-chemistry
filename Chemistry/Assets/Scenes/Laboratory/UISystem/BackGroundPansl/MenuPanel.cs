@@ -59,7 +59,7 @@ public class MenuPanel :UIPanelTemp  {
     }
     private void OnPricticeClicked()
 	{
-        UIGroup.Open<FlowSystemPanel>();
+        UIGroup.Open("ExperimentChoisePanel");
         SceneMain.Current.InvokeEvents(AppConfig.EventKey.ClickEmpty);
     }
     protected override void OnDestroy()

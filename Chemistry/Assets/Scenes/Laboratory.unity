@@ -756,15 +756,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.20431101
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.87
+      value: 1.0564326
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -3.86
+      value: -3.8493698
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalRotation.x
@@ -772,7 +772,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0.0013144809
+      value: -0.00044179123
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalRotation.z
@@ -780,11 +780,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.99999917
+      value: 0.99999994
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.2184187
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
@@ -1153,94 +1157,123 @@ MonoBehaviour:
   bundles: []
   rbundles: []
   prefabs:
-  - assetName: PresentationPanel
+  - instanceID: -124520
+    assetName: PresentationPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 124844, guid: 2b84c572e2d338f40a11402e33fb6c9d, type: 2}
-  - assetName: SettingPanel
+  - instanceID: 0
+    assetName: SettingPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 182202, guid: 8df47eedf0c753c438ff3f21138a0117, type: 2}
-  - assetName: PlayerHelpPanel
+  - instanceID: 0
+    assetName: PlayerHelpPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 120468, guid: 987b292b0f0b62449946a8eb089945ed, type: 2}
-  - assetName: FlipBookPanel
+  - instanceID: 0
+    assetName: FlipBookPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 112528, guid: dc869b0a43d4a0a45b77ae5ebdacf1f4, type: 2}
-  - assetName: TeachPanel
+  - instanceID: 0
+    assetName: TeachPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 174920, guid: 13fe9ca0755812a419359b4e9c8236c5, type: 2}
-  - assetName: FlowSystemPanel
+  - instanceID: 0
+    assetName: FlowSystemPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 104484, guid: cbbb42f32110daf43a53fcad8975761d, type: 2}
-  - assetName: SelectPanel
+  - instanceID: 0
+    assetName: SelectPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 155486, guid: 5c04b629cf3dfe04eb9206b6e24670e8, type: 2}
-  - assetName: MenuPanel
+  - instanceID: 0
+    assetName: MenuPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 2
+    type: 3
     prefab: {fileID: 132506, guid: 368e7a1947d4b9743944a04795a8aa0e, type: 2}
-  - assetName: ExperimentPanel
+  - instanceID: 0
+    assetName: ExperimentPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 197870, guid: 8ad425dddab42c742b12df9477df6b9e, type: 2}
-  - assetName: ElementPanel
+  - instanceID: 0
+    assetName: ElementPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 180672, guid: 2d1aa64b332c2fc4fb794fa307d14535, type: 2}
-  - assetName: MedicinePanel
+  - instanceID: 0
+    assetName: MedicinePanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 168550, guid: f940e4408c1f0b249be5454a448e03f6, type: 2}
+  - instanceID: 0
+    assetName: ExperimentChoisePanel
+    button: {fileID: 0}
+    toggle: {fileID: 0}
+    instence: {fileID: 0}
+    reset: 0
+    parentLayer: 0
+    type: 0
+    prefab: {fileID: 113048, guid: 167ce304dad71f34d88dee4f8363a4e1, type: 2}
+  - instanceID: 0
+    assetName: ReactSystemPanel
+    button: {fileID: 0}
+    toggle: {fileID: 0}
+    instence: {fileID: 0}
+    reset: 0
+    parentLayer: 0
+    type: 0
+    prefab: {fileID: 128312, guid: df956d8e800a53c43809e11d523177fc, type: 2}
   groupObjs: []
   assetUrl: 
   menu: 
@@ -1254,6 +1287,7 @@ GameObject:
   - 4: {fileID: 1491501583}
   - 114: {fileID: 1491501582}
   - 81: {fileID: 1491501585}
+  - 114: {fileID: 1491501586}
   - 114: {fileID: 1491501584}
   m_Layer: 0
   m_Name: Laboratory
@@ -1294,18 +1328,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1491501581}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b42118e7c44e931498550ec0f0b141d8, type: 3}
+  m_Script: {fileID: 11500000, guid: 7ed1f62c94111b54092b6f7e94077108, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  updateTime: 0
-  pos: {x: 0, y: 0}
-  hideTexture: {fileID: 2800000, guid: 8a2001fab33dae848a2c320ddc57491b, type: 3}
-  defultTexture: {fileID: 2800000, guid: 1889e4c56d8d3904a90a752ae14c4c75, type: 3}
-  textureList:
-  - layerMask:
-      serializedVersion: 2
-      m_Bits: 512
-    texture: {fileID: 2800000, guid: 04d05406a66165f4182da51e05ef27eb, type: 3}
+  freq: 1
+  color: {r: 0, g: 1, b: 0, a: 1}
 --- !u!81 &1491501585
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1313,6 +1340,36 @@ AudioListener:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1491501581}
   m_Enabled: 1
+--- !u!114 &1491501586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1491501581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fce73e71b26854d943798573d16404, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distence: 10
+  pos: {x: 0, y: 0}
+  hideTexture: {fileID: 2800000, guid: 8a2001fab33dae848a2c320ddc57491b, type: 3}
+  defultTexture: {fileID: 2800000, guid: 4c2867f2f0d4ec84bbe7d15f852ac96b, type: 3}
+  textureList:
+  - layerMask:
+      serializedVersion: 2
+      m_Bits: 2816
+    texture: {fileID: 2800000, guid: d659e5b4c5c51d747be40a2f735f785f, type: 3}
+  onPointerObject:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: PointerColliderEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  onLostPointerObject:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: PointerColliderEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
 --- !u!1 &1571002866
 GameObject:
   m_ObjectHideFlags: 0

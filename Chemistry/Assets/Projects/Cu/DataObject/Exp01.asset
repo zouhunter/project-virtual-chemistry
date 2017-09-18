@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc94832a4fcc294fbbf98e93541d53d, type: 3}
+  m_Name: Exp01
+  m_EditorClassIdentifier: 
+  "\u8FD8\u539F\u521D\u59CB\u7EC4": 0
+  expName: "\u4E09\u65B9\u5757"
+  elements:
+  - name: CubeA
+    id: 0
+    position: {x: -2.6997561, y: 0, z: -0.9382238}
+    rotation: {x: 0, y: 0.20475231, z: 0, w: 0.9788138}
+    element: {fileID: 152040, guid: 0863f5a5a064d6241a3919f195dde0f0, type: 2}
+  - name: CubeB
+    id: 1
+    position: {x: -0.11834914, y: 0, z: -0.68889695}
+    rotation: {x: 0, y: -0.99722403, z: 0, w: -0.07445986}
+    element: {fileID: 152040, guid: cc34b669a98d66c46aa796b38b6a56dd, type: 2}
+  - name: CubeC
+    id: 2
+    position: {x: 2.7928362, y: 0, z: -1.0128888}
+    rotation: {x: 0, y: 0.6291921, z: 0, w: 0.7772498}
+    element: {fileID: 152040, guid: 7ccc790f253dc0449b8f8ca3514df352, type: 2}
