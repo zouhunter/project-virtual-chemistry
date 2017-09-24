@@ -15,7 +15,7 @@ namespace Connector
         List<ConnectAble> connectAble { get; }
         Vector3 Pos { get; }
         IPortParent Body { get; set; }
-        GameObject Render { get; }
+        Renderer Render { get; }
         IPortItem ConnectedNode { get; set; }
         void ResetTransform();
         bool Attach(IPortItem item);

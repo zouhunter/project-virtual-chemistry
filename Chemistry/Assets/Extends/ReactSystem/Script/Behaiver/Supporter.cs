@@ -20,7 +20,7 @@ namespace ReactSystem
         }
         private bool active;
 
-        public void Active(bool force = false)
+        public bool Active(bool force = false)
         {
             if(startActive || force)
             {
@@ -29,7 +29,9 @@ namespace ReactSystem
                 {
                     onActiveSupport.Invoke(item);
                 }
+                return true;
             }
+            return false;
         }
 
         public List<string> GetSupport()

@@ -129,7 +129,7 @@ GameObject:
   - 4: {fileID: 447622}
   - 65: {fileID: 6514768}
   - 114: {fileID: 11450062}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: XConnect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,6 +149,7 @@ GameObject:
   - 114: {fileID: 11455826}
   - 114: {fileID: 11477570}
   - 114: {fileID: 11493298}
+  - 114: {fileID: 11418198}
   m_Layer: 9
   m_Name: Flask
   m_TagString: Untagged
@@ -168,7 +169,7 @@ GameObject:
   - 23: {fileID: 2340700}
   - 65: {fileID: 6535522}
   - 114: {fileID: 11438756}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: TubeNode
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -352,7 +353,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 166488}
   m_LocalRotation: {x: 0.00000008196624, y: 0.31833124, z: -0.000000011805377, w: 0.94797957}
-  m_LocalPosition: {x: -1.0574341, y: 1.3244934, z: -0.36883402}
+  m_LocalPosition: {x: -0.11343384, y: 0.9844971, z: -0.36883402}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 421980}
@@ -830,6 +831,20 @@ TextMesh:
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
+--- !u!114 &11418198
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 166488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20baeef20a47ac141ade88805eff898d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  element:
+  - "2H2SO4(\u6D53)"
+  - Cu
 --- !u!114 &11420014
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -853,6 +868,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 957a7f0fcb09d2a4aa5e130deb01883e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _render: {fileID: 2340700}
+  _renderActive: 0
   _nodeId: 0
   _connectAble:
   - itemName: LongTube
@@ -874,6 +891,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 957a7f0fcb09d2a4aa5e130deb01883e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _render: {fileID: 2399706}
+  _renderActive: 0
   _nodeId: 1
   _connectAble:
   - itemName: Support
@@ -893,6 +912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: "\u8B66\u544A"
   text: "SO2\u2191\u6CC4\u9732"
+  tipOnly: 0
 --- !u!114 &11455826
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -931,6 +951,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "\u5316\u5B66\u53CD\u5E94"
+  tipOnly: 1
 --- !u!114 &11476982
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -995,7 +1016,18 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   onCompleteEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11420014}
+        m_MethodName: ChangeColor
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &11477570

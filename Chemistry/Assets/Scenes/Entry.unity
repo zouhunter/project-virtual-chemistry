@@ -133,13 +133,14 @@ MonoBehaviour:
   bundles: []
   rbundles: []
   prefabs:
-  - assetName: StartLoadingPanel
+  - instanceID: 0
+    assetName: StartLoadingPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
     instence: {fileID: 0}
     reset: 0
     parentLayer: 0
-    type: 3
+    type: 0
     prefab: {fileID: 169960, guid: 0ec452cf9ce4aa343a1926b6556f798c, type: 2}
   groupObjs: []
   assetUrl: 

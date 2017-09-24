@@ -171,7 +171,7 @@ public class ExpSetting
     public void ResetDefult()
     {
         guide = false;
-        cameraHight = .5f;
+        cameraHight = 0.8f;
         playerSpeed = .5f;
         lightStrength = 0.8f;
         fontSize = 1;

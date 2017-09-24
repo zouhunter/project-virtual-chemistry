@@ -13,10 +13,10 @@ namespace Connector
         #region Propertys
         public IPortParent Body { get; set; }
         public IPortItem ConnectedNode { get; set; }
-        public GameObject Render {
+        public Renderer Render {
             get
             {
-                return gameObject;
+                return _render;
             }
         }
         public Vector3 Pos
@@ -35,28 +35,34 @@ namespace Connector
             }
         }
         #endregion
+        [SerializeField]
+        private Renderer _render;
+        public bool _renderActive;
         public int _nodeId;
         public List<ConnectAble> _connectAble;
 
         void Awake()
         {
             gameObject.layer = LayerConst.nodeLayer;
+            if (_render == null) _render = GetComponentInChildren<Renderer>();
+            _render.enabled = false;
         }
 
         public bool Attach(IPortItem item)
         {
             item.ConnectedNode = this;
             ConnectedNode = item;
+            _render.enabled = _renderActive;
             return true;
         }
 
         public void ResetTransform()
         {
+            _render.enabled = _renderActive;
             if (ConnectedNode != null)
             {
                 ConnectAble connect = connectAble.Find(x => { return x.itemName == ConnectedNode.Body.Name && x.nodeId == ConnectedNode.NodeID; });
-                if (connect != null)
-                {
+                if (connect != null){
                     Body.ResetBodyTransform(ConnectedNode.Body, connect.relativePos, connect.relativeDir);
                 }
             }
@@ -65,6 +71,7 @@ namespace Connector
 
         public IPortItem Detach()
         {
+            _render.enabled = false;
             IPortItem outItem = ConnectedNode;
             if (ConnectedNode != null)
             {

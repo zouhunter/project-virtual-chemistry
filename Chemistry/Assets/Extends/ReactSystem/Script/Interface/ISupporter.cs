@@ -8,5 +8,4 @@ namespace ReactSystem
     {
         List<string> GetSupport();
     }
-
 }

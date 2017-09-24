@@ -22,7 +22,7 @@ namespace ReactSystem
                 return gameObject;
             }
         }
-        public event Func<IContainer, int, string[], bool> onExport;
+        public event Func<ITube, int, string[], bool> onExport;
         public event Func<IContainer, List<string>> onGetSupports;
         public event UnityAction<IContainer> onComplete;
 
@@ -35,14 +35,14 @@ namespace ReactSystem
         private void Start()
         {
             LoadConfigData();
-            if(equations.Count > 0)
+            if (equations.Count > 0)
             {
-                interactPool = new InteractPool(equations, inPorts.Count == 0);
+                interactPool = new InteractPool(equations);
                 interactPool.onNewElementGenerat = OnGenerateNewItem;
                 interactPool.onEquationActive = OnEquationActive;
                 interactPool.onAllEquationComplete = OnAllEquationComplete;
             }
-           
+
         }
 
         /// <summary>
@@ -96,14 +96,14 @@ namespace ReactSystem
         /// 开始的时候选择性启动,达到优化
         /// </summary>
         /// <param name="force"></param>
-        public void Active(bool force = false)
+        public bool Active(bool force = false)
         {
             //防止重复启动
-            if (coroutine != null) return;
+            if (coroutine != null) return false;
             //如果有不需要反应物或条件的则启动反应器
-            if ((force || inPorts.Count == 0) )
+            if ((force || inPorts.Count == 0))
             {
-                if(interactPool != null)
+                if (interactPool != null)
                 {
                     coroutine = StartCoroutine(interactPool.LunchInteractPool());
 
@@ -122,8 +122,9 @@ namespace ReactSystem
                 {
                     OnAllEquationComplete();
                 }
-
+                return true;
             }
+            return false;
         }
 
         /// <summary>
@@ -134,7 +135,7 @@ namespace ReactSystem
         /// <param name="onComplete"></param>
         public void Import(int nodeId, string[] types)
         {
-            if(!inPortsUsed.Contains(nodeId)) inPortsUsed.Add(nodeId);
+            if (!inPortsUsed.Contains(nodeId)) inPortsUsed.Add(nodeId);
             var import = inPorts.Find(x => x.id == nodeId);
             if (import != null)
             {
@@ -173,7 +174,7 @@ namespace ReactSystem
                     Debug.Log(name + ":" + item + "未添加匹配");
                 }
             }
-           
+
         }
         /// <summary>
         /// 试图将生成的元素导出
@@ -184,6 +185,7 @@ namespace ReactSystem
             onElementAppear.Invoke(element);
             //判断状态
             if (onExport == null) return;
+            if (outPorts.Count == 0) return;
 
             Dictionary<int, List<string>> exportDic = new Dictionary<int, List<string>>();
             var mightExporters = outPorts.FindAll(x => Array.Find(x.supportTypes, y => y == element) != null && !inPortsUsed.Contains(x.id));
@@ -215,7 +217,7 @@ namespace ReactSystem
                 if (!status)
                 {
                     onExportError.Invoke(element);
-                    Debug.Log("导出失败:" + element);
+                    Debug.Log("导出失败:" + element, gameObject);
                 }
             }
         }
@@ -230,7 +232,16 @@ namespace ReactSystem
         {
             Debug.Log(name + ":反应结束", gameObject);
             if (onComplete != null) onComplete.Invoke(this);
+            StopCoroutine(coroutine);
             onCompleteEvent.Invoke();
+        }
+
+        public void AddStartElement(string[] types)
+        {
+            foreach (var item in types)
+            {
+                interactPool.AddElements(item);
+            }
         }
     }
 }

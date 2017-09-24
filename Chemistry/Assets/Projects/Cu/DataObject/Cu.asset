@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afc94832a4fcc294fbbf98e93541d53d, type: 3}
   m_Name: Cu
   m_EditorClassIdentifier: 
-  expName: 
+  expName: "\u94DC\u5B9E\u9A8C"
   elements:
   - name: Support
     id: 0
@@ -30,7 +30,7 @@ MonoBehaviour:
     element: {fileID: 182812, guid: bf131dcfb8309a4469566e494a15ffe3, type: 2}
   - name: Fuchsin
     id: 3
-    position: {x: 0.72857666, y: 1.003479, z: -0.38500023}
+    position: {x: 0.847, y: 1.003479, z: -0.38500023}
     rotation: {x: 0, y: 0, z: 0, w: 1}
     element: {fileID: 157908, guid: 250c3ac5f45e0bf40a4921b9108402bb, type: 2}
   - name: NaOH
@@ -40,11 +40,11 @@ MonoBehaviour:
     element: {fileID: 120688, guid: b97dc30f64853024d9ee7b268a257104, type: 2}
   - name: LongTube
     id: 5
-    position: {x: 0.8605652, y: 0.9914856, z: -0.3598342}
+    position: {x: 0.8605652, y: 1.305, z: -0.3598342}
     rotation: {x: 0, y: 0, z: 0, w: 1}
     element: {fileID: 182812, guid: bf131dcfb8309a4469566e494a15ffe3, type: 2}
   - name: ShortTube
     id: 6
-    position: {x: 1.2585754, y: 0.99349976, z: -0.3598342}
+    position: {x: 0.533, y: 1.239, z: -0.3598342}
     rotation: {x: 0, y: 0, z: 0, w: 1}
     element: {fileID: 150596, guid: 8eedcba0f2b31b44fa8cb652c052376e, type: 2}

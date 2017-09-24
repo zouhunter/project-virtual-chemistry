@@ -4,10 +4,19 @@ using System.Collections;
 public class PresentSender : MonoBehaviour {
     public string title;
     public string text;
+    public bool tipOnly;
     public void Send()
     {
-        PresentationData data = PresentationData.Allocate(title, text, text);
-        BundleUISystem.UIGroup.Open<PresentationPanel>(data);
+        if(tipOnly)
+        {
+            SceneMain.Current.InvokeEvents<string>(AppConfig.EventKey.TIP, text);
+        }
+        else
+        {
+            PresentationData data = PresentationData.Allocate(title, text, text);
+            BundleUISystem.UIGroup.Open<PresentationPanel>(data);
+        }
+      
     }
 
 }

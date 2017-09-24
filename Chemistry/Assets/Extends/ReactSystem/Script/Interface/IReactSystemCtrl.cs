@@ -10,10 +10,9 @@ namespace ReactSystem
     public interface IReactSystemCtrl
     {
         event UnityAction onComplete;
-        event UnityAction<IContainer> onStepBreak;
-        IContainer ActiveItem { get; }
-        Func<IContainer, int, Dictionary<IContainer, int>> GetConnectedDic { get; set; }
-        Func<IContainer, List<ISupporter>> GetSupportList { get; set; }
+        event UnityAction<IElement> onStepBreak;
+        Func<IElement, int, KeyValuePair<IElement, int>> GetConnectedDic { get; set; }
+        Func<IElement, List<IElement>> GetConnectedList { get; set; }
 
         void ReStart();
         bool TryStartProducer();

@@ -11,8 +11,9 @@ public class ReactSystemPanel : UIPanelTemp
 
     public Button startBtn;
     public Button interactBtn;
-    public Button nextBtn;
     public Button close;
+    public InputField.SubmitEvent onStepBreak;
+    public Button.ButtonClickedEvent onComplete;
 
     private ReactSystemCtrl _systemCtrl;
     public ConnectorCtrl groupParent;
@@ -20,15 +21,14 @@ public class ReactSystemPanel : UIPanelTemp
     {
         startBtn.onClick.AddListener(RestartExperiment);
         interactBtn.onClick.AddListener(StartExperiment);
-        nextBtn.onClick.AddListener(NextStep);
         close.onClick.AddListener(ClosePanel);
         _systemCtrl = new ReactSystemCtrl();
         _systemCtrl.GetConnectedDic = GetConnectedDic;
-        _systemCtrl.GetSupportList = GetSupportList;
+        _systemCtrl.GetConnectedList = GetSupportList;
         _systemCtrl.InitExperiment(experimentData.elements);
-        _systemCtrl.onComplete += () => { Debug.Log("Complete"); };
-        _systemCtrl.onStepBreak += (x) => { Debug.Log("StepBreak" + x.Go.name); };
-
+        _systemCtrl.onComplete += () => { onComplete.Invoke(); Debug.Log("Complete"); };
+        _systemCtrl.onStepBreak += (x) => { onStepBreak.Invoke("步骤中断!"); Debug.Log("StepBreak" + x.Go.name); };
+        _systemCtrl.onStepComplete += NextStep;
         RestartExperiment();
     }
     public override void HandleData(object data)
@@ -43,9 +43,9 @@ public class ReactSystemPanel : UIPanelTemp
     {
         groupParent.Update();
     }
-    List<ISupporter> GetSupportList(IContainer item)
+    List<IElement> GetSupportList(IElement item)
     {
-        var list = new List<ISupporter>();
+        var list = new List<IElement>();
         var nodeParent = item.Go.GetComponent<IPortParent>();
         List<IPortItem> nodeItems = null;
         if (groupParent.ConnectedDic.TryGetValue(nodeParent, out nodeItems))
@@ -53,10 +53,9 @@ public class ReactSystemPanel : UIPanelTemp
             foreach (var nodeItem in nodeItems)
             {
                 var connectedItem = nodeItem.ConnectedNode.Body;
-                var supporter = connectedItem.Trans.GetComponent<ISupporter>();
-                if (supporter != null)
-                {
-                    list.Add(supporter);
+                var element = connectedItem.Trans.GetComponent<IElement>();
+                if (element != null){
+                    list.Add(element);
                 }
             }
 
@@ -64,9 +63,9 @@ public class ReactSystemPanel : UIPanelTemp
         return list;
     }
 
-    Dictionary<IContainer, int> GetConnectedDic(IContainer item, int exportID)
+    KeyValuePair<IElement, int> GetConnectedDic(IElement item, int exportID)
     {
-        var dic = new Dictionary<IContainer, int>();
+        var dic = new KeyValuePair<IElement, int>();
         var nodeParent = item.Go.GetComponent<IPortParent>();
         List<IPortItem> nodeItems = null;
         if (groupParent.ConnectedDic.TryGetValue(nodeParent, out nodeItems))
@@ -75,10 +74,9 @@ public class ReactSystemPanel : UIPanelTemp
             if (nodeItem != null)
             {
                 var connectedItem = nodeItem.ConnectedNode.Body;
-                var body = connectedItem.Trans.GetComponent<IContainer>();
+                var body = connectedItem.Trans.GetComponent<IElement>();
                 var id = nodeItem.ConnectedNode.NodeID;
-                dic[body] = id;
-
+                dic = new KeyValuePair<IElement, int>(body, id);
             }
         }
         return dic;

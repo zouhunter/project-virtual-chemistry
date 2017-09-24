@@ -159,6 +159,8 @@ namespace Connector
                     connectedNodes[targetNode.Body].Add(targetNode);
 
                     if (onConnected != null) onConnected.Invoke(new IPortItem[] { activeNode, targetNode });
+                    activeNode = null;
+                    targetNode = null;
                 }
             }
         }

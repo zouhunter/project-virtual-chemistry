@@ -9,8 +9,8 @@ namespace Connector
 {
     public class LayerConst
     {
-        public const int elementLayer = 8;
-        public const int putLayer = 9;
-        public const int nodeLayer = 10;
+        public const int nodeLayer = 8;
+        public const int elementLayer = 9;
+        public const int putLayer = 10;
     }
 }

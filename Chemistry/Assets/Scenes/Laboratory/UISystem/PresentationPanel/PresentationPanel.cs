@@ -22,7 +22,15 @@ public class PresentationPanel : UIPanelTemp
     {
         conferBtn.onClick.AddListener(OnConferBtnClikded);
     }
-
+    protected override void OnEnable()
+    {
+        base.OnEnable();
+        Time.timeScale = 0;
+    }
+    private void OnDisable()
+    {
+        Time.timeScale = 1;
+    }
     void OnConferBtnClikded()
     {
         isPresent = false;
@@ -62,7 +70,6 @@ public class PresentationPanel : UIPanelTemp
     {
         if (message is PresentationData)
         {
-            Debug.Log(message);
             var data = (PresentationData)message;
             queueData.Enqueue(data);
             TryInvoke();

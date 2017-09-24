@@ -45,19 +45,9 @@ namespace ReactSystem
         //完成的(忽略反应过的)
         private List<Equation> completedEquations = new List<Equation>();
         private bool inRact;
-        public InteractPool(List<Equation> equations, bool autoReact)
+        public InteractPool(List<Equation> equations)
         {
             this.equations = equations;
-            if (autoReact)
-            {
-                foreach (var item in equations)
-                {
-                    foreach (var ele in item.intypes)
-                    {
-                        AddElements(ele);
-                    }
-                }
-            }
         }
 
         public IEnumerator LunchInteractPool()
@@ -66,21 +56,15 @@ namespace ReactSystem
 
             while (completedEquations.Count < equations.Count)
             {
-                yield return new WaitForEndOfFrame();
+                yield return new WaitForFixedUpdate();//受时间影响可以暂停
                 if (activeEquations.Count > 0)
                 {
                     var equation = activeEquations.Dequeue();
                     yield return new WaitForSeconds(equation.interactTime);
                     if(onEquationActive != null) onEquationActive.Invoke(equation.illustrate);
                     var outElements = equation.outtypes;
-                    foreach (var ele in outElements)
-                    {
-                        if (!elements.Contains(ele))
-                        {
-                            AddElements(ele);
-                            Debug.Log("生成" + ele);
-                            if (onNewElementGenerat != null) onNewElementGenerat.Invoke(ele);
-                        }
+                    foreach (var ele in outElements){
+                        AddNewElement(ele);
                     }
                     if (!completedEquations.Contains(equation)) completedEquations.Add(equation);
                 }
@@ -90,9 +74,7 @@ namespace ReactSystem
         }
         public void AddElements(string element)
         {
-            if (!elements.Contains(element))
-            {
-                elements.Add(element);
+            if(AddNewElement(element)) {
                 TryActiveEquation();
             }
         }
@@ -135,6 +117,16 @@ namespace ReactSystem
             }
         }
 
+        private bool AddNewElement(string ele)
+        {
+            if (!elements.Contains(ele))
+            {
+                elements.Add(ele);
+                if (onNewElementGenerat != null) onNewElementGenerat.Invoke(ele);
+                return true;
+            }
+            return false;
+        }
 
     }
 }

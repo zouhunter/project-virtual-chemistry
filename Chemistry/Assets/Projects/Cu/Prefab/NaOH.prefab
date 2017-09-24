@@ -32,6 +32,7 @@ GameObject:
   - 114: {fileID: 11457062}
   - 114: {fileID: 11491914}
   - 114: {fileID: 11486302}
+  - 114: {fileID: 11443640}
   m_Layer: 9
   m_Name: NaOH
   m_TagString: Untagged
@@ -170,7 +171,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 124012}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.004, y: 0.121, z: 0.015}
+  m_LocalPosition: {x: -0.004, y: 0.1701, z: 0.015}
   m_LocalScale: {x: 0.015, y: 0.05, z: 0.015}
   m_Children: []
   m_Father: {fileID: 474604}
@@ -182,7 +183,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 120688}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.21444702, y: 0.97698975, z: -0.34983397}
+  m_LocalPosition: {x: -0.1862, y: 0.97698975, z: -0.382}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 478640}
@@ -304,7 +305,7 @@ MeshRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 124012}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
@@ -547,6 +548,29 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.UI.InputField+SubmitEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  onEquationActive:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.InputField+SubmitEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onCompleteEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &11443640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20baeef20a47ac141ade88805eff898d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  element:
+  - 2NaOH
 --- !u!114 &11457062
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -584,11 +608,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 957a7f0fcb09d2a4aa5e130deb01883e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _render: {fileID: 2314896}
+  _renderActive: 0
   _nodeId: 0
   _connectAble:
   - itemName: LongTube
     nodeId: 1
     relativePos: {x: 0.20255297, y: -0.2490102, z: 0.010000229}
+    relativeDir: {x: 0, y: 0, z: 1}
+  - itemName: ShortTube
+    nodeId: 1
+    relativePos: {x: 0.014552981, y: -0.3640102, z: 0.010000229}
     relativeDir: {x: 0, y: 0, z: 1}
 --- !u!114 &11486302
 MonoBehaviour:

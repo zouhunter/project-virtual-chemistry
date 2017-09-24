@@ -56,9 +56,9 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 490502}
-  - 114: {fileID: 11416940}
   - 114: {fileID: 11420874}
   - 114: {fileID: 11403328}
+  - 114: {fileID: 11416634}
   - 65: {fileID: 6577066}
   m_Layer: 9
   m_Name: ShortTube
@@ -158,7 +158,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 165482}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.009, y: -0.196, z: -0.019165993}
+  m_LocalPosition: {x: 0.0174, y: -0.196, z: -0.0082}
   m_LocalScale: {x: 0.015, y: 0.05, z: 0.015}
   m_Children: []
   m_Father: {fileID: 490502}
@@ -221,7 +221,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 150596}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.658, y: 1.342, z: -0.3598342}
+  m_LocalPosition: {x: -0.661, y: 1.341, z: -0.3544}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 473416}
@@ -237,7 +237,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 185360}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.009, y: 0.263, z: -0.019165993}
+  m_LocalPosition: {x: 0.0142, y: 0.2678, z: -0.0059}
   m_LocalScale: {x: 0.015, y: 0.05, z: 0.015}
   m_Children: []
   m_Father: {fileID: 490502}
@@ -326,7 +326,7 @@ MeshRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 165482}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
@@ -352,7 +352,7 @@ MeshRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 185360}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
@@ -454,7 +454,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2015383c7028e1b4084e5f0d0f16cb70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &11416940
+--- !u!114 &11416634
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -462,12 +462,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 150596}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f8987936a65d08542b0d9383a773cd55, type: 3}
+  m_Script: {fileID: 11500000, guid: dd0e9469d363b7f4dbad40d72e1a4519, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inportText: {fileID: 4900000, guid: 8d2335f479f80a242adc85c1e1754952, type: 3}
-  outportText: {fileID: 4900000, guid: c78de62d359edcd42bbd8135742a1b7d, type: 3}
-  equationText: {fileID: 0}
+  portText: {fileID: 4900000, guid: 33227fbafc199c64dbcdc59997d7ed7b, type: 3}
   onExportError:
     m_PersistentCalls:
       m_Calls:
@@ -484,7 +482,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.UI.InputField+SubmitEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  onElementAppear:
+  onImportElemnt:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.InputField+SubmitEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -526,11 +524,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 957a7f0fcb09d2a4aa5e130deb01883e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _render: {fileID: 2365290}
+  _renderActive: 0
   _nodeId: 1
   _connectAble:
   - itemName: Fuchsin
     nodeId: 0
     relativePos: {x: -0.02457714, y: 0.338521, z: 0.025166035}
+    relativeDir: {x: 0, y: 0, z: 1}
+  - itemName: NaOH
+    nodeId: 0
+    relativePos: {x: -0.014552981, y: 0.3640102, z: -0.010000229}
     relativeDir: {x: 0, y: 0, z: 1}
 --- !u!114 &11487456
 MonoBehaviour:
@@ -543,6 +547,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 957a7f0fcb09d2a4aa5e130deb01883e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _render: {fileID: 2373750}
+  _renderActive: 1
   _nodeId: 0
   _connectAble:
   - itemName: LongTube

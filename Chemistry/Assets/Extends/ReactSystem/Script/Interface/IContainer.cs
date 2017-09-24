@@ -9,16 +9,14 @@ using System.Collections.Generic;
 /// </summary>
 namespace ReactSystem
 {
-    public interface IActiveAble
+    public interface IActiveAble:IElement
     {
-        GameObject Go { get; }
-        void Active(bool force = false);
+        bool Active(bool force = false);
     }
-    public interface IContainer: IActiveAble
+    public interface IContainer: IActiveAble,ITube
     {
         event UnityAction<IContainer> onComplete;
-        event Func<IContainer,int, string[],bool> onExport;//发生反应事件
         event Func<IContainer,List<string>> onGetSupports;
-        void Import(int nodeID, string[] type);//反应物进入,返回是否会反应
+        void AddStartElement(string[] types);
     }
 }

@@ -29,7 +29,7 @@ namespace ReactSystem
 
             _systemCtrl = new ReactSystemCtrl();
             _systemCtrl.GetConnectedDic = GetConnectedDic;
-            _systemCtrl.GetSupportList = GetSupportList;
+            _systemCtrl.GetConnectedList = GetConnectedList;
             _systemCtrl.InitExperiment(experimentData.elements);
             _systemCtrl.onComplete += () => { Debug.Log("Complete"); };
             _systemCtrl.onStepBreak += (x) => { Debug.Log("StepBreak" + x.Go.name); };
@@ -41,9 +41,9 @@ namespace ReactSystem
             groupParent.Update();
         }
 
-        List<ISupporter> GetSupportList(IContainer item)
+        List<IElement> GetConnectedList(IElement item)
         {
-            var list = new List<ISupporter>();
+            var list = new List<IElement>();
             var nodeParent = item.Go.GetComponent<IPortParent>();
             List<IPortItem> nodeItems = null;
             if (groupParent.ConnectedDic.TryGetValue(nodeParent, out nodeItems))
@@ -51,10 +51,10 @@ namespace ReactSystem
                 foreach (var nodeItem in nodeItems)
                 {
                     var connectedItem = nodeItem.ConnectedNode.Body;
-                    var supporter = connectedItem.Trans.GetComponent<ISupporter>();
-                    if (supporter != null)
+                    var element = connectedItem.Trans.GetComponent<IElement>();
+                    if (element != null)
                     {
-                        list.Add(supporter);
+                        list.Add(element);
                     }
                 }
 
@@ -62,9 +62,9 @@ namespace ReactSystem
             return list;
         }
 
-        Dictionary<IContainer, int> GetConnectedDic(IContainer item, int exportID)
+        KeyValuePair<IElement, int> GetConnectedDic(IElement item, int exportID)
         {
-            var dic = new Dictionary<IContainer, int>();
+            var dic = new KeyValuePair<IElement, int>();
             var nodeParent = item.Go.GetComponent<IPortParent>();
             List<IPortItem> nodeItems = null;
             if (groupParent.ConnectedDic.TryGetValue(nodeParent, out nodeItems))
@@ -73,12 +73,11 @@ namespace ReactSystem
                 if (nodeItem != null)
                 {
                     var connectedItem = nodeItem.ConnectedNode.Body;
-                    var container = connectedItem.Trans.GetComponent<IContainer>();
-                    var supporter = connectedItem.Trans.GetComponent<ISupporter>();
-                    if (container != null)
+                    var element = connectedItem.Trans.GetComponent<IElement>();
+                    if (element != null)
                     {
                         var id = nodeItem.ConnectedNode.NodeID;
-                        dic[container] = id;
+                        dic = new KeyValuePair<IElement, int>(element, id);
                     }
                 }
             }

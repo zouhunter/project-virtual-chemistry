@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afc94832a4fcc294fbbf98e93541d53d, type: 3}
   m_Name: CuTemple
   m_EditorClassIdentifier: 
-  expName: 
+  expName: ConnectTemp
   elements:
   - name: Support
     id: 0
@@ -25,7 +25,7 @@ MonoBehaviour:
     element: {fileID: 166488, guid: 6c96d020886de9448b317e2e5c59c273, type: 2}
   - name: LongTube
     id: 2
-    position: {x: -1.1254272, y: 1.4584961, z: -0.3598342}
+    position: {x: -0.854, y: 1.77, z: -0.3598342}
     rotation: {x: 0, y: 0, z: 0, w: 1}
     element: {fileID: 182812, guid: bf131dcfb8309a4469566e494a15ffe3, type: 2}
   - name: Fuchsin
@@ -40,11 +40,16 @@ MonoBehaviour:
     element: {fileID: 120688, guid: b97dc30f64853024d9ee7b268a257104, type: 2}
   - name: LongTube
     id: 5
-    position: {x: -0.68344116, y: 0.9914856, z: -0.3598342}
+    position: {x: -0.42, y: 1.226, z: -0.3598342}
     rotation: {x: 0, y: 0, z: 0, w: 1}
     element: {fileID: 182812, guid: bf131dcfb8309a4469566e494a15ffe3, type: 2}
   - name: ShortTube
     id: 6
-    position: {x: -0.96343994, y: 0.99349976, z: -0.3598342}
+    position: {x: -0.666, y: 1.341, z: -0.3598342}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    element: {fileID: 150596, guid: 8eedcba0f2b31b44fa8cb652c052376e, type: 2}
+  - name: ShortTube
+    id: 7
+    position: {x: -0.229, y: 1.341, z: -0.3598342}
     rotation: {x: 0, y: 0, z: 0, w: 1}
     element: {fileID: 150596, guid: 8eedcba0f2b31b44fa8cb652c052376e, type: 2}

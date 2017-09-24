@@ -822,7 +822,7 @@ MonoBehaviour:
   m_Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_IgnoreLayout: 0
+  m_IgnoreLayout: 1
   m_MinWidth: -1
   m_MinHeight: -1
   m_PreferredWidth: 175.99988
@@ -1249,14 +1249,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 0.997}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 4ddd35da965ec4b46bc42cf43e4dd727, type: 3}
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 24
     m_FontStyle: 0
     m_BestFit: 0
@@ -1266,7 +1266,7 @@ MonoBehaviour:
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "\u5B9E\u9A8C\u4ED3\u5E93"
 --- !u!114 &11459868
@@ -1461,7 +1461,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 0
+    m_Left: 205
     m_Right: 0
     m_Top: 9
     m_Bottom: 9
@@ -2066,7 +2066,7 @@ RectTransform:
   m_Children:
   - {fileID: 22469074}
   m_Father: {fileID: 22483576}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 92, y: 205}
@@ -2187,11 +2187,11 @@ RectTransform:
   m_Children:
   - {fileID: 22459552}
   m_Father: {fileID: 22483576}
-  m_RootOrder: 1
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 88.29174, y: -50.000046}
+  m_SizeDelta: {x: 176.58324, y: 82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22452426
 RectTransform:
@@ -2280,7 +2280,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
   m_AnchoredPosition: {x: 10.85, y: 0}
-  m_SizeDelta: {x: -21.7, y: 42.51}
+  m_SizeDelta: {x: -21.7, y: 67.61}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22469074
 RectTransform:
@@ -2382,8 +2382,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 22415878}
   - {fileID: 22450172}
+  - {fileID: 22415878}
   - {fileID: 22452426}
   - {fileID: 22408548}
   - {fileID: 22401116}

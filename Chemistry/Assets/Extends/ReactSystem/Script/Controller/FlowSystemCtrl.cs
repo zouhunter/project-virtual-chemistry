@@ -12,27 +12,20 @@ namespace ReactSystem
     /// </summary>
     public class ReactSystemCtrl : IReactSystemCtrl
     {
-        public IContainer ActiveItem
-        {
-            get
-            {
-                return activeItem;
-            }
-        }
-        public Func<IContainer, int, Dictionary<IContainer, int>> GetConnectedDic { get; set; }
-        public Func<IContainer, List<ISupporter>> GetSupportList { get; set; }
-        private List<RunTimeElemet> elements;
-        private IContainer activeItem;
-        private Queue<IContainer> reactTuple = new Queue<IContainer>();
-        private bool isReact;
-
+        public Func<IElement, int, KeyValuePair<IElement, int>> GetConnectedDic { get; set; }
+        public Func<IElement, List<IElement>> GetConnectedList { get; set; }
         public event UnityAction onComplete;
-        public event UnityAction<IContainer> onStepBreak;
+        public event UnityAction<IElement> onStepBreak;
+        public event UnityAction onStepComplete;
+
+        private List<RunTimeElemet> elements;
+        private Queue<Tuple<IContainer, int, string[]>> reactTuple = new Queue<Tuple<IContainer, int, string[]>>();
+        private bool isReact;
 
         readonly List<IContainer> containers = new List<IContainer>();
         readonly List<ISupporter> supporters = new List<ISupporter>();
-        public void InitExperiment(List<RunTimeElemet> elements)
-        {
+        readonly List<GameObject> created = new List<GameObject>();
+        public void InitExperiment(List<RunTimeElemet> elements){
             this.elements = elements;
         }
 
@@ -41,28 +34,34 @@ namespace ReactSystem
             ResatToBeginState();
 
             GameObject item;
-            IActiveAble inoutItem;
+            IElement element;
             for (int i = 0; i < elements.Count; i++)
             {
-                RunTimeElemet element = elements[i];
-                item = GameObject.Instantiate(element.element, element.position, element.rotation) as GameObject;
-                item.name = element.name;
-
-                inoutItem = item.GetComponent<IActiveAble>();
-                if (inoutItem != null)
+                RunTimeElemet runele = elements[i];
+                item = GameObject.Instantiate(runele.element, runele.position, runele.rotation) as GameObject;
+                item.name = runele.name;
+                element = item.GetComponent<IElement>();
+                if (element != null)
                 {
-                    if (inoutItem is IContainer)
+                    created.Add(element.Go);
+                    if (element is ITube)
                     {
-                        var container = inoutItem as IContainer;
-                        container.onExport += OnReact;
-                        container.onComplete += OnOneStep;
-                        container.onGetSupports += GetSupporter;
-                        containers.Add(container);
+                        var tube = element as ITube;
+                        tube.onExport += OnReact;
+
+                        if(element is IContainer)
+                        {
+                            var container = element as IContainer;
+                            container.onComplete += OnOneStep;
+                            container.onGetSupports += GetSupporter;
+                            containers.Add(container);
+                        }
                     }
-                    else if(inoutItem is ISupporter)
+                    else if(element is ISupporter)
                     {
-                        supporters.Add(inoutItem as ISupporter);
+                        supporters.Add(element as ISupporter);
                     }
+               
                 }
 
             }
@@ -72,15 +71,18 @@ namespace ReactSystem
         {
             if (elements == null) return false;
             if (GetConnectedDic == null) return false;
-            foreach (var item in supporters)
-            {
-                item.Active();
+            var active = false;
+            foreach (var item in supporters){
+                var statu = item.Active();
+                active |= statu;
             }
+
             foreach (var item in containers)
             {
-                item.Active();
+                var statu = item.Active();
+                active |= statu;
             }
-            return true;
+            return active;
         }
 
         public void TryNextContainer()
@@ -90,54 +92,62 @@ namespace ReactSystem
             if (reactTuple.Count > 0)
             {
                 var container = reactTuple.Dequeue();
-                container.Active(true);
+                Debug.Log("container active:" + container.Element1);
+                container.Element1.Import(container.Element2, container.Element3);
+                container.Element1.Active(true);
                 isReact = true;
             }
         }
+
         private List<string> GetSupporter(IContainer container)
         {
             var list = new List<string>();
-            var supporters = GetSupportList(container);
-            foreach (var item in supporters)
+            var connected = GetConnectedList(container);
+            foreach (var item in connected)
             {
-                item.Active(true);
-                var supp = item.GetSupport();
-                if (supp != null)
+                if(item is ISupporter)
                 {
-                    list.AddRange(supp);
+                    var support = item as ISupporter;
+                    support.Active(true);
+                    var supp = support.GetSupport();
+                    if (supp != null){
+                        list.AddRange(supp);
+                    }
                 }
+               
             }
             return list;
         }
+
         public void ResatToBeginState()
         {
+            foreach (var item in created){
+                GameObject.Destroy(item);
+            }
+            created.Clear();
             reactTuple.Clear();
-            activeItem = null;
-            foreach (var item in containers)
-            {
-                GameObject.Destroy(item.Go);
-            }
-            foreach (var item in supporters)
-            {
-                GameObject.Destroy(item.Go);
-            }
             containers.Clear();
             supporters.Clear();
         }
 
-        private bool OnReact(IContainer item, int id, string[] type)
+        private bool OnReact(ITube activeItem, int id, string[] type)
         {
-            activeItem = item;
-            var outInfo = GetConnectedDic(activeItem, id);
+            var connectedInfo = GetConnectedDic(activeItem, id);
 
-            if (outInfo != null && outInfo.Count != 0)
+            if(connectedInfo.Key != null && connectedInfo.Key is ITube)
             {
-                foreach (var node in outInfo)
+                var tube = connectedInfo.Key as ITube;
+                var outInoutId = connectedInfo.Value;
+
+                if(tube is IContainer)
                 {
-                    var outInoutItem = node.Key;
-                    var outInoutId = node.Value;
-                    outInoutItem.Import(outInoutId, type);
-                    reactTuple.Enqueue(outInoutItem);
+                    //等待化学反应结束
+                    reactTuple.Enqueue(new Tuple<IContainer, int, string[]>( tube as IContainer,outInoutId,type));
+                }
+                else
+                {
+                    //直接进入下下一步
+                    tube.Import(outInoutId, type);
                 }
             }
             else
@@ -145,14 +155,19 @@ namespace ReactSystem
                 if (onStepBreak != null) onStepBreak.Invoke(activeItem);
             }
 
-            return outInfo != null && outInfo.Count != 0;
+            return connectedInfo.Key != null;
         }
+
         private void OnOneStep(IContainer item)
         {
             isReact = false;
             if (reactTuple.Count == 0)
             {
                 if (onComplete != null) onComplete.Invoke();
+            }
+            else
+            {
+                if (onStepComplete != null) onStepComplete.Invoke();
             }
         }
 
