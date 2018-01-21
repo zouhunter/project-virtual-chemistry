@@ -5,8 +5,8 @@ using UnityEngine.EventSystems;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using WorldActionSystem;
-namespace WorldActionSystem
+using ChargeSystem;
+namespace ChargeSystem
 {
 
     public interface ActionObj

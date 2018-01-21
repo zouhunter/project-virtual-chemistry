@@ -23,6 +23,7 @@ public class ExperimentChoisePanel : UIPanelTemp
 
     public ReactGroupObj cudata;
     public ReactGroupObj fedata;
+    public WorldActionSystem.ActionCommand command;
 
 
     private void Awake()
@@ -63,7 +64,7 @@ public class ExperimentChoisePanel : UIPanelTemp
 
     private void OpenFeso4()
     {
-        UIGroup.Open("ReactSystemPanel",fedata);
+        UIGroup.Open("ActionPanel", command);
         Close();
     }
 

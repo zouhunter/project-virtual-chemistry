@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 using System.Collections;
 using System.Collections.Generic;
 using System;
-namespace WorldActionSystem
+namespace ChargeSystem
 {
     [Serializable]
     public class InstallCommand : ActionCommand

@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.Events;
 using System.Collections.Generic;
-using WorldActionSystem;
+using ChargeSystem;
 public class InstallSpeedSetting : SettingTemp {
     private InstallObj[] _objs;
     private InstallObj[] Objs

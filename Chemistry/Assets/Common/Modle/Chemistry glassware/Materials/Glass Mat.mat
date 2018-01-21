@@ -45,6 +45,20 @@ Material:
           m_Offset: {x: 0, y: 0}
       data:
         first:
+          name: _NoiseMap
+        second:
+          m_Texture: {fileID: 250889135, guid: ee99a9c68079ce647aa0903b15121138, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 373b2827c7319c24a9d98df759a1dfb3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
           name: _ParallaxMap
         second:
           m_Texture: {fileID: 0}
@@ -87,23 +101,9 @@ Material:
           m_Offset: {x: 0, y: 0}
       data:
         first:
-          name: _Cube
-        second:
-          m_Texture: {fileID: 8900000, guid: 373b2827c7319c24a9d98df759a1dfb3, type: 3}
-          m_Scale: {x: 1, y: 1}
-          m_Offset: {x: 0, y: 0}
-      data:
-        first:
           name: _SpecGlossMap
         second:
           m_Texture: {fileID: 0}
-          m_Scale: {x: 1, y: 1}
-          m_Offset: {x: 0, y: 0}
-      data:
-        first:
-          name: _NoiseMap
-        second:
-          m_Texture: {fileID: 250889135, guid: ee99a9c68079ce647aa0903b15121138, type: 3}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -171,6 +171,26 @@ Material:
         second: 1
       data:
         first:
+          name: _FlowSpeed
+        second: 0.3
+      data:
+        first:
+          name: _NormalStrenght
+        second: 0.287
+      data:
+        first:
+          name: _Bias
+        second: 1.9
+      data:
+        first:
+          name: _Narrow
+        second: 1.4
+      data:
+        first:
+          name: _WaveH
+        second: 0.01
+      data:
+        first:
           name: _ZWrite
         second: 1
       data:
@@ -215,32 +235,12 @@ Material:
         second: 1
       data:
         first:
-          name: _FlowSpeed
-        second: 0.3
-      data:
-        first:
           name: _Transp
         second: 0.116071425
       data:
         first:
           name: _ReflectPower
         second: 1
-      data:
-        first:
-          name: _NormalStrenght
-        second: 0.287
-      data:
-        first:
-          name: _Bias
-        second: 1.9
-      data:
-        first:
-          name: _Narrow
-        second: 1.4
-      data:
-        first:
-          name: _WaveH
-        second: 0.01
       data:
         first:
           name: _Stencil

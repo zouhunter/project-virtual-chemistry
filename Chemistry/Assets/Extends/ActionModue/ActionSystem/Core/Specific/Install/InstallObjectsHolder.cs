@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-namespace WorldActionSystem
+namespace ChargeSystem
 {
     /// <summary>
     /// 注册所有安装命令

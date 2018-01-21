@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 
-namespace WorldActionSystem
+namespace ChargeSystem
 {
     /// <summary>
     /// 可操作对象具体行为实现

@@ -552,7 +552,7 @@ MonoBehaviour:
   bundles: []
   rbundles: []
   prefabs:
-  - instanceID: 0
+  - instanceID: -914648
     assetName: PresentationPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
@@ -660,7 +660,7 @@ MonoBehaviour:
     parentLayer: 0
     type: 0
     prefab: {fileID: 113048, guid: 167ce304dad71f34d88dee4f8363a4e1, type: 2}
-  - instanceID: -50660
+  - instanceID: 0
     assetName: ReactSystemPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
@@ -669,6 +669,15 @@ MonoBehaviour:
     parentLayer: 0
     type: 0
     prefab: {fileID: 128312, guid: df956d8e800a53c43809e11d523177fc, type: 2}
+  - instanceID: 0
+    assetName: ActionPanel
+    button: {fileID: 0}
+    toggle: {fileID: 0}
+    instence: {fileID: 0}
+    reset: 0
+    parentLayer: 0
+    type: 0
+    prefab: {fileID: 162432, guid: 1f8428247e13543429384d4ed0de86c1, type: 2}
   groupObjs: []
   assetUrl: 
   menu: 

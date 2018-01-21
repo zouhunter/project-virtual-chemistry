@@ -19,18 +19,18 @@ TagManager:
   - Node
   - InoutItem
   - PutablePlane
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - w:pickupelement
+  - w:rotateitem
+  - w:clickitem
+  - w:connectitem
+  - w:obstacle
+  - w:ropepos
+  - w:ropenode
+  - w:chargeresource
+  - w:chargeobj
+  - w:placepos
+  - w:dragitem
+  - w:linknode
   - 
   - 
   - 

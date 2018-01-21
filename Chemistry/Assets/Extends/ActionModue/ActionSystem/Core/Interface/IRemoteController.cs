@@ -1,5 +1,5 @@
 ﻿using UnityEngine.Events;
-namespace WorldActionSystem
+namespace ChargeSystem
 {
 
     public interface IRemoteController

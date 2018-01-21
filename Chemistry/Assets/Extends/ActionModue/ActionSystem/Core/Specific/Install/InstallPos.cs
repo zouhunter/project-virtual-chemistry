@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 
-namespace WorldActionSystem
+namespace ChargeSystem
 {
     /// <summary>
     /// 模拟安装坐标功能
