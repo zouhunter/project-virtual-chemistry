@@ -414,8 +414,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 469318}
   - 33: {fileID: 3393256}
-  - 135: {fileID: 13538144}
   - 23: {fileID: 2328612}
+  - 65: {fileID: 6533366}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -527,7 +527,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 163864}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.14931235, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 469318}
@@ -1220,6 +1220,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.07752, y: 0.37144244, z: 0.07752}
   m_Center: {x: 0, y: 0.18572122, z: 0}
+--- !u!65 &6533366
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 192752}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0.0000019073486, z: 0}
 --- !u!65 &6556590
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -1240,9 +1252,10 @@ Animation:
   m_GameObject: {fileID: 163864}
   m_Enabled: 1
   serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: 422e9c98f23b6bd43a066291e6c04b0e, type: 2}
+  m_Animation: {fileID: 7400000, guid: d4cfefcd68579654996c2ca0326de176, type: 2}
   m_Animations:
   - {fileID: 7400000, guid: 422e9c98f23b6bd43a066291e6c04b0e, type: 2}
+  - {fileID: 7400000, guid: d4cfefcd68579654996c2ca0326de176, type: 2}
   m_WrapMode: 0
   m_PlayAutomatically: 0
   m_AnimatePhysics: 0
@@ -1280,7 +1293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animTime: 2
-  colorTime: 2
+  colorTime: 5
   render: {fileID: 2389770}
 --- !u!114 &11417876
 MonoBehaviour:
@@ -1358,8 +1371,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startData:
     type: "\u6C22\u6C27\u5316\u94A0"
-    value: 10
-  _capacity: 10
+    value: 2
+  _capacity: 2
 --- !u!114 &11428032
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1376,8 +1389,8 @@ MonoBehaviour:
     value: 0
   _supportType:
   - "\u6C22\u6C27\u5316\u94A0"
-  _capacity: 2
-  triggerRange: 0.1
+  _capacity: 0.3
+  triggerRange: 0.2
 --- !u!114 &11432834
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1536,7 +1549,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animTime: 2
-  colorTime: 2
+  colorTime: 5
   render: {fileID: 2302780}
 --- !u!114 &11482496
 MonoBehaviour:
@@ -1585,21 +1598,9 @@ MonoBehaviour:
   animTime: 2
   anim: {fileID: 11136462}
   animParent: {fileID: 405580}
-  loadAnimName: loadcharge
-  chargeAnimName: loadcharge
+  loadAnimName: load
+  chargeAnimName: charge
   scaleTrans: {fileID: 473064}
---- !u!135 &13538144
-SphereCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 192752}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &13682976
 CapsuleCollider:
   m_ObjectHideFlags: 1

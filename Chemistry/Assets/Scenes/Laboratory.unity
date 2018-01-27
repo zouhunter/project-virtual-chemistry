@@ -669,7 +669,7 @@ MonoBehaviour:
     parentLayer: 0
     type: 0
     prefab: {fileID: 128312, guid: df956d8e800a53c43809e11d523177fc, type: 2}
-  - instanceID: 0
+  - instanceID: -4168
     assetName: ActionPanel
     button: {fileID: 0}
     toggle: {fileID: 0}
@@ -755,7 +755,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89fce73e71b26854d943798573d16404, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  distence: 10
+  distence: 30
   pos: {x: 0, y: 0}
   hideTexture: {fileID: 2800000, guid: 8a2001fab33dae848a2c320ddc57491b, type: 3}
   defultTexture: {fileID: 2800000, guid: 4c2867f2f0d4ec84bbe7d15f852ac96b, type: 3}

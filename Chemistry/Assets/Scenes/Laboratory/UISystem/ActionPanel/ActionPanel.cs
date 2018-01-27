@@ -17,7 +17,6 @@ public class ActionPanel : UIPanelTemp, IMediator<float>
     private Button m_Start;
     [SerializeField]
     private ActionCommand commandPrefab;
-
     public string Acceptor { get { return "progress"; } }
     protected override void OnEnable()
     {
@@ -60,7 +59,14 @@ public class ActionPanel : UIPanelTemp, IMediator<float>
             m_slider.gameObject.SetActive(true);
         }
     }
-
+    protected override void OnDestroy()
+    {
+        base.OnDestroy();
+        if(command && command.gameObject)
+        {
+            Destroy(command.gameObject);
+        }
+    }
     //private void OnGUI()
     //{
     //    if (GUILayout.Button("StartCommand"))

@@ -53,7 +53,7 @@ public class MousePointer : MonoBehaviour
             if (EventSystem.current != null && !EventSystem.current.IsPointerOverGameObject() &&
                 Physics.Raycast(ray, out hit, distence, totalmask, QueryTriggerInteraction.Collide))
             {
-                currTexture = textureList.Find((x) => x.layerMask == LayerMask.GetMask(LayerMask.LayerToName(hit.collider.gameObject.layer))).texture;
+                currTexture = textureList.Find((x) => (x.layerMask & 1<<hit.collider.gameObject.layer) == 1 << hit.collider.gameObject.layer).texture;
                 if (lastObj != hit.collider.gameObject)
                 {
                     ChangeToNewTexture(currTexture);
